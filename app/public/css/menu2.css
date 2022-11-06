@@ -28,7 +28,6 @@ header {
 
 
 .nav__container {
-    background-color: rgb(255, 255, 255);
     width: 100%;
     flex-direction: column;
     justify-content: space-between;
@@ -219,7 +218,6 @@ header {
 
     .nav__container {
         width: 100%;
-        max-width: 1000px;
         margin: auto;
         display: flex;
         justify-content: space-between;
@@ -240,7 +238,7 @@ header {
 
     .nav__logo img {
         width: 100%;
-        max-width: 58px;
+        max-width: 305px;
     }
 
     .nav__menu {

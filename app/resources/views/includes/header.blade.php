@@ -4,15 +4,7 @@
             <div class="elementor-container elementor-column-gap-no">
                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-713a3ea" data-id="713a3ea" data-element_type="column">
                     <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-78cec42 elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-jet-logo is-mac" data-id="78cec42" data-element_type="widget" data-widget_type="jet-logo.default">
-
-                            <div class="elementor-widget-container elementor-hidden-mobile">
-                                <div class="elementor-jet-logo jet-blocks"><div class="jet-logo jet-logo-type-image jet-logo-display-block">
-                                        <a href="http://www.ibogaspirit.cz/" class="jet-logo__link">
-                                            <img src="http://www.ibogaspirit.cz/wp-content/uploads/2022/02/logo.png" class="jet-logo__img" alt="Iboga Spirit - Czech Republic" width="305" height="76"></a></div>
-                                </div>
-                            </div>
-                        </div>
+                       
 
 
                         @include('includes.menu2');
