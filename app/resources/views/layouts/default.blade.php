@@ -80,10 +80,10 @@
 {{--    </div>--}}
 <div id="page" class="site">
     <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-    @include('includes.header');
+    @include('includes.header')
 
 
-    <div id="content" class="site-content ">
+    <div id="content" class="site-content">
         @yield('content')
     </div>
 
