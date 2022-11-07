@@ -290,7 +290,8 @@ body {
         visibility: hidden;
         overflow: visible;
         padding: 0 1rem;
-        transition: all .4s ease ;
+        z-index: 9999;
+       /* transition: all .4s ease ;*/
     }
 
 
