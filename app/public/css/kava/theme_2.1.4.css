@@ -1504,7 +1504,7 @@ body.admin-bar .mobile-menu .menu {
 }
 
 body:not(.page-template-fullwidth-content) .site-content {
-	margin-top: 30px;
+	margin-top: 0px;
 	margin-bottom: 30px;
 }
 
@@ -2869,7 +2869,7 @@ body:not(.sidebar_enabled) .post-default {
 }
 
 /*--------------------------------------------------------------
-## Sticky 
+## Sticky
 --------------------------------------------------------------*/
 .sticky-label {
 	display: inline-block;

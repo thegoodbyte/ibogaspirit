@@ -115,6 +115,12 @@
 <link rel="stylesheet" id="jet-menu-public-styles-css" href="http://www.ibogaspirit.cz/wp-content/plugins/jet-menu/assets/public/css/public.css?ver=2.2.4" type="text/css" media="all">
 
 <link rel="stylesheet" id="jet-menu-public-styles-css2" href="/css/menu2.css" type="text/css" media="all">
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+
+<link href="/css/carousel.css" rel="stylesheet">
 <!-- ============= -->
 
 

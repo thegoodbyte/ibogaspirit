@@ -16,6 +16,7 @@ body {
     background-color: #eee;
     font-family: Segoe UI, Frutiger, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
     color: #222;
+    height: 100vh;
 }
 
 
@@ -267,6 +268,7 @@ header {
         list-style: none;
         position: relative;
         white-space: nowrap;
+        padding-top: 0px;
 
     }
 
@@ -318,17 +320,21 @@ header {
         position: relative;
     }
 
+    /**
+        Menu first dropdown block
+     */
     .nav__menu .dropdown ul {
         display: flex;
         flex-direction: column;
         position: absolute;
         top: 100%;
-        left: -30px;
+        left: 30px;
         opacity: 0;
         visibility: hidden;
         overflow: visible;
         padding: 0 1rem;
-        transition: all .4s ease ;
+        z-index: 9999;
+       /* transition: all .4s ease ;*/
     }
 
 
@@ -338,7 +344,7 @@ header {
         opacity: 1;
         visibility: visible;
         overflow: visible;
-        padding: 0 1rem;
+       /* padding: 0 1rem;*/
     }
 
 
@@ -353,13 +359,19 @@ header {
         background-color: #6d7882;
     }
 
+    /**
+    FIRST DROPDOWN LINKS
+     */
     .nav__menu .dropdown ul li a {
         display: block;
-        color: #fff
+        color: #F2F2F2;
         text-transform: capitalize;
         width: 100%;
         margin-top: 0px;
         margin-bottom: 0px;
+        font-size: 18px;
+        font-weight: normal;
+        padding: 5px 15px;
     }
 
     .nav__menu .dropdown ul li a:hover {
@@ -428,8 +440,9 @@ header {
         left: auto;
         opacity: 0;
         visibility: hidden;
-        transition: all .4s ease-in-out;
+       /*  transition: all .4s ease-in-out;*/
     }
+
 
 
 
