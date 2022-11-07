@@ -17,21 +17,31 @@
     <nav class="menu-toggle">
         <ul class="nav__menu">
             <li class = "menu-item"><a href="">HOME</a></li>
-            <li class = "menu-item"><a href="">IBOGA</a></li>
-            <li class="dropdown menu-item"><a href="#">OBRADY</a>
+            <li class = "dropdown menu-item">
+                <a href="">IBOGA</a>
                 <ul>
-                    <li><a href="">Dropdown item 1</a></li>
-                    <li><a href="">Dropdown item 2</a></li>
-                    <li><a href="">Dropdown item 3</a></li>
+                    <li><a href="">Jak vám Iboga může pomoci</a></li>
+                    <li><a href="">Bwiti Tradice</a></li>
+                    <li><a href="">Iboga vs Ayahuasca</a></li>
+                    <li><a href="">Gabon - Afrika</a></li>
+                </ul>
+            </li>
+            <li class="dropdown menu-item"><a href="#">OBŘADY</a>
+                <ul>
+                    <li><a href="">Co očekávat</a></li>
+                    <li><a href="">Vše o Obřadech</a></li>
+                    <li><a href="">Příprava a Průběžná péče</a></li>
+                    <!--
                     <li class="dropdown second-level"><a href="#">2nd level dropdown</a>
                         <ul>
-                            <li><a href="">Dropdown item 1</a></li>
+                            <li><a href="">Jak vám Iboga může pomoci</a></li>
                             <li><a href="">Dropdown item 2</a></li>
                             <li><a href="">Dropdown item 3</a></li>
                         </ul>
                     </li>
-                    <li><a href="">Dropdown item 3</a></li>
-                    <li><a href="">Dropdown item 4</a></li>
+
+                    -->
+                    <li><a href="">Terminy a Ceny</a></li>
                 </ul>
             </li>
             <li class = "menu-item"><a href="">KONTAKT</a></li>
