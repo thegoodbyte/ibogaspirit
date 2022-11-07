@@ -189,3 +189,52 @@ section.home-section-ziot-je-dar h2 {
 }
 
 
+/*  HOME */
+#home-zijte-stastne  {
+    color: #fff;
+    font-family: "Lato", Sans-serif;
+    background-color: #000;
+    padding-top: 20px;
+}
+
+#home-zijte-stastne .container-fluid {
+    background-color: #fff;
+}
+
+#home-zijte-stastne .container-fluid .stastne-half-col-bg-left {
+    background-color: orange;
+}
+
+#home-zijte-stastne .container-fluid div.stastne-half-col-bg-left div.row {
+    position: relative;
+    align-content: end;
+    justify-content: right;
+}
+
+#home-zijte-stastne .container-fluid .stastne-half-col-bg-right {
+    background-color: pink;
+}
+
+#home-zijte-stastne .container-fluid div div.row .col  {
+    max-width: 500px;
+}
+
+#home-stastne-left-col {
+
+}
+
+#home-zijte-stastne  h2 {
+    font-weight: 900;
+    font-size: 50px;
+    color: #fff;
+}
+
+.menu-iboga-container {
+    text-transform: uppercase;
+    font-family: "Lato", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1em;
+    letter-spacing: 0px;
+}

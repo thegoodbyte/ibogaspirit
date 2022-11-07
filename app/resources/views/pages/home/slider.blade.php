@@ -38,7 +38,7 @@
             <div class="container">
                 <div class="carousel-caption text-end">
                     <h1>VYDEJTE  SE  NA CESTU SEBE POZNÁNÍ</h1>
-                    <p>Some representative placeholder content for the third slide of this carousel.</p>
+                    <p>Vědět, kdo jste, je nejdůležitější součástí poznání. Umožňuje vám to dělat správná rozhodnutí, abyste žili šťastný život</p>
 
                 </div>
             </div>
