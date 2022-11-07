@@ -28,9 +28,9 @@
                                         <div class="jet-button__plane jet-button__plane-normal"></div>
                                         <div class="jet-button__plane jet-button__plane-hover"></div>
                                         <div class="jet-button__state jet-button__state-normal">
-                                            <span class="jet-button__label">Read More</span>		</div>
+                                            <span class="jet-button__label">více</span>		</div>
                                         <div class="jet-button__state jet-button__state-hover">
-                                            <span class="jet-button__label">Read More</span>		</div>
+                                            <span class="jet-button__label">více</span>		</div>
                                     </a>
                                 </div>
                             </div>
@@ -53,13 +53,14 @@
                     </div>
                     <div class="elementor-element elementor-element-77442ff elementor-widget elementor-widget-jet-custom-menu is-mac" data-id="77442ff" data-element_type="widget" data-widget_type="jet-custom-menu.default">
                         <div class="elementor-widget-container">
-                            <div class="menu-iboga-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-none"><div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-549"><a href="services/cargo/index.html" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Jak vám Iboga může pomoci</span></span></a></div>
-                                    <div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-550"><a href="services/worldwide-transport/index.html" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Vše o Obřadech</span></span></a></div>
-                                    <div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-551"><a href="http://www.ibogaspirit.cz/services/warehousing/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Příprava a Průběžná péče</span></span></a></div>
-                                    <div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-552"><a href="services/ground-transport/index.html" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Bwiti Tradice</span></span></a></div>
-                                    <div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-553"><a href="services/door-to-door-delivery/index.html" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Termíny a Ceny</span></span></a></div>
-                                    <div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-554"><a href="services/packaging-storage/index.html" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Gabonské Pobyty a zasvěcení</span></span></a></div>
-                                    <div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1970"><a href="historie-pouzivani/index.html" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Historie používání</span></span></a></div>
+                            <div class="menu-iboga-container">
+                                    <div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-none"><div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-549"><a href="services/cargo/index.html" class="jet-custom-nav__item-link">Jak vám Iboga může pomoci</a></div>
+                                    <div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-550"><a href="services/worldwide-transport/index.html" class="jet-custom-nav__item-link">Vše o Obřadech</a></div>
+                                    <div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-551"><a href="http://www.ibogaspirit.cz/services/warehousing/" class="jet-custom-nav__item-link">Příprava a Průběžná péče</a></div>
+                                    <div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-552"><a href="services/ground-transport/index.html" class="jet-custom-nav__item-link">Bwiti Tradice</a></div>
+                                    <div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-553"><a href="services/door-to-door-delivery/index.html" class="jet-custom-nav__item-link">Termíny a Ceny</a></div>
+                                    <div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-554"><a href="services/packaging-storage/index.html" class="jet-custom-nav__item-link">Gabonské Pobyty a zasvěcení</a></div>
+                                    <div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1970"><a href="historie-pouzivani/index.html" class="jet-custom-nav__item-link">Historie používání</a></div>
                                 </div>
                             </div>
                         </div>
