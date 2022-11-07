@@ -5,6 +5,8 @@
 
 @include('pages.home.slider')
 
+@include('pages.home.section-left-slide')
+
 {{--<div data-elementor-type="wp-page" data-elementor-id="1799" class="elementor elementor-1799">--}}
 {{--    <section class="elementor-section elementor-top-section elementor-element elementor-element-12fa857 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="12fa857" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">--}}
 {{--        <div class="elementor-container elementor-column-gap-no">--}}
