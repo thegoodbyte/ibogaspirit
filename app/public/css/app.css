@@ -20,6 +20,57 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
     font-weight: 900;
 }
 
+#home-kdo-jsme h2 {
+    color: #242426;
+    font-family: "Lato", Sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 1em;
+    letter-spacing: 2px;
+}
+#home-kdo-jsme {
+    background-color: #EBEBEB;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 62px 0px 70px 0px;
+}
+
+#home-kdo-jsme .box-kdo-jsme {
+
+}
+
+.row-kdo-jsme {
+    max-width: 1200px;
+}
+
+
+#home-parallax {
+    background-image: url(http://www.ibogaspirit.cz/wp-content/uploads/2022/10/bwiti-all-1200.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 600px;
+
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 135px 0px 110px 0px;
+    -widgets-spacing: 20px;
+}
+
+    #home-parallax h2 {
+        color: #FFFFFF;
+        font-family: "Lato", Sans-serif;
+        font-weight: 900;
+        text-transform: uppercase;
+        line-height: 1em;
+        letter-spacing: 2px;
+    }
+
+#home-parallax p {
+    color: #FFFFFF;
+    font-family: "Lato", Sans-serif;
+}
+
 
 @media screen and (min-width: 601px) {
 
@@ -176,12 +227,24 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
         margin-right: 5px;
     }
 
+    #home-parallax h2 {
+        color: #FFFFFF;
+        font-family: "Lato", Sans-serif;
+        font-size: 50px;
+        font-weight: 900;
+        text-transform: uppercase;
+        line-height: 1em;
+        letter-spacing: 2px;
+    }
+
 }
 
 
 
 
-
+/******************************************************************
+        M O B I L E
+ *****************************************************************/
 @media screen and (max-width: 600px) {
     section.home-section-ziot-je-dar .wrapper {
         margin-left: 10px;
@@ -202,6 +265,12 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
 
     section.home-section-ziot-je-dar p {
         font-size: 16px;
+
+    }
+
+    #home-parallax h2 {
+
+        font-size: 32px;
 
     }
 }
