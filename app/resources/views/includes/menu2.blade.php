@@ -3,7 +3,7 @@
         <div class="nav__logo">
             <div class="elementor-jet-logo jet-blocks"><div class="jet-logo jet-logo-type-image jet-logo-display-block">
                     <a href="http://www.ibogaspirit.cz/" class="jet-logo__link">
-                        <img src="http://www.ibogaspirit.cz/wp-content/uploads/2022/02/logo.png" class="jet-logo__img" alt="Iboga Spirit - Czech Republic" width="305" height="76"></a></div>
+                        <img src="/images/logo-red.jpg" class="jet-logo__img" alt="Iboga Spirit - Czech Republic" width="305" height="76"></a></div>
             </div>
         </div>
         <div class="nav__btn">
@@ -16,21 +16,22 @@
 
     <nav class="menu-toggle">
         <ul class="nav__menu">
-            <li class = "menu-item"><a href="">HOME</a></li>
+            <li class = "menu-item"><a href="/">HOME</a></li>
             <li class = "dropdown menu-item">
-                <a href="">IBOGA</a>
+                <a href="/iboga">IBOGA</a>
                 <ul>
-                    <li><a href="">Jak vám Iboga může pomoci</a></li>
-                    <li><a href="">Bwiti Tradice</a></li>
-                    <li><a href="">Iboga vs Ayahuasca</a></li>
-                    <li><a href="">Gabon - Afrika</a></li>
+                    <li><a href="/iboga/jak-vam-iboga-muze-pomoci">Jak vám Iboga může pomoci</a></li>
+                    <li><a href="/iboga/bwiti-tradice">Bwiti Tradice</a></li>
+                    <li><a href="/iboga/iboga-vs-ayahuasca">Iboga vs Ayahuasca</a></li>
+                    <li><a href="/iboga/gabon">Gabon - Afrika</a></li>
                 </ul>
             </li>
             <li class="dropdown menu-item"><a href="#">OBŘADY</a>
                 <ul>
-                    <li><a href="">Co očekávat</a></li>
-                    <li><a href="">Vše o Obřadech</a></li>
-                    <li><a href="">Příprava a Průběžná péče</a></li>
+                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat">Co očekávat</a></li>
+                    <li><a href="/obrady/vse-o-iboga-obradech">Vše o Obřadech</a></li>
+                    <li><a href="/obrady/priprave-a-prubezna-prace">Příprava a Průběžná péče</a></li>
+                    <li><a href="/obrady/zabezpeceni-a-lekarske-pokyny">Příprava a Průběžná péče</a></li>
                     <!--
                     <li class="dropdown second-level"><a href="#">2nd level dropdown</a>
                         <ul>
@@ -41,10 +42,10 @@
                     </li>
 
                     -->
-                    <li><a href="">Terminy a Ceny</a></li>
+                    <li><a href="/obrady/terminy-a-ceny">Terminy a Ceny</a></li>
                 </ul>
             </li>
-            <li class = "menu-item"><a href="">KONTAKT</a></li>
+            <li class = "menu-item"><a href="/kontakt">KONTAKT</a></li>
         </ul>
     </nav>
 

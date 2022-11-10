@@ -10,13 +10,13 @@
 
 
 section.home-section-ziot-je-dar {
-    background-color: red;
-    color: #fff;
+    background-color: #EBEBEB;;
+    color: red;
     font-family: "Lato", Sans-serif;
 }
 
 section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
-    color: #fff;
+    color: red;
     font-weight: 900;
 }
 
@@ -27,7 +27,7 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
     font-weight: 900;
     text-transform: uppercase;
     line-height: 1em;
-    letter-spacing: 2px;
+    letter-spacing: 0px;
 }
 #home-kdo-jsme {
     background-color: #EBEBEB;
@@ -36,13 +36,28 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
 }
 
 #home-kdo-jsme .box-kdo-jsme {
-
+    min-height: 360px;
 }
 
 .row-kdo-jsme {
     max-width: 1200px;
 }
 
+.site-content {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.show-more-button.jet-button__plane-normal {
+
+    background-color: red;
+
+}
+
+.row-show-more-button {
+    bottom: 10px;
+    position: absolute;
+}
 
 #home-parallax {
     background-image: url(http://www.ibogaspirit.cz/wp-content/uploads/2022/10/bwiti-all-1200.jpg);
@@ -72,6 +87,39 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
 }
 
 
+div.row.page-header-bg {
+    display: block;
+    width: 100%;
+    height: 200px;
+    background-color: red;
+}
+
+#iboga-index-page-header {
+    background-image: url('/images/iboga/iboga-woods-header.jpg');
+}
+
+#iboga-vs-aya-page-header {
+    background-image: url('/images/iboga/iboga-banner-1200.jpg');
+}
+
+#iboga-vs-aya-page-pg-entheo {
+    background-image: url('/images/iboga/iboga-vs-aya-entheogens.jpeg');
+}
+
+
+
+.box-bg-scrollaable {
+    display: block;
+    width: 100%;
+    height: 200px;
+    background-position: top;
+    background-attachment: fixed;
+
+}
+
+/******************************************************************
+        W E B S I T E
+******************************************************************/
 @media screen and (min-width: 601px) {
 
     body {
@@ -84,6 +132,7 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
         /*position: absolute;*/
         /*width: 100%;*/
     }
+
 
 
 
@@ -111,11 +160,12 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
 
     section.home-section-ziot-je-dar h1 {
         font-size: 50px;
+        color: black;
     }
 
 
     section.home-section-ziot-je-dar p {
-        color: #fff;
+        color: red;
         font-size: 15px;
 
     }
@@ -318,9 +368,9 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
     background-color: #000;
 }
 
-#home-zijte-stastne .container-fluid .stastne-half-col-bg-left {
-    background-color: #000;
-}
+/*#home-zijte-stastne .container-fluid .stastne-half-col-bg-left {*/
+/*    background-color: #000;*/
+/*}*/
 
 #home-zijte-stastne .container-fluid div.stastne-half-col-bg-left div.row {
     position: relative;
@@ -337,7 +387,11 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
 }
 
 #home-stastne-left-col {
+    min-height: 475px;
+}
 
+#home-stastne-left-col .row-show-more-button {
+    bottom: 30px;
 }
 
 #home-zijte-stastne  h2 {
@@ -360,7 +414,7 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
     display: block;
 }
 
-.menu-iboga-container a:hover {
+.menu-iboga-container .menu-item:hover {
     background-color: red;
-    color: #eeeeee;
+    color: red;
 }

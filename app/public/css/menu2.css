@@ -33,6 +33,7 @@ header {
     flex-direction: column;
     justify-content: space-between;
     align-items: stretch;
+    background-color: #EBEBEB;
 }
 
 
@@ -49,8 +50,8 @@ header {
 
 
 .nav__logo {
-    font-size: 1.4rem;
-    font-weight: 700;
+    /*font-size: 1.4rem;*/
+    /*font-weight: 700;*/
     color: #555
 }
 
@@ -78,7 +79,7 @@ header {
 .nav__menu li a {
     display: block;
     font-size: 1rem;
-    color: #fff;
+    color: red;
     text-decoration: none;
 
     font-family: "Lato", Sans-serif;
@@ -87,13 +88,14 @@ header {
     text-transform: uppercase;
     line-height: 1.68em;
     letter-spacing: 0px;
-    color: #FFFFFF;
+
 
 
 }
 
 .nav__menu li a:hover {
-    color: #fff;
+    color: red;
+    /*background-color: #AF1201;*/
     background-color: #AF1201;
 }
 
@@ -279,7 +281,7 @@ header {
         text-transform: uppercase;
         line-height: 1.68em;
         letter-spacing: 0px;
-        color: #FFFFFF;
+        color: red;
         background-color: #FFFFFF00;
         padding: 35px 30px 35px 30px;
         margin: 0px 0px 0px 0px;
@@ -311,7 +313,7 @@ header {
 
     .nav__menu li a:hover {
         color: #fff;
-        background-color: black;
+        background-color: red;
     }
 
 

@@ -4,7 +4,7 @@
         <div class="row animated fadeInLeft">
             <div class="col-xl-8 pt-5 pb-5 col-sm-12">
                 <div class = "wrapper">
-                    <h1 class = "text-uppercase">POZNEJTE SVÉ PRAVÉ JÁ ...</h1>
+                    <h1 class = "text-uppercase">ŽIJTE ŠŤASTNĚ A NAPLNO</h1>
 
                     <!-- font -20px -->
                     <p class = "text-uppercase">

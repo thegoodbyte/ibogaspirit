@@ -6,7 +6,7 @@
                     <div class="elementor-widget-wrap elementor-element-populated">
                         <div class="elementor-element elementor-element-9cfea78 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="9cfea78" data-element_type="widget" data-widget_type="text-editor.default">
                             <div class="elementor-widget-container">
-                                <a href="#">Zemez</a> ©. All rights reserved.
+                                <a href="#">IbogaSpirit.cz</a> ©. All rights reserved.
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-dba93d6 elementor-widget__width-auto elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="dba93d6" data-element_type="widget" data-widget_type="divider.default">

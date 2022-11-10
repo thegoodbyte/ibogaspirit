@@ -8,13 +8,20 @@
 
 /* Carousel base class */
 .carousel {
-  margin-bottom: 4rem;
+  margin-bottom: 0;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   top: 100px;
   z-index: 10;
 }
+
+.carousel .carousel-item:first-child .carousel-caption h1{
+    left: 25%;
+    width: 80%;
+    top: 260px;
+}
+
 
 .carousel-item:first-child  h1 {
     font-family: "Lato", Sans-serif;
