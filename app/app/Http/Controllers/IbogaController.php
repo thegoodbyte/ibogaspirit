@@ -24,4 +24,10 @@ class IbogaController extends Controller
         return View::make('pages.iboga.iboga_vs_ayahuasca');
 
     }
+
+    public function deprese() {
+
+        return View::make('pages.iboga.deprese');
+
+    }
 }

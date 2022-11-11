@@ -7,7 +7,7 @@
 <div class = "row">
     <div class = "col-xl-12">
         <p>
-            Každý obřad Iboga začíná kolem ohně, což je důležitá součást ctění posvátné tradice Bwiti.
+            Každý obřad Ibogy začíná kolem ohně, ktery důležitou součástí ctění posvátné tradice Bwiti.
 
             Oheň byl prvním portálem, který Bwiti objevil do duchovního světa. Oheň je skvělým ochráncem, osvětluje obřadní prostor a jeho kouř slouží jako přistávací dráha pro duchy, aby vstoupili a pomohli. Oheň spálí to, co nám již neslouží.
 
@@ -36,6 +36,25 @@
                 <li>Purging (vomit, crying, shaking, sweating, laughing, frequent urination etc)</li>
                 <li>All of these are normal on and off throughout the journey. <a href="https://awakenyoursoul.co/13-tips-for-navigating-iboga/">Read our tips on how to navigate with Iboga for more details.</a></li>
             </ul>
+
+            <ul>
+                Comfortable Accommodation
+                Two traditional Missoko Bwiti Iboga ceremonies
+                Nourishing food prepared by our Chef (Cater to all dietary restrictions)
+                Fireside Bwiti teachings
+                Medical Screening to ensure a safe retreat
+                Counseling/Coaching throughout (Preparation, Retreat, Integration)
+                Spiritual Shower Ceremony
+                Integration Day Trips to Beach, Sintra, and nature trails
+                Transportation/ Airport Transfer
+                Integration calls to ensure a smooth and successful transition at home
+            </ul>
+
+            <p>
+                Bwiti and the Iboga plant’s symbiotic relationship goes back thousands of years to when the Iboga plant was first discovered. Iboga became a sacrament of the Bwiti, with nearly every aspect of their tradition and their ceremonies given to them by the spirit of Iboga itself. Iboga is such an important part of their lives, that it is used as the initiation into the tradition and is consumed regularly at ceremonies.
+
+                At Root Healing Iboga Retreats, you can always expect a unique healing experience guided by the core Bwiti principles. We believe in maintaining Bwiti tradition and practices throughout all of our work, as they ensure a safe and powerful Iboga retreat ceremony.
+            </p>
 
     </div>
 </div>

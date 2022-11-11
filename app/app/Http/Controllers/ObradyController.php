@@ -11,12 +11,12 @@ class ObradyController extends Controller
 
 
     public function iboga_obrady() {
-        return View::make('obrady.iboga_obrady');
+        return View::make('pages.obrady.iboga_obrady');
     }
 
 
     public function lekarske_smernice() {
-        return View::make('obrady.lekarske-smernice');
+        return View::make('pages.obrady.lekarske-smernice');
     }
 
 }

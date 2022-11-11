@@ -136,7 +136,8 @@
         </div>
 
         <div class = "col-xl-6">
-
+            <p>Helping people find clarity in who they are and what they want
+                An Iboga Treatment should focus on connecting you to who you are and what you want because this is one of the biggest spiritual benefits the treatment offers. In a traditional Bwiti Iboga ceremony, individuals are brought to meet and reconnect with their soul. This connection (and knowing) instills an unwavering sense of confidence, self-love, and clarity to those who truly embrace it. This will then have a profound impact on their perspective and their entire external world. When you leave an Iboga treatment knowing who you are and what you want, there is no stopping you. </p>
         </div>
     </div>
 

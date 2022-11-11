@@ -1,4 +1,9 @@
 
+@font-face {
+    font-family: sf;
+    src: url('/fonts/strawberry-blossom/');
+}
+
 
 @media only screen and (max-width: 64em) and (min-width: 20.01em) {
    .menu-main-menu-container {
@@ -130,8 +135,8 @@ div.row.page-header-bg {
     min-height: 400px;
     width: 100%;
     display:block;
-background-color: red;
-background-image: url('/images/home/poznejte/happy_XL-scaled.jpeg');
+    background-color: red;
+    background-image: url('/images/home/poznejte/happy_1200.jpeg');
 
     height: 100vh;
 }
@@ -184,7 +189,7 @@ background-image: url('/images/home/poznejte/happy_XL-scaled.jpeg');
 
 
     section.home-section-ziot-je-dar p {
-        color: red;
+        color: #5e5e5e;
         font-size: 15px;
 
     }

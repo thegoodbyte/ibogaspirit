@@ -18,6 +18,7 @@ Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "index"]);
 Route::get('/iboga/jak-vam-iboga-muze-pomoci', [\App\Http\Controllers\IbogaController::class, "jak_vam_iboga_muze_pomoci"]);
 Route::get('/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"]);
 Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "index"]);
+Route::get('/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"]);
 
 Route::get('/obrady/vse-o-iboga-obradech', [\App\Http\Controllers\ObradyController::class, "iboga_obrady"]);
 

@@ -21,6 +21,10 @@ class HomeController extends Controller
     }
 
     public function moughenda() {
-        return View::make('onas.moughenda');
+        return View::make('pages.onas.moughenda');
+    }
+
+    public function kontakt() {
+
     }
 }

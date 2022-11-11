@@ -105,6 +105,45 @@
 
                 But first you need to realize that you are in control to make new choices- and this is the potential of Iboga.
             </p>
+
+
+            <p>
+                You should stop using any medication that is not necessary for life support. This includes any pharmaceutical products that work to suppress symptoms. It is necessary to stop using medications as much as two to three weeks before and after taking Iboga. Most of the medications may reduce Iboga’s healing potential or alter its effects. Some of the medications could also be extremely dangerous in combination with Iboga. For your safety don’t book a retreat if you are under any psychiatric medication. We recommend you to speak to your doctor and see  all options to quit all psychiatric medications for a minimum of two months. Iboga can be very dangerous if combined with psychiatric medications. PLEASE CONTACT US IF YOU HAVE ANY CONCERNS OR QUESTIONS ABOUT THIS!!!
+
+                Is important to trust that the Iboga has the potential to cleanse and detox the body and mind, so there is no necessary diets, nor detox. However we are NOT A CLINIC NOR REHAB AND WE DO NOT OFFER DRUG DETOX, if you suffer from drug addiction we recommend you to check in to a detox clinic before coming to our retreat (we do drug tests before each ceremony). Please check below the drugs to be avoided with Iboga page.
+
+                Psychological Safety
+                If you have schizophrenia or mental disorder, please read:
+
+                It is also important to take psychological safety into consideration. People with personality disorders or a history of mental disorders (such as borderline, schizophrenia, etc) are at risk if they use Iboga. Discover Iboga carries out a screening questionnaire for all potential guests that evaluates the presence of the above-mentioned risk factors. We treat the safety of our guests as of utmost importance and ensure that all measures, including 24-hour supervision, are adopted as and where necessary.
+
+                Important Notes (please read):
+                Everybody is fully responsible for informing the organizers about past or current drug issues, any serious physical or psychological balance disorders, or current prescription medications.
+                The use of other teacher plants or drugs (e.g., mushrooms, marijuana, DMT, LSD) is strongly unwelcome; please contact us in case of any questions.
+                Consult us in advance in case you have asthma, tuberculosis, any heart or liver condition, pregnancy or in case of any other health issues that may potentially interfere or be dangerous in combination with Iboga
+                There are certain medications that must be avoided. These include:
+                MAOIs monoamine oxidase inhibitors)
+                SSRIs (selective serotonin reuptake inhibitors)
+                Antihypertensive/high blood pressure medicine
+                Appetite suppressants or diet pills
+                Medicine for asthma, bronchitis, or other breathing problems
+                Antihistamines
+                Medicine for colds, sinus problems, hay fever, or allergies (any drug containing dextromethorphan/DXM, or that has DM, DX, or Tuss in its name)
+                CNS (central nervous system) depressants (e.g., Xanax, Ativan)
+                Vasodilators
+                Antipsychotics
+                Barbiturates
+                Some illegal and recreational drugs are VERY dangerous to combine with Iboga, including:
+                Cocaine, amphetamines, and ephedrine
+                MDMA (Ecstasy), MDA, MDEA, PMA
+                Opiates (heroin, morphine, codeine, opium)
+                Dextromethorphan (DXM)
+                Mescaline (any phenethylamine)
+                Alcohol
+                Kratom
+                Kava
+                5-MEO-DMT
+            </p>
         </div>
     </div>
 
