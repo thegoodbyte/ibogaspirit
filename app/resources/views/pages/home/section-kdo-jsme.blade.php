@@ -4,18 +4,18 @@
             <div class="row">
                 <div class="elementor-element elementor-element-1e52df5 elementor-widget__width-initial elementor-widget elementor-widget-heading is-mac" data-id="1e52df5" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <h2 class="elementor-heading-title elementor-size-default">KDO JSME</h2>
+                        <h2 class="elementor-heading-title elementor-size-default">CO JE IBOGA</h2>
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-ac5a4af elementor-widget__width-initial elementor-widget elementor-widget-text-editor is-mac" data-id="ac5a4af" data-element_type="widget" data-widget_type="text-editor.default">
-                    <div class="elementor-widget-container">
-                        WITH OUR TRUCKS RANGING FROM REGULAR HEAVY-DUTY ONES TO SPECIALIZED, WITH SPECIAL CONDITIONS FOR SPECIAL FREIGHT, WE CAN DELIVER IT ALL!
+                    <div class="elementor-widget-container text-uppercase">
+                        Iboga (Tabernathe Iboga) je vytrvalý keř pocházející z rovníkové středozápadní Afriky. Kořenová kůra byla používána jako přírodní rostlinná medicína po tisíce a tisíce let domorodými obyvateli regionu.
+                        Je považována za posvátnou svátost těch, kteří praktikují tradici známou jako Bwiti.
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-de9b744 elementor-widget__width-initial elementor-widget elementor-widget-text-editor is-mac" data-id="de9b744" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container">
-                        When we’re taking a new transportation order, we always make sure to provide both first-class servicing, clean equipment, professional lorry drivers and a professional back-office and sales personnel!
-
+                        Iboga se používá v různých obřadních ...
                     </div>
                 </div>
 
@@ -44,16 +44,17 @@
             <div class="elementor-widget-wrap elementor-element-populated">
                 <div class="elementor-element elementor-element-fc1ce12 elementor-widget__width-initial elementor-widget elementor-widget-heading is-mac" data-id="fc1ce12" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <h2 class="elementor-heading-title elementor-size-default"><span style="text-align: inherit;">PROČ S NÁMI</span></h2>		</div>
+                        <h2 class="elementor-heading-title elementor-size-default"><span style="text-align: inherit;">O MNE</span></h2>		</div>
                 </div>
                 <div class="elementor-element elementor-element-101ab0d elementor-widget__width-initial elementor-widget elementor-widget-text-editor is-mac" data-id="101ab0d" data-element_type="widget" data-widget_type="text-editor.default">
-                    <div class="elementor-widget-container">
-                        EACH SINGLE MEMBER OF OUR TRUCKING COMPANY’S TEAM IS A SEASONED TRUCKIE, WITH TENS OF THOUSANDS OF MILES TRAVELED WHILE DELIVERING YOUR GOODS.
+                    <div class="elementor-widget-container uppercase">
+                        Jmenuju se Martin Halla and jsem Nganga - spiritualni lecitel a tradicni Bwiti Iboga poskytovatel. Studoval jsem bezpecne poskytovani Ibogy a Bwiti uceni v Gabonu,  stredozapadni Africe, u samana 10-te generace Moughendy Mikaly.
+                        Ucil jsem se tradicni  tisiceletou praxi v branchi Missoko Bwiti.
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-1e3abfe elementor-widget__width-initial elementor-widget elementor-widget-text-editor is-mac" data-id="1e3abfe" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container">
-                        <p>With our trucks fleet consisting of a few dozens of regular trucks, heavy duty trucks, controlled-temperature and refrigerator-</p>						</div>
+                        <p>Pusobim mezinarodne ...-</p>						</div>
                 </div>
 
             </div>

@@ -3,7 +3,7 @@
         <div class="nav__logo">
             <div class="elementor-jet-logo jet-blocks"><div class="jet-logo jet-logo-type-image jet-logo-display-block">
                     <a href="http://www.ibogaspirit.cz/" class="jet-logo__link">
-                        <img src="/images/logo-red.jpg" class="jet-logo__img" alt="Iboga Spirit - Czech Republic" width="305" height="76"></a></div>
+                        <img src="/images/logo.png" class="jet-logo__img" alt="Iboga Spirit - Czech Republic" width="305" height="76"></a></div>
             </div>
         </div>
         <div class="nav__btn">
@@ -31,18 +31,26 @@
                     <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat">Co očekávat</a></li>
                     <li><a href="/obrady/vse-o-iboga-obradech">Vše o Obřadech</a></li>
                     <li><a href="/obrady/priprave-a-prubezna-prace">Příprava a Průběžná péče</a></li>
-                    <li><a href="/obrady/zabezpeceni-a-lekarske-pokyny">Příprava a Průběžná péče</a></li>
+                    <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
                     <!--
                     <li class="dropdown second-level"><a href="#">2nd level dropdown</a>
                         <ul>
                             <li><a href="">Jak vám Iboga může pomoci</a></li>
-                            <li><a href="">Dropdown item 2</a></li>
+                            <li><a href="">Drx`opdown item 2</a></li>
                             <li><a href="">Dropdown item 3</a></li>
                         </ul>
                     </li>
 
                     -->
                     <li><a href="/obrady/terminy-a-ceny">Terminy a Ceny</a></li>
+                </ul>
+            </li>
+            <li class = "dropdown menu-item">
+                <a href="/onas">O Nas</a>
+                <ul>
+                    <li><a href="/onas/nganga">Nganga</a></li>
+                    <li><a href="/onas/moughenda">Saman Moughenda</a></li>
+
                 </ul>
             </li>
             <li class = "menu-item"><a href="/kontakt">KONTAKT</a></li>

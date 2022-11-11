@@ -17,8 +17,8 @@
                     <p class = "text-uppercase">IBOGA MEDICINE NÁS UČÍ, JAK SI UŽÍVAT ŽIVOTA NAPLNO. DOKÁŽE VYLÉČIT JAKÉKOLI PSYCHICKÉ TRAUMA TÍM, ŽE NÁS PŘIVEDE KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT. JE TO OPRAVDOVÝ ZÁZRAK – NOVÉ ZROZENÍ</p>
                 </div>
             </div>
-            <div class="col-xl-4 col-sm-12">
-                <img src = "images/home/poznejte/happy_XL-scaled.jpeg">
+            <div class="col-xl-4 col-sm-12 bg-image" id="home-zijte-stastne-pic">
+
             </div>
         </div>
     </div>

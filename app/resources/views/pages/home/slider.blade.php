@@ -20,7 +20,7 @@
         </div>
         <div class="carousel-item">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
-            <img src="/images/home/slider/bwiti-all-1200.jpg" alt="Chicago" class="d-block w-100">
+            <img src="/images/home/slider/slide-pobyt-2.jpeg" alt="Iboga retreats Czech Republic" class="d-block w-100">
 
             <div class="container">
                 <div class="carousel-caption">

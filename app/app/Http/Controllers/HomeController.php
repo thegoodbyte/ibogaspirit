@@ -15,4 +15,12 @@ class HomeController extends Controller
         return View::make('pages.home.index');
 
     }
+
+    public function nganga() {
+        //return View::make('test.nganga');
+    }
+
+    public function moughenda() {
+        return View::make('onas.moughenda');
+    }
 }

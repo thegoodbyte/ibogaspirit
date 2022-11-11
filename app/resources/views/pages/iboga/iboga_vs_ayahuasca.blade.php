@@ -113,14 +113,25 @@
     <div class = "row">
         <div class = "col-xl-12">
             <h1>Dietní požadavky</h1>
+        </div>
+    </div>
+
+    <div class = "row">
+        <div class = "col-xl-6">
             <p>
-                Iboga: Iboga je ve svých dietních požadavcích tolerantnější než ayahuasca. Před obřadem ibogy nemusíte držet konkrétní dietu. Jen se musíte ujistit, že v obřadní dny nejíte po 15:00. Některým dietám a lékům se musíte vyhnout, chcete-li drogu maximálně využít a předejít nepříjemnému zážitku. Potraviny, kterým se při obřadu ibogy vyhnout, jsou ty, které jsou spojeny s inhibitorem enzymového systému cytochromu P450 2D6 (CYP2D6), který může blokovat některé jaterní enzymy. Patří mezi ně grapefruit a pomelo. Tyto druhy potravin zastavují rozklad ibogy a zvyšují koncentraci v krvi na nebezpečnou úroveň. Měli byste se také vyhnout tonické vodě a hořkým citronovým nápojům kvůli obsahu chininu, který přispívá k hořké chuti a také inhibuje CYP2D6. Mezi léky, kterým je třeba se vyhnout, patří antidepresiva, zejména SSRI, antiarytmika, kanabidiol (CBD), antacida, antipsychotika, antibiotika, antimykotika, anti-HIV, chinin, opioidy a metadon, betablokátory a diuretika. Také se musíte alespoň 3 až 7 dní před obřadem ibogy vyhnout alkoholu.
+                Iboga: Iboga je ve svých dietních požadavcích tolerantnější než ayahuasca. Před obřadem ibogy nemusíte držet konkrétní dietu.
+                Jen se musíte ujistit, že v obřadní dny nejíte po 15:00. Některým dietám a lékům se musíte vyhnout,
+                chcete-li drogu maximálně využít a předejít nepříjemnému zážitku. Potraviny, kterým se při obřadu ibogy vyhnout, jsou ty, které jsou spojeny s inhibitorem enzymového systému cytochromu P450 2D6 (CYP2D6), který může blokovat některé jaterní enzymy. Patří mezi ně grapefruit a pomelo. Tyto druhy potravin zastavují rozklad ibogy a zvyšují koncentraci v krvi na nebezpečnou úroveň. Měli byste se také vyhnout tonické vodě a hořkým citronovým nápojům kvůli obsahu chininu, který přispívá k hořké chuti a také inhibuje CYP2D6. Mezi léky, kterým je třeba se vyhnout, patří antidepresiva, zejména SSRI, antiarytmika, kanabidiol (CBD), antacida, antipsychotika, antibiotika, antimykotika, anti-HIV, chinin, opioidy a metadon, betablokátory a diuretika. Také se musíte alespoň 3 až 7 dní před obřadem ibogy vyhnout alkoholu.
             </p>
 
             <p>Ayahuasca: Ayahuasca má dlouhý seznam potravin, léků a dalších činností, kterým se musíte vyhnout. Ve skutečnosti mnoho zkušených šamanů věří, že nejlepší je začít odstraňovat tyto potraviny a léky ze svého jídelníčku již 2-4 týdny před obřadem ayahuascy.</p>
             <h2></h2>
             <p></p>
 
+        </div>
+
+        <div class = "col-xl-6">
+            <img src = "/images/iboga/diet.jpeg" />
         </div>
     </div>
 
