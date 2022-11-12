@@ -82,35 +82,34 @@
             Existují tři hlavní důvody, proč se lidé účastní obřadu Iboga.</p>
 
         <ol>
-        <li>
-            Pro léčení
-        </li>
+            <li>
+                Pro léčení
+            </li>
 
-        <li>
-            Chcete-li optimalizovat svůj život
-        </li>
+            <li>
+                Chcete-li optimalizovat svůj život
+            </li>
 
-        <li>
-            Intuitivní volání
-        </li>
+            <li>
+                Intuitivní volání
+            </li>
         </ol>
 
     </div>
 
-    <diV class = "row">
+    <diV class = "row" id = "iboga-benefits">
             <div class = "col-xl-3 col-sm-12">
                 <h3>Fyzický</h3>
                 <ul>
-
                     <li>Detoxikace buněk celého těla</li>
-                        <li>Antiparazitární</li>
-                        <li>Antifungální</li>
-                        <li>Antibakteriální</li>
-                        <li>Antivirový</li>
-                        <li>Chemická detoxikace</li>
-                        <li>Zlepšit neuroplasticitu</li>
-                        <li>Zvyšte fyzickou sílu a vytrvalost</li>
-                        <li>Odvápnění epifýzy</li>
+                    <li>Antiparazitární</li>
+                    <li>Antifungální</li>
+                    <li>Antibakteriální</li>
+                    <li>Antivirový</li>
+                    <li>Chemická detoxikace</li>
+                    <li>Zlepšit neuroplasticitu</li>
+                    <li>Zvyšte fyzickou sílu a vytrvalost</li>
+                    <li>Odvápnění epifýzy</li>
                 </ul>
             </div>
 
@@ -132,7 +131,6 @@
             <div class = "col-xl-3 col-sm-12">
                 <h3>Emocionální</h3>
                     <ul>
-
                         <li>Zvyšte emoční sílu a bezpečí</li>
                         <li>Uzemnění a centrování</li>
                         <li>Uvolnění nezdravých příloh</li>

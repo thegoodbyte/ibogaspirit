@@ -23,6 +23,7 @@ Route::get('/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class
 
 Route::get('/obrady/vse-o-iboga-obradech', [\App\Http\Controllers\ObradyController::class, "iboga_obrady"]);
 Route::get('/obrady/lekarske-smernice', [\App\Http\Controllers\ObradyController::class, "lekarske_smernice"]);
+Route::get('/obrady/prvni-ceremonie-a-co-ocekavat', [\App\Http\Controllers\ObradyController::class, "vase_prvni_ceremonie"]);
 
 
 Route::get('/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"]);

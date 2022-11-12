@@ -1,9 +1,30 @@
 
 @font-face {
     font-family: sf;
-    src: url('/fonts/strawberry-blossom/');
+    src: url('/fonts/strawberry-blossom/Strawberry_Blossom.ttf');
 }
 
+@font-face {
+    font-family: Samble;
+    src: url('/fonts/samble/samble.ttf');
+}
+
+@font-face {
+    font-family: Brilotus;
+    src: url('/fonts/brilotus/Brilotus.ttf');
+}
+
+
+.pobyty-day1-pic-box {
+    display:   block;
+    background: red;
+    width: vw;
+    height: vh;
+}
+
+ul.lh-150 li {
+    line-height: 140%;
+}
 
 @media only screen and (max-width: 64em) and (min-width: 20.01em) {
    .menu-main-menu-container {
@@ -11,21 +32,49 @@
        visibility: visible;
    }
 }
+#pobyty-list-overview {
+    list-style: none;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.font-s-blossom {
+    font-family: Samble;
+    font-size: 30px;
+    color: #b81300;
+}
+
+#pobyty-list-overview  li {
+    line-height: 200%;
+}
+
+#pobyty-list-overview li span{
+    color: #46b105;
+    font-weight: 900;
+    font-size: 50px;
+    font-family: Samble;
+}
+
+
 /* ================================ */
 blockquote {
-    border-left: 3px solid #00CC8F;
+    border-left: 3px solid red;
     color: #1a1a1a;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 1.25em;
     font-style: italic;
     line-height: 1.8em;
-    margin: 1.1em -4em;
+    margin: 1.1em 0 !important;
     padding: 1em 2em;
     position: relative;
     transition: 0.2s border ease-in-out;
     z-index: 0;
-    margin-top: 2em;
+    margin-top: 3em;
+
+
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
+
 blockquote:before {
     content: "";
     position: absolute;
@@ -75,6 +124,11 @@ blockquote cite {
     line-height: 1.8em;
     margin-top: 1em;
 }
+
+#iboga-benefits .col ol{
+    background: red;
+}
+
 
 /* ================== */
 

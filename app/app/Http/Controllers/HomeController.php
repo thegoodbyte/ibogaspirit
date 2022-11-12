@@ -26,5 +26,6 @@ class HomeController extends Controller
 
     public function kontakt() {
 
+        return View::make('pages.onas.kontakt');
     }
 }

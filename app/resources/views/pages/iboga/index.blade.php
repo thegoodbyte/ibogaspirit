@@ -5,6 +5,13 @@
 <div class = "row">
 <h2>Iboga Medicine</h2>
 
+    <p>
+        Tohoto mistra rostlinného učitele používali Pygmejové, tradičně nazývaní Babongo; známý jako jeden z nejstarších afrických kmenů.
+        Tyto kmeny žily primitivně jako lovci a sběrači, kde peníze nemají žádnou hodnotu. Některé z těchto kmenů dnes
+        nadále žijí tradičním způsobem a lze je nalézt hluboko v afrických džunglích. Kmen Babongo používal Ibogu po
+        tisíce let pro rituální a léčebné účely a poté předal znalosti tradici Bwiti a jejím kmenům v Gabonu v Africe.
+    </p>
+
 </div>
 
     <div class = "row">
@@ -51,23 +58,46 @@
         <div class = "col-xl-6">
             <h2>JAK FUNGUJE ROSTLINNÁ MEDICÍNA?</h2>
 
-            <p class="text-justify">Iboga je známý jako největší lovec pravdy v nás. Když objevíme svou pravdu a uvidíme, jak naše životy fungují na dysfunkční úrovni – nemůžeme „nevidět“, spínač byl přepnut. Už není pohodlné žít ve stejných vzorcích, které se kdysi cítily tak ‚bezpečně‘, a destruktivní chování se desetkrát zvětšilo. Jakmile si to uvědomíme, jsme požehnáni odpovědností vytvářet změny.</p>
+            <p class="text-justify">Iboga je známý jako největší lovec pravdy v nás. Když objevíme svou pravdu a uvidíme,
+                jak naše životy fungují na dysfunkční úrovni – nemůžeme „nevidět“, spínač byl přepnut. Už není pohodlné
+                žít ve stejných vzorcích, které se kdysi cítily tak ‚bezpečně‘, a destruktivní chování se desetkrát zvětšilo.
+                Jakmile si to uvědomíme, jsme požehnáni odpovědností vytvářet změny.
+            </p>
 
-            <p class="text-justify">Iboga má moudrost hledat kořeny našich traumat. Iboga, mistrovský učitel, nám poskytne náhled na to, jaký by byl život, kdybychom pokračovali po cestě bez vědomí našeho pravého já. Odhaluje, jak úžasný může být život, když očistíme staré vzorce a začneme se svými životy zacházet s hodnotou, respektem a láskou.</p>
+            <p class="text-justify">Iboga má moudrost hledat kořeny našich traumat. Iboga, mistrovský učitel, nám poskytne
+                náhled na to, jaký by byl život, kdybychom pokračovali po cestě bez vědomí našeho pravého já. Odhaluje,
+                jak úžasný může být život, když očistíme staré vzorce a začneme se svými životy zacházet s hodnotou, respektem a láskou.
+            </p>
 
-            <p class="text-justify">Tento lék umožňuje opětovné spojení s naší duší a uvádí nás do našeho nejčistšího stavu, než jsme byli zraněni. Moudrost rostliny posílí naše vědomí, aby nám pomohla získat jasnost o našich vášních, inspiracích, kreativitě a účelu. Spojením nás s naší duší dostáváme příležitost pocítit hlubokou vděčnost za dar života samotného.</p>
+            <p class="text-justify">Tento lék umožňuje opětovné spojení s naší duší a uvádí nás do našeho nejčistšího stavu,
+                než jsme byli zraněni. Moudrost rostliny posílí naše vědomí, aby nám pomohla získat jasnost o našich vášních,
+                inspiracích, kreativitě a účelu. Spojením nás s naší duší dostáváme příležitost pocítit hlubokou vděčnost
+                za dar života samotného.</p>
 
-            <p class="text-justify">Iboga nám otevírá náš větší potenciál a výrazně rozšiřuje mysl. Osvětluje způsoby, jak můžeme léčit a transformovat své životy, abychom vytvořili hojnost a pohodu.</p>
+            <p class="text-justify">Iboga nám otevírá náš větší potenciál a výrazně rozšiřuje mysl. Osvětluje způsoby,
+                jak můžeme léčit a transformovat své životy, abychom vytvořili hojnost a pohodu.</p>
 
-            <p class="text-justify">Na fyzické úrovni Iboga detoxikuje tělo od toxinů, chemikálií, emočních blokád a může také pomáhat s viry a parazity. Mnoho věcí, se kterými se medicína setká a které nepomáhají našemu blahobytu, bude očištěno.</p>
+            <p class="text-justify">Na fyzické úrovni Iboga detoxikuje tělo od toxinů, chemikálií, emočních blokád a může
+                také pomáhat s viry a parazity. Mnoho věcí, se kterými se medicína setká a které nepomáhají našemu
+                blahobytu, bude očištěno.</p>
 
-            <p class="text-justify">Tento detox také čistí mysl od systémů přesvědčení a negativních myšlenkových vzorců, které nám neslouží. To také pomůže léku vypořádat se s fyzickými aspekty těchto uložených emocí a mnoho lidí zaznamená velké zlepšení v jejich celkové pohodě.</p>
+            <p class="text-justify">Tento detox také čistí mysl od systémů přesvědčení a negativních myšlenkových vzorců,
+                které nám neslouží. To také pomůže léku vypořádat se s fyzickými aspekty těchto uložených emocí a mnoho
+                lidí zaznamená velké zlepšení v jejich celkové pohodě.</p>
 
-            <p class="text-justify">Iboga nás učí znovu získat kontrolu nad našimi myšlenkami a využít mysl ve svůj prospěch tím, že odhalíme jasné pochopení, že máme sílu projevit vše, po čem toužíme. Ukazuje nám, že mysl je pouze nástroj, ale my nejsme svou myslí.</p>
+            <p class="text-justify">Iboga nás učí znovu získat kontrolu nad našimi myšlenkami a využít mysl ve svůj
+                prospěch tím, že odhalíme jasné pochopení, že máme sílu projevit vše, po čem toužíme. Ukazuje nám,
+                že mysl je pouze nástroj, ale my nejsme svou myslí.</p>
 
-            <p class="text-justify">Ukáže nám, abychom nežili v minulosti: v naší depresi. Ani v budoucnosti: v naší úzkosti. Iboga nás učí, jak žít přítomným okamžikem, stát se svým vlastním svědkem a být přítomen nyní. Tento lék má sílu začít přetvářet způsob, jakým přemýšlíme a jak přistupujeme nebo jak žijeme.</p>
+            <p class="text-justify">Ukáže nám, abychom nežili v minulosti: v naší depresi. Ani v budoucnosti: v naší
+                úzkosti. Iboga nás učí, jak žít přítomným okamžikem, stát se svým vlastním svědkem a být přítomen nyní.
+                Tento lék má sílu začít přetvářet způsob, jakým přemýšlíme a jak přistupujeme nebo jak žijeme.</p>
 
-            <p class="text-justify">Je důležité poznamenat: že i když se jedná o silný lék na mnoha úrovních, nedělá práci za nás. Musíme reagovat na učení a implementovat nové chování a vytvářet nové vzorce myšlení. Útočiště Iboga je jen začátek cesty. Lék nám pomůže vést cestu, ale my se musíme rozhodnout, že po cestě budeme chodit každý den, abychom vytvořili nové drážky. Kliknutím sem zobrazíte další informace o tom, co lze od integračního procesu očekávat</p>
+            <p class="text-justify">Je důležité poznamenat: že i když se jedná o silný lék na mnoha úrovních,
+                nedělá práci za nás. Musíme reagovat na učení a implementovat nové chování a vytvářet nové vzorce myšlení.
+                Útočiště Iboga je jen začátek cesty. Lék nám pomůže vést cestu, ale my se musíme rozhodnout, že po cestě
+                budeme chodit každý den, abychom vytvořili nové drážky. Kliknutím sem zobrazíte další informace o tom, co
+                lze od integračního procesu očekávat</p>
             </p>
         </div>
     </div>

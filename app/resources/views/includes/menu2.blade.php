@@ -27,8 +27,9 @@
                 </ul>
             </li>
             <li class="dropdown menu-item"><a href="#">OBŘADY</a>
+            <li class="dropdown menu-item"><a href="#"><?php echo __('menu.menu_ceremonies.ceremonies.ceremonies'); ?></a>
                 <ul>
-                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat">Váš první Iboga obřad</a></li>
+                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
                     <li><a href="/obrady/priprave-a-prubezna-prace">Příprava a Průběžná péče</a></li>
                     <li><a href="/obrady/priprave-a-prubezna-prace">Sedmidenní retreatační pobyt</a></li>
                     <li><a href="/obrady/vse-o-iboga-obradech">Vše o Iboga obřadech</a></li>

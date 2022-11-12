@@ -16,27 +16,34 @@
             </p>
 
             <p>
-                Naprostá většina jakýchkoli zdravotních důsledků byla důsledkem užívání pro účely detoxikace drog nebo situací, kdy byl srdeční stav nezodpovědně přehlížen.
-                Naopak Iboga ve skutečnosti velmi pomáhá k celkovému zlepšení našeho fyzického zdraví, a to nejen svou schopností odstraňovat toxicitu, ale také tím, že si
-                ve sklepní paměti ukládáme obrovské množství emocionální bolesti. Když se utrpení v mysli začne zmírňovat, tělo povolí a naopak.
+                Naprostá většina jakýchkoli zdravotních důsledků byla důsledkem užívání pro účely detoxikace drog nebo
+                situací, kdy byl srdeční stav nezodpovědně přehlížen.
+                Naopak Iboga ve skutečnosti velmi pomáhá k celkovému zlepšení našeho fyzického zdraví, a to nejen svou
+                schopností odstraňovat toxicitu, ale také tím, že si
+                ve sklepní paměti ukládáme obrovské množství emocionální bolesti. Když se utrpení v mysli začne zmírňovat,
+                tělo povolí a naopak.
             </p>
 
             <p>
                 <h4>Požadavky</h4>
-                Nemohu pracovat s nikým, kdo je fyzicky závislý na nějaké látce.
+                Momentalne emohu pracovat s nikým, kdo je fyzicky závislý na nějaké látce.
                 Každý host musí mít předem elektrokardiogram (EKG) a jaterní panel, pokud má v
                 anamnéze problémy s játry nebo závažné zneužívání alkoholu.
             </p>
 
             <p>
-                EKG lze provést u svého lékaře nebo na místě zde. Naši lékaři jsou speciálně vyškoleni, aby se podívali na specifika v EKG, která jsou
-                specifická pro Ibogu a nemohou být čtena jiným lékařem. Naši lékaři jsou vyškoleni na pohotovosti a jsou na místě při každém obřadu a na zavolání
+                EKG lze provést u svého lékaře nebo na místě zde. Naši lékaři jsou speciálně vyškoleni, aby se podívali
+                na specifika v EKG, která jsou
+                specifická pro Ibogu a nemohou být čtena jiným lékařem. Naši lékaři jsou vyškoleni na pohotovosti a
+                jsou na místě při každém obřadu a na zavolání
                 během našich týdenních cvičení.
             </p>
 
             <p>
-                Moji hosté jsou povinni vyplnit podrobný zdravotní formulář se základním fyzickým a duševním zdravím, kterému věnujeme velkou pozornost.
-                Na každých 2,5 hostů máme jednoho facilitátora a jsme velmi šikovní, zvláště během obřadu a objevného dne (den po obřadu).
+                Moji hosté jsou povinni vyplnit podrobný zdravotní formulář se základním fyzickým a duševním zdravím,
+                kterému věnujeme velkou pozornost.
+                Na každých 2,5 hostů máme jednoho facilitátora a jsme velmi šikovní, zvláště během obřadu a dne objevu
+                (den po obřadu).
                 Práce s tímto lékem je zážitek na celý život a přitom velmi bezpečný!
             </p>
         </div>
@@ -50,7 +57,8 @@
             </p>
 
             <p>
-                Některé léky/léky vyžadují abstinenci až 30 dnů. Žádný strach, dejte nám vědět, co se děje, a my s vámi budeme v tomto procesu spolupracovat.
+                Některé léky/léky vyžadují abstinenci až 30 dnů. Žádný strach, dejte nám vědět, co se děje, a my s
+                vámi budeme v tomto procesu spolupracovat.
             </p>
 
             <p>
@@ -67,11 +75,13 @@
         <div class = "row">
             <div class = "col-xl-12">
                 <h4>Mindset</h4>
-                <p>Stanovte si svůj záměr na ústup, ujasněte si své cíle a připravte si otázky, na které se budete léku ptát. Další informace o tom, jak to provést, naleznete níže.
+                <p>Stanovte si svůj záměr na ústup, ujasněte si své cíle a připravte si otázky, na které se
+                    budete léku ptát. Další informace o tom, jak to provést, naleznete níže.
                 </p>
 
                 <p>
-                Součástí vašeho retreatového balíčku je přípravný hovor s jedním z nás. Dáme vám představu o tom, co můžete očekávat, uvidíme, jak na tom jste,
+                Součástí vašeho retreatového balíčku je přípravný hovor s jedním z nás. Dáme vám představu o
+                    tom, co můžete očekávat, uvidíme, jak na tom jste,
                 pomůžeme vám připravit si otázky a stanovit váš záměr.
                 </p>
 
