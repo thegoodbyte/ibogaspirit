@@ -30,4 +30,10 @@ class IbogaController extends Controller
         return View::make('pages.iboga.deprese');
 
     }
+
+    public function bwiti_tradice() {
+
+        return View::make('pages.iboga.bwiti-tradice');
+
+    }
 }

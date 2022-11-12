@@ -83,13 +83,13 @@
 
 
 <p>
-    In a traditional IBOGA Psycho-Spiritual ceremony, we learn about ourselves on all levels; physically, mentally, emotionally, and spiritually.  IBOGA helps by breaking down the illusions of the ego, letting go of the past, false beliefs, traumas and lies we have been telling ourselves.
-    Opening our hearts and minds to possibility and passion.
+    V tradičním psycho-spirituálním obřadu IBOGA se o sobě učíme na všech úrovních; fyzicky, mentálně, emocionálně a duchovně. IBOGA pomáhá tím, že boří iluze ega, opouští minulost, falešná přesvědčení, traumata a lži, které jsme si říkali.
+
 </p>
 
 <p>
 
-    This master plant teacher was used by the Pygmies, traditionally called Babongo; known to be one of the oldest African tribes. These tribes lived primitively, as hunters and gatherers where money holds no value. Some of these tribes are continuing to live the traditional way today and can be found deep in the jungles of Africa. The Babongo tribe used Iboga for thousands of years for ritualistic and healing purposes and then passed down the knowledge to the Bwiti tradition and its tribes in Gabon, Africa.
+    Tohoto mistra rostlinného učitele používali Pygmejové, tradičně nazývaní Babongo; známý jako jeden z nejstarších afrických kmenů. Tyto kmeny žily primitivně jako lovci a sběrači, kde peníze nemají žádnou hodnotu. Některé z těchto kmenů dnes nadále žijí tradičním způsobem a lze je nalézt hluboko v afrických džunglích. Kmen Babongo používal Ibogu po tisíce let pro rituální a léčebné účely a poté předal znalosti tradici Bwiti a jejím kmenům v Gabonu v Africe.
 
 </p>
 
@@ -97,89 +97,125 @@
 <p>
     <h4>8 DAY IBOGA RETREAT SCHEDULE</h4>
     <h4>DAY ONE Welcome Ceremony</h4>
-    A day for guests to meet each other, connect with providers, settle in and make themselves comfortable. At dark, we gather around the fire and share. Our providers speak about their own experiences with Iboga, the history of the plant and the Bwiti, wisdom about how to get the most out of the experience, and discuss the session schedule and general retreat information.
+    Den, kdy se hosté mohou setkat, spojit se s poskytovateli, usadit se a udělat si pohodlí. Za tmy se shromažďujeme kolem ohně a sdílíme. Naši poskytovatelé hovoří o svých vlastních zkušenostech s Ibogou, historii závodu a Bwiti, moudrosti o tom, jak z této zkušenosti vytěžit maximum, a diskutují o rozvrhu sezení a obecných informacích o ústupu.
 
 
     <div class = "row">
-        <h4>DAY TWO First Iboga Ceremony</h4>
+        <h4>DAY TWO První ceremonie Ibogy</h4>
         <p>
-        Early in the day, providers have a private, one-on-one chat with each guest to discuss life intentions and questions for the medicine. A late lunch is served, after which guests fast for the remainder of the day. At dark, there is a group Iboga Fire Ceremony, where traditional Bwiti music is played and wisdom teachings are imparted.
-        Guests take the medicine, which is administered as both Iboga Root Bark and its Total Alkaloid (TA) extraction. It is important to have both forms of the medicine available. Some people have a higher tolerance and it can get difficult to get enough root bark powder in them to send them deep and get what they need. Therefore we have the TA on hand so everyone has the opportunity to get what they came for.
+            Brzy během dne mají poskytovatelé soukromý chat s každým hostem, aby prodiskutovali životní záměry a otázky týkající se léku. Podává se pozdní oběd, po kterém se hosté po zbytek dne postí. Za tmy se koná skupina Iboga Fire Ceremony, kde hraje tradiční hudba Bwiti a předává se učení moudrosti.
+            Hosté užívají lék, který se podává jak jako kůra kořene Iboga, tak jako extrakce celkového alkaloidu (TA).
+            Je důležité mít k dispozici obě formy léku. Někteří lidé mají vyšší toleranci a to může dostat
+            obtížné dostat do nich dostatek prášku z kořenové kůry, aby je poslal hluboko a získal to, co potřebují. Proto máme zapnutou CK
+            ruku, aby měl každý možnost získat to, pro co přišel.
         </p>
         <p>
-        We talk about Life and other important teachings that come from the Bwiti tradition. This tradition is actually the study of Life itself. After about an hour or so, Iboga is given to each person who is participating in the ceremony. For most people, it takes about an hour until they begin to ‘feel the medicine’. Once someone is feeling the Iboga, they are escorted to a mattress in the ceremony area where they will spend the rest of the night.
+            Mluvíme o Životě a dalších důležitých učeních, které pocházejí z tradice Bwiti.
+            Tato tradice je ve skutečnosti studiem samotného Života. Asi po hodině je Iboga dána každému, kdo
+            se účastní obřadu. Většině lidí trvá asi hodinu, než začnou „cítit lék“.
+            Jakmile někdo cítí Ibogu, je eskortován na matraci v obřadní oblasti, kde stráví zbytek noci.
         </p>
         <p>
-        Our staff is present throughout the ceremony to help people with their needs, some water to drink,
-            more iboga if needed, help getting to and from the nearby bathroom, purging (vomiting), or offering direction as needed. We create a very safe environment for you so you can focus on your experience.
+            Náš personál je přítomen po celou dobu obřadu, aby pomohl lidem s jejich potřebami, trochou vody k pití,
+            více iboga v případě potřeby, pomoc při cestě do az blízké koupelny, čištění (zvracení) nebo nabídnutí směru podle potřeby.
+            Vytváříme pro vás velmi bezpečné prostředí, abyste se mohli soustředit na svůj zážitek.
         </p>
         <p>
-        When the time is right, we will begin the process of guiding you into yourself. This process has been used by the Bwiti for many generations. By guiding you, you can get the answers to any questions you may have about your life. You may be able to see and converse with your own spirit (your soul / higher self). Many people are able to ‘travel’ spiritually throughout the world. It is also possible to make contact with deceased family and friends using this process. During this guided journey we will also ‘open’ your third eye (spiritual vision) using special herbs and barks prepared by the Pygmies.
+            Až nadejde správný čas, zahájíme proces vedení vás do vás samotných. Tento proces používají Bwiti po mnoho generací. Tím, že vás provedeme, můžete získat odpovědi na jakékoli otázky, které o svém životě máte. Možná budete schopni vidět a konverzovat se svým vlastním duchem (vaší duší / vyšším já). Mnoho lidí je schopno „cestovat“ duchovně po celém světě. Pomocí tohoto procesu je také možné navázat kontakt se zesnulou rodinou a přáteli.
+            Během této cesty s průvodcem vám také ‚otevřeme‘ třetí oko (duchovní vidění) pomocí speciálních bylin a kůry, které připravili Pygmejové..
         </p>
         <p>
-        The remainder of the night is spent journeying in the ceremony area, until sunrise, when guests are taken back to their respective rooms.
+
+            Zbytek noci stráví cestováním v obřadní oblasti až do východu slunce, kdy jsou hosté odvezeni zpět do svých pokojů.
         <p>
     </div>
 
     <div class = "row">
         <h4>DAY THREE Discovery Day</h4>
         <p>
-            This day is all about introspection, insight, release, and acceptance. Commonly, so much happens during the active
-            Iboga journey itself (day two), that many of the insights and processing of that journey are realized on
-            Discovery Day. As the intensity of the medicine settles, Iboga’s gifts are presented. It is common to
-            experience intuitive messages and deep personal knowingness in the stillness of day three —
-            so it is extremely important to preserve that repose by staying off of phones, computers and other
-            electronic devices. By removing distractions, we keep ourselves open to receiving messages. Devices and
-            distractions block Iboga from continuing its work.
+            Tento den je o introspekci, vhledu, uvolnění a přijetí. Běžně se toho během aktivního děje tolik
+            Samotná cesta Iboga (den dva), na které se realizuje mnoho poznatků a zpracování této cesty
+            Den objevů. Jak se intenzita léku ustálí, jsou prezentovány dary Ibogy. Je to běžné
+            zažijte intuitivní zprávy a hluboké osobní znalosti v tichu třetího dne –
+            takže je nesmírně důležité zachovat si klid tím, že zůstanete mimo telefony, počítače a další
+            elektronická zařízení. Odstraněním rušivých vlivů se udržujeme otevřeni přijímání zpráv. Zařízení a
+            rozptýlení brání Iboze pokračovat v její práci.
         </p>
     </div>
 
     <div class = "row">
         <h4>DAY FOUR Offsite Excursion & Spiritual Shower</h4>
         <p>
-            By this day, guests are feeling more grounded in their bodies, the mind is quieter, and the body is lighter. Lessons are still coming, but guests feel ready to venture outside of the retreat grounds to witness the teachings. This day is necessary. Some retreats do 4 or 5 night retreats with 2 ceremonies. If you would be ready for another ceremony one day after recovering then you may not have been given a sufficient dose of medicine.
-            Day four is an important time to reconnect with nature. Iboga leaves us open and sensitive to the energies around us. This is the time to allow nature to fill the spaces that are opened up. And the purest form of intelligent wisdom and true resonance can only come from the Earth.
-            The day is spent outdoors, at one of our favorite beach spots or at the hot springs. Guests are able to connect to the profoundly healing energy of plants, trees — and most importantly, the ocean, the ultimate cleanser of what does not serve us.
-            Following the beach or hot springs, guests are given a Spiritual Shower, which is held in traditional Bwiti ceremony. Because Iboga has dislodged deeply stuck emotions, beliefs, traumas and patterns, the purpose of the Spiritual Shower is to fully release those things. In the space created by their absence, guests can invite their deepest dreams and wishes into being. The spiritual shower is done at a local river.
-            Each person must bring a change of clothes to this ceremony (which they must be comfortable leaving behind). The physical shedding of old clothing is symbolic of the spiritual shedding of old patterns and traumas.
+            V tento den se hosté cítí ve svém těle pevněji, mysl je tišší a tělo lehčí.
+            Lekce stále přicházejí, ale hosté se cítí připraveni vyrazit mimo útočiště, aby byli svědky učení.
+            Tento den je nezbytný. Některé retreaty dělají 4 nebo 5 nočních retreatů se 2 ceremoniemi. Pokud byste byli připraveni na další obřad jeden den po uzdravení, možná vám nebyla podána dostatečná dávka léku.
+            Čtvrtý den je důležitým časem pro opětovné spojení s přírodou. Iboga nás nechává otevřené a citlivé k energiím kolem nás.
+            Toto je čas umožnit přírodě zaplnit prostory, které se otevírají. A nejčistší forma inteligentní moudrosti a skutečné rezonance může pocházet pouze ze Země.
+            Den strávíme venku, na jednom z našich oblíbených plážových míst nebo u horkých pramenů. Hosté se mohou hluboce připojit
+            léčivá energie rostlin, stromů – a co je nejdůležitější, oceán, konečný čistič toho, co nám neslouží.
+            Po pláži nebo horkých pramenech je hostům poskytnuta duchovní sprcha, která se koná v tradičním obřadu Bwiti.
+            Protože Iboga odstranila hluboce uvízlé emoce, přesvědčení, traumata a vzorce, účelem Duchovní sprchy je
+            úplně uvolnit ty věci. V prostoru vzniklém jejich nepřítomností si hosté mohou pozvat své nejhlubší sny a přání ke vzniku.
+            Duchovní sprcha se provádí u místní řeky.
+            Na tento obřad si každý musí přinést převlečení (které musí pohodlně nechat).
+            Fyzické svlékání starého oděvu je symbolem duchovního svlékání starých vzorů a traumat.
         </p>
 
         <p>
-            The Spiritual Shower is an ancient African ceremony. We work with plants and nature’s water spirits to call in positive, self-serving patterns and release negative, self-sabotaging patterns. The depths to which we can release negativity in this ceremony are limitless — we are even able to access and shed negativity from our ancestral lineage. It is all able to be washed away, cleansed and renewed.
+            Duchovní sprcha je starověký africký obřad. Pracujeme s rostlinami a přírodními vodními duchy
+            v pozitivních, samoúčelných vzorcích a uvolňovat negativní, sebesabotující vzorce.
+            Hloubky, do kterých můžeme uvolnit negativitu v tomto obřadu, jsou neomezené – jsme dokonce schopni
+            přístup a zbavit se negativity z naší rodové linie. To vše je možné smýt, vyčistit a obnovit.
         </p>
     </div>
 
     <div class = "row">
         <h4>DAY FIVE Onsite Activities & Second Iboga Ceremony</h4>
         <p>
-            ceremony under palapaDuring the day, guests have the option to schedule in-house massages. Wonderful massage therapists come to the center and perform a full body massages for our guests. Many guests have said it was the best massage of their life..
+            Během dne mají hosté možnost naplánovat si vlastní masáže.
+            Do centra přijíždějí skvělí maséři a provádějí pro naše hosty masáž celého těla. Mnoho hostů řeklo
+            byla to nejlepší masáž jejich života..
 
-            Group integration circle before lunch.  Light nature walks later in the afternoon.
+            Skupinový integrační kroužek před obědem. Lehké procházky přírodou později odpoledne.
 
-            In the evening, we hold our second Iboga ceremony. Around the fire, as we begin to take the medicine, guests are invited (but not required) to share about their first ceremony. The things that were cleared out during the first journey will not need to be addressed again; the second Iboga ceremony allows us to move even deeper inward.
+            Večer pořádáme náš druhý obřad Iboga. Kolem ohně, když začneme brát léky,
+            hosté jsou zváni (ale není to nutné), aby se podělili o svůj první obřad. Věci, které byly během
+            první cestu nebude třeba znovu řešit; druhý obřad Iboga nám umožňuje posunout se ještě hlouběji dovnitř.
 
-            The iboga experience will be different in some way each time we have the medicine. Guests should be trust the medicine to do its job. We just have to know what we want from the experience.
+            Zážitek z ibogy se bude nějakým způsobem lišit pokaždé, když budeme mít lék. Hosté by měli léku věřit, že udělá svou práci.
+            Musíme jen vědět, co ze zkušenosti chceme.
         </p>
     </div>
 
     <div class = "row">
-        <h4>DAY SIX Discovery Day</h4>
+        <h4>DAY 7 </h4>
         <p>
-            What transpires on the second Discovery Day is much like the first; Iboga’s wisdom and teachings reveal themselves as its ceremonial energy begins to quiet. We spend time without distractions, exploring the peace and truth of our own spirits’ stillness.
-            DAY SEVEN Offsite Excursion & Closing Talk
-            Our day is spent soaking up the healing sunlight and cleansing ocean energy at another beach along the coast.
-            In the evening, we gather as a group and enjoy the benefits the medicine. Wisdom about taking our new found
-            gifts and taking the lessons we have learned to create the life we want. By this point everyone is realizing
-            the gifts of the medicine and what they have released from the experience. 2 deep full dose experiences with
-            the medicine is profound and for many it is enough iboga to last them a lifetime.
+            Náš den trávíme nasáváním léčivého slunečního světla a čištěním energie oceánu na další pláži podél pobřeží.
+            Večer se sejdeme jako skupina a užíváme si výhod léku. Moudrost o tom, že vezmeme naše nově nalezené dary a vezmeme si lekce, které jsme se naučili, abychom si vytvořili život, jaký chceme. V tomto okamžiku si každý uvědomuje dary léku a to, co ze zkušenosti uvolnil.
+            2 hluboké zážitky plné dávky s tímto lékem jsou hluboké a pro mnohé stačí iboga, která jim vydrží na celý život.
+        </p>
+    </div>
+
+    <div class = "row">
+        <h4>DAY SIX Den objevů</h4>
+        <p>
+            To, co se stane druhého Discovery Day, je velmi podobné prvnímu; Moudrost a učení Ibogy se odhalují, když její obřadní energie začíná utichat. Trávíme čas bez rozptylování zkoumáním míru a pravdy nehybnosti našeho vlastního ducha.
+            DEN SEDMÝ Exkurze a závěrečný rozhovor
+            Náš den trávíme nasáváním léčivého slunečního světla a čištěním energie oceánu na další pláži podél pobřeží.
+            Večer se sejdeme jako skupina a užíváme si výhod léku. Moudrost o převzetí našeho nového nálezu
+            dary a vzít si lekce, které jsme se naučili, abychom si vytvořili život, jaký chceme. V tomto bodě si každý uvědomuje
+            dary léku a to, co ze zkušenosti uvolnili. 2 hluboké plné dávky zkušeností s
+            medicína je hluboká a pro mnohé stačí iboga, která jim vydrží na celý život.
         </p>
     </div>
 
     <div class = "row">
         <h4>DAY EIGHT Departure Day</h4>
         <p>
-            Breakfast and lunch are served at the center while guests wait to be taken to the airport to board their departing flights or on to the next destination in Costa Rica.
-            Everything offered during our 8-day retreats is optional; if guests do not feel comfortable participating in certain scheduled activities, they may opt out. It’s all about empowered choice, and the choice to partake is always up to the individual.
+            Snídaně a obědy se podávají v centru, zatímco hosté čekají na odvoz na letiště, aby nastoupili na odlet
+            lety nebo do další destinace v Kostarice.
+            Vše nabízené během našich 8denních pobytů je volitelné; pokud se hosté necítí dobře účastnit se určitých
+            plánované činnosti, mohou se odhlásit. Je to všechno o zmocněné volbě a volba zúčastnit se je vždy na jednotlivci.
         <p>
     </div>
 

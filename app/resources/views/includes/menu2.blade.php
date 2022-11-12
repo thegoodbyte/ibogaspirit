@@ -28,9 +28,10 @@
             </li>
             <li class="dropdown menu-item"><a href="#">OBŘADY</a>
                 <ul>
-                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat">Co očekávat</a></li>
-                    <li><a href="/obrady/vse-o-iboga-obradech">Vše o Obřadech</a></li>
+                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat">Váš první Iboga obřad</a></li>
                     <li><a href="/obrady/priprave-a-prubezna-prace">Příprava a Průběžná péče</a></li>
+                    <li><a href="/obrady/priprave-a-prubezna-prace">Sedmidenní retreatační pobyt</a></li>
+                    <li><a href="/obrady/vse-o-iboga-obradech">Vše o Iboga obřadech</a></li>
                     <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
                     <!--
                     <li class="dropdown second-level"><a href="#">2nd level dropdown</a>

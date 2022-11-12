@@ -14,44 +14,50 @@
 
     <div class = "row">
         <div class = "col-xl-6">
-            <p>
-
-                Twenty years ago, our teacher, a 10th generation Missoko Bwiti Shaman called Moughenda, was advised by the medicine to open it up to the west as the world is in need of deep healing. We work closely with Moughenda as our Bwiti teacher and mentor.
-            </p>
 
             <p class = "text--justify">
 
-                Moughenda is 10th generation Shaman in the Missoko Bwiti tradition, currently living and working in Gabon Africa.
-                He has been living and breathing this tradition and this Shamanic way his entire life. He was introduced to the medicine in utero, but it wasn’t until he was 8 years old that he took his very first big dose of medicine and started training with his grandfather, the 9th generation Bwiti Shaman. It take about twenty years of intense training and four major initiations to earn the title of a Bwiti Shaman. Once he graduated as a Shaman, he continued to work closely with his grandfather for an additional ten years.
+                Moughenda je šaman 10. generace v tradici Missoko Bwiti, v současnosti žije a pracuje v Gabonu v Africe.
+                Celý život žije a dýchá touto tradicí a tímto šamanským způsobem. Byl seznámen s lékem in utero,
+                ale teprve v 8 letech si vzal svou úplně první velkou dávku léků a začal trénovat se svým dědečkem,
+                Bwiti Shaman 9. generace. Trvá asi dvacet let intenzivního tréninku a čtyři hlavní zasvěcení, než získáte titul a
+                Bwiti šaman. Jakmile promoval jako šaman, pokračoval v úzké spolupráci se svým dědečkem dalších deset let.
             </p>
 
+
+
+            <blockquote class="blockquote">Miluji a užívám si práci s lidmi, pomáhám jim léčit hluboká zranění, najít své pravé já, objevit
+                štěstí a jejich skutečné duchovní cesty,“ říká Moughenda.</blockquote>
+
+
             <p>
-                Moughenda was guided by the medicine to open up the Bwiti tradition and its powerful healing medicine Iboga to
-                anyone who was interested in learning and healing with it. He moved to North America where he spent sixteen years
-                studying western culture and eventually opened up a centre in Costa Rica where he treated many people over the course of a
-                few years. This also allowed him to closely train Westerners who were interested in learning this Shamanic way of healing and providing to others. He is the only Shaman to have ever been given the rights to guide Westerners in Bwiti Shamanic training for psycho-spiritual journeys.
+                Moughenda byl veden medicínou, aby otevřel tradici Bwiti a její mocnou léčivou medicínu Ibogou
+                každý, kdo ma zájem se s ní učit a léčit. Přestěhoval se do Severní Ameriky, kde strávil šestnáct let:
+                studoval západní kulturu a nakonec otevřel centrum v Kostarice, kde v průběhu let léčil mnoho lidí.
+                <blockquote class="blockquote">Setkání s lidmi ze všech oblastí života, sdílení učení a znalostí tradice Bwiti –
+                medicína Iboga a její léčení pro mě bylo obrovským požehnáním. Děkuji Bohu za každý den
+                narodit se do pravé šamanské linie.</blockquote>
+                To mu také umožnilo úzce trénovat obyvatele Západu, kteří měli zájem o učení se tímto šamanským způsobem
+                léčení a poskytování druhým. Je jediným šamanem, který kdy dostal právo vést obyvatele Západu dovnitř
+                Bwiti šamanskeho výcviku na psycho-duchovní cesty.
             </p>
+
+            <p>Úzce spolupracuji s Moughendou jako sse svym Bwiti učitelem a mentorem.</p>
         </div>
         <div class = "col-xl-6">
             <img src = "/images/home/onas/moughenda.jpeg" />
         </div>
     </div>
 
-            <p>
-                Training with Moughenda consists of a two-month stay in Africa, where you learn the theory of providership,
-                and most importantly, you get to know yourself on a deeper level and therefore are able to heal yourself.
-                Moughenda has graduated Martin and he continues to guide and support her as a teacher and mentor.
-            </p>
 
-            <p>
-                “To me, living as a true shaman is the best thing that ever happened to me.
-                I love and enjoy working with people, helping them heal deep wounds, find their true selves, discover happiness and their true spiritual paths,” he says.
-            </p>
 
-            <p>
-                “Meeting people from all walks of life, sharing the Bwiti tradition’s teachings and knowledge -
-                the medicine of Iboga and its healing has been a huge blessing to me. I thank God every day for being born into a true shamanic lineage.”
-            </p>
+            <!--
+                <blockquote class="blockquote">To me, living as a true shaman is the best thing that ever happened to me.</blockquote>
+            -->
+
+
+
+
         </div>
     </div>
 

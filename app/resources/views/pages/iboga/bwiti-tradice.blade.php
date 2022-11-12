@@ -6,20 +6,21 @@
     </div>
 
     <div class = "row text-center">
-        <h3>Bwiti tradition – Shamanic healing</h3>
+        <h3>
+            Bwiti tradice – šamanské léčení</h3>
     </div>
 
 <div class = "row">
     <div class = "col-xl-8">
         <p>
-            Bwiti a tradition which comes from the Bwiti tribe in Gabon, Africa, meaning...
+            Bwiti je tradice, která pochází z kmene Bwiti v Gabonu v Africe, což znamená...
 
-            “the study of life or study of nature”.
-            Bwiti is not a religion but a traditional spiritual path that takes you to a deep connection with your soul,
-            teaches you to master yourself, and to be present in your own experience.
-            It empowers you to uncover all the truths about yourself that may be holding you back from living the life you want.
-            To journey within, we use the sacred plant medicine IBOGA. It is the tradition’s sacrament, a “gentle giant”
-            plant teacher with the innate wisdom to bring you to the truth of who you are.
+        <h3>„studium života nebo studium přírody“.</h3>
+            Bwiti není náboženství, ale tradiční duchovní cesta, která vás přivede k hlubokému spojení s vaší duší,
+            učí vás ovládat sebe sama a být přítomen ve své vlastní zkušenosti.
+            Umožňuje vám odhalit všechny pravdy o sobě, které vám mohou bránit žít život, jaký chcete.
+            K cestě dovnitř používáme posvátnou rostlinnou medicínu IBOGA. Je to svátost tradice, „jemný obr“
+            učitel rostlin s vrozenou moudrostí, aby vás přivedl k pravdě o tom, kdo jste.
         </p>
     </div>
     <div class = "col-xl-4">
@@ -35,19 +36,20 @@
 
 
     <div class = "col-xl-7">
-        <h3> Missoko Bwiti Tradition</h3>
+        <h3> Missoko Bwiti Tradice</h3>
 
         <p>
-            The Missoko Bwiti tradition goes back thousands of years and its lineage may go all the way back to the earliest
-            times of humanity. It comes from the Dissumba tradition which is the original form of Bwiti which eventually
-            broke off into different sects each of which still holds many of the same traditions.
-            The tradition began with the Babongo people of Gabon who are also known as the Pygmies, however,
-            Pygmy is a French term and is considered derogatory. Even before they discovered Iboga, the Babongo studied
-            life itself building the foundation for the tradition we have today. The Babongo were also the ones who discovered
-            Iboga and eventually the Iboga influenced and inspired everything Bwiti. Nearly every aspect of the Missoko
-            tradition today is created by the Iboga spirit and Iboga is their main sacrament. The Babongo people kept
-            the Iboga sacrament secret amongst themselves for a very long time in order to protect it. They eventually
-            shared it with others and it is now one of the main spiritual traditions of Gabon.
+            Tradice Missoko Bwiti sahá tisíce let zpět a její linie může sahat až k nejstarším
+            doby lidstva. Pochází z tradice Dissumba, což je původní forma Bwiti, která nakonec
+            se rozdělil na různé sekty, z nichž každá stále drží mnoho stejných tradic.
+            Tradice začala u Babongů z Gabonu, kteří jsou také známí jako Pygmejové, nicméně,
+            Pygmej je francouzský výraz a je považován za hanlivý. <br />
+            Ještě předtím, než objevili Ibogu, Babongo studovali
+            život sám vytváří základ pro tradici, kterou máme dnes. Babongo byli také těmi, kdo objevili
+            Iboga a nakonec Iboga ovlivnily a inspirovaly všechno Bwiti. Téměř každý aspekt Missoko
+            dnešní tradice je vytvořena duchem Iboga a Iboga je jejich hlavní svátostí. Lidé Babongo si ponechali
+            svátost Iboga mezi sebou po velmi dlouhou dobu tajila, aby ji ochránili. Oni nakonec
+            sdílel to s ostatními a nyní je to jedna z hlavních duchovních tradic Gabonu.
         </p>
     </div>
 </div>
@@ -56,16 +58,18 @@
 
 <div class = "row">
     <div class = "col-xl-8">
-        <h4>Misrepresentation</h4>
-        <p>Much of the information about Bwiti available in books and the internet is actually about the Fang.
-            The Fang are not the only sect out there and are actually quite different from the Missoko.
-            While the Fang are Bwiti, they are actually influenced by Christianity brought over to Gabon by F
-            rench missionaries a few hundred years ago. Missoko Bwiti does not have a Christian influence and is
-            less known today because it was purposely hidden and kept secret in order to protect it from the Christians
-            and French Colonialists. Missoko Bwiti was only passed on from breath to breath or via oral tradition
-            and because of this, much of the data available is limited to the Fang who have been in more contact with the
-            west. Missoko Bwiti history was not recorded how we record it in the west but has instead been passed down by
-            stories from generation to generation.
+        <h4>Misreprezentace a Zkreslení</h4>
+        <p>
+            Mnoho informací o Bwiti dostupných v knihách a na internetu je ve skutečnosti o Tesáku.
+            Tesáci nejsou jedinou sektou tam venku a jsou ve skutečnosti docela odlišní od Missoko.
+            Zatímco Fang jsou Bwiti, jsou ve skutečnosti ovlivněni křesťanstvím, které do Gabonu přinesl F
+            rench misionáři před několika sty lety. Missoko Bwiti nemá křesťanský vliv a je
+            dnes méně známá, protože byla záměrně skryta a utajována, aby byla chráněna před křesťany
+            a francouzských kolonialistů. <br />
+            Missoko Bwiti byla pouze předávána z dechu do dechu nebo prostřednictvím ústní tradice
+            a z tohoto důvodu je velká část dostupných dat omezena na Tesáky, kteří s nimi byli ve větším kontaktu
+            Západ. Historie Missoko Bwiti nebyla zaznamenána tak, jak ji zaznamenáváme na západě, ale byla předávána dál
+            příběhy z generace na generaci.
         </p>
     </div>
     <div class = "col-xl-4">
@@ -80,15 +84,16 @@
 
 
     <div class = "col-xl-7">
-        <h4>Rituals and Ceremonies</h4>
+        <h4>Rituály a obřady</h4>
 
-        <p>Missoko Bwiti rituals and ceremonies are powerfully rich expressions of the human spirit.
-            The Rite of Passage, a “coming of age” ritual for women and men of all ages, lasting varying amounts of time,
-            delivering changed people on the other side. This works as a way to ensure community, integrity,
-            and connection, which is something lost upon us in the west. The Initiation is another “coming of age”
-            ceremony where Iboga is consumed. The initiation is where they learn the reality of life and meet their soul,
-            learn who they truly are. Initiation Ceremonies involve ingesting Iboga, lots of wonderful music, and dancing.
-            They are a very powerful traditional experience to participate in.
+        <p>
+            Missoko Bwiti rituály a ceremonie jsou mocně bohatým vyjádřením lidského ducha.
+            Rite of Passage, rituál „dospívání“ pro ženy a muže všech věkových kategorií, trvající
+            různě dlouhou dobu a přináší změněné lidi na druhé straně. Funguje to jako způsob, jak zajistit
+            komunitu, integritu a spojení, což je něco, co jsme na západě ztratili. Zasvěcení je další obřad „dospívání“,
+            kdy se konzumuje Iboga. Zasvěcení je místo, kde se učí realitě života a setkávají se se svou duší, poznávají,
+            kým skutečně jsou. Iniciační obřady zahrnují požívání Ibogy, spoustu nádherné hudby a tance. Jsou velmi silným
+            tradičním zážitkem, kterého se lze zúčastnit.
         </p>
     </div>
 </div>
@@ -96,14 +101,18 @@
 
 <div class = "row">
     <div class = "col-xl-8">
-        <h4>Shaman</h4>
+        <h4>Šaman</h4>
         <p>
-            Shamans (Nimas) are the spiritual leaders of the community and go through rigorous training for decades.
-            In the case of our Shaman, his birth was prophesied years in advance. The new Shaman is usually someone
-            within the bloodline of the previous shaman but is not necessarily their son or daughter. The Shaman is
-            the main healer and spiritual guide of the community. When someone is sick or having spiritual difficulties,
-            they turn to the Shaman who has the whole toolbox of the jungle and spirits to assist them in their healing.
-            A good Shaman is a master of the plant medicines found in the jungle, knowing hundreds of plants inside and out.
+            Šamani (Nimas) jsou duchovní vůdci komunity a procházejí přísným výcvikem po celá desetiletí.
+            V případě našeho Šamana bylo jeho narození prorokováno roky dopředu. Nový šaman je obvykle někdo
+            v pokrevní linii předchozího šamana, ale není to nutně jejich syn nebo dcera.
+        </p>
+
+        <p>
+            Šaman je
+            hlavní léčitel a duchovní průvodce komunity. Když je někdo nemocný nebo má duchovní potíže,
+            obracejí se na šamana, který má celou sadu nástrojů džungle a duchů, aby jim pomohl v jejich léčení.
+            Dobrý šaman je mistrem rostlinných léčiv nalezených v džungli, zná stovky rostlin uvnitř i vně.
         </p>
     </div>
     <div class = "col-xl-4">
@@ -119,20 +128,23 @@
 
 
     <div class = "col-xl-7">
-        <h4>Nature</h4>
+        <h4>Příroda</h4>
         <p>
-            The Bwiti believe that everything they need will be provided for them. If you have ever walked in the jungles of
-            Gabon, you can quickly understand how this gratitude and trust came to be. Nutritious food and fruit can be
-            collected from almost anywhere, traps for what they call “bush meat” can be set and simply collected,
-            rather than spending days on the hunt. Water also flows abundantly with plenty of rain to keep the jungle alive.
-            As mentioned above, the earliest Bwiti were constantly studying life itself and examining who it could be that
-            gave them life and abundance. What came out of that searching was a powerful message, that nature will always
-            give them what they need, but if they abused it or became attached to it, that they would suffer misery.
-            This concept is such a powerful distillation of wisdom when examined. One can quickly understand why people
-            existing in the “modern world” are so unhappy, making their lives about the collection of material goods and
-            living within an entire structure that abuses the natural world and is deeply attached to the material
-            goods it has extracted. The Bwiti still live with the integrity that follows their respect for this proverb.
-            They live simpler lives, that are deeply connected to nature and the community and are incredibly happy as a result.
+            Bwiti věří, že jim bude poskytnuto vše, co potřebují. Pokud jste někdy chodili v džungli
+            Gabone, rychle pochopíš, jak tato vděčnost a důvěra vznikla. Výživné jídlo a ovoce mohou být
+            shromážděné téměř odkudkoli lze nastražit pasti na to, čemu říkají „křoví maso“, a jednoduše je shromáždit,
+            než trávit dny na lovu. Voda také hojně teče se spoustou deště, aby udržela džungli při životě.
+            Jak bylo zmíněno výše, nejstarší Bwiti neustále studovali život samotný a zkoumali, kdo by to mohl být
+            dal jim život a hojnost. Z toho hledání vzešlo mocné poselství, že příroda vždy bude
+            dejte jim, co potřebují, ale pokud by toho zneužili nebo se k tomu připoutali, utrpěli by bídu.
+        </p>
+
+        <p>
+            Tento koncept je při zkoumání tak silnou destilací moudrosti. Člověk rychle pochopí, proč lidé
+            existující v „moderním světě“ jsou tak nešťastní, takže jejich životy jsou shromažďováním hmotných statků a
+            žít v celé struktuře, která zneužívá přírodní svět a je hluboce spjata s materiálem
+            zboží, které vytěžila. Bwiti stále žijí s bezúhonností, která vyplývá z jejich respektu k tomuto přísloví.
+            Žijí jednodušší život, který je hluboce spjat s přírodou a komunitou a díky tomu jsou neuvěřitelně šťastní.
         </p>
     </div>
 </div>

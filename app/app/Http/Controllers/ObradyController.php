@@ -19,4 +19,8 @@ class ObradyController extends Controller
         return View::make('pages.obrady.lekarske-smernice');
     }
 
+    public function pobyt() {
+        return View::make('pages.obrady.pobyt');
+    }
+
 }

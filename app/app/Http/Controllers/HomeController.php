@@ -17,7 +17,7 @@ class HomeController extends Controller
     }
 
     public function nganga() {
-        //return View::make('test.nganga');
+        return View::make('pages.onas.nganga');
     }
 
     public function moughenda() {
