@@ -5,21 +5,32 @@
 </div>
 
 <div class = "row">
+    <div class = "row">
+        <h3 class = "font-just-me text-uppercase">Vše o Iboga obřadech</h3>
+    </div>
     <div class = "col-xl-12">
         <p>
             Každý obřad Ibogy začíná kolem ohně, ktery důležitou součástí ctění posvátné tradice Bwiti.
+        </p>
 
+        <p>
             Oheň byl prvním portálem, který Bwiti objevil do duchovního světa. Oheň je skvělým ochráncem, osvětluje
             obřadní prostor a jeho kouř slouží jako přistávací dráha pro duchy, aby vstoupili a pomohli.
             Oheň spálí to, co nám již neslouží.
+        </p>
 
+        <p>
             Během řeči u krbu se sdílejí základní učení Bwiti a také šamanská učení, aby se vytvořila fáze introspekce.
+        </p>
 
+        <p>
             Přednášky předávají životně důležitou moudrost, kterou můžeme využít v každodenním životě. Učení se o tom,
             kdo jsme, že život je dar, spojení s naší duší, milování sebe sama, překonání ega, posílení sebe sama,
             nalezení vnitřního klidu a učení se, jak odpustit naší minulosti a důvěřovat tomuto životu, to jsou
             některá ze silných témat.
+        </p>
 
+        <p>
             Načasování obřadu u ohně je zásadní. Hosté vstoupí do ceremonie s tímto učením v popředí svého vědomí,
             těsně před užitím léku U ohně budou naši facilitátoři diskutovat o účincích léku a podělí se o naše vlastní
             léčebné zkušenosti.

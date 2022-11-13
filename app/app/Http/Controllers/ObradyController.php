@@ -11,8 +11,8 @@ class ObradyController extends Controller
     //
 
 
-    public function iboga_obrady() {
-        return View::make('pages.obrady.iboga_obrady');
+    public function all_about_iboga_ceremonies() {
+        return View::make('pages.obrady.all_about_iboga_ceremonies');
     }
 
 
@@ -20,15 +20,23 @@ class ObradyController extends Controller
         return View::make('pages.obrady.lekarske-smernice');
     }
 
-    public function pobyt() {
-        return View::make('pages.obrady.pobyt');
-    }
+
 
     public function vase_prvni_ceremonie() {
 
         App::setLocale('ru');
         return View::make('pages.obrady.pobyt');
     }
+
+    public function eight_day_retreat() {
+        return View::make('pages.obrady.8-day-retreat');
+    }
+
+    public function your_first_ceremony() {
+        return View::make('pages.obrady.your-first-ceremony');
+    }
+
+
 
 
 }

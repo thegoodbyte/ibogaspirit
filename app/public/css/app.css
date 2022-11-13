@@ -10,16 +10,26 @@
 }
 
 @font-face {
-    font-family: Brilotus;
-    src: url('/fonts/brilotus/Brilotus.ttf');
+    font-family: Brillotus;
+    src: url('/fonts/brillotus/brillotus.otf');
+}
+
+@font-face {
+    font-family: gh;
+    src: url('/fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf');
 }
 
 
-.pobyty-day1-pic-box {
+
+.pobyt-day-box {
+    background: radial-gradient(ellipse 100% 7% at 50% 100%, rgba(55, 55, 55, 0.5) 200px, rgba(55, 55, 55, 0.1) 360px, white 380px);
+}
+
+.retreats-img-box {
     display:   block;
     background: red;
-    width: vw;
-    height: vh;
+    width: 100vw;
+    height: 100vh;
 }
 
 ul.lh-150 li {
@@ -38,7 +48,36 @@ ul.lh-150 li {
     padding-left: 0px;
 }
 
-.font-s-blossom {
+/*.font-s-blossom {*/
+/*    font-family: Samble;*/
+/*    font-size: 30px;*/
+/*    color: #b81300;*/
+/*}*/
+
+/*.font-brillotus {*/
+/*     font-family: Brillotus;*/
+/*     font-size: 50px;*/
+
+/*     color: #b81300;*/
+/* }*/
+
+
+.font-just-me {
+    font-family: 'Just Me Again Down Here', cursive;
+    font-size: 50px;
+    color: #b81300;
+    font-weight: 700;
+}
+
+
+.font-gh {
+    font-family: gh;
+    font-size: 50px;
+
+    color: #b81300;
+}
+
+.font-samble {
     font-family: Samble;
     font-size: 30px;
     color: #b81300;
