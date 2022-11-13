@@ -1,18 +1,19 @@
 <div class = "row">
     <div class = "row">
-    <h4>DAY SIX Den objevů</h4>
+    <h3  class = "font-just-me">DAY SIX Den objevů</h3>
     </div>
 
     <div class = "row">
+        <div class = "col-xl-6">
+            <ing src = "/images/obrady/jigsaw-2.jpeg" />
+        </div>
+
         <div class = "col-xl-6">
             <p>
                 To, co se stane druhého Discovery Day, je velmi podobné prvnímu; Moudrost a učení Ibogy se odhalují, když její obřadní
                 energie začíná utichat. Trávíme čas bez rozptylování zkoumáním míru a pravdy nehybnosti našeho vlastního ducha.
                 DEN SEDMÝ Exkurze a závěrečný rozhovor
             </p>
-        </div>
-
-        <div class = "col-xl-6">
             <p>
                 Náš den trávíme nasáváním léčivého slunečního světla a čištěním energie oceánu na další pláži podél pobřeží.
                 Večer se sejdeme jako skupina a užíváme si výhod léku. Moudrost o převzetí našeho nového nálezu

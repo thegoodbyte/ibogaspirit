@@ -1,6 +1,13 @@
 <div class = "row">
+    <div class = "row">
+        <h4 class = "font-just-me">PÁTÝ DEN - Aktivity na místě a druhý obřad Ibogy</h4>
+    </div>
+
+    <div class = "col-xl-3">
+        <blockquote>Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitř.</blockquote>
+    </div>
     <div class = "col-xl-9">
-        <h4>PÁTÝ DEN - Aktivity na místě a druhý obřad Ibogy</h4>
+
         <p>
             Během dne mají hosté možnost naplánovat si vlastní masáže.
             Do centra přijíždějí skvělí maséři a provádějí pro naše hosty masáž celého těla. Mnoho hostů řeklo
@@ -23,7 +30,5 @@
         </p>
     </div>
 
-    <div class = "col-xl-3">
-        <blockquote>Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitř.</blockquote>
-    </div>
+
 </div>

@@ -1,23 +1,23 @@
 
-@font-face {
-    font-family: sf;
-    src: url('/fonts/strawberry-blossom/Strawberry_Blossom.ttf');
-}
+/*@font-face {*/
+/*    font-family: sf;*/
+/*    src: url('/fonts/strawberry-blossom/Strawberry_Blossom.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: Samble;
-    src: url('/fonts/samble/samble.ttf');
-}
+/*@font-face {*/
+/*    font-family: Samble;*/
+/*    src: url('/fonts/samble/samble.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: Brillotus;
-    src: url('/fonts/brillotus/brillotus.otf');
-}
+/*@font-face {*/
+/*    font-family: Brillotus;*/
+/*    src: url('/fonts/brillotus/brillotus.otf');*/
+/*}*/
 
-@font-face {
-    font-family: gh;
-    src: url('/fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf');
-}
+/*@font-face {*/
+/*    font-family: gh;*/
+/*    src: url('/fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf');*/
+/*}*/
 
 
 
@@ -65,6 +65,13 @@ ul.lh-150 li {
 .font-just-me {
     font-family: 'Just Me Again Down Here', cursive;
     font-size: 50px;
+    color: #b81300;
+    font-weight: 700;
+}
+
+.font-just-me-small {
+    font-family: 'Just Me Again Down Here', cursive;
+    font-size: 30px;
     color: #b81300;
     font-weight: 700;
 }

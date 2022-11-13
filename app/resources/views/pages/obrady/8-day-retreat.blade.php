@@ -17,13 +17,13 @@
 
         <p>
             Celý plán pobytu navrhl náš učitel a šaman Moughenda. Harmonogram zajišťuje, že hosté mají dostatek času
-            připravit se na obřad Iboga a zvládnout většinu obřadů Iboga. Patří mezi ně dny věnované zpracování
-            zážitku Iboga a den integrace zážitku Iboga do běžného bdělého života hosta.
+            připravit se na obřad Ibogy a ziskat co nejvice z celeho pobytu. Patří mezi ně dny věnované zpracovávání
+            zážitku Ibogy leceni a take dny integrace Ibogy zaxzitku a poznani do běžného života hosta.
         </p>
     </div>
 
     <div class = "row">
-        <div class = "col-xl-6">
+        <div class = "col-xl-5">
             <h3>Rozvrh pobytu</h3>
                 <ul id = "pobyty-list-overview">
                 <li><span>1. </span> PŘÍJEZD / UBYTOVÁNÍ</li>
@@ -38,12 +38,16 @@
 
         </div>
 
-        <div class = "col-xl-6">
-            <h3 class = "font-s-blossom">Co je zahrnuto</h3>
+        <div class = "col-xl-7">
+            <p class = "p-5 font-just-me-small">Celý plán pobytu navrhl náš učitel a šaman Moughenda. Harmonogram zajišťuje, že hosté mají dostatek
+                času připravit se na obřad Ibogy a ziskat co nejvice z celeho pobytu. Patří mezi ně dny věnované
+                zpracovávání zážitku Ibogy leceni a take dny integrace Ibogy zaxzitku a poznani do běžného života hosta.
+            </p>
+        </div>
+    </div>
 
 
-
-        <div class = "row">
+    <div class = "row">
             <div class = "col-xl-2">
                 &nbsp;
             </div>
@@ -59,7 +63,7 @@
 
         </div>
 
-    </div>
+
 
 
 
@@ -120,8 +124,8 @@
 {{--    @include('pages.obrady.retreat-days.retreat-day-2')--}}
     @include('pages.obrady.retreat-days.retreat-day-3')
     @include('pages.obrady.retreat-days.retreat-day-4')
-{{--    @include('pages.obrady.retreat-days.retreat-day-5')--}}
-{{--    @include('pages.obrady.retreat-days.retreat-day-6')--}}
+    @include('pages.obrady.retreat-days.retreat-day-5')
+    @include('pages.obrady.retreat-days.retreat-day-6')
 {{--    @include('pages.obrady.retreat-days.retreat-day-7')--}}
 {{--    @include('pages.obrady.retreat-days.retreat-day-8')--}}
 
