@@ -1,5 +1,5 @@
 <header id="masthead" class="site-header ">
-    <div data-elementor-type="jet_header" data-elementor-id="26" class="elementor elementor-26">
+    <div>
         <section>
             <div class = "row header-bottom">1</div>
         </section>
@@ -15,7 +15,7 @@
         </section>
 
         <section>
-            <div class = "row header-bottom">2</div>
+            <div class = "header-bottom-row">2</div>
         </section>
     </div>
 </header>

@@ -5,7 +5,7 @@
 
     <div class = "row">
         <div class = "col-xl-6">
-            <ing src = "/images/obrady/jigsaw-2.jpeg" />
+            <img src = "/images/obrady/jigsaw-2.jpeg" />
         </div>
 
         <div class = "col-xl-6">

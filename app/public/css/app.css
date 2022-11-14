@@ -5,12 +5,80 @@
 }
 
 
+.font-size-40 {
+    font-size: 40px;
+}
+
+.font-size-60 {
+    font-size: 60px;
+}
+
+.font-size-80 {
+    font-size: 80px;
+}
+
+
 
 /*@font-face {*/
 /*    font-family: gh;*/
 /*    src: url('/fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf');*/
 /*}*/
 /**/
+#retreat-day3-row {
+    background-image: url("/images/obrady/forrest.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+}
+
+#retreat-day3-row  p {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+#retreat-day3-row  blockquote {
+    background-color: #fff;
+}
+
+#retreat-day3-row  .font-just-me {
+    color: #fff;
+}
+
+
+#iboga-bwiti-tradice-top-iamge {
+    display: block;
+    min-height: 600px;
+    background-image: url("/images/iboga/bwiti-scotty-1200.jpg");
+}
+
+#iboga-bwiti-tradice-top-iamge h2{
+    color: #fff;
+    margin-left: 20px;
+}
+
+#iboga-bwiti-tradice-top-iamge .text-box{
+    color: #fff;
+    margin-left:20px;
+    margin-top: 20px;
+}
+
+#iboga-bwiti-tradice-top-iamge .text-box  h3{
+    color: #fff;
+
+}
+
+.background-text-light-grey {
+    background-color: #F4F4F4;
+}
+
+.bwiti-tradice-h3 {
+    font-style: normal;
+    font-size: 40px;
+}
+
+.header-bottom-row {
+    background-color: black;
+    max-width: 1200px;
+    margin: auto;
+}
 
 
 .pobyt-day-box {
@@ -56,7 +124,6 @@ ul.lh-150 li {
 
 .font-just-me {
     font-family: 'Just Me Again Down Here', cursive;
-    font-size: 50px;
     color: #b81300;
     font-weight: 700;
 }
