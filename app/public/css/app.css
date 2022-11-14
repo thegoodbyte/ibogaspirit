@@ -1,24 +1,16 @@
 
-/*@font-face {*/
-/*    font-family: sf;*/
-/*    src: url('/fonts/strawberry-blossom/Strawberry_Blossom.ttf');*/
-/*}*/
+@font-face {
+    font-family: sf;
+    src: url('/fonts/strawberry-blossom/Strawberry_Blossom.ttf');
+}
 
-/*@font-face {*/
-/*    font-family: Samble;*/
-/*    src: url('/fonts/samble/samble.ttf');*/
-/*}*/
 
-/*@font-face {*/
-/*    font-family: Brillotus;*/
-/*    src: url('/fonts/brillotus/brillotus.otf');*/
-/*}*/
 
 /*@font-face {*/
 /*    font-family: gh;*/
 /*    src: url('/fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf');*/
 /*}*/
-
+/**/
 
 
 .pobyt-day-box {

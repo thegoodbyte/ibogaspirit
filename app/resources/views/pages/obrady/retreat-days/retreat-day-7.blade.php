@@ -4,6 +4,7 @@
     </div>
 
     <div class = "row">
+        <>
         <p>
             Náš den trávíme nasáváním léčivého slunečního světla a čištěním energie lesa.
             Večer se sejdeme jako skupina a užíváme si výhod Ibogy mediciny. Moudrost o tom, že vezmeme naše nově nalezené
