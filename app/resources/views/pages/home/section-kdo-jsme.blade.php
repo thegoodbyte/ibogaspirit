@@ -81,7 +81,7 @@
             <div class="row">
                 <div class="elementor-element elementor-element-5c461c3 elementor-widget__width-initial elementor-widget elementor-widget-heading is-mac" data-id="5c461c3" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <h2 class="elementor-heading-title elementor-size-default"><span style="text-align: inherit;">Termíny</span></h2>		</div>
+                        <h2 class="font-just-me">Termíny</h2>		</div>
                 </div>
                 <div class="elementor-element elementor-element-33ddd86 elementor-widget__width-initial elementor-widget elementor-widget-text-editor is-mac" data-id="33ddd86" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container">

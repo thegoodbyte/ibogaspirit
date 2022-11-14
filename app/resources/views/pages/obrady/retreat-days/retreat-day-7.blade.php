@@ -1,6 +1,6 @@
 <div class = "row">
     <div class = "row">
-        <h4>DAY 7  - </h4>
+        <h4>DAY Sedmý  - Venkovní túry a závěrečný rozhovor</h4>
     </div>
 
     <div class = "row">

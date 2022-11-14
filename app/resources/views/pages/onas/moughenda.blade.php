@@ -6,8 +6,8 @@
     </div>
 
     <div class = "row text-center">
-        <h2>Moughenda</h2>
-         <h4>   10th Generation Shaman/Nima, Bwiti Teacher</h4>
+        <h2 class = "font-just-me font-size-100"> Moughenda</h2>
+         <h4 class = "font-just-me font-size-40">   10th Generation Shaman/Nima, Bwiti Teacher</h4>
     </div>
 
 
@@ -15,7 +15,7 @@
     <div class = "row">
         <div class = "col-xl-6">
 
-            <p class = "text--justify">
+            <p class = "text--justify mb-5">
 
                 Moughenda je šaman 10. generace v tradici Missoko Bwiti, v současnosti žije a pracuje v Gabonu v Africe.
                 Celý život žije a dýchá touto tradicí a tímto šamanským způsobem. Byl seznámen s lékem in utero,
@@ -30,7 +30,7 @@
                 štěstí a jejich skutečné duchovní cesty,“ říká Moughenda.</blockquote>
 
 
-            <p>
+            <p class = "mb-5">
                 Moughenda byl veden medicínou, aby otevřel tradici Bwiti a její mocnou léčivou medicínu Ibogou
                 každý, kdo ma zájem se s ní učit a léčit. Přestěhoval se do Severní Ameriky, kde strávil šestnáct let:
                 studoval západní kulturu a nakonec otevřel centrum v Kostarice, kde v průběhu let léčil mnoho lidí.
@@ -51,6 +51,12 @@
 
 
 
+    <div class = "row">
+        <blockquote>Neni to o tom, co si myslíte že to je, není to o tom čemu věříte,
+            že to je, je  to o tom, co to skutečně je</blockquote>
+    </div>
+
+
             <!--
                 <blockquote class="blockquote">To me, living as a true shaman is the best thing that ever happened to me.</blockquote>
             -->
@@ -58,7 +64,5 @@
 
 
 
-        </div>
-    </div>
 
 @stop

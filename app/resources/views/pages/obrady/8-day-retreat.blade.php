@@ -46,6 +46,78 @@
         </div>
     </div>
 
+    <div class = "row" id = "eight-day-retreat-includes-box">
+
+        <div class = "col-xl-3">
+            <div class = "item">
+                <img src = "/images/icons/car.png" width = "64" />
+                <p>PICK UP FRcol-OM AND DROP OFF TO THE AIRPORT</p></div>
+        </div>
+
+        <div class = "col-xl-3">
+            <div class = "item">
+                <img src = "/images/icons/teachings.png" width = "64" />
+                <p>CORE BWITI TEACHINGS - FIRE CIRCLE TALKS</p></div>
+        </div>
+
+        <div class = "col-xl-3">
+            <div class = "item">
+                <img src = "/images/icons/ceremony.png" width = "64" />
+                <p>TWO IBOGA CEREMONIES, INCLUDING DETOX & PSYCHO - SPIRITUAL JOURNEY</p></div>
+        </div>
+
+        <div class = "col-xl-3">
+            <div class = "item">
+                <img src = "/images/icons/provider.png" width = "64" />
+                <p>TRADITIONALLY TRAINED IBOGA PROVIDER INITIATED IN THE BWITI TRADITION</p></div>
+        </div>
+
+        <div class = "col-xl-3">
+            <div class = "item">
+                <img src = "/images/icons/counseling.png" width = "64" />
+                <p>INTEGRATION / INDIVIDUAL SUPPORT COUNSELING</p></div>
+        </div>
+
+        <div class = "col-xl-3">
+            <div class = "item">
+                <img src = "/images/icons/comment.png" width = "64" />
+                <p>PRE / POST IBOGA SUPPORT CALLS</p></div>
+        </div>
+
+        <div class = "col-xl-3">
+            <div class = "item">
+                <img src = "/images/icons/accommodation.png" width = "64" />
+                <p>BEAUTIFUL ACCOMMODATION WITH PRIVATE ROOM</p></div>
+        </div>
+
+        <div class = "col-xl-3">
+            <div class = "item">
+                <img src = "/images/icons/salad.png" width = "64" />
+                <p>HEALTHY MEALS THAT ACCOMMODATE MOST DIETS.</p></div>
+        </div>
+
+
+
+        <div class = "col-xl-3">
+                <div class = "item">
+                    <img src = "/images/icons/leaf.png" width = "64" />
+                    <p>TRADITIONALLY PREPARED AND CEREMONIALLY HARVESTED IBOGA</p></div>
+        </div>
+
+        <div class = "col-xl-3">
+            <div class = "item">
+                <img src = "/images/icons/trips.png" width = "64" />
+                <p>UNIQUE LOCAL EXCURSIONS
+            (Nature Tours, Beach Outings, Temazcals, & More!)</p></div>
+        </div>
+
+        <div class = "col-xl-3">
+            <div class = "item">
+                <img src = "/images/icons/shower.png" width = "64" />
+                <p>TRADITIONAL BWITI SPIRITUAL SHOWER</p></div>
+        </div>
+    </div>
+
 
     <div class = "row">
             <div class = "col-xl-2">
@@ -69,7 +141,16 @@
 
     <h2 class = "font-just-me">OSMIDENNI  DAY IBOGA RETREAT SCHEDULE</h2>
 
+        <div class = "row">
+            <p>
+                Our 10 day all-inclusive Iboga healing retreats are designed to support a powerful healing experience
+                and self-discovery. Through sacred candlelit ceremonies that tap into this incredible plant medicine’s
+                natural intelligence, we facilitate the personal healing journey in a comfortable and safe space.
+            </p>
+        </div>
 
+
+    <!--
         <div class = "row" id="accordion">
             <h3>Section 1</h3>
             <div class = "row" >
@@ -118,16 +199,16 @@
                 </p>
             </div>
         </div>
+-->
 
-
-{{--    @include('pages.obrady.retreat-days.retreat-day-1')--}}
-{{--    @include('pages.obrady.retreat-days.retreat-day-2')--}}
+    @include('pages.obrady.retreat-days.retreat-day-1')
+    @include('pages.obrady.retreat-days.retreat-day-2')
     @include('pages.obrady.retreat-days.retreat-day-3')
     @include('pages.obrady.retreat-days.retreat-day-4')
     @include('pages.obrady.retreat-days.retreat-day-5')
     @include('pages.obrady.retreat-days.retreat-day-6')
-{{--    @include('pages.obrady.retreat-days.retreat-day-7')--}}
-{{--    @include('pages.obrady.retreat-days.retreat-day-8')--}}
+    @include('pages.obrady.retreat-days.retreat-day-7')
+    @include('pages.obrady.retreat-days.retreat-day-8')
 
 
 

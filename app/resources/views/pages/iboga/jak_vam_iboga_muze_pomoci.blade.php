@@ -97,6 +97,25 @@
 
     </div>
 
+<div class = "row">
+   <p> As a plant teacher,
+    Iboga is like a guiding light to illuminate our path and bring deep awareness to
+    ourselves.</p>
+
+    <p>
+        Iboga is one of the most potent plant medicines for deep learning
+        &amp; healing.
+    </p>
+
+    <p>
+        Iboga provides neuroplasticity benefits that can rewire the
+        brain,
+        release
+        trauma and support
+        the creation of healthy new habits.
+    </p>
+</div>
+
     <diV class = "row" id = "iboga-benefits">
             <div class = "col-xl-3 col-sm-12">
                 <h3>Fyzický</h3>

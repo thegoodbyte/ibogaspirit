@@ -17,6 +17,23 @@
     font-size: 80px;
 }
 
+.font-size-100 {
+    font-size: 100px;
+}
+
+
+#eight-day-retreat-includes-box div.item p{
+    text-align: center;
+    align-items: center;
+}
+#eight-day-retreat-includes-box div.item img{
+    margin: auto;
+}
+
+#eight-day-retreat-includes-box div.item {
+    display: block;
+    margin-bottom: 20px;
+}
 
 
 /*@font-face {*/
