@@ -77,7 +77,7 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-            <h1>Co je Iboga?</h1>
+            <h1 class = "font-just-me font-size-80">Co je Iboga?</h1>
             <div class = "row">
                 <img src = "/images/iboga/iboga-banner-1200.jpg" />
             </div>
@@ -98,13 +98,19 @@
             </p>
 
             <p>
-            Popularita Ibogy
+            Popularita Ibogy:<br />
             Ve srovnání s jinými rostlinnými psychedeliky zůstává Iboga dodnes velkou neznámou. Jeho první použití
                 na západě se datuje do roku 1900 poté, co se francouzští průzkumníci dozvěděli o jeho výhodách od kmene Bwiti a přinesli jej do Evropy. Z toho francouzská společnost vyvinula lék s krátkou životností, který nazývali „lamberene“, který byl nakonec ukončen. V poslední době ji vědci začali studovat a její lékařské přínosy. Výsledkem je, že jeho hlavní chemický derivát, Ibogain, roste v mnoha západních zemích na popularitě jako účinná léčba drogové závislosti, nálady a úzkostných poruch. Samotná Iboga (zdroj) však zůstává pro mnoho lidí obecně neznámá. Kromě ibogainu, voacangin, tabernanthin, coronaridin, ibogamin a harmalin jsou některé další alkaloidy z Iboga, které zůstávají nevyužity pro léčebné výhody.
             </p>
-            <h2>Srovnání Ibogy s Ayahuaskou</h2>
+        </div>
+    </div>
+
+    <div class = "row">
+        <div class = "col-xl-12">
+        <h2 class = "font-just-me font-size-80 text-center mb-5">Srovnání Ibogy s Ayahuaskou</h2>
             <p>
-                Iboga i Ayahuasca jsou hlavní učitelské rostliny, které zapalují trvalé, hluboké duchovní transformace. Vstupují do těla s jediným cílem uzdravit a probudit, což vede k holistickému uzdravení těla a mysli. Mimo to jsou však VELMI odlišné.</p>
+                Iboga i Ayahuasca jsou hlavní učitelské rostliny, které zapalují trvalé, hluboké duchovní transformace.
+                Vstupují do těla s jediným cílem uzdravit a probudit, což vede k holistickému uzdravení těla a mysli. Mimo to jsou však VELMI odlišné.</p>
         </div>
     </div>
 
@@ -112,7 +118,7 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-            <h1>Dietní požadavky</h1>
+            <h2 class = "font-just-me font-size-60 text-center">Dietní požadavky</h2>
         </div>
     </div>
 
@@ -136,54 +142,55 @@
     </div>
 
     <div class = "row">
-        <div class = "col-xl-12">
+        <h2 class = "font-just-me font-size-60 text-center">Jídlo, Léky a Drogy</h2>
+    </div>
+    <div class = "row">
+        <div class = "col-xl-6">
 
             <h2>Jídlo, kterému je třeba se vyhnout</h2>
             <p>
-                Červené maso
-                Vepřové maso
-                zralé sýry
-                Jogurt
-                Alkohol
-                Fermentované potraviny, jako je sójová omáčka, fermentované tofu a kysané zelí
-                Aspartam
-                Výživové doplňky, jako jsou proteinové prášky
-                Arašídy (ve velkém množství)
-                Čokoláda (ve velkém množství)
+                Červené maso<br />
+                Vepřové maso<br />
+                zralé sýry<br />
+                Jogurt<br />
+                Alkohol<br />
+                Fermentované potraviny, jako je sójová omáčka, fermentované tofu a kysané zelí<br />
+                Aspartam<br />
+                Výživové doplňky, jako jsou proteinové prášky<br />
+                Arašídy (ve velkém množství)<br />
+                Čokoláda (ve velkém množství)<br />
             </p>
 
             <p>
-                Kořeněná jídla
-                Rafinovaný cukr (tj. sladkosti a nezdravé jídlo)
-                Mléčné výrobky
-                Kofein
-                Oleje
+                Kořeněná jídla<br />
+                Rafinovaný cukr (tj. sladkosti a nezdravé jídlo)<br />
+                Mléčné výrobky<br />
+                Kofein<br />
+                Oleje<br />
             </p>
             <h2></h2>
             <p></p>
 
         </div>
-    </div>
 
-    <div class = "row">
-        <div class = "col-xl-12">
+        <div class = "col-xl-6">
             <h2>Léky, kterým je třeba se vyhnout, patří:</h2>
             <p>
-                – Antidepresiva jako SSRI
-                – inhibitory MAO
-                – Barbituráty
-                – Léky na spaní
-                – Alfa- a beta-blokátory
+                – Antidepresiva jako SSRI<br />
+                – inhibitory MAO<br />
+                – Barbituráty<br />
+                – Léky na spaní<br />
+                – Alfa- a beta-blokátory<br />
             </p>
 
 
             <h2>Musíte se také vyhnout pouličním drogám, jako jsou:</h2>
-            <p>– Kokain
-                – Amfetaminy
-                – Opiáty
-                – Psilocybin
-                – LSD
-                – Marihuana
+            <p>– Kokain<br />
+                – Amfetaminy<br />
+                – Opiáty<br />
+                – Psilocybin<br />
+                – LSD<br />
+                – Marihuana<br />
                 – MDMA</p>
 
         </div>
@@ -192,8 +199,9 @@
 
 <div class = "row">
     <div class = "col-xl-12">
+        <h2 class = "font-just-me font-size-60 text-center">Délka trvání.</h2>
         <h2>
-            Délka trvání. Iboga vs Ayahuasca
+             Iboga vs Ayahuasca
         </h2>
 
         <p>Iboga: Obřady Iboga trvají 8-12 hodin a její účinky trvají 12-36 hodin. Způsobuje ataxii, která ztěžuje pohyb a můžete se také očistit. I když to není nutné, může to být nezbytnou součástí holistického léčebného procesu, který vede k vyčištění toho, co jste drželi ve svém těle. Na Iboze se s největší pravděpodobností nevyspíte až následující večer, a proto je den po obřadu ibogy většinou stráven jako „den zpracování“. Den zpracování je den po obřadu, kdy dochází k hluboké introspekci a vhledům. Tento zážitek ze zpracování může být často poučnější než samotný obřad.
@@ -204,6 +212,11 @@
 
     </div>
 </div>
+
+<div class = "row">
+    <h2 class = "font-just-me font-size-60 text-center">Účinky na lidské tělo</h2>
+</div>
+
 
 <div class = "row">
     <div class = "col-xl-6">
@@ -245,7 +258,7 @@
     </div>
 
     <div class = "row">
-        <h2 class = "text-center">Potenciální lékařské využití a léčebné účinky</h2>
+        <h2 class = "font-just-me font-size-60 text-center">Potenciální lékařské využití a léčebné účinky</h2>
     </div>
 
     <div class = "row">
@@ -260,7 +273,7 @@
         </div>
 
         <div class = "col-xl-6">
-            <h3>Iboga'</h3>
+            <h3>Iboga</h3>
             <p>Ibogain se úspěšně používá při zmírňování závislostí a chování při vyhledávání drog na opioidy (heroin, morfin, oxykodon), kokain, amfetaminy, alkohol a nikotin.
                 Jedna z největších studií s pacienty se závislostí zkoumá účinek terapie ibogainem na 88 účastnících. Alkaloid pomohl 30 % účastníků zcela odstranit závislost a 54 % abstinovalo déle než rok (20).
                 Pacienti se závislostí jsou běžně postiženi problémy duševního zdraví, jako je deprese, úzkost a PTSD. Studie uvádějí, že příznaky deprese jsou také významně sníženy nebo odstraněny po léčbě ibogainem (21, 22).
