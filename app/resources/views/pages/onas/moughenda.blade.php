@@ -1,10 +1,6 @@
 @extends('layouts.default')
 @section('content')
 
-    <div class = "row">
-        <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
-    </div>
-
     <div class = "row text-center">
         <h2 class = "font-just-me font-size-100"> Moughenda</h2>
          <h4 class = "font-just-me font-size-40">   10th Generation Shaman/Nima, Bwiti Teacher</h4>

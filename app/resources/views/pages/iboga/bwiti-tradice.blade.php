@@ -125,20 +125,10 @@
 </div>
 
 
-<div class = "row">
-    <div class = "col-xl-8">
-
-    </div>
-    <div class = "col-xl-4">
-        IMAGE
-    </div>
-</div>
 
 
 <div class = "row">
-
-
-
+    
     <div class = "col-xl-7">
         <h4 class = "bwiti-tradice-h3 font-just-me">Příroda</h4>
         <p>

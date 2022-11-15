@@ -47,7 +47,7 @@
     </div>
 
     <div class = "row" id = "eight-day-retreat-includes-box">
-
+        <div class = "row"><h class = "font-just-me font-size-60 text-center"2>Co je zahrnuto</h2></div>
         <div class = "col-xl-3">
             <div class = "item">
                 <img src = "/images/icons/car.png" width = "64" />
