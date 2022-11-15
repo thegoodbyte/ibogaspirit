@@ -136,12 +136,52 @@
     background-image: url("/images/home/onas/moughenda-and-martin.jpg");
 }
 
+.mecical-guidelines-ssection-drugs {
+    border: 1px solid red;
+}
+
+
+#medical-guidelines-img-box {
+    display: block;
+    min-height: 698px;
+    background-image: url("/images/headers/medical-guidelines.jpg");
+    background-repeat: no-repeat;
+}
+
+#medical-guidelines-img-box blockquote{
+    display: block;
+   position:absolute;
+    color: #0a3880;
+    top: 305px;
+    left: 700px;
+    width: 450px;
+    border-left: none;
+    box-shadow: none;
+}
+
+.h-class-warning {
+    color: #fff !important;
+    background-color: red;
+    padding-top: 3px;
+    padding-bottom: 10px;
+}
+
+
+#medical-guidelines-img-box h2 {
+    position:absolute;
+    color: #0a3880;
+    top: 50px;
+    left: 700px;
+}
+
+
 #obrady-medical-guidelines-img-box {
     display: block;
-    min-height: 600px;
-    height: 600px;
+    min-height: 300px;
     background-image: url("/images/obrady/test-med-guidelines.jpg");
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
 }
 
 .retreats-img-box {
@@ -248,6 +288,7 @@ blockquote:before {
     background-color: #fff;
     width: 5px;
     margin-top: -1em;
+    background: none;
 }
 blockquote:after {
     content: "";
@@ -421,7 +462,8 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
     width: 100%;
     display:block;
     background-color: red;
-    background-image: url('/images/home/poznejte/happy_1200.jpeg');
+    /*background-image: url('/images/home/poznejte/happy_1200.jpeg');*/
+    background-image: url('/images/headers/what-iboga-can-do-for-you.jpg');
 
     height: 100vh;
 }
