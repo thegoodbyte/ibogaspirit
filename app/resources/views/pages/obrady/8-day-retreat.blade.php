@@ -116,6 +116,14 @@
                 <img src = "/images/icons/shower.png" width = "64" />
                 <p>TRADITIONAL BWITI SPIRITUAL SHOWER</p></div>
         </div>
+
+
+        div class = "col-xl-3">
+        <div class = "item">
+            <img src = "/images/icons/medical.png" width = "64" />
+            <p>Medical Screening to ensure a safe retreat</p></div>
+    </div>
+
     </div>
 
 

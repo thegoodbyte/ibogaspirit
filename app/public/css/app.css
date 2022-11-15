@@ -4,6 +4,9 @@
     src: url('/fonts/strawberry-blossom/Strawberry_Blossom.ttf');
 }
 
+.font-size-30 {
+    font-size: 30px;
+}
 
 .font-size-40 {
     font-size: 40px;
@@ -106,6 +109,14 @@
     display: block;
     min-height: 600px;
     background-image: url("/images/home/onas/moughenda-and-martin.jpg");
+}
+
+#obrady-medical-guidelines-img-box {
+    display: block;
+    min-height: 600px;
+    height: 600px;
+    background-image: url("/images/obrady/test-med-guidelines.jpg");
+    background-repeat: no-repeat;
 }
 
 .retreats-img-box {

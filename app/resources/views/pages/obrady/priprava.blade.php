@@ -1,17 +1,187 @@
 @extends('layouts.default')
 @section('content')
 
-    <div class = "row">
-        <h2></h2>
-    </div>
+
     <div class = "row">
         <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
+    </div>
+
+    <div class = "row">
+        <h2 class = "font-just-me font-size-80">
+            Příprava na ceremoniál Ibogy</h2>
+    </div>
+
+
+
+    <div class = "row">
+        <div class = "col-xl-6">
+            <h3  class = "font-just-me font-size-80">Body</h3>
+            <p>
+                Měli byste se zdržet alkoholu, drog a většiny léků po dobu minimálně 4 dnů.
+            </p>
+
+            <p>
+                Některé léky/léky vyžadují abstinenci až 30 dnů. Žádný strach, dejte nám vědět, co se děje, a my s
+                vámi budeme v tomto procesu spolupracovat.
+            </p>
+
+            <p>
+                Jezte co nejčistěji. Cukrům a průmyslově zpracovaným potravinám je lepší se vyhnout.
+            </p>
+
+            <p>
+                Colon Hydroterapie umožňuje, aby se lék dostal hlouběji do vašeho těla
+            </p>
+        </div>
+
+        <div class = "col-xl-6">
+            <h3 class = "">Nastavení mysli</h3>
+            <p>Stanovte si svůj záměr na ústup, ujasněte si své cíle a připravte si otázky, na které se
+                budete léku ptát. Další informace o tom, jak to provést, naleznete níže.
+            </p>
+
+            <p>
+                Součástí vašeho retreatového balíčku je přípravný hovor s jedním z nás. Dáme vám představu o
+                tom, co můžete očekávat, uvidíme, jak na tom jste,
+                pomůžeme vám připravit si otázky a stanovit váš záměr.
+            </p>
+
+            <p>
+                Zarezervovali jste si ústup? Předběžnou výzvu si rezervujte zde.
+            </p>
+
+            <p>
+                Dáváte si neuvěřitelný dar. Zvažte pocit vděčnosti, vzrušení a posílení. Obejmi se hned teď. Pokračuj, počkám.
+
+            </p>
+        </div>
     </div>
 
 
     <div class = "row">
         <div class = "col-xl-12">
-            <p>Begin The Process
+            <h4  class = "font-just-me font-size-80">Soul</h4>
+            <p>
+                Jakmile se rozhodnete zúčastnit se obřadu Iboga, Spirit of Iboga s vámi začne spolupracovat.
+                Pokud potřebujete finanční pomoc, požádejte o ni Ibogu a Iboga vám ji pomůže uskutečnit.
+            </p>
+
+            <p>
+                Meditace je mocný nástroj, jak začít posilovat sval, který zklidní vaši mysl a otočí vás
+                dovnitř, spojuje vás s vaší duší. Když to uděláte předem, připravíte se na obřad
+                nejlepší, co můžete udělat, je ztišit svou mysl a sledovat hudbu.
+            </p>
+
+            <p>
+                Důvěřujte své duši, pokud cítíte intuitivní volání po léku.
+            </p>
+        </div>
+    </div>
+
+    <div class = "row">
+        <div class = "col-xl-12">
+            <h4  class = "font-just-me font-size-80">Preparing Questions For Iboga</h4>
+            <p>
+                Otázky? Co?
+            </p>
+
+            <p>
+                Ano! Jakmile během obřadu požijete dostatek léků, můžete se Ibogy zeptat naprosto na cokoliv.
+                Iboga vás spojuje s vaší duší, vaší pravdou – kde jsou všechny odpovědi.
+            </p>
+
+            <p>
+                Jakmile dojde k tomuto spojení, meditační praxe doma posílí oba váš vztah
+                s Ibogou a se svou Duší, abychom vás podpořili, abyste mohli pravidelně naslouchat své intuici,
+                důvěřuj si a odpověz na všechny své otázky – vždy.
+            </p>
+        </div>
+    </div>
+
+    <div class = "row">
+        <div class = "col-xl-12">
+            <p><h4>Step One</h4>
+            <h4  class = "font-just-me font-size-80">Přehled života</h4>
+            Při přípravě otázek doporučujeme vytáhnout notebook a nakreslit čáru uprostřed stránky.
+
+            Na levou stranu si zapište všechny věci, které se vám na vašem životě aktuálně nelíbí.
+
+            Na pravou stranu řádku, přímo naproti každé, napište, jak chcete, aby vypadala.
+
+            Například, pokud jsou ve vašem romantickém vztahu problémy. Na pravou stranu napište, můj partner a já bojujeme.
+            Přímo přes napište, co chcete, aby to bylo, například já a můj partner jsme ve zdravém vztahu.
+
+            Zde můžete vytvářet své otázky. Například,
+
+            Jak mohu mít zdravý vztah?</p>
+        </div>
+    </div>
+
+    <div class = "row">
+        <div class = "col-xl-12">
+            <h4 class = "font-just-me font-size-80">Step Two</h4>
+            <p>
+                Dostaňte se do The Root
+                Lék vám pomůže zpřístupnit podvědomé vzpomínky. Všechno má svou základní příčinu.
+                Když se vrátíme k tomu, co se POPRVÉ něco stalo, vidíme pravdu – že nezdravé,
+                postrádající programování mysli od dětství. A když uvidíš pravdu, vyléčíš ji a osvobodíš se.
+            </p>
+
+            <p>
+                S každým problémem v grafu se můžete zeptat,
+            </p>
+
+            <p>
+                Když to začalo?
+            </p>
+
+            <p>
+                Kdy začaly problémy s mým partnerem?
+            </p>
+
+            <p>
+                Pokud znáte konkrétní problémy, ptejte se na konkrétní otázky – čím konkrétnější, tím lépe.
+            </p>
+
+            <p>
+                Kdy jsem například poprvé zažil špatnou komunikaci?
+            </p>
+
+        </div>
+    </div>
+
+
+    <div class = "row">
+        <div class = "col-xl-12">
+            <p>
+                Krok tři
+                Dělejte věci jinak
+                Nyní, když jste vyléčili starou ránu, je čas vytvořit si nový návyk, abyste mohli začít vytvářet nové
+                Výsledek. Zeptejte se léku, jak můžete dělat věci jinak.
+            </p>
+
+            <p>
+                Jak to mohu změnit?
+            </p>
+
+            <p>
+                Jak mohu lépe komunikovat se svým partnerem?
+            </p>
+
+            <p>
+                Jak říká Moughenda staňte se kapitánem své vlastní lodi! A podle Cobyho Kozlowského, když se změníte
+                kurz lodi o jeden stupeň, skončíte ve zcela nové destinaci.
+            </p>
+
+            <p>
+                Nejprve si ale musíte uvědomit, že máte pod kontrolou, abyste mohli činit nová rozhodnutí – a to je potenciál Ibogy.
+            </p>
+        </div>
+    </div>
+
+    <div class = "row">
+        <div class = "col-xl-12">
+            <p><h3  class = "font-just-me font-size-80">Begin The Process></h3>
 
                 The changes often begin the moment we make the commitment to work with this medicine. Up to
                 months in advance most notice that life begins to shift. In order to get the most of your experience

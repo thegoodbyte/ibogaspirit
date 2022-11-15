@@ -128,7 +128,7 @@
 
 
 <div class = "row">
-    
+
     <div class = "col-xl-7">
         <h4 class = "bwiti-tradice-h3 font-just-me">Příroda</h4>
         <p>
