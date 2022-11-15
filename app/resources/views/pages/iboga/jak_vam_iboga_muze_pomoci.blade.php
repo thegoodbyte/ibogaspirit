@@ -7,21 +7,32 @@
 </div>
 
     <div class = "row">
-        <div class = "col-xl-6">
+        <div class = "col-xl-8">
 
-            <blockquote>Iboga vás spojuje s vaší duší, vaší pravdou – tam kde jsou všechny odpovědi.</blockquote>
+            <blockquote>Iboga vás spojuje s vaší duší, vaší pravdou – tam kde jsou všechny vaše odpovědi.</blockquote>
             <p>
                 Iboga je pro ty, kteří jsou připraveni osvobodit se ze spárů fyzických, mentálních, emocionálních a duchovních onemocnění,
-                aby se otevřeli svému skutečnému potenciálu.
+                a otevřít se svému skutečnému potenciálu.
             </p>
 
-            <p>V tradičním psycho-spirituálním obřadu IBOGA se o sobě učíme na všech úrovních; fyzicky, mentálně, emocionálně a duchovně.
+            <p>
+                Pomáham vam najít jasno v tom, kdo jste a co chcete.
+                Léčba Ibogou  se  zaměřuje na spojení s tím, kdo jste a co chcete - protože toto je jedno z tech
+                největších duchovních výhod, které léčba Ibogou nabízí.
+                V tradičním Bwiti obřadu  Ibogy jste přivedeni
+                k setkani se svou dusi a jste schopni se s ni znovu spojit. Toto spojení (a poznání) vzbuzuje neochvějný pocit důvěry,
+                sebelásku a jasnost těm, kteří ji skutečně chteji přijmout. To pak ma hluboký dopad na vas úhel pohledu na
+                celý vnější svět. Když ochazite s léčby Ibogou s vědomím, kdo jste a co chcete, nic vás nezastaví.
+
+            </p>
+
+            <p>V tradičním psycho-spirituálním obřadu IBOGY se o sobě učíme na všech úrovních; fyzicky, mentálně, emocionálně a duchovně.
 
             </p>
 
             <blockquote>IBOGA pomáhá tím, že boří iluze ega, opouští minulost, falešná přesvědčení, traumata a lži, které jsme si říkali.</blockquote>
             <p>
-                Jedna léčba ibogou se dá přirovnat k minimálně dvouleté tradiční psychoterapii.
+                Jedna léčba ibogou se dá přirovnat k minimálně ddeseleté tradiční psychoterapii.
                 Iboga může usnadnit hluboký terapeutický průlom. Obřad s ibogoum je účinný způsob, jak detoxikovat tělo i mysl a
                 osvěžit centrální nervový systém. Iboga pomohl mnoha lidem překonat psychické bloky a zlepšil kvalitu jejich života.
                 Iboga může být účinný při léčbě deprese, úzkosti a PTSD.
@@ -33,8 +44,6 @@
             <p>
                 Iboga se používá jako psycho-duchovní medicína a vizionářský nástroj. Konzumace Ibogy navozuje hluboký meditativní stav,
                 který může vést k vizím a stavu podobnému snu, který může přinést hluboké osobní vhledy.
-
-                .
             </p>
 
             <blockquote>Iboga nás přivádí zpět k nám samotným, nabízí vedení a léčení na hluboké duchovní úrovni</blockquote>
@@ -48,12 +57,12 @@
 
         </div>
 
-        <div class = "col-xl-6">
+        <div class = "col-xl-4">
             IMAGE HERE
         </div>
     </div>
 
-    <div class = "">
+    <div class = "row">
 
         <div class = "col-xl-6">
             IMAGE HERE
@@ -178,14 +187,21 @@
     <div class = "row">
         <div class = "col-xl-6">
 <p>„Nikdy nezapomenu na ráno po jeho úplně prvním obřadu,“ říká Elizabeth Bast. Když se s úžasem podíval na zem a řekl:
-    ‚Miluji svůj život. Už se nikdy nechci znevážit.‘ Znovu jsem viděl svou lásku, když jsem ho předchozí noci sotva poznal.
-    Tento lék neléčí pouze tělo; může léčit duši – zvláště když se koná v tradičním obřadu se silnými úmysly. Iboga je známá léčbou závislosti,
-    ale to je jen začátek toho,
-    co může nabídnout. Je to lék duchovního zasvěcení a vizionářské kreativity.“</p>
+    ‚Miluji svůj život. Už se nikdy nechci znevážit.‘ Znovu jsem viděla svou lásku, ktero jsem  předchozí noci sotva poznala.
+</p>
+
             <p>https://integration-communications.prowly.com/181734-artist-chor-boogie-heals-opiate-addiction-and-finds-inspiration-with-iboga</p>
+   <p> Tento lék neléčí pouze tělo; může léčit duši – zvláště když se koná v tradičním obřadu se silnými úmysly.
+</p>
+<p>
+    Iboga je známá léčbou závislosti,ale to je jen začátek toho, co může nabídnout.
+</p>
+            <p>Je to medicína duchovního zasvěcení a vizionářské kreativity.“</p>
+
         </div>
 
         <div class = "col-xl-6">
+            <!--
             <p>Helping people find clarity in who they are and what they want
                 An Iboga Treatment should focus on connecting you to who you are and what you want because this is one of
                 the biggest spiritual benefits the treatment offers. In a traditional Bwiti Iboga ceremony, individuals are brought
@@ -193,6 +209,8 @@
                 self-love, and clarity to those who truly embrace it. This will then have a profound impact on their perspective and their
                 entire external world. When you leave an Iboga treatment knowing who you are and what you want, there is no stopping you.
             </p>
+            -->
+
         </div>
     </div>
 
