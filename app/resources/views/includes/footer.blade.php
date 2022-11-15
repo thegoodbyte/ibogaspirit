@@ -1,8 +1,54 @@
 <footer id="colophon" class="site-footer ">
     <div data-elementor-type="jet_footer" data-elementor-id="41" class="elementor elementor-41">
         <section class="elementor-section elementor-top-section elementor-element elementor-element-8e4bc44 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="8e4bc44" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
-            <div class="elementor-container elementor-column-gap-no" style = "background-color: red;">
-                HELLO
+            <div class="row footer-links" style = "">
+                <div class = "col-xl-2">
+                    Home
+                </div>
+
+                <div class = "col-xl-2">
+                    <ul>
+                        <li>Iboga</li>
+                        <li><hr /></li>
+                        <li><a href="/iboga/jak-vam-iboga-muze-pomoci">Jak vám Iboga může pomoci</a></li>
+                        <li><a href="/iboga/bwiti-tradice">Bwiti Tradice</a></li>
+                        <li><a href="/iboga/iboga-vs-ayahuasca">Iboga vs Ayahuasca</a></li>
+                        <li><a href="/iboga/gabon">Gabon - Afrika</a></li>
+                    </ul>
+
+                </div>
+
+                <div class = "col-xl-2">
+                    <ul>
+                        <li>Obrady</li>
+                        <li><hr /></li>
+                        <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
+                        <li><a href="/obrady/priprave-a-prubezna-prace">Příprava a Průběžná péče</a></li>
+                        <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní retreatační pobyt</a></li>
+                        <li><a href="/obrady/vse-o-iboga-obradech">Vše o Iboga obřadech</a></li>
+                        <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
+                        <li><a href="/obrady/terminy-a-ceny">Terminy a Ceny</a></li>
+                    </ul>
+                </div>
+
+                <div class = "col-xl-2">
+
+                    <ul>
+                        <li><a href="/onas">O Nas</a></li>
+                        <li><hr /></li>
+                        <li><a href="/onas/nganga">Nganga</a></li>
+                        <li><a href="/onas/moughenda">Saman Moughenda</a></li>
+
+                    </ul>
+                </div>
+
+                <div class = "col-xl-2">
+
+                </div>
+
+                <div class = "col-xl-2">
+
+                </div>
             </div>
         </section>
     </div>
