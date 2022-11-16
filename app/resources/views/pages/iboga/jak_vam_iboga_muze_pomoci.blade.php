@@ -26,6 +26,17 @@
 
             </p>
 
+            <p>
+                Ať už si Iboga zvolí cestu k našemu léčení, vždy jde o hledání pravdy. Vnější podmínky možná způsobily,
+                že se naše světlo pravdy s věkem propadlo hlouběji do stínů, ale naše světlo nikdy úplně nevyhaslo.
+                Iboga to pronásleduje a osvětluje vzpomínání na to, čím skutečně jsme.
+            </p>
+
+            <p>
+                Vydávat svědectví o znovuzrození naší pravdy je posilující a trvalé. Iboga odstraňuje naše vlastní
+                bloky, abychom mohli znovu objevit a získat pravdu pro sebe.
+            </p>
+
             <p>V tradičním psycho-spirituálním obřadu IBOGY se o sobě učíme na všech úrovních; fyzicky, mentálně, emocionálně a duchovně.
 
             </p>
