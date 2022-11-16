@@ -1,13 +1,13 @@
 <div class="nav__container">
     <div class="nav__mobile">
         <div class="nav__logo">
-            <div class="elementor-jet-logo jet-blocks"><div class="jet-logo jet-logo-type-image jet-logo-display-block">
+            <div class="elementor-jet-logo jet-blocks"><div class="">
                     <a href="http://www.ibogaspirit.cz/" class="jet-logo__link">
-                        <img src="/images/logo.png" class="jet-logo__img" alt="Iboga Spirit - Czech Republic" width="305" height="76"></a></div>
+                        <img src="/images/logo.png" class="" alt="Iboga Spirit - Czech Republic" width="305" height="76"></a></div>
             </div>
         </div>
         <div class="nav__btn">
-            <a aria-label="Mobile menu" class="nav-toggle fade"><span></span>
+            <a aria-label="Mobile menu" class="nav-toggle"><span></span>
                 <span class="mrg"></span>
                 <span class="mrg"></span></a>
         </div>
