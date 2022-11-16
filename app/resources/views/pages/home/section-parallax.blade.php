@@ -13,11 +13,12 @@
                 </div>
                 <p class="elementor-element elementor-element-69e8cef elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor is-mac" data-id="69e8cef" data-element_type="widget" data-widget_type="text-editor.default">
                     <p>
-                        Since the day 1 of our founding (which happened back in 1977), we’ve always had the same set of principles
-                        that we’ve cherished throughout all of our logistics &amp; transportation operations. That includes both our
-                        determination of being able to serve all clients across the globe, regardless of the location, just as well as our
-                        commitment to being able to offer all types of cargo shipment – from air &amp; railway all the way to trucking &amp;
-                        ocean freight.
+                    Podle tradice,  když se Iboga poprvé objevil,  rozhodl se být s Bwiti lidmi. Iboga respektoval jejich
+                    způsob života, a tak když se lidé začali ptát,
+                    odkud přišli a za co mohou být tolik vděční, Iboga se představil a řekl: „Řekněte svým lidem, že až
+                    budou mít otázky, at si me vezmou mě a já jim ukažu."
+
+                    A v tomto příběhu je toho mnohem víc...
 
                     </p>
                 </div>

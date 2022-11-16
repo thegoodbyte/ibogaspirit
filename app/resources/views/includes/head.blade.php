@@ -86,16 +86,24 @@
 <link rel='stylesheet' id='jet-blog-css'  href='/css/wp-content/plugins/jet-blog/assets/css/jet-blog%EF%B9%96ver=2.3.1.css' type='text/css' media='all' />
 <link rel='stylesheet' id='jet-tabs-frontend-css'  href='/css/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend%EF%B9%96ver=2.1.19.css' type='text/css' media='all' />
 <link rel='stylesheet' id='jet-tricks-frontend-css'  href='/css/wp-content/plugins/jet-tricks/assets/css/jet-tricks-frontend%EF%B9%96ver=1.4.2.css' type='text/css' media='all' />
+
 <link rel='stylesheet' id='jet-theme-core-frontend-styles-css'  href='/css/wp-content/plugins/jet-theme-core/assets/css/frontend%EF%B9%96ver=2.0.7.css' type='text/css' media='all' />
 <link rel='stylesheet' id='kava-extra-nucleo-outline-css'  href='/css/wp-content/plugins/kava-extra/assets/fonts/nucleo-outline-icon-font/nucleo-outline%EF%B9%96ver=1.0.0.css' type='text/css' media='all' />
 <link rel='stylesheet' id='boldgrid-components-css'  href='/css/wp-content/plugins/post-and-page-builder/assets/css/components.min%EF%B9%96ver=2.16.5.css' type='text/css' media='all' />
+
+<!--
 <link rel='stylesheet' id='boldgrid-fe-css'  href='/css/wp-content/plugins/post-and-page-builder/assets/css/editor-fe.min%EF%B9%96ver=1.21.3.css' type='text/css' media='all' />
+-->
+
 <link rel='stylesheet' id='boldgrid-custom-styles-css'  href='/css/wp-content/plugins/post-and-page-builder/assets/css/custom-styles%EF%B9%96ver=6.0.3.css' type='text/css' media='all' />
 <link rel='stylesheet' id='bgpbpp-public-css'  href='/css/wp-content/plugins/post-and-page-builder-premium/dist/application.min%EF%B9%96ver=1.0.6.css' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css'  href='/css//fonts.googleapis.com/css/index%EF%B9%96family=Roboto%EF%B9%95100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%EF%BD%9CRoboto+Slab%EF%B9%95100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,60_bae29008d1a463a6.css' type='text/css' media='all' />
+
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='/css/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min%EF%B9%96ver=5.15.3.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='/css/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min%EF%B9%96ver=5.15.3.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='/css/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min%EF%B9%96ver=5.15.3.css' type='text/css' media='all' />
+
+
 <script type='text/javascript' src='/css/wp-includes/js/jquery/jquery.min%EF%B9%96ver=3.6.0.js' id='jquery-core-js'></script>
 <script type='text/javascript' src='/css/wp-includes/js/jquery/jquery-migrate.min%EF%B9%96ver=3.3.2.js' id='jquery-migrate-js'></script>
 <link rel="https://api.w.org/" href="/css/wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/1799/index.html" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php%EF%B9%96rsd.html" />

@@ -67,8 +67,8 @@
     <div class = "col-xl-12">
         <h3 class = "bwiti-tradice-h3 font-just-me">Misreprezentace a Zkreslení</h3>
         <p>
-            Mnoho informací o Bwiti dostupných v knihách a na internetu je ve skutečnosti o Tesáku.
-            Tesáci nejsou jedinou sektou tam venku a jsou ve skutečnosti docela odlišní od Missoko.
+            Mnoho informací o Bwiti dostupných v knihách a na internetu je ve skutečnosti o Fang tradici.
+            Fang nejsou jedinou pobockou tam venku a jsou ve skutečnosti docela odlišní od Missoko.
             Zatímco Fang jsou Bwiti, jsou ve skutečnosti ovlivněni křesťanstvím, které do Gabonu přinesl F
             rench misionáři před několika sty lety. Missoko Bwiti nemá křesťanský vliv a je
             dnes méně známá, protože byla záměrně skryta a utajována, aby byla chráněna před křesťany
@@ -138,7 +138,7 @@
         <h4 class = "bwiti-tradice-h3 font-just-me">Příroda</h4>
         <p>
             Bwiti věří, že jim bude poskytnuto vše, co potřebují. Pokud jste někdy chodili v džungli
-            Gabone, rychle pochopíš, jak tato vděčnost a důvěra vznikla. Výživné jídlo a ovoce mohou být
+            v Gabonu, rychle pochopíte, jak tato vděčnost a důvěra vznikla. Výživné jídlo a ovoce mohou být
             shromážděné téměř odkudkoli lze nastražit pasti na to, čemu říkají „křoví maso“, a jednoduše je shromáždit,
             než trávit dny na lovu. Voda také hojně teče se spoustou deště, aby udržela džungli při životě.
             Jak bylo zmíněno výše, nejstarší Bwiti neustále studovali život samotný a zkoumali, kdo by to mohl být

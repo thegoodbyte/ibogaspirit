@@ -422,7 +422,7 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
 
 #home-parallax {
     background-image: url('/images/iboga/bwiti/bwiti-all-1200.jpg');
-    background-position: center center;
+    background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -681,11 +681,12 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
         padding: 10px;
     }
     #home-zijte-stastne-pic {
-        min-height: 400px;
+        min-height: 300px;
         width: 100%;
         display:block;
-        background-color: red;
-        /*background-image: url('/images/home/poznejte/happy_1200.jpeg');*/
+        margin-top: -40px;
+        margin-left: 30px;
+        background-color: green;
         background-image: url('/images/headers/what-iboga-can-do-for-you-400w.jpg');
         height: 100vh;
     }
@@ -711,6 +712,22 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
         color: #fff;
     }
 
+    #home-parallax {
+        background-image: url('/images/iboga/bwiti/bwiti-all-400w.jpg');
+
+    }
+
+    #home-parallax h2 {
+        padding-left: 5px;
+
+    }
+    section.home-section-ziot-je-dar h1 {
+        font-size: 26px;
+        margin-top: 0px;
+        color: #fff;
+    }
+
+
 }
 
 
@@ -718,7 +735,7 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
 /******************************************************************
         M O B I L E
  *****************************************************************/
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 401px) and (max-width: 600px) {
     section.home-section-ziot-je-dar .wrapper {
         margin-left: 10px;
         margin-right: 10px;
@@ -738,11 +755,9 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
 
     section.home-section-ziot-je-dar p {
         font-size: 16px;
-
     }
 
     #home-parallax h2 {
-
         font-size: 32px;
 
     }
