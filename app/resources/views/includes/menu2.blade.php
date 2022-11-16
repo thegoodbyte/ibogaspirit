@@ -18,7 +18,7 @@
         <ul class="nav__menu">
             <li class = "menu-item"><a href="/">HOME</a></li>
             <li class = "dropdown menu-item">
-                <a href="/iboga">IBOGA</a>
+                <a href="#">IBOGA</a>
                 <ul>
                     <li><a href="/iboga/jak-vam-iboga-muze-pomoci">Jak vám Iboga může pomoci</a></li>
                     <li><a href="/iboga/bwiti-tradice">Bwiti Tradice</a></li>

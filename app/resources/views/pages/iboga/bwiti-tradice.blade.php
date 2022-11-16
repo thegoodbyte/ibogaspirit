@@ -90,12 +90,17 @@
     <div class = "row">
 
     </div>
-    <div class = "col-xl-4">
-        <img src="/images/iboga/moughenda-torch.jpg">
+    <div class = "col-xl-4 col-sm-1 col-md-1">
+        <img
+            srcset="/images/iboga/bwiti/moughenda-torch-1200w.jpg 1200w, /images/iboga/bwiti/moughenda-torch-400w.jpg 400w"
+            sizes = "(max-width: 400px) 400px"
+            src="/images/iboga/bwiti/moughenda-torch-1200w.jpg"
+            alt = "Saman Moughenda - Iboga seance - Ceska Republika"
+        >
     </div>
 
 
-    <div class = "col-xl-8">
+    <div class = "col-xl-8  col-sm-1 col-md-1">
 
         <h4 class = "bwiti-tradice-h3 font-just-me">Rituály a obřady</h4>
         <p>
@@ -155,7 +160,7 @@
     </div>
 
     <div class = "col-xl-5">
-        <img src="/images/iboga/bwiti-manima.jpeg">
+        <img src="/images/iboga/bwiti/bwiti-manima-1200w.jpeg">
     </div>
 </div>
 @stop

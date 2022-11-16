@@ -66,7 +66,7 @@
 #iboga-bwiti-tradice-top-iamge {
     display: block;
     min-height: 600px;
-    background-image: url("/images/iboga/bwiti-scotty-1200.jpg");
+    background-image: url("/images/iboga/bwiti/bwiti-scotty-1200.jpg");
 }
 
 #iboga-bwiti-tradice-top-iamge h2{
@@ -82,7 +82,6 @@
 
 #iboga-bwiti-tradice-top-iamge .text-box  h3{
     color: #fff;
-
 }
 
 .background-text-light-grey {
@@ -422,7 +421,7 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
 }
 
 #home-parallax {
-    background-image: url(http://www.ibogaspirit.cz/wp-content/uploads/2022/10/bwiti-all-1200.jpg);
+    background-image: url('/images/iboga/bwiti/bwiti-all-1200.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -673,6 +672,46 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
 
 }
 
+
+@media screen and (max-width: 400px) {
+    h3, h4 {
+        padding: 5px;
+    }
+    p {
+        padding: 10px;
+    }
+    #home-zijte-stastne-pic {
+        min-height: 400px;
+        width: 100%;
+        display:block;
+        background-color: red;
+        /*background-image: url('/images/home/poznejte/happy_1200.jpeg');*/
+        background-image: url('/images/headers/what-iboga-can-do-for-you-400w.jpg');
+        height: 100vh;
+    }
+
+    #iboga-bwiti-tradice-top-iamge {
+        display: block;
+        min-height: 483px;
+        background-image: url("/images/iboga/bwiti/bwiti-scotty-400w.jpg");
+        background-repeat: no-repeat;
+    }
+    #iboga-bwiti-tradice-top-iamge h2{
+        color: #fff;
+        margin-left: 10px;
+        font-size: 45px;
+    }
+    #iboga-bwiti-tradice-top-iamge .text-box{
+        color: #fff;
+        margin-left:20px;
+        margin-top: 200px;
+    }
+
+    #iboga-bwiti-tradice-top-iamge .text-box  h3{
+        color: #fff;
+    }
+
+}
 
 
 
