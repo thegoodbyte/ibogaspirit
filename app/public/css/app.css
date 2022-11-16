@@ -136,8 +136,13 @@
     background-image: url("/images/home/onas/moughenda-and-martin.jpg");
 }
 
-.mecical-guidelines-ssection-drugs {
-    border: 1px solid red;
+.mecical-guidelines-section-drugs {
+
+}
+
+.block-reversae-red {
+    background-color: red;
+    color: #fff;
 }
 
 
@@ -147,6 +152,34 @@
     background-image: url("/images/headers/medical-guidelines.jpg");
     background-repeat: no-repeat;
 }
+
+section.medical-guidelines-psychological div.row:nth-child(3) {
+    padding-top: 20px;
+}
+
+section.medical-guidelines-psychological div.row:nth-child(4) {
+    padding-top: 5px;
+    background-color: #2e5e2f;
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+section.medical-guidelines-psychological .bg-img p {
+    position: absolute;
+    left: 600px;
+    padding: 20px;
+    top: 250px;
+}
+
+.medical-guidelines-psychological .bg-img h3{
+    color: #fff;
+}
+
+.medical-guidelines-psychological p {
+    padding: 10px;
+}
+
 
 #medical-guidelines-img-box blockquote{
     display: block;
