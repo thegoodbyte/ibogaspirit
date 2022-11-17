@@ -33,13 +33,14 @@
                 Během této cesty (journey) s průvodcem vám také ‚otevřeme‘ třetí oko (duchovní vidění) pomocí speciálních bylin a kůry, které připravili
                 Pygmejové..
             </p>
-            <p>
-                Zbytek noci stráví hosté "journeying" v obřadní oblasti až do východu slunce, kdy jsou hosté odvezeni zpět do svých pokojů.
-            </p>
+
         </div>
         <div class = "col-xl-6 col-sm-1">
 
             <img src = "/images/obrady/first-ceremony-600.jpg" />
+            <p><br /><br />
+                Zbytek noci stráví hosté "journeying" v obřadní oblasti až do východu slunce, kdy jsou hosté odvezeni zpět do svých pokojů.
+            </p>
     {{--        <div class = "retreats-img-box-">--}}
     {{--            <img src = "/images/obrady/first-ceremony-600.jpg" />--}}
     {{--        </div>--}}

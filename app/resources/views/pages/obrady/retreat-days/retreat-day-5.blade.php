@@ -1,12 +1,11 @@
-<div class = "row">
+<div class = "row ">
     <div class = "row">
         <h4 class = "font-just-me">PÁTÝ DEN - Aktivity na místě a druhý obřad Ibogy</h4>
     </div>
 
-    <div class = "col-xl-3">
-        <blockquote>Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitř.</blockquote>
-    </div>
-    <div class = "col-xl-9">
+
+
+    <div class = "col-xl-8">
 
         <p>
             Během dne mají hosté možnost naplánovat si vlastní masáže.
@@ -28,7 +27,15 @@
             Zážitek z ibogy se bude nějakým způsobem lišit pokaždé, když budeme mít lék. Hosté by měli léku věřit, že udělá svou práci.
             Musíme jen vědět, co ze zkušenosti chceme.
         </p>
+
+
     </div>
+
+    <div class = "col-xl-4 id = "retreat-day-img-box-day-5">
+        <blockquote>Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitř.</blockquote>
+    </div>
+
+
 
 
 </div>

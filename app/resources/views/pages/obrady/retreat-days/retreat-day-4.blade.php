@@ -1,6 +1,10 @@
 <div class = "row">
     <h4><span class = "font-just-me">DEN ČTVRTÝ</span> - Exkurze a duchovní sprcha</h4>
 
+    <div class = "col-xl-4">
+        <img src = "/images/obrady/spiritual-shower.jpeg" />
+    </div>
+
     <div class = "col-xl-8">
         <p>
             V tento den se hosté cítí ve svém těle pevněji, mysl je tišší a tělo lehčí.
@@ -38,11 +42,9 @@
             v pozitivních, samoúčelných vzorcích a uvolňovat negativní, sebesabotující vzorce.
             Hloubky, do kterých můžeme uvolnit negativitu v tomto obřadu, jsou neomezené – jsme dokonce schopni
             přístup a zbavit se negativity z naší rodové linie. To vše je možné smýt, vyčistit a obnovit.
-            Vsechny komponenty jsou primo z Gabonu pripraveny africkym Bwiti kmenem
+            Vsechny komponenty jsou primo z Gabonu pripraveny africkym Bwiti kmenem.
         </p>
     </div>
 
-    <div class = "col-xl-4">
-        <img src = "/images/obrady/spiritual-shower.jpeg" />
-    </div>
+
 </div>

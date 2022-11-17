@@ -5,6 +5,8 @@
     --dark-green: rgba(46, 94, 47, 0);
     --okr: rgba(177, 153, 70, 0);
     --beige: rgba(188, 183, 170, 0);
+    --okr2: rgba(225, 145, 77, 0);
+
 }
 @font-face {
     font-family: sf;
@@ -186,6 +188,11 @@ section.medical-guidelines-psychological .bg-img p {
 .medical-guidelines-psychological p {
     padding: 10px;
 }
+
+#retreat-day-img-box-day-5 {
+    background-image: url('/images/obrady/torch-600w.jpeg');
+}
+
 
 
 #img-box-top-med-guidelines blockquote{

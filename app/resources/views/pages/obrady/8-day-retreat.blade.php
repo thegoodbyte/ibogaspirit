@@ -226,11 +226,11 @@
 
     @include('pages.obrady.retreat-days.retreat-day-1')
     @include('pages.obrady.retreat-days.retreat-day-2')
-{{--    @include('pages.obrady.retreat-days.retreat-day-3')--}}
-{{--    @include('pages.obrady.retreat-days.retreat-day-4')--}}
-{{--    @include('pages.obrady.retreat-days.retreat-day-5')--}}
-{{--    @include('pages.obrady.retreat-days.retreat-day-6')--}}
-{{--    @include('pages.obrady.retreat-days.retreat-day-7')--}}
+    @include('pages.obrady.retreat-days.retreat-day-3')
+    @include('pages.obrady.retreat-days.retreat-day-4')
+    @include('pages.obrady.retreat-days.retreat-day-5')
+    @include('pages.obrady.retreat-days.retreat-day-6')
+    @include('pages.obrady.retreat-days.retreat-day-7')
 {{--    @include('pages.obrady.retreat-days.retreat-day-8')--}}
 
 
