@@ -1,11 +1,13 @@
 @extends('layouts.default')
 @section('content')
+<div class = "container-fluid" id = "medical-quidelines-container">
+    <div class = "row" id = "img-box-top-med-guidelines">
+        <h2 class = "font-just-me font-size-80">Lékařské Směrnice</h2>
 
-    <div class = "row">
-        <img src = "/images/headers/medical-guidelines-chest.jpg" />
+        <blockquote>Iboga je neuvěřitelně bezpečný lék, pokud má uživatel zdravé srdce a neužívá žádné návykové látky</blockquote>
     </div>
 
-    <h2 class = "font-just-me font-size-80">Lékařské Směrnice</h2>
+
 
 
 
@@ -35,7 +37,7 @@
     <!-- ----- EOF SECTION --------------------- -->
 
 
-    <div class = "row background-text-light-grey">
+    <div class = "row bg-container">
         <div class = "row">
             <div class = "col-xl-12">
                 <h3 class = "font-just-me font-size-80">Požadavky</h3>
@@ -73,11 +75,11 @@
     <!-- ---------------- EOF SECTION POZADAVKY --------------------------------->
 
 
-    <div class = "row">
-        <div class = "col-xl-12" id = "medical-guidelines-img-box">
-            <blockquote>Iboga je neuvěřitelně bezpečný lék, pokud má uživatel zdravé srdce a neužívá žádné návykové látky</blockquote>
-        </div>
-    </div>
+{{--    <div class = "row">--}}
+{{--        <div class = "col-xl-12" id = "medical-guidelines-img-box">--}}
+{{--            <blockquote>Iboga je neuvěřitelně bezpečný lék, pokud má uživatel zdravé srdce a neužívá žádné návykové látky</blockquote>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div class = "row">
         <blockquote>Každý je plně odpovědný za informování zprostredkovatele o minulých nebo současných
@@ -88,15 +90,15 @@
 
     <!-- ---------------- SECTION MEDICATIONS --------------------------------->
     <section>
-    <div class = "row">
-        <div class = "row">
+    <div class = "row bg-container-beige">
 
-            <h3 class = "font-just-me font-size-60">Léky</h3>
+        <div class = "row">
+            <img src = "/images/medical-guidelines/vitamins-1200.jpg" />
         </div>
         <div class = "row">
 
-            <div class = "col-xl-7">
-                <img src = "/images/medical-guidelines/meds.jpeg" />
+            <div class = "col-xl-6">
+                <h3 class = "font-just-me font-size-60">Léky</h3>
                 <p>
                     Měli byste přestat používat jakékoli léky, které nejsou nezbytné pro podporu života.
                     To zahrnuje jakékoli farmaceutické produkty, které potlačují příznaky.
@@ -106,13 +108,13 @@
 
                     <p>
                     Některé z
-                    léky mohou být také extrémně nebezpečné v kombinaci s Ibogou. Pro vaši bezpečnost si nerezervujte a
+                    léku mohou být také extrémně nebezpečné v kombinaci s Ibogou. Pro vaši bezpečnost si nerezervujte a
                     ustupte, pokud užíváte nějaké psychiatrické léky. Doporučujeme, abyste si promluvili se svým lékařem a viděli všechny možnosti
                     vysadit všechny psychiatrické léky na minimálně dva měsíce.
                     </p>
 
                     <p>
-                        Iboga může být velmi nebezpečná, pokud je kombinována s psychiatrickými léky.
+                        Iboga může být velmi nebezpečná, pokud je kombinována s psychiatrickými léky.<br />
                     PROSÍM, KONTAKTUJTE NÁS, POKUD MÁTE V TOMTO DOTAZY NEBO OTÁZKY!!!
                 </p>
 
@@ -123,8 +125,12 @@
                 </p>
             </div>
 
-            <div class = "col-xl-5">
-                <h3 class = "font-just-me font-size-30">Léky, kterým je třeba se vyhnout:</h3>
+            <div class = "col-xl-6">
+                <div class = "row">
+
+                    &nbsp;
+                </div>
+                <h3 class = "font-just-me font-size-40">Léky, kterým je třeba se vyhnout:</h3>
                 <ul class = "ul-padded">
                     <li>MAOI inhibitory monoaminooxidázy)</li>
                     <li>SSRI (selektivní inhibitory zpětného vychytávání serotoninu)</li>
@@ -248,5 +254,5 @@
             </div>
     </section>
 
-
+</div>
 @stop

@@ -9,13 +9,13 @@
         <div class = "col-xl-12">
         <h3 class  = "font-just-me">Příprava </h3>
         <p>
-        1. <!-- Preparation — Unlike Ayahuasca, there is no food preparation or dieta to adhere to before Iboga. However,
+       . <!-- Preparation — Unlike Ayahuasca, there is no food preparation or dieta to adhere to before Iboga. However,
             in the days leading up to your session, it is best to stay hydrated and well-nourished. The less processed
             and toxic foods are in your body, the less detoxification work Iboga needs to do — enabling the medicine to
             move past the physical and enter the spiritual. No alcohol should be ingested for at least one week prior to ceremony.
             The most important preparations you can make are to set intentions regarding healing on every level — mind, body, and soul.
             -->
-            — Na rozdíl od Ayahuascy neexistuje žádná příprava jídla nebo dieta, kterou byste před Ibogou dodržovali. Nicméně,
+            Na rozdíl od Ayahuascy neexistuje žádná příprava jídla nebo dieta, kterou byste před Ibogou dodržovali. Nicméně,
             ve dnech před sezením je nejlepší zůstat hydratovaný a dobře vyživený. Čím méně zpracované
             a toxické potraviny jsou ve vašem těle, tím méně detoxikační práce Iboga musí vykonat – což umožňuje léku
             přejít přes fyzické a vstoupit do duchovního. Alespoň týden před obřadem by se neměl požívat alkohol.
@@ -60,28 +60,32 @@
     </div>
 
     <div class = "row">
-        <div class = "col-xl-12">
-        <h3 class  = "font-just-me">Učte se od šamanských poskytovatelů</h3>
-        <p>
-        <p><!--
-        4. Learn From the Shamanic Providers — Our providers have trained with a 10th generation Missoko Bwiti Shaman
-            and hold years of experience guiding people through their journeys. Iboga Wellness providers have traveled to
-            Gabon, Africa multiple times — the birthplace of the Bwiti — and have been initiated into the tradition.
-            During a retreat, they speak about this wisdom tradition during fire ceremonies and share their sacred shamanic
-            knowledge with guests. Feel free to ask questions both during and between iboga ceremonies. You can learn all
-            about how the Bwiti have used Iboga’s teachings to master the Art of Living.
-
-            -->
-
-            4. Učte se od šamanských poskytovatelů — Naši poskytovatelé trénovali s 10. generací Missoko Bwiti Shaman
-            a mít dlouholeté zkušenosti s provázením lidí na jejich cestách. Iboga Wellness poskytovatelé cestovali do
-            Gabon, Afrika několikrát — rodiště Bwiti — a byly zasvěceny do tradice.
-            Během ústraní mluví o této tradici moudrosti během ohňových obřadů a sdílejí své posvátné šamanské
-            znalosti s hosty. Neváhejte klást otázky během obřadů iboga i mezi nimi. Vše se můžete naučit
-            o tom, jak Bwiti využili Ibogovo učení k zvládnutí umění žít.
-        </p>
-        </div>
+        <h3>Po ceremoialu..</h3>
     </div>
+
+{{--    <div class = "row">--}}
+{{--        <div class = "col-xl-12">--}}
+{{--        <h3 class  = "font-just-me">Učte se od šamanských poskytovatelů</h3>--}}
+{{--        <p>--}}
+{{--        <p><!----}}
+{{--        4. Learn From the Shamanic Providers — Our providers have trained with a 10th generation Missoko Bwiti Shaman--}}
+{{--            and hold years of experience guiding people through their journeys. Iboga Wellness providers have traveled to--}}
+{{--            Gabon, Africa multiple times — the birthplace of the Bwiti — and have been initiated into the tradition.--}}
+{{--            During a retreat, they speak about this wisdom tradition during fire ceremonies and share their sacred shamanic--}}
+{{--            knowledge with guests. Feel free to ask questions both during and between iboga ceremonies. You can learn all--}}
+{{--            about how the Bwiti have used Iboga’s teachings to master the Art of Living.--}}
+
+{{--            -->--}}
+
+{{--            4. Učte se od šamanských poskytovatelů — Naši poskytovatelé trénovali s 10. generací Missoko Bwiti Shaman--}}
+{{--            a mít dlouholeté zkušenosti s provázením lidí na jejich cestách. Iboga Wellness poskytovatelé cestovali do--}}
+{{--            Gabon, Afrika několikrát — rodiště Bwiti — a byly zasvěceny do tradice.--}}
+{{--            Během ústraní mluví o této tradici moudrosti během ohňových obřadů a sdílejí své posvátné šamanské--}}
+{{--            znalosti s hosty. Neváhejte klást otázky během obřadů iboga i mezi nimi. Vše se můžete naučit--}}
+{{--            o tom, jak Bwiti využili Ibogovo učení k zvládnutí umění žít.--}}
+{{--        </p>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div class = "row">
         <div class = "col-xl-12">
@@ -98,13 +102,16 @@
             flow and be patient with yourself. Negative thoughts can only grow when we give attention to them.
             Otherwise they are powerless.
             -->
-            Zůstaňte pozitivní – důvěřujte procesu. Když se o sobě učíte a zbavujete se starých vzorů, je to důležité
-            vědomě zvolit pozitivitu. Je běžné zažít vzestupy a pády během ústupu, zatímco vaše tělo
-            a mysl se defragmentují a přeprogramují, a to je krásná věc. Buď svědkem posunů.
-            To, jak se cítíte ve třetí den, se bude výrazně lišit od toho, jak se cítíte v den osm. Pusťte se do toho
-            integrace s účelem a odvrátit jakékoli negativní myšlenky tím, že se znovu zaměříte na ty pozitivní. Jděte s
-            proudit a být trpělivý sám se sebou. Negativní myšlenky mohou růst pouze tehdy, když jim věnujeme pozornost.
-            Jinak jsou bezmocní.
+            Důvěřujte procesu. Je  důležité
+            vědomě zvolit pozitivitu když se o sobě učíte a zbavujete se starých vzorů. Je
+            běžné zažít vzestupy a pády během retreatu, zatímco vaše tělo
+            a mysl se defragmentují a přeprogramovávjí, a to je krásná věc. Buďte svědkem posunů.
+        </p>
+            <p>
+            To, jak se cítíte ve třetí den, se bude výrazně lišit od toho, jak se budete cítíte v osmý den. Pusťte se do této
+            integrace s účelem a odvrátit jakékoli negativní myšlenky tím, že se znovu zaměříte na pozitivní myšlenky. Jděte s
+            s vlnou zmeny a budte trpěliví sám se sebou. Negativní myšlenky mohou růst pouze tehdy, když jim věnujeme pozornost.
+            Jinak nad nami namaji moc..
         </p>
         </div>
     </div>
@@ -123,7 +130,9 @@
             Nenuťte to – Po užití Ibogy je běžné, že budete zpočátku pociťovat nepohodlí. Takto se právě
             energie Ibogy funguje – musíte ji cítit, abyste ji vyléčili. Nejjednodušší způsob, jak překonat jakékoli nepohodlí
             je uvolnit se, soustředit se na svůj dech a odevzdat se. Lék přesně ví, co se má stát
-            abychom se uzdravili. Vzpomeňte si, proč vás Iboga zavolala, a sedněte si v této důvěře. Očekávání, jak chcete své
+            abychom se uzdravili.
+        </p>
+            <p>Vzpomeňte si, proč vás Iboga zavolala, a sedněte si v této důvěře. Očekávání, jak chcete své
             cesta jít je neplodná. Žádní dva lidé nikdy nezažijí Ibogu stejným způsobem. Vaše cesta je vaše
             sám a Duch Ibogy bude sedět a čekat, dokud nebudete připraveni jej přijmout. Naši poskytovatelé budou
             být s vámi po celou dobu, aby vás vedl a pomáhal.
@@ -401,7 +410,7 @@
                     book about anything that you are currently taking. This is for your safety, we cannot stress this enough.
 
                     -->
-                    Maso na pastvě a divoké maso/mořské plody (pokud již nejsou vegetariánské nebo veganské)
+                    >Maso na pastvě a divoké maso/mořské plody (pokud již nejsou vegetariánské nebo veganské)
                     Vydatná výživná rostlinná strava
                     Hodně ovoce a zeleniny
                     Mletá jídla, jako je kořenová zelenina, vývar z kostí, polévky/dušená masa (zejména po ústupu)
@@ -469,7 +478,7 @@
                     receive even more from the medicine during the retreat.
 
                     -->
-                   
+
                     Ujasněte si, co chcete léčit. Dělat sešit a s přípravným trenérem, terapeutem popř
                     léčitel může také pomoci při přesunu a vyjasnění, aby mohl začít přesunovat část energie předem
                     dostávat ještě více z léku během ústupu.
@@ -493,32 +502,31 @@
         <div class = "row">
             <div class = "col-xl-12">
                <h3 class  = "font-just-me"></h3>
-        <p>
-            <!--
-            This means that we are willing to look deep inside our soul, to commit to taking back ownership of our minds and our
-            lives, that we are ready to seek truth and break free from what is holding us back.
-            -->
+                <p>
+                    <!--
+                    This means that we are willing to look deep inside our soul, to commit to taking back ownership of our minds and our
+                    lives, that we are ready to seek truth and break free from what is holding us back.
+                    -->
 
-            To znamená, že jsme ochotni nahlédnout hluboko do své duše, zavázat se k převzetí zpět do vlastnictví naší mysli a naší mysli
-            životů, že jsme připraveni hledat pravdu a osvobodit se od toho, co nás brzdí.
-        </p>
+                    To znamená, že jsme ochotni nahlédnout hluboko do své duše, zavázat se k převzetí zpět do vlastnictví naší mysli a naší mysli
+                    životů, že jsme připraveni hledat pravdu a osvobodit se od toho, co nás brzdí.
+                </p>
             </div>
         </div>
 
         <div class = "row">
             <div class = "col-xl-12">
+                <h3 class  = "font-just-me"></h3>
+                <p>
+                    <!--
+                    Committing to this spiritual journey and setting our intentions is the beginning. But as our journey approaches,
+                    the mind, sensing imminent demise of its destructive ways, will play tricks and cause us to doubt.
 
-                   <h3 class  = "font-just-me"></h3>
-        <p>
-            <!--
-            Committing to this spiritual journey and setting our intentions is the beginning. But as our journey approaches,
-            the mind, sensing imminent demise of its destructive ways, will play tricks and cause us to doubt.
+                    -->
+                    Odhodlání se na tuto duchovní cestu a stanovení našich záměrů je začátek. Ale jak se naše cesta blíží,
+                    mysl, která cítí bezprostřední zánik svých destruktivních způsobů, bude hrát triky a způsobí, že budeme pochybovat.
 
-            -->
-            Odhodlání se na tuto duchovní cestu a stanovení našich záměrů je začátek. Ale jak se naše cesta blíží,
-            mysl, která cítí bezprostřední zánik svých destruktivních způsobů, bude hrát triky a způsobí, že budeme pochybovat.
-
-        </p>
+                </p>
             </div>
         </div>
 
@@ -526,16 +534,16 @@
             <div class = "col-xl-12">
 
                        <h3 class  = "font-just-me"></h3>
-        <p>
-            <!--
-            When these doubtful thoughts come, simply acknowledge them and let them pass. Be aware of the thoughts without
-            reading into them, or attaching to them. It is okay that they exist. Thoughts will always exist, negative
-            and positive. It is up to us to decide how much power to give them. -->
+                <p>
+                    <!--
+                    When these doubtful thoughts come, simply acknowledge them and let them pass. Be aware of the thoughts without
+                    reading into them, or attaching to them. It is okay that they exist. Thoughts will always exist, negative
+                    and positive. It is up to us to decide how much power to give them. -->
 
-            Když tyto pochybné myšlenky přijdou, jednoduše je uznejte a nechte je projít. Buďte si vědomi myšlenek bez
-            číst do nich nebo se k nim připojovat. Je v pořádku, že existují. Myšlenky budou vždy existovat, negativní
-            a pozitivní. Je na nás, abychom se rozhodli, jakou moc jim dáme.
-        </p>
+                    Když tyto pochybné myšlenky přijdou, jednoduše je uznejte a nechte je projít. Buďte si vědomi myšlenek bez
+                    číst do nich nebo se k nim připojovat. Je v pořádku, že existují. Myšlenky budou vždy existovat, negativní
+                    a pozitivní. Je na nás, abychom se rozhodli, jakou moc jim dáme.
+                </p>
             </div>
         </div>
 
@@ -543,14 +551,14 @@
             <div class = "col-xl-12">
 
                            <h3 class  = "font-just-me"></h3>
-        <p>
-            <!--
-            Deep healing is not comfortable and it is not easy, but it works. Healing at the root happens when we surrender.
-            It happens when we confront our fears. By confronting our shadows, we break through to our greatest possible light! -->
+                <p>
+                    <!--
+                    Deep healing is not comfortable and it is not easy, but it works. Healing at the root happens when we surrender.
+                    It happens when we confront our fears. By confronting our shadows, we break through to our greatest possible light! -->
 
-            Hluboké léčení není pohodlné a není to snadné, alefunguje to. K hlubokemu uzdravení u korenu dochází, když se odevzdáme.
-            Stává se to, když čelíme svým strachům. Tím, že se postavíme svým stínům, prorazíme k našemu největšímu možnému světlu!
-        </p>
+                    Hluboké léčení není pohodlné a není to snadné, alefunguje to. K hlubokemu uzdravení u korenu dochází, když se odevzdáme.
+                    Stává se to, když čelíme svým strachům. Tím, že se postavíme svým stínům, prorazíme k našemu největšímu možnému světlu!
+                </p>
             </div>
         </div>
 

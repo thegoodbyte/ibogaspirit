@@ -1,4 +1,11 @@
 
+
+:root {
+    --dark-red: #b81300;
+    --dark-green: rgba(46, 94, 47, 0);
+    --okr: rgba(177, 153, 70, 0);
+    --beige: rgba(188, 183, 170, 0);
+}
 @font-face {
     font-family: sf;
     src: url('/fonts/strawberry-blossom/Strawberry_Blossom.ttf');
@@ -31,6 +38,7 @@
 }
 #eight-day-retreat-includes-box div.item img{
     margin: auto;
+    display: flex;
 }
 
 #eight-day-retreat-includes-box div.item {
@@ -180,15 +188,17 @@ section.medical-guidelines-psychological .bg-img p {
 }
 
 
-#medical-guidelines-img-box blockquote{
+#img-box-top-med-guidelines blockquote{
     display: block;
    position:absolute;
-    color: #0a3880;
-    top: 305px;
-    left: 700px;
-    width: 450px;
+    color: #fff;
+    top: 165px;
+    left: 90px;
+    width: 460px;
     border-left: none;
     box-shadow: none;
+    font-size:26px;
+    font-weight: 500;
 }
 
 .h-class-warning {
@@ -199,11 +209,14 @@ section.medical-guidelines-psychological .bg-img p {
 }
 
 
-#medical-guidelines-img-box h2 {
+
+
+#medical-guidelines-img-box p {
     position:absolute;
-    color: #0a3880;
+    color: #fff;
     top: 50px;
     left: 700px;
+
 }
 
 
@@ -255,14 +268,14 @@ ul.lh-150 li {
 
 .font-just-me {
     font-family: 'Just Me Again Down Here', cursive;
-    color: #b81300;
+    color: var(--dark-red);
     font-weight: 700;
 }
 
 .font-just-me-small {
     font-family: 'Just Me Again Down Here', cursive;
     font-size: 30px;
-    color: #b81300;
+    color: var(--dark-red);
     font-weight: 700;
 }
 
@@ -271,13 +284,13 @@ ul.lh-150 li {
     font-family: gh;
     font-size: 50px;
 
-    color: #b81300;
+    color: var(--dark-red);
 }
 
 .font-samble {
     font-family: Samble;
     font-size: 30px;
-    color: #b81300;
+    color: var(--dark-red);
 }
 
 #pobyty-list-overview  li {
@@ -671,6 +684,34 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
     }
 
 }
+
+
+#medical-quidelines-container .bg-container   {
+    background-color: var(--okr);
+}
+
+#medical-quidelines-container .bg-container-beige   {
+    background-color: var(--beige);
+}
+
+#img-box-top-med-guidelines {
+    display: block;
+    width: 1200px;
+    height: 343px;
+    background-image: url('/images/headers/medical-guidelines.jpeg');
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#img-box-top-med-guidelines h2 {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+
+/*
+XS
+*/
 
 
 @media screen and (max-width: 400px) {

@@ -47,82 +47,97 @@
     </div>
 
     <div class = "row" id = "eight-day-retreat-includes-box">
-        <div class = "row"><h class = "font-just-me font-size-60 text-center"2>Co je zahrnuto</h2></div>
-        <div class = "col-xl-3">
+        <div class = "row">
+            <h2 class = "font-just-me font-size-60 text-center">Co je zahrnuto</h2>
+        </div>
+
+        <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/car.png" width = "64" />
-                <p>PICK UP FRcol-OM AND DROP OFF TO THE AIRPORT</p></div>
+                <p>PICK UP FRcol-OM AND DROP OFF TO THE AIRPORT</p>
+            </div>
         </div>
 
-        <div class = "col-xl-3">
+        <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/teachings.png" width = "64" />
-                <p>CORE BWITI TEACHINGS - FIRE CIRCLE TALKS</p></div>
+                <p>CORE BWITI TEACHINGS - FIRE CIRCLE TALKS</p>
+            </div>
         </div>
 
-        <div class = "col-xl-3">
+        <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/ceremony.png" width = "64" />
-                <p>TWO IBOGA CEREMONIES, INCLUDING DETOX & PSYCHO - SPIRITUAL JOURNEY</p></div>
+                <p>TWO IBOGA CEREMONIES, INCLUDING DETOX & PSYCHO - SPIRITUAL JOURNEY</p>
+            </div>
         </div>
 
-        <div class = "col-xl-3">
+        <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/provider.png" width = "64" />
-                <p>TRADITIONALLY TRAINED IBOGA PROVIDER INITIATED IN THE BWITI TRADITION</p></div>
+                <p>TRADITIONALLY TRAINED IBOGA PROVIDER INITIATED IN THE BWITI TRADITION</p>
+            </div>
         </div>
 
-        <div class = "col-xl-3">
+        <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/counseling.png" width = "64" />
-                <p>INTEGRATION / INDIVIDUAL SUPPORT COUNSELING</p></div>
+                <p>INTEGRATION / INDIVIDUAL SUPPORT COUNSELING</p>
+            </div>
         </div>
 
-        <div class = "col-xl-3">
+        <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/comment.png" width = "64" />
-                <p>PRE / POST IBOGA SUPPORT CALLS</p></div>
+                <p>PRE / POST IBOGA SUPPORT CALLS</p>
+            </div>
         </div>
 
-        <div class = "col-xl-3">
+        <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/accommodation.png" width = "64" />
-                <p>BEAUTIFUL ACCOMMODATION WITH PRIVATE ROOM</p></div>
+                <p>BEAUTIFUL ACCOMMODATION WITH PRIVATE ROOM</p>
+            </div>
         </div>
 
-        <div class = "col-xl-3">
+        <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/salad.png" width = "64" />
-                <p>HEALTHY MEALS THAT ACCOMMODATE MOST DIETS.</p></div>
+                <p>HEALTHY MEALS THAT ACCOMMODATE MOST DIETS.</p>
+            </div>
         </div>
 
 
 
-        <div class = "col-xl-3">
+        <div class = "col-xl-3 col-xs-6">
                 <div class = "item">
                     <img src = "/images/icons/leaf.png" width = "64" />
-                    <p>TRADITIONALLY PREPARED AND CEREMONIALLY HARVESTED IBOGA</p></div>
+                    <p>TRADITIONALLY PREPARED AND CEREMONIALLY HARVESTED IBOGA</p>
+                </div>
         </div>
 
-        <div class = "col-xl-3">
+        <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/trips.png" width = "64" />
                 <p>UNIQUE LOCAL EXCURSIONS
-            (Nature Tours, Beach Outings, Temazcals, & More!)</p></div>
+            (Nature Tours, Beach Outings, Temazcals, & More!)</p>
+            </div>
         </div>
 
-        <div class = "col-xl-3">
+        <div class = "col-xl-3 col-xs-6">
             <div class = "item">
-                <img src = "/images/icons/shower.png" width = "64" />
-                <p>TRADITIONAL BWITI SPIRITUAL SHOWER</p></div>
+                <img src = "/images/icons/bath.png" width = "64" />
+                <p>TRADITIONAL BWITI SPIRITUAL SHOWER</p>
+            </div>
         </div>
 
 
-        div class = "col-xl-3">
-        <div class = "item">
-            <img src = "/images/icons/medical.png" width = "64" />
-            <p>Medical Screening to ensure a safe retreat</p></div>
-    </div>
+        <div class = "col-xl-3 col-xs-6">
+            <div class = "item">
+                <img src = "/images/icons/medical.png" width = "64" />
+                <p>Medical Screening to ensure a safe retreat</p>
+            </div>
+        </div>
 
     </div>
 
@@ -211,33 +226,15 @@
 
     @include('pages.obrady.retreat-days.retreat-day-1')
     @include('pages.obrady.retreat-days.retreat-day-2')
-    @include('pages.obrady.retreat-days.retreat-day-3')
-    @include('pages.obrady.retreat-days.retreat-day-4')
-    @include('pages.obrady.retreat-days.retreat-day-5')
-    @include('pages.obrady.retreat-days.retreat-day-6')
-    @include('pages.obrady.retreat-days.retreat-day-7')
-    @include('pages.obrady.retreat-days.retreat-day-8')
+{{--    @include('pages.obrady.retreat-days.retreat-day-3')--}}
+{{--    @include('pages.obrady.retreat-days.retreat-day-4')--}}
+{{--    @include('pages.obrady.retreat-days.retreat-day-5')--}}
+{{--    @include('pages.obrady.retreat-days.retreat-day-6')--}}
+{{--    @include('pages.obrady.retreat-days.retreat-day-7')--}}
+{{--    @include('pages.obrady.retreat-days.retreat-day-8')--}}
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-    <div class = "row">
-        <h4>Other activities</h4>
-    Working with Iboga is incredibly powerful and amazing things will happen, but it’s also important for your wellness to have
-        some activities that make it easier to relax and enjoy yourself. We have various activities that we offer to give you a little break.
-    on-site activities: bird & and animal watching, plenty of space for yoga, hiking trails and walks to the river that runs
-        behind the Iboga Wellness property.
-    </div>
     <script>
         $( function() {
             $( "#accordion" ).accordion();
