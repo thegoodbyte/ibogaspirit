@@ -11,8 +11,8 @@ class ObradyController extends Controller
     //
 
 
-    public function all_about_iboga_ceremonies() {
-        return View::make('pages.obrady.all_about_iboga_ceremonies');
+    public function preparation() {
+        return View::make('pages.obrady.preparation');
     }
 
 
