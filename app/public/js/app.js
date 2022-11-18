@@ -63,26 +63,10 @@ $(document).ready(function() {
 
 function testFunction() {
     window.alert('This is test function');
-   //alert( $('.menu-main-menu-container'));
 
-
-   // menu-main-menu-container
 }
 
-// $( document ).ready(function() {
-//     // Handler for .ready() called.
-//     var x = document.getElementsByClassName("");
-//     if (x.style.display === "block") {
-//         x.style.display = "none";
-//     } else {
-//         x.style.display = "block";
-//     }
-// });
 
-
-console.log('READY 2');
-
-//import './menu2.css';
 
 // Prevent showing animation on window resize
 let resizeTimer;

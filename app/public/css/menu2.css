@@ -146,7 +146,7 @@ header {
 
 /* Dropdown */
 
-.nav__menu .dropdown ul {
+.nav__menu .dropdown ul, .nav__menu .dropdown2 ul, .nav__menu .dropdown3 ul {
     display: flex;
     flex-direction: column;
     position: static;
@@ -156,43 +156,17 @@ header {
     transition: all .4s;
 }
 
-.nav__menu .dropdown2 ul {
-    display: flex;
-    flex-direction: column;
-    position: static;
-    padding: 0;
-    max-height: 0px;
-    overflow: hidden;
-    transition: all .4s;
-}
 
-.nav__menu .dropdown3 ul {
-    display: flex;
-    flex-direction: column;
-    position: static;
-    padding: 0;
-    max-height: 0px;
-    overflow: hidden;
-    transition: all .4s;
-}
 
-.nav__menu .dropdown ul.show {
-    max-height: 20rem;
-    transition: all .4s;
-}
-
-.nav__menu .dropdown2 ul.show {
-    max-height: 20rem;
-    transition: all .4s;
-}
-
-.nav__menu .dropdown3 ul.show {
+.nav__menu .dropdown ul.show, .nav__menu .dropdown2 ul.show, .nav__menu .dropdown3 ul.show {
     max-height: 20rem;
     transition: all .4s;
 }
 
 
-.nav__menu .dropdown li a {
+
+
+.nav__menu .dropdown li a, .nav__menu .dropdown2 li a, .nav__menu .dropdown3 li a {
     display: block;
     text-transform: capitalize;
     text-decoration: none;
@@ -210,7 +184,7 @@ header {
 
 }
 
-.nav__menu .dropdown > a:after {
+.nav__menu .dropdown > a:after, .nav__menu .dropdown2 > a:after,  .nav__menu .dropdown3 > a:after {
     content: "\f107";
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
@@ -219,11 +193,11 @@ header {
     color: rgb(126, 126, 126);
 }
 
-.nav__menu .active.dropdown > a:after {
+.nav__menu .active.dropdown > a:after, .nav__menu .active.dropdown2 > a:after, .nav__menu .active.dropdown3 > a:after {
     content: "\f106";
 }
 
-.nav__menu .dropdown .dropdown > a:after {
+.nav__menu .dropdown .dropdown > a:after, .nav__menu .dropdown2 .dropdown > a:after, .nav__menu .dropdown3 .dropdown > a:after {
     content: "\f107";
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
@@ -232,7 +206,7 @@ header {
     color: rgb(126, 126, 126);
 }
 
-.nav__menu .dropdown .active.dropdown > a:after {
+.nav__menu .dropdown .active.dropdown > a:after, .nav__menu .dropdown2 .active.dropdown > a:after, .nav__menu .dropdown3 .active.dropdown > a:after {
     content: "\f106";
 }
 
@@ -315,7 +289,7 @@ header {
         margin: 0px 0px 0px 0px;
     }
 
-    .nav__menu li  ul.dropdown li {
+    .nav__menu li  ul.dropdown li, .nav__menu li  ul.dropdown2 li, .nav__menu li  ul.dropdown3 li {
         font-family: "Lato", Sans-serif;
         font-size: 20px;
         font-weight: 700;
@@ -328,7 +302,7 @@ header {
         margin: 0px 0px 0px 0px;
     }
 
-    .nav__menu li  ul.dropdown li a {
+    .nav__menu li  ul.dropdown li a, .nav__menu li  ul.dropdown2 li a, .nav__menu li  ul.dropdown3 li a {
         color: red;
     }
 
@@ -353,7 +327,7 @@ header {
     /**
         Menu first dropdown block
      */
-    .nav__menu .dropdown ul {
+    .nav__menu .dropdown ul, .nav__menu .dropdown2 ul, .nav__menu .dropdown3 ul {
         display: flex;
         flex-direction: column;
         position: absolute;
@@ -368,7 +342,7 @@ header {
     }
 
 
-    .nav__menu .dropdown:hover > ul {
+    .nav__menu .dropdown:hover > ul, .nav__menu .dropdown2:hover > ul, .nav__menu .dropdown3:hover > ul {
         top: 100%;
         left: 0;
         opacity: 1;
@@ -379,20 +353,20 @@ header {
 
 
 
-    .nav__menu .dropdown ul li {
+    .nav__menu .dropdown ul li, .nav__menu .dropdown2 ul li, .nav__menu .dropdown3 ul li {
         padding: 0px;
         background-color: #5e5e5e;
         position: relative;
     }
 
-    .nav__menu .dropdown ul li:hover {
+    .nav__menu .dropdown ul li:hover, .nav__menu .dropdown2 ul li:hover, .nav__menu .dropdown3 ul li:hover {
         background-color: #6d7882;
     }
 
     /**
     FIRST DROPDOWN LINKS
      */
-    .nav__menu .dropdown ul li a {
+    .nav__menu .dropdown ul li a, .nav__menu .dropdown2 ul li a, .nav__menu .dropdown3 ul li a {
         display: block;
         color: #F2F2F2;
         text-transform: capitalize;
@@ -404,13 +378,13 @@ header {
         padding: 5px 15px;
     }
 
-    .nav__menu .dropdown ul li a:hover {
+    .nav__menu .dropdown ul li a:hover, .nav__menu .dropdown2 ul li a:hover, .nav__menu .dropdown3 ul li a:hover {
         display: block;
         color: #fff;
         background-color: #000;
     }
 
-    .nav__menu .dropdown > a:after {
+    .nav__menu .dropdown > a:after, .nav__menu .dropdown2 > a:after, .nav__menu .dropdown3 > a:after {
         content: "\f107";
         font-family: "Font Awesome 5 Free";
         font-weight: 900;
@@ -420,7 +394,7 @@ header {
     }
 
 
-    .nav__menu .dropdown:hover > a:after {
+    .nav__menu .dropdown:hover > a:after, .nav__menu .dropdown2:hover > a:after, .nav__menu .dropdown3:hover > a:after {
         content: "\f106";
         font-family: "Font Awesome 5 Free";
         font-weight: 900;
@@ -430,7 +404,9 @@ header {
     }
 
 
-
+/**
+Extend to dropdown2 and dropdownn 3 bellow if you need to ..
+ */
     .nav__menu .dropdown .dropdown > a:after {
         content: "\f105";
         font-family: "Font Awesome 5 Free";
