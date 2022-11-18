@@ -156,7 +156,37 @@ header {
     transition: all .4s;
 }
 
+.nav__menu .dropdown2 ul {
+    display: flex;
+    flex-direction: column;
+    position: static;
+    padding: 0;
+    max-height: 0px;
+    overflow: hidden;
+    transition: all .4s;
+}
+
+.nav__menu .dropdown3 ul {
+    display: flex;
+    flex-direction: column;
+    position: static;
+    padding: 0;
+    max-height: 0px;
+    overflow: hidden;
+    transition: all .4s;
+}
+
 .nav__menu .dropdown ul.show {
+    max-height: 20rem;
+    transition: all .4s;
+}
+
+.nav__menu .dropdown2 ul.show {
+    max-height: 20rem;
+    transition: all .4s;
+}
+
+.nav__menu .dropdown3 ul.show {
     max-height: 20rem;
     transition: all .4s;
 }
@@ -173,7 +203,6 @@ header {
     font-weight: 700;
     line-height: 1.68em;
     letter-spacing: 0px;
-
 }
 
 .nav__menu li a:hover {

@@ -100,6 +100,7 @@ const navToggle = document.querySelector('.nav-toggle');
 const menuToggle = document.querySelector('.menu-toggle');
 
 navToggle.addEventListener('click', function(e) {
+    console.log('.menu-toggle clixked')
     this.classList.toggle('open');
     menuToggle.classList.toggle('active');
     e.stopPropagation();
@@ -109,18 +110,40 @@ navToggle.addEventListener('click', function(e) {
 
 // Dropdown toogle on mobile
 const dropdown = document.querySelector('.dropdown a');
+const dropdown2 = document.querySelector('.dropdown2 a');
+const dropdown3 = document.querySelector('.dropdown3 a');
+
+console.log(dropdown);
 
 dropdown.addEventListener('click', function(e) {
+    console.log('.dropdown a clicked')
     this.nextElementSibling.classList.toggle('show');
     this.parentNode.classList.toggle('active');
     e.stopPropagation();
 });
 
 
+dropdown2.addEventListener('click', function(e) {
+    console.log('.dropdown2 a clicked')
+    this.nextElementSibling.classList.toggle('show');
+    this.parentNode.classList.toggle('active');
+    e.stopPropagation();
+});
+
+dropdown3.addEventListener('click', function(e) {
+    console.log('.dropdown3 a clicked')
+    this.nextElementSibling.classList.toggle('show');
+    this.parentNode.classList.toggle('active');
+    e.stopPropagation();
+});
+
+
+
 // Second level dropdown toggle on mobile
 const deepDropdown = document.querySelector('.second-level a');
 
 deepDropdown.addEventListener('click', function(e) {
+    console.log('.second-level a clicked');
     this.nextElementSibling.classList.toggle('show');
     this.parentNode.classList.toggle('active');
     e.stopPropagation();

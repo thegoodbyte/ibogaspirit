@@ -1,4 +1,4 @@
-<div class = "row">
+<div class = "row background-text-light-grey">
     <div class = "row">
         &nbsp;
     </div>

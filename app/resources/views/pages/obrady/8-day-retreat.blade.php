@@ -6,7 +6,7 @@
     </div>
 
     <div class = "row text-center">
-        <h2 class = "font-just-me">Osmidenní IBOGA Retreatační Pobyt</h2>
+        <h2 class = "font-just-me">Osmi-denní IBOGA Retreatační Pobyt</h2>
 
         <p>
             V tradičním psycho-spirituálním obřadu IBOGY se o sobě učíme na všech úrovních; fyzicky, mentálně,
@@ -22,7 +22,7 @@
         </p>
     </div>
 
-    <div class = "row">
+    <div class = "row background-text-light-grey">
         <div class = "col-xl-5">
             <h3>Rozvrh pobytu</h3>
                 <ul id = "pobyty-list-overview">

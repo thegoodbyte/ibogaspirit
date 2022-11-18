@@ -3,25 +3,30 @@
 
 
     <!-- IWC -->
+    <section class = "prep-generic">
+        <div class = "row">
+            <div class = "col-xl-12">
+            <h3 class  = "font-just-me">Příprava </h3>
+            <p>
+           . <!-- Preparation — Unlike Ayahuasca, there is no food preparation or dieta to adhere to before Iboga. However,
+                in the days leading up to your session, it is best to stay hydrated and well-nourished. The less processed
+                and toxic foods are in your body, the less detoxification work Iboga needs to do — enabling the medicine to
+                move past the physical and enter the spiritual. No alcohol should be ingested for at least one week prior to ceremony.
+                The most important preparations you can make are to set intentions regarding healing on every level — mind, body, and soul.
+                -->
+                Na rozdíl od Ayahuascy neexistuje žádná příprava jídla nebo dieta, kterou byste před Ibogou dodržovali. Nicméně,
+                ve dnech před sezením je nejlepší zůstat hydratovaný a dobře vyživený. Čím méně zpracované
+                a toxické potraviny jsou ve vašem těle, tím méně detoxikační práce Iboga musí vykonat – což umožňuje léku
+                přejít přes fyzické a vstoupit do duchovního. Alespoň týden před obřadem by se neměl požívat alkohol.
+                Nejdůležitější přípravou, kterou můžete udělat, je stanovit záměry týkající se léčení na všech úrovních – mysli, těla a duše.
+            </p>
+            </div>
+        </div>
+    </section>
 
-
+    <section class = "prep-food">
     <div class = "row">
         <div class = "col-xl-12">
-        <h3 class  = "font-just-me">Příprava </h3>
-        <p>
-       . <!-- Preparation — Unlike Ayahuasca, there is no food preparation or dieta to adhere to before Iboga. However,
-            in the days leading up to your session, it is best to stay hydrated and well-nourished. The less processed
-            and toxic foods are in your body, the less detoxification work Iboga needs to do — enabling the medicine to
-            move past the physical and enter the spiritual. No alcohol should be ingested for at least one week prior to ceremony.
-            The most important preparations you can make are to set intentions regarding healing on every level — mind, body, and soul.
-            -->
-            Na rozdíl od Ayahuascy neexistuje žádná příprava jídla nebo dieta, kterou byste před Ibogou dodržovali. Nicméně,
-            ve dnech před sezením je nejlepší zůstat hydratovaný a dobře vyživený. Čím méně zpracované
-            a toxické potraviny jsou ve vašem těle, tím méně detoxikační práce Iboga musí vykonat – což umožňuje léku
-            přejít přes fyzické a vstoupit do duchovního. Alespoň týden před obřadem by se neměl požívat alkohol.
-            Nejdůležitější přípravou, kterou můžete udělat, je stanovit záměry týkající se léčení na všech úrovních – mysli, těla a duše.
-        </p>
-
         <h3 class  = "font-just-me">Jezte dobře</h3>
             <p>
             <!--
@@ -35,29 +40,33 @@
         </p>
         </div>
     </div>
+    </section>
 
-    <div class = "row">
-        <div class = "col-xl-12">
-        <h3 class  = "font-just-me">Žádné rozptylování</h3>
-        <p>
 
-            <!--
-        3. No Distractions — Iboga retreats should be a calm, introspective time. To allow for maximum healing, this
-            means limiting or removing distractions. Save travel excursions and adventures for before or after your retreat.
-            After a journey, the insights flow freely. The only way to listen to your soul and observe the depths of healing
-            is to embrace the stillness. Sometimes people have the most powerful realizations the day after their ceremony.
-            It is important not to use computers, phones, books, or other distractions after a journey. Our lives are so busy.
-            Make the choice to “unplug,” and slow down. You’ll receive much more from Iboga this way.
-            -->
-            3. Žádné rozptylování – Retreaty Ibogy by měly být klidným, introspektivním časem. Aby bylo umožněno maximální uzdravení, toto
-            znamená omezení nebo odstranění rušivých vlivů. Cestovní výlety a dobrodružství si uložte před nebo po vašem retreatu.
-            Po cestě plynou poznatky volně. Jediný způsob, jak naslouchat své duši a pozorovat hloubku léčení
-            je přijmout ticho. Někdy lidé mají nejmocnější realizace den po obřadu.
-            Po cestě je důležitéwebphpnepoužívat počítače, telefony, knihy ani jiné rušivé prvky. Naše životy jsou tak zaneprázdněné.
-            Zvolte „odpojit se“ a zpomalte. Tímto způsobem dostanete od Ibogy mnohem více.
-        </p>
+    <section class = "prep-peace">
+        <div class = "row">
+            <div class = "col-xl-12">
+            <h3 class  = "font-just-me">Žádné rozptylování</h3>
+            <p>
+
+                <!--
+            3. No Distractions — Iboga retreats should be a calm, introspective time. To allow for maximum healing, this
+                means limiting or removing distractions. Save travel excursions and adventures for before or after your retreat.
+                After a journey, the insights flow freely. The only way to listen to your soul and observe the depths of healing
+                is to embrace the stillness. Sometimes people have the most powerful realizations the day after their ceremony.
+                It is important not to use computers, phones, books, or other distractions after a journey. Our lives are so busy.
+                Make the choice to “unplug,” and slow down. You’ll receive much more from Iboga this way.
+                -->
+                3. Žádné rozptylování – Retreaty Ibogy by měly být klidným, introspektivním časem. Aby bylo umožněno maximální uzdravení, toto
+                znamená omezení nebo odstranění rušivých vlivů. Cestovní výlety a dobrodružství si uložte před nebo po vašem retreatu.
+                Po cestě plynou poznatky volně. Jediný způsob, jak naslouchat své duši a pozorovat hloubku léčení
+                je přijmout ticho. Někdy lidé mají nejmocnější realizace den po obřadu.
+                Po cestě je důležitéwebphpnepoužívat počítače, telefony, knihy ani jiné rušivé prvky. Naše životy jsou tak zaneprázdněné.
+                Zvolte „odpojit se“ a zpomalte. Tímto způsobem dostanete od Ibogy mnohem více.
+            </p>
+            </div>
         </div>
-    </div>
+    </section>
 
     <div class = "row">
         <h3>Po ceremoialu..</h3>
@@ -87,6 +96,7 @@
 {{--        </div>--}}
 {{--    </div>--}}
 
+    <section class = "post-cerem">
     <div class = "row">
         <div class = "col-xl-12">
 
@@ -107,6 +117,8 @@
             běžné zažít vzestupy a pády během retreatu, zatímco vaše tělo
             a mysl se defragmentují a přeprogramovávjí, a to je krásná věc. Buďte svědkem posunů.
         </p>
+
+
             <p>
             To, jak se cítíte ve třetí den, se bude výrazně lišit od toho, jak se budete cítíte v osmý den. Pusťte se do této
             integrace s účelem a odvrátit jakékoli negativní myšlenky tím, že se znovu zaměříte na pozitivní myšlenky. Jděte s
@@ -115,185 +127,188 @@
         </p>
         </div>
     </div>
+    </section>
 
-    <div class = "row">
-        <div class = "col-xl-12">
-        <h3 class  = "font-just-me">Nic Nenuťte</h3>
-        <p><!--
-        6. Don’t Force It — After taking Iboga, it is common to experience discomfort at first. This is just how the
-            energy of Iboga works — you’ve got to feel it to heal it. The most easeful way to navigate any discomfort
-            is to relax, by focusing on your breath, and surrender. The medicine knows exactly what needs to happen
-            for us to heal. Remember why Iboga called you, and sit in that trust. Expectations of how you want your
-            journey to go are fruitless. No two people ever experience Iboga in the same way. Your journey is yours
-            alone, and the Spirit of Iboga will sit and wait until you are ready to receive it. Our providers will
-            be with you the whole time to guide and assist.-->
-            Nenuťte to – Po užití Ibogy je běžné, že budete zpočátku pociťovat nepohodlí. Takto se právě
-            energie Ibogy funguje – musíte ji cítit, abyste ji vyléčili. Nejjednodušší způsob, jak překonat jakékoli nepohodlí
-            je uvolnit se, soustředit se na svůj dech a odevzdat se. Lék přesně ví, co se má stát
-            abychom se uzdravili.
-        </p>
-            <p>Vzpomeňte si, proč vás Iboga zavolala, a sedněte si v této důvěře. Očekávání, jak chcete své
-            cesta jít je neplodná. Žádní dva lidé nikdy nezažijí Ibogu stejným způsobem. Vaše cesta je vaše
-            sám a Duch Ibogy bude sedět a čekat, dokud nebudete připraveni jej přijmout. Naši poskytovatelé budou
-            být s vámi po celou dobu, aby vás vedl a pomáhal.
-        </p>
-        </div>
-    </div>
-
-    <div class = "row">
-        <div class = "col-xl-12">
-        <h3 class  = "font-just-me"> Buďte pohodlní</h3>
-        <p>
-            <!--
-        7. Be Comfortable — Wear loose-fitting, comfortable clothing during your journey.  You may experience
-            temperature changes in your body, so wearing layers is helpful. Extra blankets are always available.
-            Don’t hesitate to ask for help if you need something, whether it is related to your thoughts or physical needs.
-            -->
-
-            Buďte pohodlní — Během cesty noste volné pohodlné oblečení. Můžete zažít
-            změny teploty ve vašem těle, takže nošení vrstev je užitečné. Další přikrývky jsou vždy k dispozici.
-            Neváhejte požádat o pomoc, pokud něco potřebujete, ať už se to týká vašich myšlenek nebo fyzických potřeb.
-        </p>
-        </div>
-    </div>
-
-    <div class = "row">
-        <div class = "col-xl-12">
-
-        <h3 class  = "font-just-me">Discovery Day</h3>
-        <p>
-      — Po obřadu strávíte další den odpočinkem ve svém pokoji. Poskytovatelé budou
-            neustále přicházet a odcházet a kontrolovat vás. Pokud nemůžete spát, nebojte se. Je běžné, že ne
-            usnout až později večer. Discovery Day je určen pro relaxaci a klid – dva klíčové
-            kousky, které Iboze umožňují pokračovat v odhalování postřehů a zpráv. Elektronická zařízení a čtení
-            materiály jsou rušivé a volba je používat zabrání Iboze v tom, aby mohla pokračovat
-            je to práce. Zaměřte se na zónu bez rozptylování a když vás poskytovatelé kontrolují, neváhejte se zeptat.
-            Pokud se na chůzi ještě necítíte, nebudete muset. Poskytovatelé přivezou všechna vaše jídla
-            do svého pokoje. Jakmile se poprvé dobře vyspíte, budete se cítit inspirováni a omlazeni.
-<!--
-        8. Discovery Day — Following your ceremony, the next day is spent resting in your room. Providers will
-            continually come in and out to check in on you. If you cannot sleep, don’t worry. It is common to not
-            fall asleep until later in the evening. Discovery Day is meant for relaxation and stillness — two key
-            pieces that allow Iboga to continue revealing insights and messages. Electronic devices and reading
-            materials are distractions, and choosing to use these will prevent Iboga from being able to continue
-            its work. Commit to a distraction-free zone, and feel free to ask questions when providers check on you.
-            If you do not feel like walking just yet, you will not need to. Providers will bring all of your meals
-            to your room. Once you get that first good night’s sleep, you will feel inspired and rejuvenated.
-            -->
-        </p>
-        </div>
-    </div>
-
-    <div class = "row">
-        <div class = "col-xl-12">
-
-        <h3 class  = "font-just-me">Zaměřte se na sebe</h3>
-        <p>
-        9.
-            <!--
-            Focus On You — If you have been contemplating on whether or not to go on a retreat with a loved one,
-            or a group of friends, you must focus on you — not them — during your retreat. Simply put, the process
-            is yours, and loved ones can be more of a distraction than a comfort. Focusing on someone else will
-            prevent you from receiving Iboga’s insights. Talk to our Director of Guest Services if you would like
-            to travel with a loved one or group. -->
-             – Pokud jste přemýšleli o tom, zda jít na ústraní s milovanou osobou či nikoli,
-            nebo skupina přátel, musíte se během svého ústupu soustředit na vás – ne na ně. Jednoduše řečeno, proces
-            je vaše a blízcí mohou být více rozptýlením než útěchou. Zaměření na někoho jiného bude
-            zabránit vám v přijímání statistik Ibogy. Pokud chcete, obraťte se na našeho ředitele služeb pro hosty
-            cestovat s milovanou osobou nebo skupinou.
-        </p>
-        </div>
-    </div>
-
-
-
-
-    <section>
-    <div class = "row">
-        <div class = "col-xl-12">
-    <!-- AYS -->
-
-
-        <h3 class  = "font-just-me">Začněte Proces</h3>
-        <p>
-            <!--
-            Begin The Process
-
-            The changes often begin the moment we make the commitment to work with this medicine. Up to months in advance
-            most notice that life begins to shift. In order to get the most of your experience we suggest some preparation in advance:
-            -->
-
-
-            Změny často začínají ve chvíli, kdy se zavážeme pracovat s tímto lékem. Až měsíce dopředu
-            většina si všimne, že život se začíná měnit. Abyste ze svých zkušeností získali maximum, doporučujeme předem se připravit:
-        </p>
-
-{{--        <p>--}}
-{{--            <!----}}
-{{--            Workbook~ A mandatory Iboga preparation workbook that we send upon booking that is designed to help you--}}
-{{--            uncover some deeper truths. This workbook is for you first and foremost and also will help us guide you even--}}
-{{--            further to achieve lasting results. -->--}}
-
-{{--            Workbook~ Povinný sešit pro přípravu Iboga, který vám zasíláme při rezervaci a je navržen tak, aby vám pomohl--}}
-{{--            odhalit nějaké hlubší pravdy. Tento sešit je především pro vás a také nám pomůže vás vést ještě dále, abyste dosáhli trvalých výsledků.--}}
-{{--        </p>--}}
-
-{{--        <p>--}}
-{{--            <!----}}
-{{--            Coaching~ We always suggest working with a coach or an energy healer in combination with the Iboga work.--}}
-{{--            This is helpful with Iboga preparation but it is especially paramount in the integration process afterwards.--}}
-{{--            Meeting with someone in advance can help establish a healthy support system for integration. Our Awaken Your--}}
-{{--            Soul staff all use multiple methods of integration support for our own work. Check out some resources that we offer.--}}
-
-{{--            The workbook and any coaching prep will help:--}}
-{{---->--}}
-{{--            Koučování~ Vždy doporučujeme pracovat s koučem nebo energetickým léčitelem v kombinaci s prací Iboga.--}}
-{{--            To je užitečné při přípravě Iboga, ale je to zvláště důležité v následném procesu integrace.--}}
-{{--            Setkání s někým předem může pomoci vytvořit zdravý podpůrný systém pro integraci. Naše Awaken Your--}}
-{{--            Všichni zaměstnanci společnosti Soul používají různé způsoby integrační podpory pro naši vlastní práci. Podívejte se na některé zdroje, které nabízíme.--}}
-
-{{--            Pracovní sešit a jakákoli příprava na koučování vám pomohou:--}}
-{{--        </p>--}}
-        </div>
-    </div>
-
-    <div class = "row">
-        <div class = "col-xl-12">
-
-        <h3 class  = "font-just-me">Prohlédněte si aspekty svého života/chování</h3>
-        <p>
-            <!--
-            Review aspects of your life/behaviors that you are ready to release
-            Clarifying what you are looking to heal
-            Create clear intentions about what you wish to discover about your life
-            Give directives to cleanse the body & environment around you
-            Prepare you to make lasting life changes
-            Bring items stored in the subconscious into the conscious to be released
-            Help to understand your programming and the subconscious mind-->
-
-            Prohlédněte si aspekty svého života/chování, které jste připraveni uvolnit
-            Vyjasnění toho, co chcete léčit
-            Vytvořte si jasné záměry o tom, co chcete o svém životě zjistit
-            Dejte pokyny k očistě těla a prostředí kolem vás
-            Připravte se na trvalé životní změny
-            Přineste předměty uložené v podvědomí do vědomí, aby byly uvolněny
-            Pomozte pochopit vaše programování a podvědomí
-        </p>
-        </div>
-    </div>
-
+    <section class = "post-cerem">
         <div class = "row">
             <div class = "col-xl-12">
-        <p>
-            <!--
-            Ultimately you are looking to:
-            -->
+            <h3 class  = "font-just-me">Nic Nenuťte</h3>
+            <p><!--
+            6. Don’t Force It — After taking Iboga, it is common to experience discomfort at first. This is just how the
+                energy of Iboga works — you’ve got to feel it to heal it. The most easeful way to navigate any discomfort
+                is to relax, by focusing on your breath, and surrender. The medicine knows exactly what needs to happen
+                for us to heal. Remember why Iboga called you, and sit in that trust. Expectations of how you want your
+                journey to go are fruitless. No two people ever experience Iboga in the same way. Your journey is yours
+                alone, and the Spirit of Iboga will sit and wait until you are ready to receive it. Our providers will
+                be with you the whole time to guide and assist.-->
+                Nenuťte to – Po užití Ibogy je běžné, že budete zpočátku pociťovat nepohodlí. Takto se právě
+                energie Ibogy funguje – musíte ji cítit, abyste ji vyléčili. Nejjednodušší způsob, jak překonat jakékoli nepohodlí
+                je uvolnit se, soustředit se na svůj dech a odevzdat se. Lék přesně ví, co se má stát
+                abychom se uzdravili.
+            </p>
+                <p>Vzpomeňte si, proč vás Iboga zavolala, a sedněte si v této důvěře. Očekávání, jak chcete své
+                cesta jít je neplodná. Žádní dva lidé nikdy nezažijí Ibogu stejným způsobem. Vaše cesta je vaše
+                sám a Duch Ibogy bude sedět a čekat, dokud nebudete připraveni jej přijmout. Naši poskytovatelé budou
+                být s vámi po celou dobu, aby vás vedl a pomáhal.
+            </p>
+            </div>
+        </div>
+    </section>
 
-            Nakonec hledáte:
-        </p>
+    <section class = "cerem">
+        <div class = "row">
+            <div class = "col-xl-12">
+            <h3 class  = "font-just-me"> Buďte pohodlní</h3>
+            <p>
+                <!--
+            7. Be Comfortable — Wear loose-fitting, comfortable clothing during your journey.  You may experience
+                temperature changes in your body, so wearing layers is helpful. Extra blankets are always available.
+                Don’t hesitate to ask for help if you need something, whether it is related to your thoughts or physical needs.
+                -->
+
+                Buďte pohodlní — Během journey noste volné pohodlné oblečení. Můžete zažít
+                změny teploty ve vašem těle, takže nošení vrstev je užitečné. Další přikrývky jsou vždy k dispozici.
+                Neváhejte požádat o pomoc, pokud něco potřebujete, ať už se to týká vašich myšlenek nebo fyzických potřeb.
+            </p>
             </div>
         </div>
 
+    </section>
+
+    <section class = "post-cerem">
+        <div class = "row">
+            <div class = "col-xl-12">
+
+            <h3 class  = "font-just-me">Discovery Day</h3>
+            <p>
+          — Po obřadu strávíte další den odpočinkem ve svém pokoji. Poskytovatelé budou
+                neustále přicházet a odcházet a kontrolovat vás. Pokud nemůžete spát, nebojte se. Je běžné, že ne
+                usnout až později večer. Discovery Day je určen pro relaxaci a klid – dva klíčové
+                kousky, které Iboze umožňují pokračovat v odhalování postřehů a zpráv. Elektronická zařízení a čtení
+                materiály jsou rušivé a volba je používat zabrání Iboze v tom, aby mohla pokračovat
+                je to práce. Zaměřte se na zónu bez rozptylování a když vás poskytovatelé kontrolují, neváhejte se zeptat.
+                Pokud se na chůzi ještě necítíte, nebudete muset. Poskytovatelé přivezou všechna vaše jídla
+                do svého pokoje. Jakmile se poprvé dobře vyspíte, budete se cítit inspirováni a omlazeni.
+    <!--
+            8. Discovery Day — Following your ceremony, the next day is spent resting in your room. Providers will
+                continually come in and out to check in on you. If you cannot sleep, don’t worry. It is common to not
+                fall asleep until later in the evening. Discovery Day is meant for relaxation and stillness — two key
+                pieces that allow Iboga to continue revealing insights and messages. Electronic devices and reading
+                materials are distractions, and choosing to use these will prevent Iboga from being able to continue
+                its work. Commit to a distraction-free zone, and feel free to ask questions when providers check on you.
+                If you do not feel like walking just yet, you will not need to. Providers will bring all of your meals
+                to your room. Once you get that first good night’s sleep, you will feel inspired and rejuvenated.
+                -->
+            </p>
+            </div>
+        </div>
+    </section>
+
+    <section class = "prep-generic">
+        <div class = "row">
+            <div class = "col-xl-12">
+
+            <h3 class  = "font-just-me">Zaměřte se na sebe</h3>
+            <p>
+            9.
+                <!--
+                Focus On You — If you have been contemplating on whether or not to go on a retreat with a loved one,
+                or a group of friends, you must focus on you — not them — during your retreat. Simply put, the process
+                is yours, and loved ones can be more of a distraction than a comfort. Focusing on someone else will
+                prevent you from receiving Iboga’s insights. Talk to our Director of Guest Services if you would like
+                to travel with a loved one or group. -->
+                 – Pokud jste přemýšleli o tom, zda jít na retreat s milovanou osobou či nikoli,
+                nebo skupina přátel, musíte se během svého retreatu soustředit na vás – ne na ně. Jednoduše řečeno, proces
+                je vaše a blízcí mohou být více rozptýlením než útěchou. Zaměření na někoho jiného bude
+                zabránit vám v přijímání statistik Ibogy. Pokud chcete, obraťte se na našeho ředitele služeb pro hosty
+                cestovat s milovanou osobou nebo skupinou.
+            </p>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <section class = "prep-generic">
+        <div class = "row">
+            <div class = "col-xl-12">
+        <!-- AYS -->
+
+
+            <h3 class  = "font-just-me">Začněte Proces</h3>
+            <p>
+                <!--
+                Begin The Process
+
+                The changes often begin the moment we make the commitment to work with this medicine. Up to months in advance
+                most notice that life begins to shift. In order to get the most of your experience we suggest some preparation in advance:
+                -->
+
+
+                Změny často začínají ve chvíli, kdy se zavážeme pracovat s tímto lékem. Až měsíce dopředu
+                většina si všimne, že život se začíná měnit. Abyste ze svých zkušeností získali maximum, doporučujeme předem se připravit:
+            </p>
+
+    {{--        <p>--}}
+    {{--            <!----}}
+    {{--            Workbook~ A mandatory Iboga preparation workbook that we send upon booking that is designed to help you--}}
+    {{--            uncover some deeper truths. This workbook is for you first and foremost and also will help us guide you even--}}
+    {{--            further to achieve lasting results. -->--}}
+
+    {{--            Workbook~ Povinný sešit pro přípravu Iboga, který vám zasíláme při rezervaci a je navržen tak, aby vám pomohl--}}
+    {{--            odhalit nějaké hlubší pravdy. Tento sešit je především pro vás a také nám pomůže vás vést ještě dále, abyste dosáhli trvalých výsledků.--}}
+    {{--        </p>--}}
+
+    {{--        <p>--}}
+    {{--            <!----}}
+    {{--            Coaching~ We always suggest working with a coach or an energy healer in combination with the Iboga work.--}}
+    {{--            This is helpful with Iboga preparation but it is especially paramount in the integration process afterwards.--}}
+    {{--            Meeting with someone in advance can help establish a healthy support system for integration. Our Awaken Your--}}
+    {{--            Soul staff all use multiple methods of integration support for our own work. Check out some resources that we offer.--}}
+
+    {{--            The workbook and any coaching prep will help:--}}
+    {{---->--}}
+    {{--            Koučování~ Vždy doporučujeme pracovat s koučem nebo energetickým léčitelem v kombinaci s prací Iboga.--}}
+    {{--            To je užitečné při přípravě Iboga, ale je to zvláště důležité v následném procesu integrace.--}}
+    {{--            Setkání s někým předem může pomoci vytvořit zdravý podpůrný systém pro integraci. Naše Awaken Your--}}
+    {{--            Všichni zaměstnanci společnosti Soul používají různé způsoby integrační podpory pro naši vlastní práci. Podívejte se na některé zdroje, které nabízíme.--}}
+
+    {{--            Pracovní sešit a jakákoli příprava na koučování vám pomohou:--}}
+    {{--        </p>--}}
+            </div>
+        </div>
+    </section>
+
+    <section class = "prep-generic">
+        <div class = "row">
+            <div class = "col-xl-12">
+
+            <h3 class  = "font-just-me">Prohlédněte si aspekty svého života/chování</h3>
+            <p>
+                <!--
+                Review aspects of your life/behaviors that you are ready to release
+                Clarifying what you are looking to heal
+                Create clear intentions about what you wish to discover about your life
+                Give directives to cleanse the body & environment around you
+                Prepare you to make lasting life changes
+                Bring items stored in the subconscious into the conscious to be released
+                Help to understand your programming and the subconscious mind-->
+
+                Prohlédněte si aspekty svého života/chování, které jste připraveni uvolnit
+                Vyjasnění toho, co chcete léčit
+                Vytvořte si jasné záměry o tom, co chcete o svém životě zjistit
+                Dejte pokyny k očistě těla a prostředí kolem vás
+                Připravte se na trvalé životní změny
+                Přineste předměty uložené v podvědomí do vědomí, aby byly uvolněny
+                Pomozte pochopit vaše programování a podvědomí
+            </p>
+            </div>
+        </div>
+    </section>
+
+
+    <section class = "prep-generic">
         <div class = "row">
             <div class = "col-xl-12">
 
@@ -319,6 +334,7 @@
         </p>
             </div>
         </div>
+    </section>
 
         <div class = "row">
             <div class = "col-xl-12">
@@ -331,6 +347,7 @@
             </div>
         </div>
 
+    <section class = "prep-generic">
         <div class = "row">
             <div class = "col-xl-12">
                 <h3 class  = "font-just-me">Příprava těla, mysli a ducha</h3>
@@ -346,7 +363,9 @@
                 </p>
             </div>
         </div>
+    </section>
 
+    <section class = "prep-generic">
         <div class = "row">
             <div class = "col-xl-12">
             <h3 class  = "font-just-me">Dieta</h3>
@@ -371,7 +390,10 @@
         </p>
             </div>
         </div>
+    </section>
 
+
+    <section class = "prep-generic">
         <div class = "row">
             <div class = "col-xl-12">
                 <h3 class  = "font-just-me">Zdravá jídla</h3>
@@ -388,7 +410,10 @@
         </p>
             </div>
         </div>
+    </section>
 
+
+    <section class = "prep-generic">
         <div class = "row">
             <div class = "col-xl-12">
                     <h3 class  = "font-just-me">Jidla</h3>
@@ -426,7 +451,9 @@
                 </p>
             </div>
         </div>
+    </section>
 
+    <section class = "prep-generic">
         <div class = "row">
             <div class = "col-xl-12">
                 <h3 class  = "font-just-me">Fyzické cvičení</h3>
@@ -440,7 +467,9 @@
                     </p>
             </div>
         </div>
+    </section>
 
+    <section class = "prep-generic">
         <div class = "row">
             <div class = "col-xl-12">
 
@@ -465,7 +494,9 @@
                 </p>
             </div>
         </div>
+    </section>
 
+    <section class = "prep-generic">
         <div class = "row">
             <div class = "col-xl-12">
 
@@ -485,23 +516,19 @@
                 </p>
             </div>
         </div>
+    </section>
 
+    <section class = "prep-generic">
         <div class = "row">
             <div class = "col-xl-12">
                 <p>
 
             <!--
                     When considering Iboga as a teacher, we must take the first step and ask ourselves, ‘Am I ready?’ -->
-                    Když uvažujeme o Ibogu jako o učiteli, musíme udělat první krok a zeptat se sami sebe: ‚Jsem připraven?‘
+                    Když uvažujeme o Ibogu jako o učiteli, musíme udělat první krok a zeptat se sami
+                    sebe: ‚Jsem připraven/a?‘
                 </p>
 
-
-            </div>
-        </div>
-
-        <div class = "row">
-            <div class = "col-xl-12">
-               <h3 class  = "font-just-me"></h3>
                 <p>
                     <!--
                     This means that we are willing to look deep inside our soul, to commit to taking back ownership of our minds and our
@@ -513,7 +540,9 @@
                 </p>
             </div>
         </div>
+    </section>
 
+    <section class = "prep-generic">
         <div class = "row">
             <div class = "col-xl-12">
                 <h3 class  = "font-just-me"></h3>
@@ -544,26 +573,19 @@
                     číst do nich nebo se k nim připojovat. Je v pořádku, že existují. Myšlenky budou vždy existovat, negativní
                     a pozitivní. Je na nás, abychom se rozhodli, jakou moc jim dáme.
                 </p>
-            </div>
-        </div>
 
-        <div class = "row">
-            <div class = "col-xl-12">
-
-                           <h3 class  = "font-just-me"></h3>
                 <p>
                     <!--
                     Deep healing is not comfortable and it is not easy, but it works. Healing at the root happens when we surrender.
                     It happens when we confront our fears. By confronting our shadows, we break through to our greatest possible light! -->
 
-                    Hluboké léčení není pohodlné a není to snadné, alefunguje to. K hlubokemu uzdravení u korenu dochází, když se odevzdáme.
-                    Stává se to, když čelíme svým strachům. Tím, že se postavíme svým stínům, prorazíme k našemu největšímu možnému světlu!
+                    Hluboké léčení není pohodlné a není to snadné, alefunguje to.
+                    K hlubokemu uzdravení u korenu problemu dochází, když se odevzdáme.
+                    Stává se to, když čelíme svým strachům. Tím, že se postavíme svým stínům,
+                    prorazíme k našemu největšímu možnému světlu!
                 </p>
             </div>
         </div>
-
-
-
     </section>
 
 
@@ -629,7 +651,7 @@
         <div class = "col-xl-12">
             <h4  class = "font-just-me font-size-80">Duse</h4>
             <p>
-                Jakmile se rozhodnete zúčastnit se obřadu Iboga, Spirit of Iboga s vámi začne spolupracovat.
+                Jakmile se rozhodnete zúčastnit se obřadu Iboga, duch Ibogy s vámi začne spolupracovat.
                 Pokud potřebujete finanční pomoc, požádejte o ni Ibogu a Iboga vám ji pomůže uskutečnit.
             </p>
 

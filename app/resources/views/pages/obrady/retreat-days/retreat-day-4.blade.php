@@ -1,4 +1,4 @@
-<div class = "row">
+<div class = "row background-text-light-grey">
     <h4><span class = "font-just-me">DEN ČTVRTÝ</span> - Exkurze a duchovní sprcha</h4>
 
     <div class = "col-xl-4">

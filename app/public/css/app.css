@@ -94,8 +94,12 @@
     color: #fff;
 }
 
+/*.background-text-light-grey {*/
+/*     background-color: #F4F4F4;*/
+/* }*/
+
 .background-text-light-grey {
-    background-color: #F4F4F4;
+    background-color: var(--okr);
 }
 
 .bwiti-tradice-h3 {

@@ -17,7 +17,16 @@
     <nav class="menu-toggle">
         <ul class="nav__menu">
             <li class = "menu-item"><a href="/">HOME</a></li>
-            <li class = "dropdown menu-item">
+            <li class="dropdown menu-item"><a href="#">OBŘADY</a>
+                <ul>
+                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
+                    <li><a href="/obrady/priprava">Příprava</a></li>
+                    <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní retreatační pobyt</a></li>
+                    <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
+                    <li><a href="/obrady/terminy-a-ceny">Terminy a Ceny</a></li>
+                </ul>
+            </li>
+            <li class = "dropdown2 menu-item">
                 <a href="#">IBOGA</a>
                 <ul>
                     <li><a href="/iboga/jak-vam-iboga-muze-pomoci">Jak vám Iboga může pomoci</a></li>
@@ -26,29 +35,11 @@
                     <li><a href="/iboga/gabon">Gabon - Afrika</a></li>
                 </ul>
             </li>
-            <li class="dropdown menu-item"><a href="#">OBŘADY</a>
-            <li class="dropdown menu-item"><a href="#"><?php echo __('menu.menu_ceremonies.ceremonies.ceremonies'); ?></a>
-                <ul>
-                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
-                    <li><a href="/obrady/priprava">Příprava</a></li>
-                    <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní retreatační pobyt</a></li>
-                    <li><a href="/obrady/vse-o-iboga-obradech">Vše o Iboga obřadech</a></li>
-                    <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
-                    <!--
-                    <li class="dropdown second-level"><a href="#">2nd level dropdown</a>
-                        <ul>
-                            <li><a href="">Jak vám Iboga může pomoci</a></li>
-                            <li><a href="">Drx`opdown item 2</a></li>
-                            <li><a href="">Dropdown item 3</a></li>
-                        </ul>
-                    </li>
+            <!-- <li class="dropdown menu-item"><a href="#">OBŘADY</a>-->
+            <!--<li class="dropdown menu-item"><a href="#"><?php //echo __('menu.menu_ceremonies.ceremonies.ceremonies'); ?></a>-->
 
-                    -->
-                    <li><a href="/obrady/terminy-a-ceny">Terminy a Ceny</a></li>
-                </ul>
-            </li>
-            <li class = "dropdown menu-item">
-                <a href="/onas">O Nas</a>
+            <li class = "dropdown3 menu-item">
+                <a href="#">O Nas</a>
                 <ul>
                     <li><a href="/onas/nganga">Nganga</a></li>
                     <li><a href="/onas/moughenda">Saman Moughenda</a></li>

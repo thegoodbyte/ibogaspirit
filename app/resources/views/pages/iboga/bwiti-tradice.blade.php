@@ -23,6 +23,12 @@
 
     <div class = "col-xl-10">
         <p>
+            Bwiti and the Iboga plant’s symbiotic relationship goes back thousands of years to when the
+            Iboga plant was first discovered. Iboga became a sacrament of the Bwiti, with nearly every aspect of
+            their tradition and their ceremonies given to them by the spirit of Iboga itself. Iboga is such an
+            important part of their lives, that it is used as the initiation into the tradition and is consumed regularly at ceremonies.
+        </p>
+        <p>
 
             Bwiti není náboženství, ale tradiční duchovní cesta, která vás přivede k hlubokému spojení s vaší duší,
             učí vás ovládat sebe sama a být přítomen ve své vlastní zkušenosti.
