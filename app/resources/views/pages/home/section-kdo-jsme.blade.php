@@ -48,8 +48,9 @@
                 </div>
                 <div class="elementor-element elementor-element-101ab0d elementor-widget__width-initial elementor-widget elementor-widget-text-editor is-mac" data-id="101ab0d" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container uppercase">
-                        Jmenuju se Martin Halla and jsem Nganga - spiritualni lecitel a tradicni Bwiti Iboga poskytovatel. Studoval jsem bezpecne poskytovani Ibogy a Bwiti uceni v Gabonu,  stredozapadni Africe, u samana 10-te generace Moughendy Mikaly.
-                        Ucil jsem se tradicni  tisiceletou praxi v branchi Missoko Bwiti.
+                        VItejte - Ja jsem Martin and jsem Nganga - spiritualni lecitel a tradicni Bwiti Iboga facilitator a poskytovatel.
+                        Studoval jsem bezpecne poskytovani Ibogy medicinia a Bwiti uceni a leceni v Gabonu,  stredozapadni Africe, u samana 10-te generace Moughendy Mikaly.
+                        Ucil jsem se tradicni  tisiceletou praxi v  Missoko Bwiti.
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-1e3abfe elementor-widget__width-initial elementor-widget elementor-widget-text-editor is-mac" data-id="1e3abfe" data-element_type="widget" data-widget_type="text-editor.default">

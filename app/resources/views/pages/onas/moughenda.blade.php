@@ -3,7 +3,8 @@
 
     <div class = "row text-center">
         <h2 class = "font-just-me font-size-100"> Moughenda</h2>
-         <h4 class = "font-just-me font-size-40">   10th Generation Shaman/Nima, Bwiti Teacher</h4>
+         <h4 class = "font-just-me font-size-40">
+             Šaman/Nima 10. generace, učitel Bwiti</h4>
     </div>
 
 

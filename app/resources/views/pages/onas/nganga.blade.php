@@ -8,10 +8,12 @@
 
     <div class = "row">
         <div class = "col-xl-5">
-            <img src  = "/images/home/onas/martin-gabon-leafs.jpg" />
+            <img src  = "/images/home/onas/martin-gabon-leafs.jpg" alt  "Iboga Bwiti Facilitator - Obrady a seance Ceska Republika"/>
         </div>
 
         <div class = "col-xl-7">
+            <p>Vitejte - Ja jsem Martin - Spiritualni léčiitel neboli Nganga - tradični Missoko Bwiti Iboga facilitáto. Studoval jsem tradicni
+                léčeni Ibogou u samana 10 generace přimo v Gabonu a praktuji převažne v Mexiku. Nyni nabizim Iboga obřady take tu v Cechachr</p>
             <p>
                 Zamiloval jsem se do tradice Bwiti a Ibogy protože nas uci  pravdu z naseho vnitřku a jak jednoduchy a krasny nas zivot je.
                 Rostlina Iboga je zároveň léčitelem a učitelem.
@@ -24,14 +26,14 @@
             </p>
 
             <p>
-                O Iboze medicine jsem se prvně dozvěděl od polské věštkyně z Chikaga.
-                Pověděla mi "Jed na Ibogu a všechny tvoje problémy budou vyřešeny".
+                O Iboze medicině jsem se prvně dozvěděl od polské věštkyně z Chikaga.
+                Pověděla mi "Jeď na Ibogu a všechny tvoje problémy budou vyřešeny".
                 Zdálo se mi to jako nějaká fráze a neveřil jsem tomu. Trvalo mi to 7 let nez jsem ucinil ten první krok a
                 vydal se za šamanskym Bwiti lécením do Kostariky.
             </p>
 
             <p>
-                Po tydenním pobytu (a dvouch obradech) to bylo, jako bych byl nový já  - se všemi svými předchozími vlastnostmi, ale tentokrát lepsíimi..
+                Po tydenním pobytu (a dvouch obřadech) to bylo, jako bych to byl nový já  - se všemi svými předchozími vlastnostmi, ale tentokrát lepsíimi..
                 Navíc jsem se cítil a vypadal jako omlazeny.
                 Me srdce bylo znovu otevřené, nejen k tomu milovat druhé , ale také milovat sam sebe.
                 Nemohl jsem uvěřit, že existuje tak úžasné a jednoduché řešení pro různé komplikované problémy a podmínky.
@@ -39,13 +41,15 @@
 
             <!--
             á
-
+            č
+            ď
             ě
             é
             í
             ř
             š
 
+            ú
             ú
             ž
 
@@ -68,7 +72,7 @@
             </p>
 
             <div class = "row">
-                <img src  = "/images/home/onas/moughenda-and-martin.jpg" alt = "S šamanem Moughendou před Bwiti kaplí"/>
+                <img src  = "/images/home/onas/moughenda-and-martin.jpg" alt = "S šamanem Moughendou před Bwiti kaplí v Gabou Afrika"/>
             </div>
 
             <p>

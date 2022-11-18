@@ -81,7 +81,7 @@
 
         <div class = "col-xl-6">
 
-            <blockquote>Kazdy problem a nemoc ma zacatek, Iboga je schopna je odhalit a vylecit</blockquote>
+            <blockquote>Kazdy problém a nemoc ma začatek, Iboga je schopna je odhalit a vyléčit</blockquote>
             <p>
                 Dalším faktorem, který dělá z Ibogy účinnou léčbu závislostí, je jeho schopnost léčit emocionální a
                 psychologické základní příčiny závislosti. Ibogae působí přes minulá traumata, naučené destruktivní chování a s
@@ -124,7 +124,7 @@
 
     <p>
         Iboga is one of the most potent plant medicines for deep learning
-        &amp; healing.
+        &amp;amp; healing.
     </p>
 
     <p>
@@ -137,7 +137,8 @@
 </div>
 
     <diV class = "row" id = "iboga-benefits">
-            <div class = "col-xl-3 col-sm-12">
+            <div class = "col-xl-3 col-sm-12 iboga-helps-block">
+                <div class = "row"><img src = "/images/icons/physical.png" width = "80" />></div>
                 <h3>Fyzický</h3>
                 <ul>
                     <li>Detoxikace buněk celého těla</li>
@@ -152,10 +153,10 @@
                 </ul>
             </div>
 
-            <div class = "col-xl-3 col-sm-12">
-                <h3>Duševní</h3>
+            <div class = "col-xl-3 col-sm-12 iboga-helps-block">
+                <div class = "row"><img src = "/images/icons/mental.png" width = "80" />></div>
+                <h3>Mentalní</h3>
                 <ul>
-
                     <li>Resetuje neurotransmitery mozku</li>
                     <li>Mentální detox negativních myšlenek</li>
                     <li>Pomáhá léčit trauma z minulosti</li>
@@ -167,7 +168,8 @@
                 </ul>
             </div>
 
-            <div class = "col-xl-3 col-sm-12">
+            <div class = "col-xl-3 col-sm-12 iboga-helps-block">
+                <div class = "row"><img src = "/images/icons/emotional.png" width = "80" />></div>
                 <h3>Emocionální</h3>
                     <ul>
                         <li>Zvyšte emoční sílu a bezpečí</li>
@@ -178,11 +180,12 @@
             </div>
 
 
-            <div class = "col-xl-3 col-sm-12">
-                <h3>Duchovní</h3>
+            <div class = "col-xl-3 col-sm-12 iboga-helps-block">
+                <div class = "row">
+                    <img src = "/images/icons/spiritual.png" width = "80" />
+                </div>
+                <h3>Spiritual</h3>
                 <ul>
-
-
                     <li>Duchovní očista</li>
                     <li>Léčení předků</li>
                     <li>Spojení se svým pravým já/duší</li>
