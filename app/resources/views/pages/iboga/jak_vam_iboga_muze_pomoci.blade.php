@@ -12,13 +12,16 @@
 </div>
 
     <div class = "row">
+        <div class = "col-xl-12 col-xs-1 pt-5">
+            <h3 class = "font-size-40 font-just-me color-iscz-green">
+                Iboga je pro ty, kteří jsou připraveni se osvobodit  ze spárů fyzických, mentálních, emocionálních a duchovních omezeni a onemocnění,
+                a tim otevřít se svému skutečnému potenciálu.
+            </h3>
+        </div>
+    </div>
+
+    <div class = "row">
         <div class = "col-xl-8">
-
-            <p>
-                Iboga je pro ty, kteří jsou připraveni osvobodit se ze spárů fyzických, mentálních, emocionálních a duchovních onemocnění,
-                a otevřít se svému skutečnému potenciálu.
-            </p>
-
             <p>
                 Pomáham vam najít jasno v tom, kdo jste a co chcete.
                 Léčba Ibogou  se  zaměřuje na spojení s tím, kdo jste a co chcete - protože toto je jedno z tech
@@ -45,6 +48,9 @@
 
             </p>
 
+
+
+
             <blockquote>IBOGA pomáhá tím, že boří iluze ega, opouští minulost, falešná přesvědčení, traumata a lži, které jsme si říkali.</blockquote>
             <p>
                 Jedna léčba ibogou se dá přirovnat k minimálně ddeseleté tradiční psychoterapii.
@@ -54,38 +60,48 @@
 
             </p>
 
-            <blockquote>Iboga pomáhá léčit sebedestruktivní vzorce myšlení a chování.</blockquote>
 
-            <p>
-                Iboga se používá jako psycho-duchovní medicína a vizionářský nástroj. Konzumace Ibogy navozuje hluboký meditativní stav,
-                který může vést k vizím a stavu podobnému snu, který může přinést hluboké osobní vhledy.
-            </p>
-
-            <blockquote>Iboga nás přivádí zpět k nám samotným, nabízí vedení a léčení na hluboké duchovní úrovni</blockquote>
-
-            <p>
-                Mnoho lidí hlásí znatelný a dlouhotrvající posun ve svém vědomí, získávají jinou perspektivu a nové způsoby
-                chápání sebe sama a světa. Hluboké duchovní léčivé účinky
-                iboga spolu s jeho schopnostmi resetování a přeprogramování mozku popsanými výše jsou užitečné při
-                léčbě mentálních a emocionálních stavů, jako je deprese, úzkost, OCD nebo PTSD.
-            </p>
 
         </div>
 
         <div class = "col-xl-4">
-            IMAGE HERE
+            <img src = "/images/iboga/iboga-graphics.jpeg" />
         </div>
     </div>
 
+
+    <!------ -->
+    <div class = "row col-xl-12">
+        <blockquote>Iboga pomáhá léčit sebedestruktivní vzorce myšlení a chování.</blockquote>
+
+        <p>
+            Iboga se používá jako psycho-duchovní medicína a vizionářský nástroj. Konzumace Ibogy navozuje hluboký meditativní stav,
+            který může vést k vizím a stavu podobnému snu, který může přinést hluboké osobní vhledy.
+        </p>
+
+
+        <p>
+            Mnoho lidí hlásí znatelný a dlouhotrvající posun ve svém vědomí, získávají jinou perspektivu a nové způsoby
+            chápání sebe sama a světa. Hluboké duchovní léčivé účinky
+            iboga spolu s jeho schopnostmi resetování a přeprogramování mozku popsanými výše jsou užitečné při
+            léčbě mentálních a emocionálních stavů, jako je deprese, úzkost, OCD nebo PTSD.
+        </p>
+    </div>
+
+
+<!------ -->
+
+
+    <div class = "col-xl-12" id = "img-box-iboga-helps-middle">
+        <blockquote>Iboga nás přivádí zpět k nám samotným, nabízí vedení a léčení na hluboké duchovní úrovni</blockquote>
+    </div>
+
+
     <div class = "row">
 
-        <div class = "col-xl-6">
-            IMAGE HERE
-        </div>
+        <div class = "col-xl-12">
 
-        <div class = "col-xl-6">
-
-            <blockquote>Kazdy problém a nemoc ma začatek, Iboga je schopna je odhalit a vyléčit</blockquote>
+            <blockquote>Kazdy problém a nemoc má začátek, Iboga je schopna je odhalit a vyléčit</blockquote>
             <p>
                 Dalším faktorem, který dělá z Ibogy účinnou léčbu závislostí, je jeho schopnost léčit emocionální a
                 psychologické základní příčiny závislosti. Ibogae působí přes minulá traumata, naučené destruktivní chování a s
@@ -102,8 +118,8 @@
 
 
     <div class = "row">
-        <p>Proč se zúčastnit?
-            Existují tři hlavní důvody, proč se lidé účastní obřadu Iboga.</p>
+        <h3 class = "font-size-40 color-iscz-red font-just-me">Proč se zúčastnit?
+            Existují tři hlavní důvody, proč se lidé účastní obřadu Iboga.</h3>
 
         <ol>
             <li>
@@ -142,7 +158,9 @@
 
     <diV class = "row" id = "iboga-benefits">
             <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #DCF1F1;">
-                <div class = "row"><img src = "/images/icons/physical.png" width = "80" />></div>
+                <div class = "">
+                    <img src = "/images/icons/physical.png" width = "80" />
+                </div>
                 <h3>Fyzicky</h3>
                 <ul>
                     <li>Detoxikace buněk celého těla</li>
@@ -158,7 +176,9 @@
             </div>
 
             <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #Fffdf1;">
-                <div class = "row"><img src = "/images/icons/mental.png" width = "80" />></div>
+                <div class = "">
+                    <img src = "/images/icons/mental.png" width = "80" />
+                </div>
                 <h3>Mentalně</h3>
                 <ul>
                     <li>Resetuje neurotransmitery mozku</li>
@@ -173,7 +193,9 @@
             </div>
 
             <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #F3eeec;">
-                <div class = "row"><img src = "/images/icons/emotional.png" width = "80" />></div>
+                <div class = "">
+                    <img src = "/images/icons/emotional.png" width = "80" />
+                </div>
                 <h3>Emocionálně</h3>
                     <ul>
                         <li>Zvyšte emoční sílu a bezpečí</li>
@@ -185,7 +207,7 @@
 
 
             <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #E9f1e9;">
-                <div class = "row">
+                <div class = "">
                     <img src = "/images/icons/spiritual.png" width = "80" />
                 </div>
                 <h3>Spiritualně</h3>
@@ -203,22 +225,33 @@
 
 
     <div class = "row">
-        <div class = "col-xl-6">
-<p>„Nikdy nezapomenu na ráno po jeho úplně prvním obřadu,“ říká Elizabeth Bast. Když se s úžasem podíval na zem a řekl:
-    ‚Miluji svůj život. Už se nikdy nechci znevážit.‘ Znovu jsem viděla svou lásku, ktero jsem  předchozí noci sotva poznala.
-</p>
+        <div class = "col-xl-12">
 
-            <p>https://integration-communications.prowly.com/181734-artist-chor-boogie-heals-opiate-addiction-and-finds-inspiration-with-iboga</p>
-   <p> Tento lék neléčí pouze tělo; může léčit duši – zvláště když se koná v tradičním obřadu se silnými úmysly.
-</p>
-<p>
-    Iboga je známá léčbou závislosti,ale to je jen začátek toho, co může nabídnout.
-</p>
+            <p>Geedback od jednoho z mých hostu: </p>
+            <blockquote class = "small-bq color-iscz-green">
+                Moje zkušenost s Martinem mi otevřela oči! Před prvním obřadem jsem byl velmi vzrušený a nervózní, protože jsem neměl
+                žádné předchozí zkušenosti s Ibogou. Martin byl vždy připraven zodpovědět všechny otázky nebo obavy, které jsem měl během své cesty. I
+                boga mi skutečně otevřela mysl a ukázala mi nešťastnou osobu, kterou jsem se stala, a skutečnou šťastnou osobu,
+                kterou ve skutečnosti jsem a kterou se mohu znovu stát. Setkat se tváří v tvář se svou duší a napravit se mi vyniklo
+                ze všech zážitků, které jsem na své cestě zažil. Pokud potřebujete duchovní uzdravení, vřele doporučuji oslovit
+                Martina a udělat první krok.
+                <cite>>J.Barreto</cite>
+            </blockquote>
+
+
+            <p>
+                Tento lék neléčí pouze tělo; může léčit duši – zvláště když se koná v tradičním obřadu se silnými úmysly.
+                Provozuji tradicni MIssoko Bwiti obrady
+            </p>
+
+            <p>
+                Iboga je známá léčbou závislosti,ale to je jen začátek toho, co může nabídnout.
+            </p>
             <p>Je to medicína duchovního zasvěcení a vizionářské kreativity.“</p>
 
         </div>
 
-        <div class = "col-xl-6">
+        <div class = "col-xl-12">
             <!--
             <p>Helping people find clarity in who they are and what they want
                 An Iboga Treatment should focus on connecting you to who you are and what you want because this is one of
@@ -230,6 +263,7 @@
             -->
 
         </div>
+
     </div>
 
 @stop

@@ -41,12 +41,36 @@
     color: var(--dark-green);
 }
 
+.iboga-helps-block {
+
+}
+
+blockquote .small-bq {
+    font-size:24px;
+}
 
 #img-box-iboga-helps {
     display: block;
     width: 100%;
     min-height: 400px;
     background-image: url('/images/headers/misc-nature-trip-woman.jpeg');
+}
+
+#img-box-iboga-helps-middle {
+    display: block;
+    width: 100%;
+    min-height: 468px;
+    background-image: url('/images/headers/sunshine-meadow.jpeg');
+}
+
+#img-box-iboga-helps-middle blockquote{
+    color: var(--dark-red);
+    padding-top: 80px;
+    border-left: 0px;
+}
+
+#img-box-iboga-helps-middle blockquote:before{
+    padding-top: 80px;
 }
 
 #img-box-iboga-helps  h2 {
@@ -1058,3 +1082,5 @@ XS
 /*.sidekick:after {content: '\201c';}*/
 /*.sidekick cite {font-size: 50%; text-align:center; top:50%}*/
 /*.sidekick cite:before {content: ' \2015 '}*/
+
+
