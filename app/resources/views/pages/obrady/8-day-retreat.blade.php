@@ -6,7 +6,7 @@
     </div>
 
     <div class = "row text-center">
-        <h2 class = "font-just-me">Osmi-denní IBOGA Retreatační Pobyt</h2>
+        <h2 class = "font-just-me color-iscz-red font-size-80">Osmi-denní IBOGA Retreatační Pobyt</h2>
 
         <p>
             V tradičním psycho-spirituálním obřadu IBOGY se o sobě učíme na všech úrovních; fyzicky, mentálně,
@@ -48,13 +48,13 @@
 
     <div class = "row" id = "eight-day-retreat-includes-box">
         <div class = "row">
-            <h2 class = "font-just-me font-size-60 text-center">Co je zahrnuto</h2>
+            <h2 class = "font-just-me font-size-60 text-center color-iscz-green">Co je zahrnuto</h2>
         </div>
 
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/car.png" width = "64" />
-                <p>PICK UP FRcol-OM AND DROP OFF TO THE AIRPORT</p>
+                <p>Vyzvednutí / odvezení z nejbližšího krajskeho města</p>
             </div>
         </div>
 

@@ -1,15 +1,19 @@
 @extends('layouts.default')
 @section('content')
-<div class = "row page-header-bg"></div>
+<div class = "row" id = "img-box-iboga-helps">
+    <h2 class = "font-just-me font-size-80 color-iscz-red">Jak vám Iboga může pomoci</h2>
+
+    <blockquote>Iboga vás spojuje s vaší duší, vaší pravdou – tam kde jsou všechny vaše odpovědi.</blockquote>
+
+</div>
 
 <div class = "row">
-<h2>Jak vám Iboga může pomoci</h2>
+
 </div>
 
     <div class = "row">
         <div class = "col-xl-8">
 
-            <blockquote>Iboga vás spojuje s vaší duší, vaší pravdou – tam kde jsou všechny vaše odpovědi.</blockquote>
             <p>
                 Iboga je pro ty, kteří jsou připraveni osvobodit se ze spárů fyzických, mentálních, emocionálních a duchovních onemocnění,
                 a otevřít se svému skutečnému potenciálu.
@@ -19,7 +23,7 @@
                 Pomáham vam najít jasno v tom, kdo jste a co chcete.
                 Léčba Ibogou  se  zaměřuje na spojení s tím, kdo jste a co chcete - protože toto je jedno z tech
                 největších duchovních výhod, které léčba Ibogou nabízí.
-                V tradičním Bwiti obřadu  Ibogy jste přivedeni
+                V tradičním <B></B>witi obřadu  Ibogy jste přivedeni
                 k setkani se svou dusi a jste schopni se s ni znovu spojit. Toto spojení (a poznání) vzbuzuje neochvějný pocit důvěry,
                 sebelásku a jasnost těm, kteří ji skutečně chteji přijmout. To pak ma hluboký dopad na vas úhel pohledu na
                 celý vnější svět. Když ochazite s léčby Ibogou s vědomím, kdo jste a co chcete, nic vás nezastaví.
@@ -137,9 +141,9 @@
 </div>
 
     <diV class = "row" id = "iboga-benefits">
-            <div class = "col-xl-3 col-sm-12 iboga-helps-block">
+            <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #DCF1F1;">
                 <div class = "row"><img src = "/images/icons/physical.png" width = "80" />></div>
-                <h3>Fyzický</h3>
+                <h3>Fyzicky</h3>
                 <ul>
                     <li>Detoxikace buněk celého těla</li>
                     <li>Antiparazitární</li>
@@ -153,9 +157,9 @@
                 </ul>
             </div>
 
-            <div class = "col-xl-3 col-sm-12 iboga-helps-block">
+            <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #Fffdf1;">
                 <div class = "row"><img src = "/images/icons/mental.png" width = "80" />></div>
-                <h3>Mentalní</h3>
+                <h3>Mentalně</h3>
                 <ul>
                     <li>Resetuje neurotransmitery mozku</li>
                     <li>Mentální detox negativních myšlenek</li>
@@ -168,9 +172,9 @@
                 </ul>
             </div>
 
-            <div class = "col-xl-3 col-sm-12 iboga-helps-block">
+            <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #F3eeec;">
                 <div class = "row"><img src = "/images/icons/emotional.png" width = "80" />></div>
-                <h3>Emocionální</h3>
+                <h3>Emocionálně</h3>
                     <ul>
                         <li>Zvyšte emoční sílu a bezpečí</li>
                         <li>Uzemnění a centrování</li>
@@ -180,11 +184,11 @@
             </div>
 
 
-            <div class = "col-xl-3 col-sm-12 iboga-helps-block">
+            <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #E9f1e9;">
                 <div class = "row">
                     <img src = "/images/icons/spiritual.png" width = "80" />
                 </div>
-                <h3>Spiritual</h3>
+                <h3>Spiritualně</h3>
                 <ul>
                     <li>Duchovní očista</li>
                     <li>Léčení předků</li>
