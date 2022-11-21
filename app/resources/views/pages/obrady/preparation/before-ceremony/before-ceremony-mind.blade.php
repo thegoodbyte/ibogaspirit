@@ -1,7 +1,8 @@
 <section class = "prep-generic">
 
     <div class = "row">
-        <h3 class = "">Nastavení mysli - zamer</h3>
+        <h3 class = "font-just-me font-size-60 color-iscz-red">Mysl</h3>
+        <h3 class = "font-just-me font-size-30 color-iscz-red">Nastavení mysli - zamer</h3>
         <p>Stanovte si svůj záměr na ústup, ujasněte si své cíle a připravte si otázky, na které se
             budete léku ptát. Další informace o tom, jak to provést, naleznete níže.
         </p>
@@ -23,7 +24,7 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-            <h3 class  = "font-just-me">Žádné rozptylování</h3>
+            <h3 class  = "font-just-me font-size-30 color-iscz-red">Žádné rozptylování</h3>
             <p>
 
                 <!--
@@ -92,7 +93,7 @@
 
                 -->
 
-                Když uvažujeme o Ibogu jako o učiteli, musíme udělat první krok a zeptat se sami sebe: ‚Jsem připraven/a?
+                Když uvažujeme o Iboze jako o učiteli, musíme udělat první krok a zeptat se sami sebe: ‚Jsem připraven/a?
 
             </p>
 

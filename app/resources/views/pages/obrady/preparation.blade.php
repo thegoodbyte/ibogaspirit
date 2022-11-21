@@ -7,7 +7,7 @@
     </div>
 
     <div class = "row">
-        <h2 class = "font-just-me font-size-80">
+        <h2 class = "font-just-me font-size-80 color-iscz-red">
             Příprava na ceremoniál Ibogy</h2>
     </div>
 
@@ -15,7 +15,7 @@
 {{--    @include('pages.obrady.preparation.before-ceremony-bring-journal')--}}
 
     <div class = "row">
-        <h3>Pred ceremonialem.</h3>
+        <h3 class = "font-just-me font-size-30 color-iscz-red">Pred ceremonialem.</h3>
     </div>
 
     @include('pages.obrady.preparation.before-ceremony.before-ceremony-bring-journal')
@@ -28,7 +28,7 @@
     @include('pages.obrady.preparation.before-ceremony.preparing-questions')
 
     <div class = "row">
-        <h3>Ceremoial...</h3>
+        <h3 clSS = "font-just-me font-size-30 color-iscz-red">Pri Obradu</h3>
     </div>
 
     <div class = "row">
@@ -36,11 +36,11 @@
         @include('pages.obrady.preparation.in-ceremony.in-ceremony-dont-force');
     </div>
 
-</div>
+
 
 
 <div class = "row">
-    <h3>Po ceremonialu..</h3>
+    <h3>Po Obradu..</h3>
 </div>
 
 <div class = "row">
@@ -73,18 +73,6 @@
 {{--        </div>--}}
 {{--    </div>--}}
 
-
-
-
-
-
-<div class = "row">
-
-</div>
-
-
-<!-- entheogen. -->
-<section>
 
 
 

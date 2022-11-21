@@ -1,7 +1,5 @@
 <div class  = "row">
     <div class = "col-xl-12">
-
-
         <p>
             <!--
             At least one week before your Iboga journey we encourage you to begin your preparation of the body,
@@ -13,4 +11,4 @@
             tím méně „hluku“ a toxinů, které lék potřebuje prorazit. Čím více času si dáte, tím lépe.
         </p>
     </div>
-    </div>
+</div>

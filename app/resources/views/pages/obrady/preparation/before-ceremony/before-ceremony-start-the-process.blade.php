@@ -4,7 +4,7 @@
             <!-- AYS -->
 
 
-            <h2 class  = "font-just-me font-size-40 color-iscz-red">Začněte Proces</h2>
+            <h2 class  = "font-just-me font-size-60 color-iscz-red">Začněte Proces</h2>
             <p>
                 <!--
                 Begin The Process

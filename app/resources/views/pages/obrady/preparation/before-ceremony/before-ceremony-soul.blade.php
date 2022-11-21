@@ -4,7 +4,7 @@
     <div class = "row">
 
         <div class = "col-xl-12">
-            <h4  class = "font-just-me font-size-80">Duse</h4>
+            <h4  class = "ffont-just-me font-size-60 color-iscz-red">Duse</h4>
             <p>
                 Jakmile se rozhodnete zúčastnit se obřadu Iboga, duch Ibogy s vámi začne spolupracovat.
                 Pokud potřebujete finanční pomoc, požádejte o ni Ibogu a Iboga vám ji pomůže uskutečnit.
@@ -45,7 +45,7 @@
 
     <div class = "col-xl-12">
 
-        <h3 class  = "font-just-me">Najdete cas pro sebe</h3>
+        <h3 class  = "font-just-me font-size-40 color-iscz-red">Najdete cas pro sebe</h3>
         <p>
 
             <!--
