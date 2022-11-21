@@ -36,4 +36,10 @@ class IbogaController extends Controller
         return View::make('pages.iboga.bwiti-tradice');
 
     }
+
+    public function gabon() {
+
+        return View::make('pages.iboga.gabon');
+
+    }
 }

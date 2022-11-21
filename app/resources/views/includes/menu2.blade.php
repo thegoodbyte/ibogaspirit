@@ -17,15 +17,7 @@
     <nav class="menu-toggle">
         <ul class="nav__menu">
             <li class = "menu-item"><a href="/">HOME</a></li>
-            <li class="dropdown menu-item"><a href="#">OBŘADY</a>
-                <ul>
-                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
-                    <li><a href="/obrady/priprava">Příprava</a></li>
-                    <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní retreatační pobyt</a></li>
-                    <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
-                    <li><a href="/obrady/terminy-a-ceny">Terminy a Ceny</a></li>
-                </ul>
-            </li>
+
             <li class = "dropdown2 menu-item">
                 <a href="#">IBOGA</a>
                 <ul>
@@ -33,6 +25,16 @@
                     <li><a href="/iboga/bwiti-tradice">Bwiti Tradice</a></li>
                     <li><a href="/iboga/iboga-vs-ayahuasca">Iboga vs Ayahuasca</a></li>
                     <li><a href="/iboga/gabon">Gabon - Afrika</a></li>
+                </ul>
+            </li>
+
+            <li class="dropdown menu-item"><a href="#">OBŘADY</a>
+                <ul>
+                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
+                    <li><a href="/obrady/priprava">Příprava</a></li>
+                    <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní retreatační pobyt</a></li>
+                    <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
+                    <li><a href="/obrady/terminy-a-ceny">Terminy a Ceny</a></li>
                 </ul>
             </li>
             <!-- <li class="dropdown menu-item"><a href="#">OBŘADY</a>-->

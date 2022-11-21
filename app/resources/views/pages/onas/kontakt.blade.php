@@ -9,6 +9,10 @@
     </div>
 
     <div class = "row">
+        <a href = "https://wa.me/message/54FSD44UPZYWN1"><img src = "/images/misc/whatsapp-chat-link-black.png" /></a>
+    </div>
+
+    <div class = "row">
         <h3>Napiste mi!</h3>
     </div>
 

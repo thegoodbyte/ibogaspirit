@@ -254,5 +254,49 @@
             </div>
     </section>
 
+<section>
+    <div class = "row">
+        <p>
+            <!--
+        Who Should Not Take Iboga
+        Iboga use can be dangerous if you have the following conditions:
+            -->
+            Kdo by neměl brát Ibogu
+            Užívání Ibogy může být nebezpečné, pokud máte následující podmínky:
+        </p>
+            <!--
+        Seizures/ Epilepsy
+        Cardiac issues (arrhythmias, abnormal heart rate, bradycardia, prolonged QT interval, embolism, history of
+            heart attack)
+        Major respiratory conditions (emphysema, chronic obstructive pulmonary disorder)
+        Impaired Liver or Kidney Function
+        Pregnancy
+        Please let your facilitator know if you:
+            -->
+        <ul>
+            <li>Záchvaty/ epilepsie</li>
+            <li>Srdeční problémy (arytmie, abnormální srdeční frekvence, bradykardie, prodloužený QT interval, embolie, anamnéza</li>
+            <li>infarkt)</li>
+            <li>Závažné respirační stavy (emfyzém, chronická obstrukční plicní porucha)</li>
+            <li>Porucha funkce jater nebo ledvin</li>
+            <li>Těhotenství</li>
+            <li>Dejte prosím vědět svému facilitátorovi, pokud:</li>
+
+            <!--
+            Are currently on SSRI or MAOI medications
+            have history of mania (as this sacrament can precipitate manic symptoms)
+            have active panic attacks
+            have neurological or cardiac/heart conditions
+            -->
+
+            <li>V současné době užíváte léky ze skupiny SSRI nebo MAOI</li>
+            <li>máte v anamnéze mánii (protože tato svátost může urychlit manické příznaky)</li>
+            <li>mít aktivní záchvaty paniky</li>
+            <li>máte neurologické nebo srdeční/srdeční potíže</li>
+        </ul>
+
+    </div>
+</section>
+
 </div>
 @stop

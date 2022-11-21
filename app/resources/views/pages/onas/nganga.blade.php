@@ -2,13 +2,13 @@
 @section('content')
 
     <div class = "row">
-        <h2 class = "font-just-me font-size-60 text-center">Nganga - Duchovní léčitel</h2>
+        <h2 class = "font-just-me font-size-60 text-center color-iscz-red">Nganga - Duchovní léčitel</h2>
     </div>
 
 
     <div class = "row">
         <div class = "col-xl-5">
-            <img src  = "/images/home/onas/martin-gabon-leafs.jpg" alt  "Iboga Bwiti Facilitator - Obrady a seance Ceska Republika"/>
+            <img src  = "/images/home/onas/martin.jpg" alt   = "Iboga Bwiti Facilitator - Obrady a seance Ceska Republika"/>
         </div>
 
         <div class = "col-xl-7">
@@ -73,6 +73,7 @@
 
             <div class = "row">
                 <img src  = "/images/home/onas/moughenda-and-martin.jpg" alt = "S šamanem Moughendou před Bwiti kaplí v Gabou Afrika"/>
+                <p class = "font-just-me color-iscz-red">S samanem Moughendou pred Bwiti kapli v Moughena village v Gabonu v Africe</p>
             </div>
 
             <p>

@@ -36,6 +36,10 @@ class ObradyController extends Controller
         return View::make('pages.obrady.your-first-ceremony');
     }
 
+    public function dates() {
+        return View::make('pages.obrady.dates');
+    }
+
 
 
 
