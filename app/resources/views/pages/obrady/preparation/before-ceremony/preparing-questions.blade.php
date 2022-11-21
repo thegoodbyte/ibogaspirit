@@ -21,8 +21,8 @@
 <div class = "row">
     <div class = "col-xl-12">
 
-        <h4  class = "font-just-me font-size-60 color-iscz-red">Přehled života</h4>
-        <h4  class = "font-just-me font-size-40 color-iscz-red">Prvni Krok</h4>
+        <h4  class = "font-just-me font-size-60 color-iscz-red">Prvni Krok</h4>
+        <h4  class = "font-just-me font-size-40 color-iscz-red">Přehled života</h4>
 
         <p>
             Při přípravě otázek doporučujeme vytáhnout notebook a nakreslit čáru uprostřed stránky.
