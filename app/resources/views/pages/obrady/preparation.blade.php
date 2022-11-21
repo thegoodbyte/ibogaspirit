@@ -6,29 +6,30 @@
         <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
     </div>
 
+
     <div class = "row">
         <h2 class = "font-just-me font-size-80 color-iscz-red">
-            Příprava na ceremoniál Ibogy</h2>
+            Příprava na obřad Ibogy</h2>
     </div>
 
 
 {{--    @include('pages.obrady.preparation.before-ceremony-bring-journal')--}}
 
     <div class = "row">
-        <h3 class = "font-just-me font-size-30 color-iscz-red">Pred ceremonialem.</h3>
+        <h3 class = "font-just-me font-size-30 color-iscz-red">Pred obřadem.</h3>
     </div>
 
     @include('pages.obrady.preparation.before-ceremony.before-ceremony-bring-journal')
     @include('pages.obrady.preparation.before-ceremony.before-ceremony-body')
 
-    <h4>Fyzicla, mentalmi, emocionalni a dusevni priprava</h4>
+
     @include('pages.obrady.preparation.before-ceremony.before-ceremony-mind')
     @include('pages.obrady.preparation.before-ceremony.before-ceremony-soul')
     @include('pages.obrady.preparation.before-ceremony.before-ceremony-start-the-process')
     @include('pages.obrady.preparation.before-ceremony.preparing-questions')
 
     <div class = "row">
-        <h3 clSS = "font-just-me font-size-30 color-iscz-red">Pri Obradu</h3>
+        <h3 clSS = "font-just-me font-size-40 color-iscz-red">Při Obřadu</h3>
     </div>
 
     <div class = "row">

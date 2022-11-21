@@ -1,7 +1,7 @@
 <section>
     <div class = "row">
         <div class = "col-xl-6">
-            <h3  class = "font-just-me font-size-40 color-iscz-red">Tělo</h3>
+            <h3  class = "font-just-me font-size-60 color-iscz-red">Tělo</h3>
             <p>
                 Měli byste se zdržet alkoholu, drog a většiny léků po dobu minimálně 4 dnů.
             </p>
@@ -119,7 +119,7 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-            <h3 class  = "font-just-me font-size-40 color-iscz-red">Fyzické cvičení</h3>
+            <h3 class  = "font-just-me font-size-40 color-iscz-red">Fyzická cvičení</h3>
             <p>
                 <!--
                 Physical Exercise~ If you have a normal routine 3-5 times a week continue this and perhaps add some extra

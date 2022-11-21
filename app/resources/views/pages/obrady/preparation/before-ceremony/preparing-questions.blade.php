@@ -1,6 +1,6 @@
 <div class = "row">
     <div class = "col-xl-12">
-        <h3  class = "font-just-me font-size-80 color-iscz-red">Preparing Questions For Iboga</h3>
+        <h3  class = "font-just-me font-size-60 color-iscz-red">Příprava otázek pro Ibogu</h3>
         <p>
             Otázky? Co?
         </p>
@@ -20,9 +20,12 @@
 
 <div class = "row">
     <div class = "col-xl-12">
-        <p><h4>Prvni Krok</h4>
-        <h4  class = "font-just-me font-size-80 color-iscz-red">Přehled života</h4>
-        Při přípravě otázek doporučujeme vytáhnout notebook a nakreslit čáru uprostřed stránky.
+
+        <h4  class = "font-just-me font-size-60 color-iscz-red">Přehled života</h4>
+        <h4  class = "font-just-me font-size-40 color-iscz-red">Prvni Krok</h4>
+
+        <p>
+            Při přípravě otázek doporučujeme vytáhnout notebook a nakreslit čáru uprostřed stránky.
         </p>
 
         <p>
@@ -50,10 +53,8 @@
 <div class = "row">
     <div class = "col-xl-12">
 
-        <h4 class = "font-just-me font-size-80 color-iscz-red">Druhy Krok</h4>
-        <p>
-            Dělejte věci jinak
-        </p>
+        <h3 class = "font-just-me font-size-60 color-iscz-red">Druhy Krok</h3>
+        <h4  class = "font-just-me font-size-40 color-iscz-red">Dělejte věci jinak</h4>
 
         <p>
             Nyní, když jste vyléčili starou ránu, je čas vytvořit si nový návyk, abyste mohli začít vytvářet nové
