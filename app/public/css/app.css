@@ -454,10 +454,10 @@ section.home-section-ziot-je-dar {
     font-family: "Lato", Sans-serif;
 }
 
-section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
+section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     color: red;
     font-weight: 900;
-    margin-top: 2em;
+    margin-top: 1em;
 }
 
 #home-kdo-jsme h2 {
@@ -577,6 +577,7 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
     background-image: url('/images/headers/what-iboga-can-do-for-you.jpg');
 
     height: 100vh;
+    padding-left: 30px;
 }
 
 /******************************************************************
@@ -621,15 +622,14 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
 
 
     section.home-section-ziot-je-dar h1 {
-        font-size: 50px;
-        color: black;
+        font-size: 60px;
+        color: #883102;
     }
 
 
     section.home-section-ziot-je-dar p {
         color: #5e5e5e;
         font-size: 15px;
-
     }
 
     section.home-section-ziot-je-dar .col p:first-child {
@@ -642,6 +642,7 @@ section.home-section-ziot-je-dar h1,  section.home-section-ziot-je-dar h2{
 
     section.home-section-ziot-je-dar h2 {
         font-size: 20px;
+        color: #883102;
     }
 
 
@@ -905,7 +906,7 @@ XS
 #home-zijte-stastne  {
     color: #fff;
     font-family: "Lato", Sans-serif;
-    background-color: #000;
+    background-color: #381401;
     padding-top: 20px;
 }
 

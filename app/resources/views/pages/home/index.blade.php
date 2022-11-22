@@ -14,9 +14,11 @@
         </p>
     </h2>
 </div>
-@include('pages.home.section-left-slide')
 
-@include('pages.home.section-zijte-stastne')
+    @include('pages.home.section-happily')
+@include('pages.home.section-life-is-gift')
+
+
 
 @include('pages.home.section-parallax');
 @include('pages.home.section-kdo-jsme');

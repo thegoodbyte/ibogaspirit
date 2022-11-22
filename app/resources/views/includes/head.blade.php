@@ -1,18 +1,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<title>TRADIČNÍ  IBOGA  OBŘADY   V AFRICKÉ  TRADICI MISSOKO BWITI - </title>
+<title>TRADIČNÍ  IBOGA  OBŘADY   V AFRICKÉ  TRADICI MISSOKO BWITI - Ceska Republika</title>
 <link rel="stylesheet" href="/css/app.css">
 
-<meta charset="UTF-8">
+
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://www.ibogaspirit.cz/xmlrpc.php">
 
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Home - Iboga Spirit - Czech Republic</title>
+
 
 <!-- All in One SEO 4.2.6.1 - aioseo.com -->
-<meta name="description" content="SEBE POZNÁNÍAt Trucky our mission is to attact and retain customers by providing best in class transportation solutions and fostering a profitable, disciplined culture of safety, service, and trust. We’ll transport your goods anywhere you need, in time and on your budget. POZNEJTE SVÉ PRAVÉ JÁ ... Život je největší dar. Můžeme ho ctít tím," />
+<meta name="description" content="Iboga retreats Ceska Republika, Czech Republic, Iboga medicine" />
 <meta name="robots" content="max-image-preview:large" />
 <link rel="canonical" href="index.html" />
 

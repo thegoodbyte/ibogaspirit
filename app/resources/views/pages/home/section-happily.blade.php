@@ -1,9 +1,9 @@
 <section class = "home-section-ziot-je-dar">
 
-    <div class="container-fluid">
-        <div class="row animated fadeInLeft">
-            <div class="col-xl-8 pt-5 pb-5 col-sm-12"  id="home-zijte-stastne-pic">
-                        <h1 class = "text-uppercase font-just-me font-size-80">ŽIJTE ŠŤASTNĚ A NAPLNO</h1>
+    <div class="">
+        <!-- <div class="row animated fadeInLeft"> -->
+            <div class="col-xl-8 pt-3 pb-3 col-sm-12"  id="home-zijte-stastne-pic">
+                    <h1 class = "text-uppercase font-just-me font-size-80">ŽIJTE ŠŤASTNĚ A NAPLNO</h1>
 
                     <div class = "row">
                         <div class = "col-xl-6">
@@ -23,11 +23,8 @@
                          </div>
                     </div>
                     <!-- font -20px -->
-
             </div>
-
-
-        </div>
+        <!-- </div> -->
     </div>
 </section>
 

@@ -13,7 +13,7 @@
                 </div>
                 <p class="elementor-element elementor-element-69e8cef elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor is-mac" data-id="69e8cef" data-element_type="widget" data-widget_type="text-editor.default">
                     <p>
-                    Podle tradice,  když se Iboga poprvé objevil,  rozhodl se být s Bwiti lidmi. Iboga respektoval jejich
+                    Podle tradice,  když se Iboga poprvé objevila,  rozhodl se být s Bwiti lidmi. Iboga respektoval jejich
                     způsob života, a tak když se lidé začali ptát,
                     odkud přišli a za co mohou být tolik vděční, Iboga se představil a řekl: „Řekněte svým lidem, že až
                     budou mít otázky, at si me vezmou mě a já jim ukažu."
