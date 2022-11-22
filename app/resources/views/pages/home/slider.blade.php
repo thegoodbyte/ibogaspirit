@@ -9,10 +9,10 @@
         <div class="carousel-item active">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
             <img
-                imgset = "/images/home/slider/fire_circle-400w.jpg 400w,
-                          /images/home/slider/fire_circle-600w.jpg 600,
+                srcset = "/images/home/slider/fire_circle-400w.jpg 400w,
+                          /images/home/slider/fire_circle-600w.jpg 600w,
                           /images/home/slider/fire_circle-900.jpg 900w"
-                sizes = "(max-width: 400px) 400px, (max-width: 600px) 600px, (max-width: 900px) 900px, (min-width: 901px) 1200px,  "
+                sizes = "(max-width: 400px) 400px, (min-width: 401px and max-width: 600px) 600px, (min-width: 601px and max-width: 900px) 900px, (min-width: 901px) 1200px,  "
                 src="/images/home/slider/fire_circle-1200.jpg" alt="Los Angeles" class="d-block w-100">
             <div class="container">
                 <div class="carousel-caption text-start">
@@ -26,10 +26,10 @@
         <div class="carousel-item">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
             <img
-                imgset = "/images/home/slider/slide-pobyt-2-400w.jpeg 400w,
+                srcset = "/images/home/slider/slide-pobyt-2-400w.jpeg 400w,
                         /images/home/slider/slide-pobyt-2-600w.jpeg 600w,
-                        /images/home/slider/slide-pobyt-2-900.jpeg 900w"
-                sizes = "(max-width: 400px) 400px, (max-width: 600px) 600px, (max-width: 900px) 900px, (min-width: 901px) 1200px"
+                        /images/home/slider/slide-pobyt-2-900w.jpeg 900w"
+                sizes = "(max-width: 400px) 400px, (min-width: 401px and max-width: 600px) 600px, (max-width: 900px) 900px, (min-width: 901px) 1200px"
                 src="/images/home/slider/slide-pobyt-2.jpeg" alt="Iboga retreats Czech Republic" class="d-block w-100">
 
             <div class="container">
@@ -44,7 +44,7 @@
         <div class="carousel-item">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
             <img
-                imgset = "/images/home/slider/sebepoznani-400.jpg 400w, /images/home/slider/sebepoznani-600w.jpg 600w, /images/home/slider/sebepoznani-900w.jpg 900w"
+                srcset = "/images/home/slider/sebepoznani-400w.jpg 400w, /images/home/slider/sebepoznani-600w.jpg 600w, /images/home/slider/sebepoznani-900w.jpg 900w"
                 sizes = "(max-width: 400px) 400px, (max-width: 600px) 600px, (max-width: 900px) 900px, (min-width: 901px) 1200px"
                 src="/images/home/slider/sebepoznani.jpg" alt="New York" class="d-block w-100">
 
