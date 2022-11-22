@@ -8,32 +8,45 @@
     <div class="carousel-inner">
         <div class="carousel-item active">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
-            <img src="/images/home/slider/fire_circle.jpg" alt="Los Angeles" class="d-block w-100">
+            <img
+                imgset = "/images/home/slider/fire_circle-400w.jpg 400w,
+                          /images/home/slider/fire_circle-600w.jpg 600,
+                          /images/home/slider/fire_circle-900.jpg 900w"
+                sizes = "(max-width: 400px) 400px, (max-width: 600px) 600px, (max-width: 900px) 900px, (min-width: 901px) 1200px,  "
+                src="/images/home/slider/fire_circle-1200.jpg" alt="Los Angeles" class="d-block w-100">
             <div class="container">
                 <div class="carousel-caption text-start">
                     <h1>TRADIČNÍ  IBOGA  OBŘADY   V AFRICKÉ  TRADICI MISSOKO BWITI
                     </h1>
-                    <p>Some representative placeholder content for the first slide of the carousel.</p>
+                    <p>Poradam tradicni Bwiti lecebne Iboga ceremonie tak jak jsem se je naucil v Gabounu u samana Moughendy.</p>
 
                 </div>
             </div>
         </div>
         <div class="carousel-item">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
-            <img src="/images/home/slider/slide-pobyt-2.jpeg" alt="Iboga retreats Czech Republic" class="d-block w-100">
+            <img
+                imgset = "/images/home/slider/slide-pobyt-2-400w.jpeg 400w,
+                        /images/home/slider/slide-pobyt-2-600w.jpeg 600w,
+                        /images/home/slider/slide-pobyt-2-900.jpeg 900w"
+                sizes = "(max-width: 400px) 400px, (max-width: 600px) 600px, (max-width: 900px) 900px, (min-width: 901px) 1200px"
+                src="/images/home/slider/slide-pobyt-2.jpeg" alt="Iboga retreats Czech Republic" class="d-block w-100">
 
             <div class="container">
                 <div class="carousel-caption">
                     <h1>EXKLUZIVNÍ 8 DENNÍ POBYT PRO ZMĚNU ŽIVOTA
                     </h1>
-                    <p>Some representative placeholder content for the second slide of the carousel.</p>
+                    <p>Tydenni pobyt s dvema psycho-spiritualnimi Iboga obrady, fuchovni sprchou, Bwiti ucenim a mnohem vice...</p>
 
                 </div>
             </div>
         </div>
         <div class="carousel-item">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
-            <img src="/images/home/slider/sebepoznani.jpg" alt="New York" class="d-block w-100">
+            <img
+                imgset = "/images/home/slider/sebepoznani-400.jpg 400w, /images/home/slider/sebepoznani-600w.jpg 600w, /images/home/slider/sebepoznani-900w.jpg 900w"
+                sizes = "(max-width: 400px) 400px, (max-width: 600px) 600px, (max-width: 900px) 900px, (min-width: 901px) 1200px"
+                src="/images/home/slider/sebepoznani.jpg" alt="New York" class="d-block w-100">
 
             <div class="container">
                 <div class="carousel-caption text-end">
