@@ -25,8 +25,12 @@
     <div class = "row">
         <div class = "col-xl-12">
             <h3 class  = "font-just-me font-size-30 color-iscz-red">Žádné rozptylování</h3>
-            <p>
+        </div>
+    </div>
 
+    <div class = "row">
+        <div class = "col-xl-6">
+            <p>
                 <!--
             3. No Distractions — Iboga retreats should be a calm, introspective time. To allow for maximum healing, this
                 means limiting or removing distractions. Save travel excursions and adventures for before or after your retreat.
@@ -35,19 +39,14 @@
                 It is important not to use computers, phones, books, or other distractions after a journey. Our lives are so busy.
                 Make the choice to “unplug,” and slow down. You’ll receive much more from Iboga this way.
                 -->
-                3. Žádné rozptylování – Retreaty Ibogy by měly být klidným, introspektivním časem. Aby bylo umožněno maximální uzdravení, toto
+                Retreaty Ibogy by měly být klidným, introspektivním časem. Aby bylo umožněno maximální uzdravení, toto
                 znamená omezení nebo odstranění rušivých vlivů. Cestovní výlety a dobrodružství si uložte před nebo po vašem retreatu.
                 Po cestě plynou poznatky volně. Jediný způsob, jak naslouchat své duši a pozorovat hloubku léčení
                 je přijmout ticho. Někdy lidé mají nejmocnější realizace den po obřadu.
                 Po cestě je důležitéwebphpnepoužívat počítače, telefony, knihy ani jiné rušivé prvky. Naše životy jsou tak zaneprázdněné.
                 Zvolte „odpojit se“ a zpomalte. Tímto způsobem dostanete od Ibogy mnohem více.
             </p>
-        </div>
-    </div>
 
-    <div class = "row">
-        <div class = "col-xl-12">
-            <h3 class  = "font-just-me"></h3>
             <p>
                 <!--
                 Committing to this spiritual journey and setting our intentions is the beginning. But as our journey approaches,
@@ -58,13 +57,8 @@
                 mysl, která cítí bezprostřední zánik svých destruktivních způsobů, bude hrát triky a způsobí, že budeme pochybovat.
 
             </p>
-        </div>
-    </div>
 
-    <div class = "row">
-        <div class = "col-xl-12">
 
-            <h3 class  = "font-just-me"></h3>
             <p>
                 <!--
                 When these doubtful thoughts come, simply acknowledge them and let them pass. Be aware of the thoughts without
@@ -87,6 +81,10 @@
                 prorazíme k našemu největšímu možnému světlu!
             </p>
 
+        </div>
+
+        <div class = "col-xl-6">
+
             <p>
                 <!--
                 When considering Iboga as a teacher, we must take the first step and ask ourselves, ‘Am I ready?’
@@ -107,39 +105,6 @@
                 mysl a naše životy, že jsme připraveni hledat pravdu a osvobodit se od toho, co nás brzdí.
             </p>
 
-            <p>
-                <!--
-                Committing to this spiritual journey and setting our intentions is the beginning. But as our journey
-                approaches, the mind, sensing imminent demise of its destructive ways, will play tricks and cause us to doubt.
-                -->
-
-                Odhodlání se na tuto duchovní cestu a stanovení našich záměrů je začátek. Ale jako naše cesta
-                mysl, která cítí blížící se zánik svých destruktivních cest, bude hrát triky a způsobí, že budeme pochybovat.
-
-            </p>
-
-            <p>
-                <!--
-                When these doubtful thoughts come, simply acknowledge them and let them pass. Be aware of the thoughts
-                without reading into them, or attaching to them. It is okay that they exist. Thoughts will always exist,
-                negative and positive. It is up to us to decide how much power to give them. -->
-
-                Když tyto pochybné myšlenky přijdou, jednoduše je uznejte a nechte je projít. Buďte si vědomi myšlenek
-                aniž byste do nich četli nebo se k nim připojovali. Je v pořádku, že existují. Myšlenky budou vždy existovat,
-                negativní a pozitivní. Je na nás, abychom se rozhodli, jakou moc jim dáme.
-            </p>
-
-            <p>
-                <!--
-                Deep healing is not comfortable and it is not easy, but it works. Healing at the root happens when we
-                surrender. It happens when we confront our fears. By confronting our shadows, we break through to our
-                greatest possible light!
-                -->
-
-                Hluboké léčení není pohodlné a není to snadné, ale jde to. Uzdravení u kořene se děje, když my
-                kapitulace. Stává se to, když čelíme svým strachům. Tím, že se postavíme svým stínům, prorazíme do našich
-                největší možné světlo!
-            </p>
 
             <p>1.
 
@@ -162,9 +127,6 @@
                 zkušenost smrti. Psychologické odevzdání se versus držení může minimalizovat strach během zážitku.
             </p>
 
-            <p>
-
-            </p>
         </div>
     </div>
 </section>

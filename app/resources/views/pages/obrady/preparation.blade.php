@@ -16,7 +16,7 @@
 {{--    @include('pages.obrady.preparation.before-ceremony-bring-journal')--}}
 
     <div class = "row">
-        <h3 class = "font-just-me font-size-30 color-iscz-red">Pred obřadem.</h3>
+        <h3 class = "font-just-me font-size-40 color-iscz-red">Před obřadem.</h3>
     </div>
 
     @include('pages.obrady.preparation.before-ceremony.before-ceremony-bring-journal')
@@ -29,7 +29,7 @@
     @include('pages.obrady.preparation.before-ceremony.preparing-questions')
 
     <div class = "row">
-        <h3 clSS = "font-just-me font-size-40 color-iscz-red">Při Obřadu</h3>
+        <h3 clSS = "font-just-me font-size-40 color-iscz-red">Při Obřadu </h3>
     </div>
 
     <div class = "row">
@@ -41,7 +41,7 @@
 
 
 <div class = "row">
-    <h3>Po Obradu..</h3>
+    <h3 class = "font-just-me color-iscz-red font-size-60">Po Obřadu..</h3>
 </div>
 
 <div class = "row">

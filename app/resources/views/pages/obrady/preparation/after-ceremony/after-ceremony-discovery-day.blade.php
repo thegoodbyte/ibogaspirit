@@ -2,9 +2,9 @@
     <div class = "row">
         <div class = "col-xl-12">
 
-            <h3 class  = "font-just-me">Discovery Day</h3>
+            <h3 class  = "font-just-me color-iscz-red font-size-40">Den Objevu</h3>
             <p>
-                — Po obřadu strávíte další den odpočinkem ve svém pokoji. Poskytovatelé budou
+                Po obřadu strávíte další den odpočinkem ve svém pokoji. Poskytovatelé budou
                 neustále přicházet a odcházet a kontrolovat vás. Pokud nemůžete spát, nebojte se. Je běžné, že ne
                 usnout až později večer. Discovery Day je určen pro relaxaci a klid – dva klíčové
                 kousky, které Iboze umožňují pokračovat v odhalování postřehů a zpráv. Elektronická zařízení a čtení

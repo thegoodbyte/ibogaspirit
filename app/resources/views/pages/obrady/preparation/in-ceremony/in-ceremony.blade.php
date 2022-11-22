@@ -28,7 +28,7 @@
     -->
 <div class = "row">
     <div class = "col-xl-12">
-        <h3 class  = "font-just-me"> Buďte pohodlní</h3>
+        <h3 class  = "font-just-me color-iscz-red font-size-40"> Buďte pohodlní</h3>
         <p>
             <!--
         7. Be Comfortable — Wear loose-fitting, comfortable clothing during your journey.  You may experience

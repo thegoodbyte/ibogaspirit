@@ -19,7 +19,7 @@
 </div>
 
 <div class = "row">
-    <div class = "col-xl-12">
+    <div class = "col-xl-6">
 
         <h4  class = "font-just-me font-size-60 color-iscz-red">Prvni Krok</h4>
         <h4  class = "font-just-me font-size-40 color-iscz-red">Přehled života</h4>
@@ -48,10 +48,8 @@
         <p>
             Jak mohu mít zdravý vztah?</p>
     </div>
-</div>
 
-<div class = "row">
-    <div class = "col-xl-12">
+    <div class = "col-xl-6">
 
         <h3 class = "font-just-me font-size-60 color-iscz-red">Druhy Krok</h3>
         <h4  class = "font-just-me font-size-40 color-iscz-red">Dělejte věci jinak</h4>

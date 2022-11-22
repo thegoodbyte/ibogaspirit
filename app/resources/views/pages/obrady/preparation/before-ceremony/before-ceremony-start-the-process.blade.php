@@ -5,30 +5,25 @@
 
 
             <h2 class  = "font-just-me font-size-60 color-iscz-red">Začněte Proces</h2>
-            <p>
-                <!--
-                Begin The Process
+        </div>
+    </div>
 
-                The changes often begin the moment we make the commitment to work with this medicine. Up to months in advance
-                most notice that life begins to shift. In order to get the most of your experience we suggest some preparation in advance:
-                -->
-
-
-                Změny často začínají ve chvíli, kdy se zavážeme pracovat s tímto lékem. Až měsíce dopředu
-                většina si všimne, že život se začíná měnit. Abyste ze svých zkušeností získali maximum, doporučujeme předem se připravit:
-            </p>
+    <div class = "row">
+        <div class = "col-xl-6">
 
             <p>
                 <!--
-                                The changes often begin the moment we make the commitment to work with this medicine. Up to
-                                months in advance most notice that life begins to shift. In order to get the most of your experience
-                                we suggest some preparation in advance:-->
+                The changes often begin the moment we make the commitment to work with this medicine. Up to
+                months in advance most notice that life begins to shift. In order to get the most of your experience
+                we suggest some preparation in advance:-->
 
                 Změny často začínají ve chvíli, kdy se zavážeme pracovat s touto medicínou. Už
                 měsíc předem si většina lidi všimne, že se život začíná posouvat.
                 doporučujeme urcitou přípravu předem abyste ze svých zkušeností získali maximum:
             </p>
+        </div>
 
+        <div class = "col-xl-6">
 
             <ul>
 
