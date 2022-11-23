@@ -11,7 +11,7 @@
             <img
                 srcset = "/images/home/slider/fire_circle-400w.jpg 400w,
                           /images/home/slider/fire_circle-600w.jpg 600w,
-                          /images/home/slider/fire_circle-900.jpg 900w"
+                          /images/home/slider/fire_circle-900w.jpg 900w"
                 sizes = "(max-width: 400px) 400px, (min-width: 401px and max-width: 600px) 600px, (min-width: 601px and max-width: 900px) 900px, (min-width: 901px) 1200px,  "
                 src="/images/home/slider/fire_circle-1200.jpg" alt="Los Angeles" class="d-block w-100">
             <div class="container">
