@@ -1,6 +1,6 @@
 <section id = "home-kdo-jsme" class="elementor-section elementor-top-section elementor-element elementor-element-898f81e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="898f81e" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
     <div class="elementor-container elementor-column-gap-no">
-        <div class="col-lg-4 box-kdo-jsme animated fadeInLeft" data-id="71d6d52" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+        <div class="col-lg-4 box-kdo-jsme">
             <div class="row">
                 <div class="elementor-element elementor-element-1e52df5 elementor-widget__width-initial elementor-widget elementor-widget-heading is-mac" data-id="1e52df5" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
@@ -41,9 +41,9 @@
             </div>
 
         </div>
-        <div class="col-lg-4 box-kdo-jsme animated fadeInUp" data-id="84b5b88" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                <div class="elementor-element elementor-element-fc1ce12 elementor-widget__width-initial elementor-widget elementor-widget-heading is-mac" data-id="fc1ce12" data-element_type="widget" data-widget_type="heading.default">
+        <div class="col-lg-4 box-kdo-jsme">
+            <div class="">
+                <div class="">
                     <div class="elementor-widget-container">
                         <h2 class="elementor-heading-title elementor-size-default"><span style="text-align: inherit;">O MNE</span></h2>		</div>
                 </div>
@@ -56,7 +56,7 @@
                 </div>
                 <div class="elementor-element elementor-element-1e3abfe elementor-widget__width-initial elementor-widget elementor-widget-text-editor is-mac" data-id="1e3abfe" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container">
-                        <p>Pusobim mezinarodne ...-</p>						</div>
+                        <p>Pusobim mezinarodne ... momentalne v mexickem Kankunu v Bwtilife.com-</p>						</div>
                 </div>
 
             </div>
@@ -79,9 +79,9 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 box-kdo-jsme animated fadeInRight" data-id="5f14d92" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+        <div class="col-lg-4 box-kdo-jsme ">
             <div class="row">
-                <div class="elementor-element elementor-element-5c461c3 elementor-widget__width-initial elementor-widget elementor-widget-heading is-mac" data-id="5c461c3" data-element_type="widget" data-widget_type="heading.default">
+                <div class="" data-id="5c461c3" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
                         <h2 class="font-just-me">Termíny</h2>		</div>
                 </div>

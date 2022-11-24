@@ -4,6 +4,7 @@
     --dark-red: #b81300;
     --dark-green: rgba(79, 129, 15, 1);
     --okr: rgba(177, 153, 70, 1);
+    --okr-light: rgb(229 225 208);
     --beige: rgba(188, 183, 170, 1);
     --okr2: rgba(225, 145, 77, 1);
 
@@ -753,7 +754,7 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
 
 
 #medical-quidelines-container .bg-container   {
-    background-color: var(--okr);
+    background-color: var(--okr-light);
 }
 
 #medical-quidelines-container .bg-container-beige   {

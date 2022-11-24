@@ -116,6 +116,14 @@
     .carousel-item {
         height: 240px !important;
     }
+
+    .carousel-caption {
+        top: 0px;
+    }
+
+    .carousel-caption h1 {
+        font-size: 28px;
+    }
 }
 
 @media (min-width: 40em) {
