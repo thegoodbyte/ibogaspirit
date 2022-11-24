@@ -1,6 +1,6 @@
 <div class = "row">
     <div class = "row">
-        <h4>DAY EIGHT - Odjezd</h4>
+        <h4>DEN OSMÝ - Odjezd</h4>
     </div>
 
     <div class = "row">

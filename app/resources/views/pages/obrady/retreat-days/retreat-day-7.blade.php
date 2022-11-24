@@ -3,7 +3,7 @@
         &nbsp;
     </div>
     <div class = "row">
-        <h4>DEN Sedmý  - Venkovní túry a závěrečný rozhovor</h4>
+        <h4>DEN SEDMÝ  - Venkovní túry a závěrečný rozhovor</h4>
     </div>
 
     <div class = "row">

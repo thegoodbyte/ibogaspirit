@@ -6,13 +6,13 @@
     </div>
 
     <div class = "row text-center">
-        <h2 class = "font-just-me color-iscz-red font-size-80">Osmi-denní IBOGA Retreatační Pobyt</h2>
+        <h2 class = "font-just-me color-iscz-red font-size-80">Osmi-denní IBOGA léčebný Pobyt</h2>
 
         <p>
             V tradičním psycho-spirituálním obřadu IBOGY se o sobě učíme na všech úrovních; fyzicky, mentálně,
             emocionálně a duchovně.
             IBOGA pomáhá tím, že boří iluze ega, opouští minulost, falešná přesvědčení, traumata a lži, které jsme si
-            dposud říkali.
+            doposud říkali.
         </p>
 
         <p>
@@ -54,56 +54,56 @@
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/car.png" width = "64" />
-                <p>Vyzvednutí / odvezení z nejbližšího krajskeho města</p>
+                <p>Vyzvednutí / odvoz z nejbližšího krajského města, NEBO LETIŠTĚ</p>
             </div>
         </div>
 
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/teachings.png" width = "64" />
-                <p>CORE BWITI TEACHINGS - FIRE CIRCLE TALKS</p>
+                <p>HLAVNÍ UČENÍ BWITI - ROZHOVORY OHNIVÉHO KRUHU</p>
             </div>
         </div>
 
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/ceremony.png" width = "64" />
-                <p>TWO IBOGA CEREMONIES, INCLUDING DETOX & PSYCHO - SPIRITUAL JOURNEY</p>
+                <p>DVA OBŘADY IBOGA, VČETNĚ DETOXU A PSYCHO - DUCHOVNÍ CESTY</p>
             </div>
         </div>
 
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/provider.png" width = "64" />
-                <p>TRADITIONALLY TRAINED IBOGA PROVIDER INITIATED IN THE BWITI TRADITION</p>
+                <p>TRADIČNĚ VYŠKOLENÝ POSKYTOVATEL IBOGY ZAČNĚNÝ V TRADICI BWITI</p>
             </div>
         </div>
 
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/counseling.png" width = "64" />
-                <p>INTEGRATION / INDIVIDUAL SUPPORT COUNSELING</p>
+                <p>INTEGRACE / PORADENSTVÍ INDIVIDUÁLNÍ PODPORY</p>
             </div>
         </div>
 
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/comment.png" width = "64" />
-                <p>PRE / POST IBOGA SUPPORT CALLS</p>
+                <p>PPŘED A PO IBOGA PYBYTU TELEFONNÍ ROZHOVORY</p>
             </div>
         </div>
 
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/accommodation.png" width = "64" />
-                <p>BEAUTIFUL ACCOMMODATION WITH PRIVATE ROOM</p>
+                <p>KRÁSNÉ UBYTOVÁNÍ SE SOUKROMÝM POKOJEM</p>
             </div>
         </div>
 
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/salad.png" width = "64" />
-                <p>HEALTHY MEALS THAT ACCOMMODATE MOST DIETS.</p>
+                <p>ZDRAVÁ JÍDLA pro většinu diet.</p>
             </div>
         </div>
 
@@ -112,22 +112,24 @@
         <div class = "col-xl-3 col-xs-6">
                 <div class = "item">
                     <img src = "/images/icons/leaf.png" width = "64" />
-                    <p>TRADITIONALLY PREPARED AND CEREMONIALLY HARVESTED IBOGA</p>
+                    <p>TRADIČNĚ PŘIPRAVOVANÁ A SLAVNOSTNĚ SKLIZENÁ IBOGA</p>
                 </div>
         </div>
 
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/trips.png" width = "64" />
-                <p>UNIQUE LOCAL EXCURSIONS
-            (Nature Tours, Beach Outings, Temazcals, & More!)</p>
+                <p>
+                    JEDINEČNÉ MÍSTNÍ VÝLETY,  HOLOTROPNÍ DÝCHÁNÍ
+            </p>
             </div>
         </div>
 
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/bath.png" width = "64" />
-                <p>TRADITIONAL BWITI SPIRITUAL SHOWER</p>
+                <p>
+                    TRADIČNÍ DUCHOVNÍ SPRCHA BWITI</p>
             </div>
         </div>
 
@@ -135,7 +137,8 @@
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/medical.png" width = "64" />
-                <p>Medical Screening to ensure a safe retreat</p>
+                <p>
+                    Lékařské vyšetření k zajištění bezpečného pobytu</p>
             </div>
         </div>
 
@@ -166,9 +169,9 @@
 
         <div class = "row">
             <p>
-                Our 10 day all-inclusive Iboga healing retreats are designed to support a powerful healing experience
-                and self-discovery. Through sacred candlelit ceremonies that tap into this incredible plant medicine’s
-                natural intelligence, we facilitate the personal healing journey in a comfortable and safe space.
+                Naše 8-denní vse-zahrnuto léčebné pobyty Ibogy jsou navrženy tak, aby podporovaly silný léčebný zážitek
+                a sebeobjevování. Prostřednictvím posvátných obřadů při svíčkách, které pronikají do této neuvěřitelné rostlinné medicíny
+                přirozenou inteligencí usnadňujeme cestu osobního léčení v pohodlném a bezpečném prostoru.
             </p>
         </div>
 

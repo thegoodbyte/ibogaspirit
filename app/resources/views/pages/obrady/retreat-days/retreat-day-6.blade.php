@@ -6,7 +6,7 @@
 
 
     <div class = "row">
-        <h3  class = "font-just-me">DEN Sesty Den objevů</h3>
+        <h3  class = "font-just-me">DEN ŠESTÝ Den objevů</h3>
     </div>
     <div class = "row">
         <div class = "col-xl-12">

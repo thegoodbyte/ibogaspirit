@@ -1,6 +1,6 @@
 <div class = "row ">
     <div class = "row">
-        <h4 class = "font-just-me">PÁTÝ DEN - Aktivity na místě a druhý obřad Ibogy</h4>
+        <h4 class = "font-just-me">DEN PÁTÝ  - Aktivity na místě a druhý obřad Ibogy</h4>
     </div>
 
 

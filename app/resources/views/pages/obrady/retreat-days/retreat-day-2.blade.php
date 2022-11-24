@@ -1,6 +1,6 @@
 <div class = "row pobyt-day-box">
     <div class = "row">
-        <h4>DAY TWO První ceremonie Ibogy</h4>
+        <h4>DEN DRUHÝ První ceremonie Ibogy</h4>
     </div>
 
     <div class = "row background-text-light-grey">
@@ -26,11 +26,11 @@
                 Vytváříme pro vás velmi bezpečné prostředí, abyste se mohli soustředit na svůj zážitek.
             </p>
             <p>
-                Až nadejde správný čas, zahájíme proces vedení vás do vás samotných. Tento proces používají Bwiti po mnoho generací.
+                Až nadejde správný čas, zahájíme proces zavedení vás do vás samotných. Tento proces používají Bwiti po mnoho generací.
                 Tím, že vás provedeme, můžete získat odpovědi na jakékoli otázky, které o svém životě máte. Možná budete schopni vidět a
                 konverzovat se svým vlastním duchem (vaší duší / vyšším já). Mnoho lidí je schopno „cestovat“ duchovně po celém světě.
                 Pomocí tohoto procesu je také možné navázat kontakt se zesnulou rodinou a přáteli.
-                Během této cesty (journey) s průvodcem vám také ‚otevřeme‘ třetí oko (duchovní vidění) pomocí speciálních bylin a kůry, které připravili
+                Během této cesty (journey) s průvodcem, vám také ‚otevřeme‘ třetí oko (duchovní vidění) pomocí speciálních bylin a kůry, které připravili
                 Pygmejové..
             </p>
 
