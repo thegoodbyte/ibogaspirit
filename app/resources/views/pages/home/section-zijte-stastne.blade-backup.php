@@ -18,7 +18,8 @@
                     <div class="elementor-element elementor-element-b6f866b elementor-widget__width-initial elementor-widget elementor-widget-text-editor is-mac" data-id="b6f866b" data-element_type="widget" data-widget_type="text-editor.default">
                         <div class="elementor-widget-container">
                             IBOGA&nbsp;<span style="letter-spacing: 0px;">MEDICÍNA&nbsp; A BWITI&nbsp; <span style="font-family: Consolas, Monaco, monospace;">UČENÍ</span></span>
-                            <span style="letter-spacing: 0px;">NÁS UČÍ&nbsp; JAK SI UŽÍVAT ŽIVOTA NAPLNO. <br>DOKÁŽE VYLÉČIT JAKÉKOLI PSYCHICKÉ TRAUMA TÍM, ŽE NÁS PŘIVEDE KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT.<br>JE TO OPRAVDOVÝ ZÁZRAK – NOVÉ ZROZENÍ</span>						</div>
+                            <span style="letter-spacing: 0px;">NÁS UČÍ&nbsp; JAK SI UŽÍVAT ŽIVOTA NAPLNO. <br />
+                                DOKÁŽE VYLÉČIT JAKÉKOLI PSYCHICKÉ TRAUMA TÍM, ŽE NÁS PŘIVEDE KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT.<br>JE TO OPRAVDOVÝ ZÁZRAK – NOVÉ ZROZENÍ</span>						</div>
                     </div>
 
                 </div>

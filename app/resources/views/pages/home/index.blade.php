@@ -6,7 +6,7 @@
 @include('pages.home.slider')
 <div class = "row">
     <div class = "col-xl-12">
-        <h2 class = "font-just-me font-size-60">IBOGA MEDICÍNA A BWITI UČENÍ</h2>
+        <h2 class = "font-just-me font-size-60 color-iscz-red">IBOGA MEDICÍNA A BWITI UČENÍ</h2>
         <p>
             IBOGA MEDICINE NÁS UČÍ, JAK SI UŽÍVAT ŽIVOTA NAPLNO. DOKÁŽE VYLÉČIT JAKÉKOLI PSYCHICKÉ T
             RAUMA TÍM, ŽE NÁS PŘIVEDE KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT.
