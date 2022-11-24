@@ -792,10 +792,8 @@ XS
         min-height: 300px;
         width: 100%;
         display:block;
-        margin-top: -40px;
-        margin-left: 30px;
         background-color: green;
-        background-image: url('/images/headers/what-iboga-can-do-for-you-400w.jpg');
+        background-image: url('/images/headers/ive-happily-400w.jpg');
         height: 100vh;
     }
 
@@ -830,9 +828,9 @@ XS
 
     }
     section.home-section-ziot-je-dar h1 {
-        font-size: 26px;
+        font-size: 38px;
         margin-top: 0px;
-        color: #fff;
+        color: rgba(46,94,47,0);
     }
 
 

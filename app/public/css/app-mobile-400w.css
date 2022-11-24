@@ -1,0 +1,56 @@
+
+@media screen and (max-width: 400px) {
+    h3, h4 {
+        padding: 5px;
+    }
+    p {
+        padding: 10px;
+    }
+    #home-zijte-stastne-pic {
+        min-height: 300px;
+        width: 100%;
+        display:block;
+        background-color: green;
+        background-image: url('/images/headers/ive-happily-400w.jpg');
+        height: 100vh;
+        background-repeat: no-repeat;
+    }
+
+    #iboga-bwiti-tradice-top-iamge {
+        display: block;
+        min-height: 483px;
+        background-image: url("/images/iboga/bwiti/bwiti-scotty-400w.jpg");
+        background-repeat: no-repeat;
+    }
+    #iboga-bwiti-tradice-top-iamge h2{
+        color: #fff;
+        margin-left: 10px;
+        font-size: 45px;
+    }
+    #iboga-bwiti-tradice-top-iamge .text-box{
+        color: #fff;
+        margin-left:20px;
+        margin-top: 200px;
+    }
+
+    #iboga-bwiti-tradice-top-iamge .text-box  h3{
+        color: #fff;
+    }
+
+    #home-parallax {
+        background-image: url('/images/iboga/bwiti/bwiti-all-400w.jpg');
+
+    }
+
+    #home-parallax h2 {
+        padding-left: 5px;
+
+    }
+    section.home-section-ziot-je-dar h1 {
+        font-size: 38px;
+        margin-top: 0px;
+        color: rgba(46,94,47,0);
+    }
+
+
+}
