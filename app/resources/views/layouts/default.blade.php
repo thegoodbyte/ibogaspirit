@@ -10,6 +10,19 @@
 
         gtag('config', 'G-B7YRN4155S');
     </script>
+
+    <!--
+    SMart Look analytics
+    -->
+    <script type='text/javascript'>
+        window.smartlook||(function(d) {
+            var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+            var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+            c.charset='utf-8';c.src='https://web-sdk.smartlook.com/recorder.js';h.appendChild(c);
+        })(document);
+        smartlook('init', '420864ad1eb8f45c6355383e5ed0953e34fb4a28', { region: 'eu' });
+    </script>
+
  @include('includes.head')
 </head>
 <body class="home page-template page-template-elementor_header_footer page page-id-1799 boldgrid-ppb top-panel-invisible layout-fullwidth blog-default jet-desktop-menu-active elementor-default elementor-template-full-width elementor-kit-1687 elementor-page elementor-page-1799">

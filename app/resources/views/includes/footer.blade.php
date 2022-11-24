@@ -23,7 +23,7 @@
                         <li>Obrady</li>
                         <li><hr /></li>
                         <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
-                        <li><a href="/obrady/priprave-a-prubezna-prace">Příprava a Průběžná péče</a></li>
+                        <li><a href="/obrady/priprava">Příprava a Průběžná péče</a></li>
                         <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní retreatační pobyt</a></li>
 
                         <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
