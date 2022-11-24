@@ -23,7 +23,8 @@
 
             <div class="row row-show-more-button" data-id="2ed10eb" data-element_type="widget" data-widget_type="jet-button.default">
                 <div class="elementor-widget-container">
-                    <div class="elementor-jet-button jet-elements"><div class="jet-button__container">
+                    <div class="elementor-jet-button jet-elements">
+                        <div class="jet-button__container">
                             <a class="jet-button__instance jet-button__instance--icon- hover-effect-0" href="/obrady/terminy">
                                 <div class="show-more-button jet-button__plane jet-button__plane-normal"></div>
                                 <div class="jet-button__plane jet-button__plane-hover"></div>

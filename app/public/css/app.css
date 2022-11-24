@@ -780,6 +780,10 @@ XS
 */
 
 
+.home-index-under-carousel {
+    font-size: 80px;
+}
+
 @media screen and (max-width: 400px) {
     h3, h4 {
         padding: 5px;
@@ -787,6 +791,12 @@ XS
     p {
         padding: 10px;
     }
+
+    .home-index-under-carousel {
+        font-size: 34px;
+        text-align: center;
+    }
+
     #home-zijte-stastne-pic {
         min-height: 300px;
         width: 100%;
