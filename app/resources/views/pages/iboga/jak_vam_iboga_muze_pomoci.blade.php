@@ -1,15 +1,12 @@
 @extends('layouts.default')
 @section('content')
-<div class = "row" id = "img-box-iboga-helps">
-    <h2 class = "font-just-me font-size-80 color-iscz-red">Jak vám Iboga může pomoci</h2>
+    <div class = "row" id = "img-box-iboga-helps">
+        <h2 class = "font-just-me font-size-80 color-iscz-red">Jak vám Iboga může pomoci</h2>
 
-    <blockquote><span>Iboga vás spojuje s vaší duší, vaší pravdou – tam kde jsou všechny vaše odpovědi.</span></blockquote>
+        <blockquote><span>Iboga vás spojuje s vaší duší, vaší pravdou – tam kde jsou všechny vaše odpovědi.</span></blockquote>
 
-</div>
+    </div>
 
-<div class = "row">
-
-</div>
 
     <div class = "row">
         <div class = "col-xl-12 col-xs-1 pt-5" id = "how-iboga-helps-h2-who-is-for">
@@ -47,9 +44,6 @@
 
             </p>
 
-
-
-
             <blockquote>IBOGA pomáhá tím, že boří iluze ega, opouští minulost, falešná přesvědčení, traumata a lži, které jsme si říkali.</blockquote>
             <p>
                 Jedna léčba ibogou se dá přirovnat k minimálně ddeseleté tradiční psychoterapii.
@@ -58,11 +52,7 @@
                 Iboga může být účinný při léčbě deprese, úzkosti a PTSD.
 
             </p>
-
-
-
         </div>
-
         <div class = "col-xl-4">
             <img src = "/images/iboga/iboga-graphics.jpeg" />
         </div>
@@ -97,9 +87,7 @@
 
 
     <div class = "row">
-
         <div class = "col-xl-12">
-
             <blockquote>Kazdy problém a nemoc má začátek, Iboga je schopna je odhalit a vyléčit</blockquote>
             <p>
                 Dalším faktorem, který dělá z Ibogy účinnou léčbu závislostí, je jeho schopnost léčit emocionální a
@@ -117,47 +105,50 @@
 
 
     <div class = "row">
-        <h3 class = "font-size-30 color-iscz-red font-just-me">Proč se zúčastnit?
-            Existují tři hlavní důvody, proč se lidé účastní obřadu Iboga.</h3>
+        <div class = "col-xl-12">
+            <h3 class = "font-size-30 color-iscz-red font-just-me">Proč se zúčastnit?
+                Existují tři hlavní důvody, proč se lidé účastní obřadu Iboga.</h3>
 
-        <ol>
-            <li class = "font-size-40 color-iscz-green">
-                Pro léčení
-            </li>
+            <ol>
+                <li class = "font-size-40 color-iscz-green">
+                    Pro léčení
+                </li>
 
-            <li class = "font-size-40 color-iscz-green">
-                Chcete-li optimalizovat svůj život
-            </li>
+                <li class = "font-size-40 color-iscz-green">
+                    Chcete-li optimalizovat svůj život
+                </li>
 
-            <li class = "font-size-40 color-iscz-green">
-                Intuitivní volání
-            </li>
-        </ol>
-
+                <li class = "font-size-40 color-iscz-green">
+                    Intuitivní volání
+                </li>
+            </ol>
+        </div>
     </div>
 
-<div class = "row">
-   <p> Jako rostlinný učitel ,
-       Iboga je jako vůdčí světlo, které osvětluje naši cestu a přináší hluboké vědomí sama
-       sebe.</p>
+    <div class = "row">
+        <div class = "col-xl-12">
+           <p> Jako rostlinný učitel ,
+               Iboga je jako vůdčí světlo, které osvětluje naši cestu a přináší hluboké vědomí sama
+               sebe.</p>
 
-    <p>
-        Iboga je jedním z nejúčinnějších rostlinných léků pro naše hluboké učení
-        léčení.
-    </p>
+            <p>
+                Iboga je jedním z nejúčinnějších rostlinných léků pro naše hluboké učení
+                léčení.
+            </p>
 
-    <p>
-        Iboga poskytuje výhody neuroplasticity, které mohou přebudovat
-        mozek,
-        uvolnit
-        trauma a podpořit
-        vytváření nových zdravých návyků.
-    </p>
-</div>
+            <p>
+                Iboga poskytuje výhody neuroplasticity, které mohou přebudovat
+                mozek,
+                uvolnit
+                trauma a podpořit
+                vytváření nových zdravých návyků.
+            </p>
+        </div>
+    </div>
 
     <diV class = "row" id = "iboga-benefits">
             <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #DCF1F1;">
-                <div class = "row align-content-center">
+                <div class = "align-content-center">
                     <img src = "/images/icons/physical.png" width = "80" />
                 </div>
                 <h3>Fyzicky</h3>
