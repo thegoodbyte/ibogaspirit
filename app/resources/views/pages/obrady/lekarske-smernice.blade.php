@@ -2,7 +2,7 @@
 @section('content')
 <div class = "container-fluid" id = "medical-quidelines-container">
     <div class = "row" id = "img-box-top-med-guidelines">
-        <h2 class = "font-just-me font-size-80">Lékařské Směrnice</h2>
+        <h1 class = "font-just-me font-size-80">Lékařské Směrnice</h1>
 
         <blockquote>Iboga je neuvěřitelně bezpečný lék, pokud má uživatel zdravé srdce a neužívá žádné návykové látky</blockquote>
     </div>

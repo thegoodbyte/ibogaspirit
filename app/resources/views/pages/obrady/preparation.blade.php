@@ -8,8 +8,8 @@
 
 
     <div class = "row">
-        <h2 class = "font-just-me font-size-80 color-iscz-red">
-            Příprava na obřad Ibogy</h2>
+        <h1 class = "font-just-me font-size-80 color-iscz-red">
+            Příprava na obřad Ibogy</h1>
     </div>
 
 

@@ -8,7 +8,7 @@
     </div>
 
     <div class = "row">
-        <h2 class = "font-just-me font-size-80">VÁŠ PRVNÍ IBOGA CEREMONIÁL </h2>
+        <h1 class = "font-just-me font-size-80">VÁŠ PRVNÍ IBOGA CEREMONIÁL </h1>
     </div>
 
     <div class = "row">
