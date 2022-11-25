@@ -24,9 +24,11 @@
 
     <div class = "row">
         <div class = "col-xl-6">
-            Co je Ayahuasca?
-            Rostliny používané při výrobě ayahuascy
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            <p>
+                Co je Ayahuasca?
+                Rostliny používané při výrobě ayahuascy
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            </p>
         </div>
 
         <div class = "col-xl-6">

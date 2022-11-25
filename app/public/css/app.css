@@ -51,6 +51,10 @@ h1 {
 
 }
 
+blockquote .feedback-green {
+    border-left: 3px solid var(--dark-green);
+}
+
 blockquote .small-bq {
     font-size:24px;
 }
@@ -943,7 +947,35 @@ XS
         background-color: red;
     }
 
+    /**
+    PAGE - Medical Quidelines
+     */
 
+    #img-box-top-med-guidelines h1{
+        color: #1f713f;
+        font-size: 50px;
+    }
+    #img-box-top-med-guidelines {
+        display: block;
+        width: 400px;
+        height: 343px;
+        background-image: url('/images/headers/medical-guidelines-forms-400w.jpg');
+        background-repeat: no-repeat;
+        position: relative;
+    }
+
+    #img-box-top-med-guidelines blockquote {
+        display: block;
+        color: #019a00;
+        top: 120px;
+        left: 5px;
+        width: 95%;
+        border-left: none;
+        box-shadow: none;
+        font-size: 18px;
+        font-weight: 500;
+        background-color: rgba(255, 255, 255, .7);
+    }
 }
 
 

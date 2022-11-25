@@ -1,10 +1,8 @@
 <div class = "row background-text-light-grey">
+    <div class = "col-xl-12">
 
-    <div class = "row">
         <h4>DEN SEDMÝ  - Venkovní túry a závěrečný rozhovor</h4>
-    </div>
 
-    <div class = "row">
         <p>
             Náš den trávíme nasáváním léčivého slunečního světla a čištěním energie lesa.
             Večer se sejdeme jako skupina a užíváme si výhod Ibogy medicíny. Moudrost o tom, že vezmeme naše nově nalezené
@@ -14,6 +12,4 @@
             Dva zážitky plné dávky této medicíny jsou hluboké a pro mnohé to je dostačující zážitek  Ibogy, která jim vydrží na celý život.
         </p>
     </div>
-
-
 </div>

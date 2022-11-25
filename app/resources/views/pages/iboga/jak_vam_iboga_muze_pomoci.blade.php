@@ -218,7 +218,7 @@
         <div class = "col-xl-12">
 
             <p>Feedback od jednoho z mých hostů: </p>
-            <blockquote class = "small-bq color-iscz-green">
+            <blockquote class = "small-bq color-iscz-green feedback-green">
                 Moje zkušenost s Martinem mi otevřela oči! Před prvním obřadem jsem byl velmi vzrušený a nervózní, protože jsem neměl
                 žádné předchozí zkušenosti s Ibogou. Martin byl vždy připraven zodpovědět všechny otázky nebo obavy, které jsem měl během své cesty. I
                 boga mi skutečně otevřela mysl a ukázala mi nešťastnou osobu, kterou jsem se stala, a skutečnou šťastnou osobu,

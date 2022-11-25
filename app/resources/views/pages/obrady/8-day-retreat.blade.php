@@ -156,24 +156,21 @@
             </div>
 
             <div class = "col-xl-2">
-                &nbsp;
+                &nbsp;&nbsp;
             </div>
-
-        </div>
-
+    </div>
 
 
-
-
-    <h2 class = "font-just-me">OSMIDENNI  DAY IBOGA RETREAT SCHEDULE</h2>
-
-        <div class = "row">
+    <div class = "row">
+        <div class = "col-xl-12">
+            <h2 class = "font-just-me">OSMIDENNI  IBOGA RETREAT SROZVRH</h2>
             <p>
                 Naše 8-denní vse-zahrnuto léčebné pobyty Ibogy jsou navrženy tak, aby podporovaly silný léčebný zážitek
                 a sebeobjevování. Prostřednictvím posvátných obřadů při svíčkách, které pronikají do této neuvěřitelné rostlinné medicíny
                 přirozenou inteligencí usnadňujeme cestu osobního léčení v pohodlném a bezpečném prostoru.
             </p>
         </div>
+    </div>
 
 
     <!--
@@ -234,13 +231,7 @@
     @include('pages.obrady.retreat-days.retreat-day-5')
     @include('pages.obrady.retreat-days.retreat-day-6')
     @include('pages.obrady.retreat-days.retreat-day-7')
-{{--    @include('pages.obrady.retreat-days.retreat-day-8')--}}
+    @include('pages.obrady.retreat-days.retreat-day-8')
 
 
-
-    <script>
-        $( function() {
-            $( "#accordion" ).accordion();
-        } );
-    </script>
     @stop
