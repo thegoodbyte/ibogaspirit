@@ -3,7 +3,7 @@
 <div class = "row" id = "img-box-iboga-helps">
     <h2 class = "font-just-me font-size-80 color-iscz-red">Jak vám Iboga může pomoci</h2>
 
-    <blockquote>Iboga vás spojuje s vaší duší, vaší pravdou – tam kde jsou všechny vaše odpovědi.</blockquote>
+    <blockquote><span>Iboga vás spojuje s vaší duší, vaší pravdou – tam kde jsou všechny vaše odpovědi.</span></blockquote>
 
 </div>
 
@@ -12,7 +12,7 @@
 </div>
 
     <div class = "row">
-        <div class = "col-xl-12 col-xs-1 pt-5">
+        <div class = "col-xl-12 col-xs-1 pt-5" id = "how-iboga-helps-h2-who-is-for">
             <h3 class = "font-size-40 font-just-me color-iscz-green">
                 Iboga je pro ty, kteří jsou připraveni se osvobodit  ze spárů fyzických, mentálních, emocionálních a duchovních omezeni a onemocnění,
                 a tim otevřít se svému skutečnému potenciálu.
@@ -23,13 +23,12 @@
     <div class = "row">
         <div class = "col-xl-8">
             <p>
-                Pomáham vam najít jasno v tom, kdo jste a co chcete.
-                Léčba Ibogou  se  zaměřuje na spojení s tím, kdo jste a co chcete - protože toto je jedno z tech
-                největších duchovních výhod, které léčba Ibogou nabízí.
-                V tradičním <B></B>witi obřadu  Ibogy jste přivedeni
-                k setkani se svou dusi a jste schopni se s ni znovu spojit. Toto spojení (a poznání) vzbuzuje neochvějný pocit důvěry,
-                sebelásku a jasnost těm, kteří ji skutečně chteji přijmout. To pak ma hluboký dopad na vas úhel pohledu na
-                celý vnější svět. Když ochazite s léčby Ibogou s vědomím, kdo jste a co chcete, nic vás nezastaví.
+                Pomáhám vám najít jasno v tom, kdo jste a co chcete.
+                Je to jedna z největších duchovních výhod kterou léčba Ibogou  nabízí.
+                V tradičním Bwiti obřadu  Ibogy jste přivedeni
+                k setkáni se svou dusi a jste schopni se s ní znovu spojit. Toto spojení (a poznání) vzbuzuje neochvějný pocit důvěry,
+                sebelásku a jasnost těm, kteří ji skutečně chtejí přijmout. To má pak  hluboký dopad na váš úhel pohledu na
+                celý vnější svět. Když odcházite z léčby Ibogou s vědomím, kdo jste a co chcete, nic vás nezastaví.
 
             </p>
 
@@ -118,19 +117,19 @@
 
 
     <div class = "row">
-        <h3 class = "font-size-40 color-iscz-red font-just-me">Proč se zúčastnit?
+        <h3 class = "font-size-30 color-iscz-red font-just-me">Proč se zúčastnit?
             Existují tři hlavní důvody, proč se lidé účastní obřadu Iboga.</h3>
 
         <ol>
-            <li>
+            <li class = "font-size-40 color-iscz-green">
                 Pro léčení
             </li>
 
-            <li>
+            <li class = "font-size-40 color-iscz-green">
                 Chcete-li optimalizovat svůj život
             </li>
 
-            <li>
+            <li class = "font-size-40 color-iscz-green">
                 Intuitivní volání
             </li>
         </ol>
@@ -138,27 +137,27 @@
     </div>
 
 <div class = "row">
-   <p> As a plant teacher,
-    Iboga is like a guiding light to illuminate our path and bring deep awareness to
-    ourselves.</p>
+   <p> Jako rostlinný učitel ,
+       Iboga je jako vůdčí světlo, které osvětluje naši cestu a přináší hluboké vědomí sama
+       sebe.</p>
 
     <p>
-        Iboga is one of the most potent plant medicines for deep learning
-        &amp;amp; healing.
+        Iboga je jedním z nejúčinnějších rostlinných léků pro naše hluboké učení
+        léčení.
     </p>
 
     <p>
-        Iboga provides neuroplasticity benefits that can rewire the
-        brain,
-        release
-        trauma and support
-        the creation of healthy new habits.
+        Iboga poskytuje výhody neuroplasticity, které mohou přebudovat
+        mozek,
+        uvolnit
+        trauma a podpořit
+        vytváření nových zdravých návyků.
     </p>
 </div>
 
     <diV class = "row" id = "iboga-benefits">
             <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #DCF1F1;">
-                <div class = "">
+                <div class = "row align-content-center">
                     <img src = "/images/icons/physical.png" width = "80" />
                 </div>
                 <h3>Fyzicky</h3>
@@ -169,9 +168,9 @@
                     <li>Antibakteriální</li>
                     <li>Antivirový</li>
                     <li>Chemická detoxikace</li>
-                    <li>Zlepšit neuroplasticitu</li>
-                    <li>Zvyšte fyzickou sílu a vytrvalost</li>
-                    <li>Odvápnění epifýzy</li>
+                    <li>Zlepšuje neuroplasticitu</li>
+                    <li>Zvyšuje fyzickou sílu a vytrvalost</li>
+                    <li>Odvápnuje epifýzy</li>
                 </ul>
             </div>
 
@@ -184,7 +183,7 @@
                     <li>Resetuje neurotransmitery mozku</li>
                     <li>Mentální detox negativních myšlenek</li>
                     <li>Pomáhá léčit trauma z minulosti</li>
-                    <li>liPomáhá zklidnit úzkostné vzorce</li>
+                    <li>Pomáhá zklidnit úzkostné vzorce</li>
                     <li>Podporuje jasnost a duševní klid</li>
                     <li>Zmírňuje úzkosti a deprese</li>
                     <li>Zmírňuje PTSD</li>
@@ -227,7 +226,7 @@
     <div class = "row">
         <div class = "col-xl-12">
 
-            <p>Geedback od jednoho z mých hostu: </p>
+            <p>Feedback od jednoho z mých hostů: </p>
             <blockquote class = "small-bq color-iscz-green">
                 Moje zkušenost s Martinem mi otevřela oči! Před prvním obřadem jsem byl velmi vzrušený a nervózní, protože jsem neměl
                 žádné předchozí zkušenosti s Ibogou. Martin byl vždy připraven zodpovědět všechny otázky nebo obavy, které jsem měl během své cesty. I

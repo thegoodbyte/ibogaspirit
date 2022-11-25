@@ -9,6 +9,11 @@
     --okr2: rgba(225, 145, 77, 1);
 
 }
+
+h1 {
+    font-size: 80px;
+}
+
 @font-face {
     font-family: sf;
     src: url('/fonts/strawberry-blossom/Strawberry_Blossom.ttf');
@@ -589,6 +594,10 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
         height: 100vh;
     }
 
+    h1 {
+        font-size: 80px;
+    }
+
 
     footer {
         /*bottom: 0px;*/
@@ -786,9 +795,14 @@ XS
 }
 
 @media screen and (max-width: 400px) {
+    h1 {
+        font-size: 40px;
+    }
+
     h3, h4 {
         padding: 5px;
     }
+
     p {
         padding: 10px;
     }
@@ -876,6 +890,57 @@ XS
         font-size: 38px;
         margin-top: 0px;
         color: rgba(46,94,47,0);
+    }
+
+
+    #img-box-iboga-helps h2 {
+        color: #6b4c16;
+        padding-bottom: 0px;
+        font-size: 50px;
+    }
+
+    #how-iboga-helps-h2-who-is-for {
+        padding: 30px;
+    }
+
+    #how-iboga-helps-h2-who-is-for h2 {
+        font-size: 30px;
+        margin: 30px;
+        background-color: #fff;
+        font-family: Lato, Arial;
+
+    }
+
+    /* how-iboga-helps page */
+    #img-box-iboga-helps {
+        background-image: url('/images/headers/misc-nature-trip-woman-400w.jpeg');
+        min-height: 240px;
+        background-color: red;
+    }
+
+    #img-box-iboga-helps h2 {
+        color: #760505;
+        width: 240px;
+        padding-left: 10px;
+    }
+
+    #img-box-iboga-helps blockquote:before {
+        padding-top: 0px;
+        padding-left: 10px;
+    }
+
+    #img-box-iboga-helps blockquote {
+
+        padding-left: 20px;
+        border-left: 0px;
+        width: 250px;
+    }
+
+
+    #img-box-iboga-helps-middle {
+        background-image: url('/images/headers/sunshine-meadow-400w.jpeg');
+        min-height: 240px;
+        background-color: red;
     }
 
 

@@ -6,7 +6,7 @@
     </div>
 
     <div class = "row text-center">
-        <h2 class = "font-just-me color-iscz-red font-size-80">Osmi-denní IBOGA léčebný Pobyt</h2>
+        <h1 class = "font-just-me color-iscz-red">Osmi-denní IBOGA léčebný Pobyt</h1>
 
         <p>
             V tradičním psycho-spirituálním obřadu IBOGY se o sobě učíme na všech úrovních; fyzicky, mentálně,

@@ -5,13 +5,12 @@
 
     <div class = "row">
         <p>
-            Snídaně a obědy se podávají v centru, zatímco hosté čekají na odvoz na letiště, aby nastoupili na odlet
-            lety nebo do další destinace v Kostarice.
+            Podávají se snídaně a obědy, zatímco hosté čekají na odvoz na clak ci letiště.
         </p>
 
         <p>
-            Vše nabízené během našich 8denních pobytů je volitelné; pokud se hosté necítí dobře účastnit se určitých
-            plánované činnosti, mohou se odhlásit. Je to všechno o zmocněné volbě a volba zúčastnit se je vždy na jednotlivci.
+            Všechny činnosti nabízené během našich 8-denních pobytů jsou volitelné; pokud se hosté necítí dobře -  účastnit se určitých
+            plánované činností, mohou se odhlásit. Je to všechno o zmocněné volbě a volba zúčastnit se je vždy na jednotlivci.
         <p>
     </div>
 </div>

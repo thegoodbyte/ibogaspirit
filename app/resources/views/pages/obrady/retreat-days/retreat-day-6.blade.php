@@ -1,10 +1,4 @@
 <div class = "row">
-
-
-
-
-
-
     <div class = "row">
         <h3  class = "font-just-me">DEN ŠESTÝ Den objevů</h3>
     </div>
