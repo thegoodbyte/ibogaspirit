@@ -3,7 +3,7 @@
     <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
 
 <div class = "row">
-<h2>Iboga Medicine</h2>
+<h2>Iboga Medicína</h2>
 
     <p>
         Tohoto mistra rostlinného učitele používali Pygmejové, tradičně nazývaní Babongo; známý jako jeden z nejstarších afrických kmenů.

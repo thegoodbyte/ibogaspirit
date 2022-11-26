@@ -56,7 +56,7 @@
 
         <p>
             Nyní, když jste vyléčili starou ránu, je čas vytvořit si nový návyk, abyste mohli začít vytvářet nové
-            Výsledek. Zeptejte se mediciny, jak můžete dělat věci jinak.
+            Výsledek. Zeptejte se medicíny, jak můžete dělat věci jinak.
         </p>
 
         <p>

@@ -16,13 +16,13 @@
         </p>
 
         <p>
-            Večer pořádáme náš druhý obřad Ibogy. Kolem ohně, když začneme brát medicinu,
+            Večer pořádáme náš druhý obřad Ibogy. Kolem ohně, když začneme brát medicínu,
             hosté jsou zváni (ale není to nutné), aby se podělili o svůj první obřad. Věci, které byly během
-            první cestu nebude třeba znovu řešit. Druhý obřad Ibogy ním umožňuje posunout se ještě hlouběji dovnitř.
+            první cestu nebude třeba znovu řešit. Druhý obřad Ibogy nam umožňuje posunout se ještě hlouběji dovnitř.
         </p>
 
         <p>
-            Zážitek z ibogy se bude nějakým způsobem lišit pokaždé kdy užívíme medicínu. Hosté by měli medicíně důvěřovat, že udělá svou práci.
+            Zážitek z Ibogy se bude nějakým způsobem lišit pokaždé kdy užívíme tuto medicínu. Hosté by měli medicíně důvěřovat, že udělá svou práci.
             Musíme jen vědět, co ze zkušenosti chceme.
         </p>
 
