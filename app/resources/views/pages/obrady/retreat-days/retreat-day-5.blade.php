@@ -8,9 +8,7 @@
     <div class = "col-xl-8">
 
         <p>
-            Během dne mají hosté možnost naplánovat si vlastní masáže.
-            Do centra přijíždějí skvělí maséři a provádějí pro naše hosty masáž celého těla. Mnoho hostů řeklo
-            byla to nejlepší masáž jejich života..
+           Tento den nabízíme holotropní dýchaní.
         </p>
 
         <p>
@@ -20,11 +18,11 @@
         <p>
             Večer pořádáme náš druhý obřad Ibogy. Kolem ohně, když začneme brát medicinu,
             hosté jsou zváni (ale není to nutné), aby se podělili o svůj první obřad. Věci, které byly během
-            první cestu nebude třeba znovu řešit. Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitř.
+            první cestu nebude třeba znovu řešit. Druhý obřad Ibogy ním umožňuje posunout se ještě hlouběji dovnitř.
         </p>
 
         <p>
-            Zážitek z ibogy se bude nějakým způsobem lišit pokaždé, když budeme mít lék. Hosté by měli léku věřit, že udělá svou práci.
+            Zážitek z ibogy se bude nějakým způsobem lišit pokaždé kdy užívíme medicínu. Hosté by měli medicíně důvěřovat, že udělá svou práci.
             Musíme jen vědět, co ze zkušenosti chceme.
         </p>
 

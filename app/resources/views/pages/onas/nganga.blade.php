@@ -67,7 +67,7 @@
             <p>
                 Zamiloval jsem si Ibogu a rozhodl se že pojedu přimo do Afriky do Gabonu osobně poděkovat této vzácné a
                 úžasné rostlině. <!--Psal se rok 2021.-->
-                K mému obdivu  jsem byl nečekaně zasvěcen do Bwiti tradice a hned poznal, že já a tato medicína máme vzácny vztah.
+                K mému obdivu  jsem byl nečekaně zasvěcen do Bwiti tradice a hned poznal, že já a tato medicína máme vzácný vztah.
             </p>
 
             <p>
@@ -92,12 +92,13 @@
             </blockquote>
 
             <p>
-                Momentálně nejvíce působím v Mexickém Kankunu v centru "Bwiti Life" (http://www.bwitilife.com) u svého Bwiti kamaráda a Ibogy facilitátora Michaela Cassidyho.
+                Momentálně nejvíce působím v Mexickém Kankůnu v centru "Bwiti Life" (<a href = "http://www.bwitilife.com">http://www.bwitilife.com</a>)
+                u svého Bwiti bratra a Ibogy facilitátora Michaela Cassidyho.
             </p>
 
             <p>
-                Veskery obřad jsem schopný poskytnout v rodné češtině, angličtině či polštině. Obřad mohu téz poskytnout v němčině s pomocí svého Bwiti kolegy a kamarada a
-                Ibogy facilittora Nicka Sunshilda.
+                Veškery pobyt a obřady jsem schopný poskytnout v rodné češtině, angličtině či polštině. Obřad mohu též poskytnout v němčině s pomocí svého Bwiti bratra a kamaráda a
+                Ibogy facilitátora  - Nicka Sunshilda.
             </p>
 
             <p>Kdykoli mě prosím kontaktujte a napište mi, i jen s jakoukoliv otázkou.

@@ -50,13 +50,13 @@
                 <div class="elementor-element elementor-element-101ab0d elementor-widget__width-initial elementor-widget elementor-widget-text-editor is-mac" data-id="101ab0d" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container uppercase">
                         VItejte - Ja jsem Martin and jsem Nganga - spiritualni lecitel a tradicni Bwiti Iboga facilitator a poskytovatel.
-                        Studoval jsem bezpecne poskytovani Ibogy medicinia a Bwiti uceni a leceni v Gabonu,  stredozapadni Africe, u samana 10-te generace Moughendy Mikaly.
-                        Ucil jsem se tradicni  tisiceletou praxi v  Missoko Bwiti.
+                        Studoval jsem bezpecne poskytovaní Ibogy medicíny a Bwiti uceni a lecení v Gabonu,  stredozapadni Africe, u samana 10-te generace Moughendy Mikaly.
+                        Ucil jsem se tradicní  tisíce-letou praxi v  Missoko Bwiti.
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-1e3abfe elementor-widget__width-initial elementor-widget elementor-widget-text-editor is-mac" data-id="1e3abfe" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container">
-                        <p>Pusobim mezinarodne ... momentalne v mexickem Kankunu v Bwtilife.com-</p>						</div>
+                        <p>Pusobim mezinarodne ... momentalne v Mexickem Kankunu v <a href = "www.bwitilife.com">Bwitilife.com</a></p>						</div>
                 </div>
 
             </div>

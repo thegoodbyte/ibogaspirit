@@ -9,10 +9,7 @@
                 Brzy během dne mám soukromý chat s každým hostem kdy diskutujeme životní záměry a otázky týkající se léku.
                 Podává se pozdní oběd, po kterém se hosté po zbytek dne postí. Za tmy se koná skupinova <strong>Iboga Fire Ceremony,</strong> kde hraje tradiční hudba
                 Bwiti a předává se učení moudrosti.
-                Hosté užívají medicinu, která se podává jak jako kůra kořene Iboga, tak jako extrakce celkového alkaloidu (TA).
-                Je důležité mít k dispozici obě formy léku. Někteří lidé mají vyšší toleranci a to může dostat
-                obtížné dostat do nich dostatek prášku z kořenové kůry, aby je poslal hluboko a získal to, co potřebují. Proto máme zapnutou CK
-                ruku, aby měl každý možnost získat to, pro co přišel.
+                Hosté užívají medicínu, která se podává jak jako kůra kořene Ibogy.
             </p>
             <p>
                 Mluvíme o Životě a dalších důležitých učeních, které pocházejí z tradice Bwiti.
