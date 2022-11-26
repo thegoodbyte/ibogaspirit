@@ -7,9 +7,9 @@
         <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
     </div>
 
-    <div class = "row">
-        <h1 class = "">Kontakt</h1>
-    </div>
+
+        <h1 class = "page-heading">Kontakt</h1>
+
 
     <div class = "row">
         <div class = "col-xl-8">

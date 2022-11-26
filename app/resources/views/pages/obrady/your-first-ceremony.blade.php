@@ -8,12 +8,13 @@
     </div>
 
     <div class = "row">
-        <h1 class = "font-just-me font-size-80">VÁŠ PRVNÍ IBOGA CEREMONIÁL </h1>
+        <h1 class = "font-just-me color-iscz-red">VÁŠ PRVNÍ IBOGA CEREMONIÁL </h1>
     </div>
 
     <div class = "row">
-        <div class = "col-xl-12">
-            <h3 class = "font-just-me font-size-40">Co očekávat:</h3>
+        <h3 class = "font-just-me font-size-40">Co očekávat:</h3>
+        <div class = "col-xl-6">
+
             <p>
                 Nejlepší je nemit žádná očekávání před příjezdem na náš iboga retreat.
             </p>
@@ -25,6 +26,9 @@
                 abyste byli připraveni na další fáze vaší cesty duchovního léčení.
             </p>
 
+        </div>
+
+        <div class = "col-xl-6">
             <p>
                 Jedno rozumné očekávání je, že můžete projít silnou fyzickou a emocionální očistou se zvracením a/nebo
                 možná průjmem. Někteří lidé mají od svých prvních obřadů nerealisticky velká očekávání. Očekávají,
@@ -35,8 +39,9 @@
 
 
     <div class = "row">
+        <h2 class = "font-just-me color-iscz-red">Prvni Ceremonie</h2>
         <div class = "col-xl-12">
-            <h3 class = "font-just-me font-size-60">Prvni Ceremonie</h3>
+
             <p>
                 Každý obřad Ibogy začíná kolem ohně, ktery důležitou součástí ctění posvátné tradice Bwiti.
             </p>
@@ -47,7 +52,7 @@
             </p>
 
             <p>
-                Během řeči u krbu se sdílejí základní učení Bwiti a také šamanská učení, aby se vytvořila fáze introspekce.
+                Během řeči u ohně  se sdílejí základní učení Bwiti a také šamanská učení, aby se vytvořila fáze introspekce.
             </p>
 
             <p>
@@ -62,6 +67,7 @@
             </p>
 
             <p>
+                <!--
                 JAK SE PRIPRavit
             </p>
 
@@ -70,7 +76,7 @@
             </p>
 
             <p>
-                Recovery day
+                Recovery day-->
             </p>
         </div>
     </div>

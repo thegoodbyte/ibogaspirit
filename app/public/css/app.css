@@ -51,6 +51,69 @@ h1 {
 
 }
 
+
+/* retreats */
+.retreat-info {
+    display: block;
+    background-color: rgb(242 246 235);
+    padding: 10px;
+}
+
+.retreat-info:hover{
+    border: #1c7430;
+    background-color: #DEF6DB;
+    padding: 10px;
+}
+
+.retreat-info h3{
+    color: var(--dark-green);
+    font-weight: 900;
+    font-size: 34px;
+}
+
+.retreat-info .retreat-image {
+    display: block;
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.retreat-info .free-spots {
+    display: block;
+    width: 100%;
+    background-color: var(--dark-green);
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.retreat-info .retreat-price .price-usd {
+    color: var(--dark-green);
+    font-weight: 900;
+    font-size: 20px;
+    font-family: "Lato", "Arial";
+}
+
+.retreat-info .retreat-price .price-czk {
+    color: var(--dark-red);
+    font-weight: 900;
+    font-size: 30px;
+    font-family: "Lato", "Arial";
+}
+
+.retreat-info:nth-child(2) {
+    display: block;
+    background-color: #C1916B;
+    padding: 10px;
+}
+
+.retreat-info:nth-child(3) {
+    display: block;
+    background-color: rgb(242 246 235);
+    padding: 10px;
+}
+
+
 blockquote .feedback-green {
     border-left: 3px solid var(--dark-green);
 }
@@ -976,6 +1039,15 @@ XS
         font-weight: 500;
         background-color: rgba(255, 255, 255, .7);
     }
+
+    /* Terminy */
+
+    .retreat-info {
+        border-bottom: 3px solid #fff;
+    }
+    .retreat-info h3{
+        border-bottom: 3px solid #fff;
+    }
 }
 
 
@@ -992,7 +1064,7 @@ XS
     /*
     section.home-section-ziot-je-dar
      */
-     h1 {
+     h1.page-heading {
         font-size: 32px;
     }
 
