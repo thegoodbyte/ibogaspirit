@@ -31,4 +31,5 @@ Route::get('/obrady/terminy-a-ceny', [\App\Http\Controllers\ObradyController::cl
 Route::get('/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"]);
 Route::get('/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"]);
 Route::get('/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"]);
+Route::post('/contactus', [\App\Http\Controllers\HomeController::class, 'postContactus'])->name('contactus');
 

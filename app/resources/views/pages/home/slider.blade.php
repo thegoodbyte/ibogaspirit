@@ -9,9 +9,9 @@
         <div class="carousel-item active">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
             <img
-                srcset = "/images/home/slider/fire_circle-400w.jpg 400w,
-                          /images/home/slider/fire_circle-600w.jpg 600w,
-                          /images/home/slider/fire_circle-900w.jpg 900w"
+                srcset = "/images/home/slider/fire_circle-400w.jpg 400px,
+                          /images/home/slider/fire_circle-600w.jpg 600px,
+                          /images/home/slider/fire_circle-900w.jpg 900px"
                 sizes = "(max-width: 400px) 400px, (min-width: 401px and max-width: 600px) 600px, (min-width: 601px and max-width: 900px) 900px, (min-width: 901px) 1200px,  "
                 src="/images/home/slider/fire_circle-1200.jpg" alt="Iboga Bwiti obrady Ceska Republika Cechy" class="d-block w-100">
             <div class="container">
@@ -26,9 +26,9 @@
         <div class="carousel-item">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
             <img
-                srcset = "/images/home/slider/slide-pobyt-2-400w.jpeg 400w,
-                        /images/home/slider/slide-pobyt-2-600w.jpeg 600w,
-                        /images/home/slider/slide-pobyt-2-900w.jpeg 900w"
+                srcset = "/images/home/slider/slide-pobyt-2-400w.jpeg 400px,
+                        /images/home/slider/slide-pobyt-2-600w.jpeg 600px,
+                        /images/home/slider/slide-pobyt-2-900w.jpeg 900px"
                 sizes = "(max-width: 400px) 400px, (min-width: 401px and max-width: 600px) 600px, (min-width: 601px and max-width: 900px) 900px, (min-width: 901px) 1200px"
                 src="/images/home/slider/slide-pobyt-2.jpeg" alt="Iboga retreats Czech Republic" class="d-block w-100">
 
@@ -44,8 +44,13 @@
         <div class="carousel-item">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
             <img
-                srcset = "/images/home/slider/sebepoznani-400w.jpg 400w, /images/home/slider/sebepoznani-600w.jpg 600w, /images/home/slider/sebepoznani-900w.jpg 900w"
-                sizes = "(max-width: 400px) 400px, (min-width: 401px and max-width: 600px) 600px, (min-width: 601px and max-width: 900px) 900px, (min-width: 901px) 1200px"
+                srcset = "/images/home/slider/sebepoznani-400w.jpg 400px,
+                /images/home/slider/sebepoznani-600w.jpg 600px,
+                /images/home/slider/sebepoznani-900w.jpg 900px"
+                sizes = "(max-width: 400px) 400px,
+                (min-width: 401px and max-width: 600px) 600px,
+                (min-width: 601px and max-width: 900px) 900px,
+                (min-width: 901px) 1200px"
                 src="/images/home/slider/sebepoznani.jpg" alt="New York" class="d-block w-100">
 
             <div class="container">

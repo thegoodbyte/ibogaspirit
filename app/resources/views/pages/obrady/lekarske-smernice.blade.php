@@ -212,7 +212,16 @@
         </div>
 
         <div class = "row">
-            <img src = "/images/medical-guidelines/medical-psychological-narrow.jpeg" />
+            <img
+                srcset = "medical-psychological-400w.jpeg 400w,
+                /images/medical-guidelines/medical-psychological-600w.jpeg 600w,
+                /images/medical-guidelines/medical-psychological-900w.jpeg 900w,
+                /images/medical-guidelines/medical-psychological-narrow.jpeg 1200w"
+                sizes  = "(max-width: 400px) 400w,
+                (min-width: 401 px and max-width: 600px) 600w,
+                (min-width: 601px and max-width: 400px) 900w,
+                (min-width: 901px) 1200w"
+                src = "/images/medical-guidelines/medical-psychological-narrow.jpeg" />
         </div>
 
         <div class = "row background-text-light-grey" >
@@ -261,7 +270,7 @@
         Who Should Not Take Iboga
         Iboga use can be dangerous if you have the following conditions:
             -->
-            Kdo by neměl brát Ibogu
+            <h5>Kdo by neměl brát Ibogu<h5>
             Užívání Ibogy může být nebezpečné, pokud máte následující podmínky:
         </p>
             <!--
