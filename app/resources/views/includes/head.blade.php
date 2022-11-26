@@ -85,28 +85,24 @@
 <link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='/css/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min%EF%B9%96ver=5.15.3.css' type='text/css' media='all' />
 
 
-<link rel="https://api.w.org/" href="/css/wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/1799/index.html" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php%EF%B9%96rsd.html" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/css/wp-includes/wlwmanifest.xml.html" />
-<meta name="generator" content="WordPress 6.0.3" />
+<link rel="https://api.w.org/" href="/css/wp-json/index.html" />
 
 
-<link rel='shortlink' href='index.html' />
+
 <link rel="alternate" type="application/json+oembed" href="/css/wp-json/oembed/1.0/embed/index%EF%B9%96url=http%EF%B9%95%EA%A4%B7%EA%A4%B7www.ibogaspirit.cz%EA%A4%B7.html" />
 <link rel="alternate" type="text/xml+oembed" href="/css/wp-json/oembed/1.0/embed/index%EF%B9%96url=http%EF%B9%95%EA%A4%B7%EA%A4%B7www.ibogaspirit.cz%EA%A4%B7&amp;format=xml.html" />
 
 <link rel="apple-touch-icon" href="/css/wp-content/uploads/2022/02/favicon.svg" />
 
 
-<link rel='stylesheet' id='jet-slider-pro-css-css'  href='/css/wp-content/plugins/jet-elements/assets/css/lib/slider-pro/slider-pro.min%EF%B9%96ver=1.3.0.css' type='text/css' media='all' />
-<link rel='stylesheet' id='e-animations-css'  href='/css/wp-content/plugins/elementor/assets/lib/animations/animations.min%EF%B9%96ver=3.7.8.css' type='text/css' media='all' />
-{{--<link rel='stylesheet' id='menu'  href='/css/menu.css' type='text/css' media='all' />--}}
-
-<!--
-<link rel="stylesheet" id="jet-menu-public-styles-css" href="http://www.ibogaspirit.cz/wp-content/plugins/jet-menu/assets/public/css/public.css?ver=2.2.4" type="text/css" media="all">
--->
-<link rel="stylesheet" id="jet-menu-public-styles-css2" href="/css/menu2.css" type="text/css" media="all">
 
 
+
+
+
+
+
+<link rel="stylesheet"  href="/css/menu2.css" type="text/css" media="all">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
 
