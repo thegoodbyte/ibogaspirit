@@ -2,9 +2,9 @@
 @section('content')
 
 
-    <div class = "row">
-        <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
-    </div>
+
+    <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
+
 
 
     <div class = "row">

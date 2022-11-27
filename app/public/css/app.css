@@ -8,10 +8,22 @@
     --beige: rgba(188, 183, 170, 1);
     --okr2: rgba(225, 145, 77, 1);
     --iscz-brown: #813007;
+    --iscz-orange: #DF7015;
+}
+a:hover {
+    color: var(--dark-red) !important;
 }
 
-h1 {
+.h1-heading {
     font-size: 80px;
+}
+
+.h2-heading {
+    font-size: 60px;
+}
+
+.h3-heading {
+    font-size: 40px;
 }
 
 @font-face {
@@ -45,6 +57,10 @@ h1 {
 
 .color-iscz-green {
     color: var(--dark-green);
+}
+
+.color-iscz-orange {
+    color: var(--iscz-orange);
 }
 
 .iboga-helps-block {
@@ -563,6 +579,7 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
 .site-content {
     max-width: 1200px;
     margin: auto;
+    margin-bottom: 40px;
 }
 
 .show-more-button.jet-button__plane-normal {

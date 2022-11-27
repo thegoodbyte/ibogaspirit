@@ -1,9 +1,9 @@
 @extends('layouts.default')
 @section('content')
 
-    <div class = "row">
-        <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
-    </div>
+
+    <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
+
 
     <div class = "row text-center">
         <h1 class = "font-just-me color-iscz-red">Osmi-denní IBOGA léčebný Pobyt</h1>

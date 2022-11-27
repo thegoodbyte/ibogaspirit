@@ -3,7 +3,7 @@
 <div class = "row page-header-bg" id = "iboga-vs-aya-page-header"></div>
 
     <div class = "row">
-    <h1>Iboga vs Ayahuasca</h1>
+    <h1 class = "font-just-me color-iscz-red h1-heading">Iboga vs Ayahuasca</h1>
     </div>
 
     <div class = "row">
@@ -24,8 +24,9 @@
 
     <div class = "row">
         <div class = "col-xl-6">
+            <h2 class  = "font-just-me color-iscz-red">Co je Ayahuasca?</h2>
             <p>
-                Co je Ayahuasca?
+
                 Rostliny používané při výrobě ayahuascy
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
             </p>
@@ -63,7 +64,7 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-            <h2>Původ Ayahuascy</h2>
+            <h3 class  = "font-just-me color-iscz-red h3-heading">Původ Ayahuascy</h3>
                 <p>
                 Ayahuasca pochází z Jižní Ameriky z povodí Amazonky, protože jsou prvním kmenem, který tento nápoj připravil. Historie tohoto starověkého piva má různé úhly pohledu. Někteří autoři věří, že existuje asi 5 000 let, zatímco někteří tvrdí, že je asi 1 000 let staré. Bez ohledu na debatu panuje všeobecná shoda, že ayahuasca je prastará droga a pochází z horní amazonské pánve.
                 Popularita Ayahuascy
@@ -79,7 +80,7 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-            <h1 class = "font-just-me font-size-80">Co je Iboga?</h1>
+            <h2 class = "h2-heading font-just-me color-iscz-red">Co je Iboga?</h2>
             <div class = "row">
                 <img src = "/images/iboga/iboga-banner-1200.jpg" />
             </div>
@@ -109,7 +110,7 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-        <h2 class = "font-just-me font-size-80 text-center mb-5">Srovnání Ibogy s Ayahuaskou</h2>
+        <h2 class = "font-just-me color-iscz-red h2-heading text-center mb-5">Srovnání Ibogy s Ayahuaskou</h2>
             <p>
                 Iboga i Ayahuasca jsou hlavní učitelské rostliny, které zapalují trvalé, hluboké duchovní transformace.
                 Vstupují do těla s jediným cílem uzdravit a probudit, což vede k holistickému uzdravení těla a mysli. Mimo to jsou však VELMI odlišné.</p>
@@ -120,7 +121,7 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-            <h2 class = "font-just-me font-size-60 text-center">Dietní požadavky</h2>
+            <h3 class = "font-just-me color-iscz-red text-center">Dietní požadavky</h3>
         </div>
     </div>
 
@@ -129,12 +130,20 @@
             <p>
                 Iboga: Iboga je ve svých dietních požadavcích tolerantnější než ayahuasca. Před obřadem ibogy nemusíte držet konkrétní dietu.
                 Jen se musíte ujistit, že v obřadní dny nejíte po 15:00. Některým dietám a lékům se musíte vyhnout,
-                chcete-li drogu maximálně využít a předejít nepříjemnému zážitku. Potraviny, kterým se při obřadu ibogy vyhnout, jsou ty, které jsou spojeny s inhibitorem enzymového systému cytochromu P450 2D6 (CYP2D6), který může blokovat některé jaterní enzymy. Patří mezi ně grapefruit a pomelo. Tyto druhy potravin zastavují rozklad ibogy a zvyšují koncentraci v krvi na nebezpečnou úroveň. Měli byste se také vyhnout tonické vodě a hořkým citronovým nápojům kvůli obsahu chininu, který přispívá k hořké chuti a také inhibuje CYP2D6. Mezi léky, kterým je třeba se vyhnout, patří antidepresiva, zejména SSRI, antiarytmika, kanabidiol (CBD), antacida, antipsychotika, antibiotika, antimykotika, anti-HIV, chinin, opioidy a metadon, betablokátory a diuretika. Také se musíte alespoň 3 až 7 dní před obřadem ibogy vyhnout alkoholu.
+                chcete-li drogu maximálně využít a předejít nepříjemnému zážitku. Potraviny, kterým se při obřadu
+                ibogy vyhnout, jsou ty, které jsou spojeny s inhibitorem enzymového systému cytochromu P450 2D6 (CYP2D6),
+                který může blokovat některé jaterní enzymy. Patří mezi ně grapefruit a pomelo. Tyto druhy potravin
+                zastavují rozklad ibogy a zvyšují koncentraci v krvi na nebezpečnou úroveň. Měli byste se také vyhnout
+                tonické vodě a hořkým citronovým nápojům kvůli obsahu chininu, který přispívá k hořké chuti a také inhibuje CYP2D6.
+                Mezi léky, kterým je třeba se vyhnout, patří antidepresiva, zejména SSRI, antiarytmika, kanabidiol
+                (CBD), antacida, antipsychotika, antibiotika, antimykotika, anti-HIV, chinin, opioidy a metadon, betablokátory a
+                diuretika. Také se musíte alespoň 3 až 7 dní před obřadem ibogy vyhnout alkoholu.
             </p>
 
-            <p>Ayahuasca: Ayahuasca má dlouhý seznam potravin, léků a dalších činností, kterým se musíte vyhnout. Ve skutečnosti mnoho zkušených šamanů věří, že nejlepší je začít odstraňovat tyto potraviny a léky ze svého jídelníčku již 2-4 týdny před obřadem ayahuascy.</p>
-            <h2></h2>
-            <p></p>
+            <p>Ayahuasca: Ayahuasca má dlouhý seznam potravin, léků a dalších činností, kterým se musíte vyhnout. Ve skutečnosti
+                mnoho zkušených šamanů věří, že nejlepší je začít odstraňovat tyto potraviny a léky ze svého jídelníčku již 2-4 týdny
+                před obřadem ayahuascy.</p>
+
 
         </div>
 
@@ -144,12 +153,12 @@
     </div>
 
     <div class = "row">
-        <h2 class = "font-just-me font-size-60 text-center">Jídlo, Léky a Drogy</h2>
+        <h2 class = "font-just-me h2-heading color-iscz-orange text-center">Jídlo, Léky a Drogy</h2>
     </div>
     <div class = "row">
         <div class = "col-xl-6">
 
-            <h2>Jídlo, kterému je třeba se vyhnout</h2>
+            <h2  class  = "font-just-me color-iscz-red h2-heading">Jídlo, kterému je třeba se vyhnout</h2>
             <p>
                 Červené maso<br />
                 Vepřové maso<br />
@@ -170,13 +179,10 @@
                 Kofein<br />
                 Oleje<br />
             </p>
-            <h2></h2>
-            <p></p>
-
         </div>
 
         <div class = "col-xl-6">
-            <h2>Léky, kterým je třeba se vyhnout, patří:</h2>
+            <h3 class = "font-just-me color-iscz-red h3-heading">Léky, kterým je třeba se vyhnout, patří:</h3>
             <p>
                 – Antidepresiva jako SSRI<br />
                 – inhibitory MAO<br />
@@ -186,7 +192,7 @@
             </p>
 
 
-            <h2>Musíte se také vyhnout pouličním drogám, jako jsou:</h2>
+            <h3 class = "font-just-me color-iscz-red h3-heading">Musíte se také vyhnout pouličním drogám, jako jsou:</h3>
             <p>– Kokain<br />
                 – Amfetaminy<br />
                 – Opiáty<br />
@@ -201,14 +207,14 @@
 
 <div class = "row">
     <div class = "col-xl-12">
-        <h2 class = "font-just-me font-size-60 text-center">Délka trvání.</h2>
-        <h2>
+        <h2 class = "font-just-me color-iscz-red text-center h2-heading">Délka trvání.</h2>
+        <h2  class  = "font-just-me color-iscz-red h2-heading">
              Iboga vs Ayahuasca
         </h2>
 
         <p>Iboga: Obřady Iboga trvají 8-12 hodin a její účinky trvají 12-36 hodin. Způsobuje ataxii, která ztěžuje pohyb a můžete se také očistit. I když to není nutné, může to být nezbytnou součástí holistického léčebného procesu, který vede k vyčištění toho, co jste drželi ve svém těle. Na Iboze se s největší pravděpodobností nevyspíte až následující večer, a proto je den po obřadu ibogy většinou stráven jako „den zpracování“. Den zpracování je den po obřadu, kdy dochází k hluboké introspekci a vhledům. Tento zážitek ze zpracování může být často poučnější než samotný obřad.
             Ayahuasca: Průměrná doba trvání ayahuascového sezení je 4-6 hodin. Nastartování trvá 20-60 minut a jeho nejsilnější účinky mohou trvat 3-6 hodin. Často dochází k katarzní očistě energie, jako je průjem, zvracení, zívání a pláč. Nastává poměrně rychlá doba zotavení, protože po skončení obřadu můžete spát a s největší pravděpodobností se zotavíte do snídaně. Následující den je obvykle naplněn pocitem láskyplného, hřejivého dosvitu.</p>
-        <h2>Počet požadovaných obřadů: Iboga vs Ayahuasca</h2>
+        <h3 class = "font-just-me color-iscz-red">Počet požadovaných obřadů: Iboga vs Ayahuasca</h3>
         <p>Ayahuasca: Ayahuasca obvykle vyžaduje častější obřady, v rozmezí desítek až stovekkrát, aby bylo možné zažít trvalé uzdravení. I když je jeho učení hluboké, může někdy rychle vyblednout, a proto vyžaduje důslednou údržbu. Jeho účinky obvykle trvají 1-2 měsíce.
             Iboga: Iboga vyžaduje méně obřadů, aby bylo možné zažít dlouhotrvající léčení. Obvykle 1-3krát. Má totiž skvělé a trvalé účinky, které jsou udržitelné po dobu 2 měsíců až 1 roku. Účinky Ibogy závisí na vašem výběru poskytovatele a vašem chování po ústupu. Renomovaná centra pro retreat iboga mají personál a vybavení potřebné k zajištění toho, aby účastníci dostali vše, co potřebují, aby mohli integrovat to, co se naučili, jak postupují v životě kupředu.</p>
 
@@ -216,15 +222,15 @@
 </div>
 
 <div class = "row">
-    <h2 class = "font-just-me font-size-60 text-center">Účinky na lidské tělo</h2>
+    <h2 class = "font-just-me color-iscz-green text-center h2-heading">Účinky na lidské tělo</h2>
 </div>
 
 
 <div class = "row">
     <div class = "col-xl-6">
-        <h2>
+        <h3 class  = "font-just-me color-iscz-red">
             Účinky Ayahuascy na lidské tělo
-        </h2>
+        </h3>
 
         <p>Účinky na mozek a tělo Nedávný přehled literatury odhaluje, že Ayahuasca aktivuje sigma-1 receptory (Sig1R) (1). Spouštění těchto receptorů je spojeno se snížením zánětu a oxidačního stresu v mozku.
 
@@ -243,9 +249,9 @@
     </div>
 
     <div class = "col-xl-6">
-        <h2>
+        <h3 class  = "font-just-me color-iscz-red">
             Účinky Ibogy na mozek a tělo
-        </h2>
+        </h3>
 
         <p>Ibogain ovlivňuje více neurotransmiterů v mozku. Například zvyšuje hladiny dopaminu a serotoninu blokováním jejich transportérů (11, 12).
             Tyto účinky přispívají ke zmírnění chování při hledání drog a příznaků deprese. Kromě toho ibogain také inhibuje N-acetylcholinové receptory v mozku (13).
@@ -260,12 +266,12 @@
     </div>
 
     <div class = "row">
-        <h2 class = "font-just-me font-size-60 text-center">Potenciální lékařské využití a léčebné účinky</h2>
+        <h2 class = "font-just-me color-iscz-green text-center h2-heading">Potenciální lékařské využití a léčebné účinky</h2>
     </div>
 
     <div class = "row">
         <div class = "col-xl-6">
-            <h3>Ayahuasca</h3>
+            <h3  class  = "font-just-me color-iscz-red">Ayahuasca</h3>
             <p>Ayahuasca se zdá být docela účinná při zmírňování příznaků deprese. Kromě účinků na kortizol mají alkaloidy v čaji
                 silné serotoninergní účinky, u kterých bylo zjištěno, že snižují příznaky deprese o 82 % ve studiích na lidech. (7).
                 Randomizovaná studie s 29 pacienty s depresí uvedla, že i jedna dávka Ayahuascy stačila ke zmírnění příznaků onemocnění. (8).
@@ -275,7 +281,7 @@
         </div>
 
         <div class = "col-xl-6">
-            <h3>Iboga</h3>
+            <h3 class  = "font-just-me color-iscz-red">Iboga</h3>
             <p>Ibogain se úspěšně používá při zmírňování závislostí a chování při vyhledávání drog na opioidy (heroin, morfin, oxykodon), kokain, amfetaminy, alkohol a nikotin.
                 Jedna z největších studií s pacienty se závislostí zkoumá účinek terapie ibogainem na 88 účastnících. Alkaloid pomohl 30 % účastníků zcela odstranit závislost a 54 % abstinovalo déle než rok (20).
                 Pacienti se závislostí jsou běžně postiženi problémy duševního zdraví, jako je deprese, úzkost a PTSD. Studie uvádějí, že příznaky deprese jsou také významně sníženy nebo odstraněny po léčbě ibogainem (21, 22).
@@ -284,9 +290,9 @@
     </div>
 
     <div class = "col-xl-12">
-        <h2>
+        <h3>
             Odkazy
-        </h2>
+        </h3>
 
         <ul>
             <li>https://pubmed.ncbi.nlm.nih.gov/27918874/</li>

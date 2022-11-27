@@ -2,13 +2,9 @@
 @section('content')
 
 
+    <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
 
-    <div class = "row">
-        <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
-    </div>
-
-
-        <h1 class = "page-heading">Kontakt</h1>
+    <h1 class = "font-just-me color-iscz-red h1-heading text-center">Kontakt - napište mi!</h1>
 
 
     <div class = "row">
@@ -17,7 +13,7 @@
                     <form class="form-horizontal row background-text-light-grey" method="POST" action="{{ route('contactus') }}">
                         {{ csrf_field() }}
                         <div class="form-group{{ $errors->has('fullname') ? ' has-error' : '' }}">
-                            <label for="fullname" class="col-md-4 control-label">Full Name</label>
+                            <label for="fullname" class="col-md-4 control-label">Plné jméno</label>
                             <div class="col-md-6">
                                 <input id="fullname" type="text" class="form-control" name="fullname" value="{{ old('fullname') }}" autofocus>
                                 @if ($errors->has('fullname'))
@@ -28,7 +24,7 @@
                             </div>
                         </div>
                         <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}">
-                            <label for="email" class="col-md-4 control-label">E-Mail Address</label>
+                            <label for="email" class="col-md-4 control-label">E-Mail</label>
                             <div class="col-md-6">
                                 <input id="email" type="email" class="form-control" name="email" value="{{ old('email') }}">
                                 @if ($errors->has('email'))
@@ -40,7 +36,7 @@
                         </div>
 
                         <div class="form-group{{ $errors->has('description') ? ' has-error' : '' }}">
-                            <label for="description" class="col-md-4 control-label">description</label>
+                            <label for="description" class="col-md-4 control-label">Zprava/label>
                             <div class="col-md-6">
                                 <textarea id="description" class="form-control" name="description"></textarea>
                                 @if ($errors->has('description'))
