@@ -18,7 +18,7 @@
     </div>
 
     <div class = "row">
-        <div class = "col-xl-8">
+        <div class = "col-xl-7 col-xs-12">
             <p>
                 Pomáhám vám najít jasno v tom, kdo jste a co chcete.
                 Je to jedna z největších duchovních výhod kterou léčba Ibogou  nabízí.
@@ -53,8 +53,17 @@
 
             </p>
         </div>
-        <div class = "col-xl-4">
-            <img src = "/images/iboga/iboga-graphics.jpeg" />
+        <div class = "col-xl-5">
+            <img
+                srcset = "/images/iboga/iboga-graphics-400w.jpeg 400w,
+                          /images/iboga/iboga-graphics-400w.jpeg 600w,
+                          /images/iboga/iboga-graphics-400w.jpeg 900w,
+                          /images/iboga/iboga-graphics-400w.jpeg 1200w,"
+                sizes = "(max-width: 400px) 400w,
+                         (min-width: 401px and max-width: 600px) 600w,
+                         (min-width: 601px and max-width: 900px) 900w,
+                         (min-width: 901px) 1200w"
+                src = "/images/iboga/iboga-graphics-400w.jpeg" />
         </div>
     </div>
 
