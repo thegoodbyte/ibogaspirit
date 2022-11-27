@@ -1190,12 +1190,16 @@ footer a:hover {
     color: #fff;
 }
 
+.menu-iboga-container {
+    width: 73%;
+    margin-top: 20px;
+}
+
 .menu-iboga-container a {
     text-transform: uppercase;
     font-family: "Lato", Sans-serif;
     font-size: 20px;
     font-weight: 700;
-    text-transform: uppercase;
     line-height: 2em;
     letter-spacing: 0px;
     text-decoration:  none;
@@ -1204,10 +1208,12 @@ footer a:hover {
     display: block;
 }
 
-.menu-iboga-container .menu-item:hover {
-    background-color: red;
-    color: red;
+.menu-iboga-container a:hover {
+    background-color: #A07A5A;
+    color: #fff;
 }
+
+
 
 
 /**************************************************************/

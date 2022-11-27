@@ -1,5 +1,7 @@
-<div class ="row">
-    <div class ="col-xl-12">
+@extends('layouts.default')
+@section('content')
+    <div class ="row">
+        <div class ="col-xl-12">
             <h1>
                 Co je Iboga?
             </h1>
@@ -68,5 +70,6 @@
                     pracovat s vámi ve smyslu vhledů měsíce po vašem ústupu, když se znovu začleníte do svého každodenního života.
                     IBOGA může podporovat: Sebeaktualizaci, posílení vlastního růstu, zlepšení vztahů a snížení emočního utrpení.
                 </p>
+        </div>
     </div>
-</div>
+@stop
