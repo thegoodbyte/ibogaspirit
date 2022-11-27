@@ -18,21 +18,6 @@
 
 @include('includes.removed-old-wp-css-and-js')
 
-
-
-
-
-
-
-<link rel='stylesheet' id='kava-extra-nucleo-outline-css'  href='/css/wp-content/plugins/kava-extra/assets/fonts/nucleo-outline-icon-font/nucleo-outline%EF%B9%96ver=1.0.0.css' type='text/css' media='all' />
-<link rel='stylesheet' id='boldgrid-components-css'  href='/css/wp-content/plugins/post-and-page-builder/assets/css/components.min%EF%B9%96ver=2.16.5.css' type='text/css' media='all' />
-
-
-
-<link rel='stylesheet' id='boldgrid-custom-styles-css'  href='/css/wp-content/plugins/post-and-page-builder/assets/css/custom-styles%EF%B9%96ver=6.0.3.css' type='text/css' media='all' />
-<link rel='stylesheet' id='bgpbpp-public-css'  href='/css/wp-content/plugins/post-and-page-builder-premium/dist/application.min%EF%B9%96ver=1.0.6.css' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css'  href='/css//fonts.googleapis.com/css/index%EF%B9%96family=Roboto%EF%B9%95100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%EF%BD%9CRoboto+Slab%EF%B9%95100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,60_bae29008d1a463a6.css' type='text/css' media='all' />
-
 <link rel="apple-touch-icon" href="/css/wp-content/uploads/2022/02/favicon.svg" />
 
 
