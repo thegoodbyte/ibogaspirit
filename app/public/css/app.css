@@ -894,8 +894,12 @@ footer a:hover {
 }
 
 @media screen and (max-width: 400px) {
-    h1 {
+    .h1-heading, h1 {
         font-size: 40px;
+    }
+
+    .h2-heading, h2 {
+        font-size: 30px;
     }
 
     h3, h4 {
@@ -904,6 +908,12 @@ footer a:hover {
 
     p {
         padding: 10px;
+    }
+
+    /********************* HOME ******************/
+
+    .menu-iboga-container {
+        width: 100%;
     }
 
     .home-index-under-carousel {
