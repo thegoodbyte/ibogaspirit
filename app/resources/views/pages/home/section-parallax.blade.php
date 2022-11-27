@@ -1,11 +1,11 @@
 <section id = "home-parallax" class="row">
 
         <div class="row">
-            <div class = "col-xl-6">
+            <div class = "col-xl-6 col-xs-12">
 
             </div>
 
-            <div class = "col-xl-6">
+            <div class = "col-xl-6 col-xs-12">
                 <h2 class="">TRADIČNÍ BWITI LÉČENÍ A DUCHOVNÍ UČENÍ</h2>
                 <p>
                 Podle tradice,  když se Iboga poprvé objevila,  rozhodl se být s Bwiti lidmi. Iboga respektoval jejich

@@ -14,9 +14,9 @@
 
 
 
-<link rel='dns-prefetch' href='http://fonts.googleapis.com' />
+{{--<link rel='dns-prefetch' href='http://fonts.googleapis.com' />--}}
 
-@include('includes.removed-old-wp-css-and-js')
+{{--@include('includes.removed-old-wp-css-and-js')--}}
 
 <link rel="apple-touch-icon" href="/css/wp-content/uploads/2022/02/favicon.svg" />
 
