@@ -11,8 +11,8 @@
             </div>
         </section>
 
-        <section>
-            <div class = "header-bottom-row">2</div>
-        </section>
+{{--        <section>--}}
+{{--            <div class = "header-bottom-row">2</div>--}}
+{{--        </section>--}}
     </div>
 </header>
