@@ -276,6 +276,9 @@ blockquote cite {
     display: block;
     min-height: 600px;
     background-image: url("/images/iboga/bwiti/bwiti-scotty-1200.jpg");
+    background-repeat: no-repeat;
+    width: 1200px;
+    margin-left: 0px;
 }
 
 #iboga-bwiti-tradice-top-iamge h2{
