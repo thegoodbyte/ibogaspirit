@@ -94,7 +94,7 @@ header {
 }
 
 .nav__menu li a:hover {
-    color: red;
+    color: #fff !important;
     /*background-color: #AF1201;*/
     background-color: #AF1201;
 }
@@ -332,7 +332,7 @@ header {
         flex-direction: column;
         position: absolute;
         top: 100%;
-        left: 30px;
+        left: 0px;
         opacity: 0;
         visibility: hidden;
         overflow: visible;
@@ -344,7 +344,7 @@ header {
 
     .nav__menu .dropdown:hover > ul, .nav__menu .dropdown2:hover > ul, .nav__menu .dropdown3:hover > ul {
         top: 100%;
-        left: 0;
+        left: -16px;
         opacity: 1;
         visibility: visible;
         overflow: visible;

@@ -36,8 +36,8 @@
                     <ul>
                         <li><a href="/onas">O Nas</a></li>
                         <li><hr /></li>
-                        <li><a href="/onas/nganga">Nganga</a></li>
-                        <li><a href="/onas/moughenda">Saman Moughenda</a></li>
+                        <li><a href="/onas/nganga">Nganga - Léčitel</a></li>
+                        <li><a href="/onas/moughenda">Šaman Moughenda</a></li>
 
                     </ul>
                 </div>
