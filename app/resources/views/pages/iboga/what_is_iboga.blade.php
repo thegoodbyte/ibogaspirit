@@ -19,7 +19,7 @@
         <div class = "col-xl-6">
             <img src = "/images/iboga/iboga_shrub_martin.jpg" width = "500" />
         </div>
-        
+
         <div class = "col-xl-6">
             <strong>Iboga</strong>
             <p class="text-justify">Malý keř, který divoce roste po celém Gabonu a Kamerunu, Tabernanthe Iboga obvykle dorůstá do

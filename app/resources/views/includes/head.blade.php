@@ -1,7 +1,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<title>TRADIČNÍ  IBOGA  OBŘADY   V AFRICKÉ  TRADICI MISSOKO BWITI - Česká republika</title>
+
+
+
+<title>{{ $pageTitle ?? 'test' }}</title>
 <link rel="stylesheet" href="/css/app.css">
 
 
@@ -9,7 +12,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="robots" content="max-image-preview:large" />
-<meta name="description" content="Tradiční Iboga obřady v africké tradici Missoko Bwiti - Česká republika." />
+<meta name="description" content="Tradiční Iboga obřady v Africké tradici Missoko Bwiti - Česká Republika." />
 <meta name="robots" content="index,follow" />
 
 

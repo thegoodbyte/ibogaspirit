@@ -1,4 +1,4 @@
-@extends('layouts.default')
+@extends('layouts.default', ['pageTitle' => 'Tak co treba skupine 15 lidi v Cechach tohle leto?'])
 @section('content')
 
     <div class = "row">
@@ -75,12 +75,16 @@
                 Po tolika úžasných zkušenostech jsem chtěl pomáhat léčit i ostatní, a tak jsem se rozhodl učit se od šamana, který vycvičil i mého vlastního léčitele.
                  Vrátil jsem se do Gabonu  a trénoval s šamanem , Moughendou Mikalou, šamanem 10-té generace v Missoko tradici Bwiti.
             </p>
+        </div>
+
+        <div class = "col-xl-7">
 
             <div class = "row">
                 <img src  = "/images/home/onas/moughenda-and-martin.jpg" alt = "S šamanem Moughendou před Bwiti kaplí v Gabou Afrika"/>
                 <p class = "font-just-me color-iscz-red">S šamanem Moughendou před Bwiti kapli v Moughena village v Gabonu v Africe</p>
             </div>
 
+            <div class = "col-xl-7">
             <p>
                 Jsem nadšený, že jsem objevil něco tak mocného a že mám příležitost být užitečný, sdílet to s druhými a podporovat ostatní v léčení.
                 Když se lidé uzdraví a najdou ve svých životech radost, má to dominový efekt na lidskou  společnost a také budoucí generace dětí.
@@ -103,6 +107,10 @@
 
             <p>Kdykoli mě prosím kontaktujte a napište mi, i jen s jakoukoliv otázkou.
             Bude mi potěšením se s vámi setkat a pomoci vám, jak jen budu moci!</p>
+        </div>
+
+        <div class = "col-xl-5">
+            <img src = "/images/home/onas/bwiti_martin_scotty-500w.jpg" />
         </div>
     </div>
 
