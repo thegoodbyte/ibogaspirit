@@ -156,7 +156,7 @@
     </div>
 
     <div class = "row"v>
-        
+
         <div class = "col-xl-12">
 
             <h3>Shrnuti</h3>

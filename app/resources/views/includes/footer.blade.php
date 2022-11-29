@@ -12,7 +12,7 @@
                         <li><hr /></li>
                         <li><a href="/iboga/jak-vam-iboga-muze-pomoci">Jak vám Iboga může pomoci</a></li>
                         <li><a href="/iboga/bwiti-tradice">Bwiti Tradice</a></li>
-                        <li><a href="/iboga/Co je Iboga?e">Co je Iboga</a></li>
+                        <li><a href="/iboga/co-je-iboga?e">Co je Iboga</a></li>
                         <li><a href="/iboga/iboga-vs-ayahuasca">Iboga vs Ayahuasca</a></li>
                         <li><a href="/iboga/gabon">Gabon - Afrika</a></li>
                     </ul>
