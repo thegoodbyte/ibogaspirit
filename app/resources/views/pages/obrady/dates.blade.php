@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('content')
 
-<h1 class = "font-just-me color-iscz-red page-heading">Termíny a Ceny</h1>
+<h1 class = "font-just-me color-iscz-red text-center h1-heading">Termíny a Ceny</h1>
 
     <div class = "row">
         <div class = "col-xl-12">

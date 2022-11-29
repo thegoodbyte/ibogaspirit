@@ -42,4 +42,10 @@ class IbogaController extends Controller
         return View::make('pages.iboga.gabon');
 
     }
+
+    public function what_is_iboga() {
+
+        return View::make('pages.iboga.what_is_iboga');
+
+    }
 }

@@ -8,10 +8,26 @@
     --beige: rgba(188, 183, 170, 1);
     --okr2: rgba(225, 145, 77, 1);
     --iscz-brown: #813007;
+    --iscz-orange: #DF7015;
 }
 
-h1 {
+img {
+    object-fit: contain;
+}
+a:hover {
+    color: var(--dark-red) !important;
+}
+
+.h1-heading {
     font-size: 80px;
+}
+
+.h2-heading {
+    font-size: 60px;
+}
+
+.h3-heading {
+    font-size: 40px;
 }
 
 @font-face {
@@ -45,6 +61,10 @@ h1 {
 
 .color-iscz-green {
     color: var(--dark-green);
+}
+
+.color-iscz-orange {
+    color: var(--iscz-orange);
 }
 
 .iboga-helps-block {
@@ -127,6 +147,7 @@ blockquote .small-bq {
     width: 100%;
     min-height: 400px;
     background-image: url('/images/headers/misc-nature-trip-woman.jpeg');
+    margin-left: 0px;
 }
 
 #img-box-iboga-helps-middle {
@@ -159,7 +180,7 @@ blockquote .small-bq {
 
 blockquote {
     border-left: 3px solid red;
-    color: #1a1a1a;
+    color: red;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 28px;
     font-style: italic;
@@ -170,36 +191,34 @@ blockquote {
     transition: 0.2s border ease-in-out;
     z-index: 0;
     margin-top: 3em;
-
-
 }
 
 blockquote:before {
-    content: "";
+    content: "\201C";
     position: absolute;
     top: 50%;
     left: -4px;
     height: 2em;
-    background-color: #fff;
     width: 5px;
     margin-top: -1em;
     background: none;
 }
-blockquote:after {
-    content: "";
-    position: absolute;
-    top: 50%;
-    left: -0.5em;
-    color: #00CC8F;
-    font-family: "Ionicons";
-    font-style: normal;
-    line-height: 1em;
-    text-align: center;
-    text-indent: -2px;
-    width: 1em;
-    margin-top: -0.5em;
-    transition: 0.2s all ease-in-out, 0.4s transform ease-in-out;
-}
+/*blockquote:after {*/
+/*    content: "";*/
+/*    position: absolute;*/
+/*    top: 50%;*/
+/*    left: -0.5em;*/
+/*    color: #00CC8F;*/
+/*    font-family: "Ionicons";*/
+/*    font-style: normal;*/
+/*    line-height: 1em;*/
+/*    text-align: center;*/
+/*    text-indent: -2px;*/
+/*    width: 1em;*/
+/*    margin-top: -0.5em;*/
+/*    transition: 0.2s all ease-in-out, 0.4s transform ease-in-out;*/
+/*}*/
+
 blockquote.format:before, blockquote.format:after {
     display: none;
 }
@@ -275,6 +294,9 @@ blockquote cite {
     display: block;
     min-height: 600px;
     background-image: url("/images/iboga/bwiti/bwiti-scotty-1200.jpg");
+    background-repeat: no-repeat;
+    width: 1200px;
+    margin-left: 0px;
 }
 
 #iboga-bwiti-tradice-top-iamge h2{
@@ -546,10 +568,22 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     background-color: #EBEBEB;
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     padding: 62px 0px 70px 0px;
+    overflow: hidden;
 }
 
 #home-kdo-jsme .box-kdo-jsme {
     min-height: 360px;
+    position: relative;
+    float: left;
+}
+
+#home-kdo-jsme .box-kdo-jsme .button-show-more{
+    display: block;
+    align-items: center;
+    /*position: absolute;*/
+    /*bottom: -20px;*/
+    /*overflow: hidden;*/
+    text-align: center;
 }
 
 .row-kdo-jsme {
@@ -559,6 +593,7 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
 .site-content {
     max-width: 1200px;
     margin: auto;
+    margin-bottom: 40px;
 }
 
 .show-more-button.jet-button__plane-normal {
@@ -576,7 +611,6 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     background-image: url('/images/iboga/bwiti/bwiti-all-1200w.jpg');
     background-position:center;
     background-repeat: no-repeat;
-    background-size: cover;
     background-attachment: fixed;
     height: 600px;
 
@@ -861,9 +895,25 @@ XS
     font-size: 80px;
 }
 
+footer {
+    background-color: black;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
 @media screen and (max-width: 400px) {
-    h1 {
+    .h1-heading, h1 {
         font-size: 40px;
+    }
+
+    .h2-heading, h2 {
+        font-size: 30px;
     }
 
     h3, h4 {
@@ -872,6 +922,12 @@ XS
 
     p {
         padding: 10px;
+    }
+
+    /********************* HOME ******************/
+
+    .menu-iboga-container {
+        width: 100%;
     }
 
     .home-index-under-carousel {
@@ -1158,12 +1214,16 @@ XS
     color: #fff;
 }
 
+.menu-iboga-container {
+    width: 73%;
+    margin-top: 20px;
+}
+
 .menu-iboga-container a {
     text-transform: uppercase;
     font-family: "Lato", Sans-serif;
     font-size: 20px;
     font-weight: 700;
-    text-transform: uppercase;
     line-height: 2em;
     letter-spacing: 0px;
     text-decoration:  none;
@@ -1172,10 +1232,12 @@ XS
     display: block;
 }
 
-.menu-iboga-container .menu-item:hover {
-    background-color: red;
-    color: red;
+.menu-iboga-container a:hover {
+    background-color: #A07A5A;
+    color: #fff;
 }
+
+
 
 
 /**************************************************************/

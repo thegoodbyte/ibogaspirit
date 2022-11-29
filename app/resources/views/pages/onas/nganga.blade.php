@@ -1,4 +1,4 @@
-@extends('layouts.default')
+@extends('layouts.default', ['pageTitle' => 'Tak co treba skupine 15 lidi v Cechach tohle leto?'])
 @section('content')
 
     <div class = "row">
@@ -69,17 +69,17 @@
                 úžasné rostlině. <!--Psal se rok 2021.-->
                 K mému obdivu  jsem byl nečekaně zasvěcen do Bwiti tradice a hned poznal, že já a tato medicína máme vzácný vztah.
             </p>
+        </div>
+    </div>
+
+
+    <div class = "row">
+        <div class = "col-xl-5">
 
             <p>
-
                 Po tolika úžasných zkušenostech jsem chtěl pomáhat léčit i ostatní, a tak jsem se rozhodl učit se od šamana, který vycvičil i mého vlastního léčitele.
                  Vrátil jsem se do Gabonu  a trénoval s šamanem , Moughendou Mikalou, šamanem 10-té generace v Missoko tradici Bwiti.
             </p>
-
-            <div class = "row">
-                <img src  = "/images/home/onas/moughenda-and-martin.jpg" alt = "S šamanem Moughendou před Bwiti kaplí v Gabou Afrika"/>
-                <p class = "font-just-me color-iscz-red">S šamanem Moughendou před Bwiti kapli v Moughena village v Gabonu v Africe</p>
-            </div>
 
             <p>
                 Jsem nadšený, že jsem objevil něco tak mocného a že mám příležitost být užitečný, sdílet to s druhými a podporovat ostatní v léčení.
@@ -90,6 +90,17 @@
                 Jsem odhodlán usnadnit vaše uzdravení tím nejlepším možným způsobem který jsem se naučil přímo v Africe od Moughendy.
                 Jsem tu pro vás, i když jste možná jen zvědaví.
             </blockquote>
+        </div>
+
+        <div class = "col-xl-7">
+
+            <div class = "row">
+                <img src  = "/images/home/onas/moughenda-and-martin.jpg" alt = "S šamanem Moughendou před Bwiti kaplí v Gabou Afrika"/>
+                <p class = "font-just-me color-iscz-red">S šamanem Moughendou před Bwiti kapli v Moughena village v Gabonu v Africe</p>
+            </div>
+
+
+
 
             <p>
                 Momentálně nejvíce působím v Mexickém Kankůnu v centru "Bwiti Life" (<a href = "http://www.bwitilife.com">http://www.bwitilife.com</a>)
@@ -105,5 +116,12 @@
             Bude mi potěšením se s vámi setkat a pomoci vám, jak jen budu moci!</p>
         </div>
     </div>
+
+
+{{--    <div>--}}
+{{--        <div class = "col-xl-12">--}}
+{{--            <img src = "/images/home/onas/bwiti_martin_scotty-500w.jpg" />--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
 @stop

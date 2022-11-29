@@ -23,12 +23,17 @@
         smartlook('init', '420864ad1eb8f45c6355383e5ed0953e34fb4a28', { region: 'eu' });
     </script>
 
- @include('includes.head')
+    @php
+        /** PAge Title */
+        if (empty($pageTitle))
+        $pageTitle = 'TRADIČNÍ  IBOGA  OBŘADY   V AFRICKÉ  TRADICI MISSOKO BWITI - Česká republika';
+    @endphp
+ @include('includes.head', ['pageTitle' => $pageTitle])
 </head>
-<body class="home page-template page-template-elementor_header_footer page page-id-1799 boldgrid-ppb top-panel-invisible layout-fullwidth blog-default jet-desktop-menu-active elementor-default elementor-template-full-width elementor-kit-1687 elementor-page elementor-page-1799">
+<body class="">
 
 <div id="page" class="site">
-    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
     @include('includes.header')
 
 

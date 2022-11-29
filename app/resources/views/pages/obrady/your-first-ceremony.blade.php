@@ -3,12 +3,12 @@
 
 
 
-    <div class = "row">
-        <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
-    </div>
+
+    <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
+
 
     <div class = "row">
-        <h1 class = "font-just-me color-iscz-red">VÁŠ PRVNÍ IBOGA CEREMONIÁL </h1>
+        <h1 class = "font-just-me color-iscz-red text-center h1-heading">VÁŠ PRVNÍ IBOGA CEREMONIÁL </h1>
     </div>
 
     <div class = "row">

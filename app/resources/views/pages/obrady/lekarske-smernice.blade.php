@@ -229,7 +229,7 @@
                 <p>
                     Je také důležité vzít v úvahu psychologickou bezpečnost. Lidé s poruchami osobnosti nebo s
                     mentálními poruchami v anamnéze (jako je hraniční, schizofrenie atd.) jsou při užívání Ibogy
-                    ohroženi. Provádíme screeningový dotazník pro všechny potenciální hosty, který hodnotí přítomnost
+                    ohroženi. Provádíme vstupní (screeningový) dotazník pro všechny potenciální hosty, který hodnotí přítomnost
                     výše uvedených rizikových faktorů.
                 </p>
 
@@ -240,13 +240,13 @@
 
             <div class = "col-xl-6">
                 <p>
-                    Důležité poznámky (prosím čtěte):
+                    Důležité poznámky (prosím čtěte):<br />
 
                     Užívání jiných učitelských rostlin nebo drog (např. houby, marihuana, DMT, LSD) je silně nežádoucí; v
-                    případě jakýchkoliv dotazů nás prosím kontaktujte.
+                    případě jakýchkoliv dotazů mě prosím kontaktujte.
                     Poraďte se s námi předem v případě, že máte <strong>astma, tuberkulózu, jakékoli onemocnění srdce nebo jater</strong>,
                     těhotenství nebo v případě jakýchkoli jiných zdravotních problémů, které mohou potenciálně narušovat
-                    nebo být nebezpečné v kombinaci s Iboga
+                    nebo být nebezpečné v kombinaci s Ibogou
 
                 </p>
             </div>

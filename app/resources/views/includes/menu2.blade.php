@@ -23,6 +23,7 @@
                 <ul>
                     <li><a href="/iboga/jak-vam-iboga-muze-pomoci">Jak vám Iboga může pomoci</a></li>
                     <li><a href="/iboga/bwiti-tradice">Bwiti Tradice</a></li>
+                    <li><a href="/iboga/co-je-iboga">Co je Iboga?</a></li>
                     <li><a href="/iboga/iboga-vs-ayahuasca">Iboga vs Ayahuasca</a></li>
                     <li><a href="/iboga/gabon">Gabon - Afrika</a></li>
                 </ul>
@@ -31,8 +32,8 @@
             <li class="dropdown menu-item"><a href="#">OBŘADY</a>
                 <ul>
                     <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
-                    <li><a href="/obrady/priprava">Příprava</a></li>
-                    <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní retreatační pobyt</a></li>
+                    <li><a href="/obrady/priprava">Příprava a Průbežná péče</a></li>
+                    <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní lecebny pobyt</a></li>
                     <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
                     <li><a href="/obrady/terminy-a-ceny">Terminy a Ceny</a></li>
                 </ul>
@@ -43,8 +44,8 @@
             <li class = "dropdown3 menu-item">
                 <a href="#">O Nas</a>
                 <ul>
-                    <li><a href="/onas/nganga">Nganga</a></li>
-                    <li><a href="/onas/moughenda">Saman Moughenda</a></li>
+                    <li><a href="/onas/nganga">Nganga - Léčitel</a></li>
+                    <li><a href="/onas/moughenda">Šaman Moughenda</a></li>
 
                 </ul>
             </li>

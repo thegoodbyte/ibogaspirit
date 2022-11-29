@@ -12,7 +12,7 @@
             RAUMA TÍM, ŽE NÁS PŘIVEDE KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT.
             JE TO OPRAVDOVÝ ZÁZRAK – NOVÉ ZROZENÍ
         </p>
-    </h2>
+    </div>
 </div>
 
     @include('pages.home.section-happily')
@@ -21,6 +21,6 @@
 
 
 @include('pages.home.section-parallax')
-@include('pages.home.section-kdo-jsme')
+@include('pages.home.section-home-bottom')
 
 @stop

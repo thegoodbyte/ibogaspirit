@@ -5,7 +5,7 @@
 
 
 
-    <div class = "col-xl-8">
+    <div class = "col-xl-8 pl-5">
 
         <p>
            Tento den nabízíme holotropní dýchaní.
