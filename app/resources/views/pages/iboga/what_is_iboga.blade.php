@@ -29,13 +29,37 @@
             <strong>Iboga kořeny</strong>
             <p class="text-justify">Ale jeho kořeny jsou tím, co nejlépe definuje jeho ducha. Kůra kořene ibogy obsahuje alkaloidy,
                 které jsou seškrabávány, rozdrceny a požívány, obsahují enteogenní vlastnosti, které se po staletí používají k duchovnímu studiu –
-                počínaje kulturami Pygmejů a Bwiti v Africe a v poslední době pomáhají léčit nemocný západní svět.</p
+                počínaje kulturami Pygmejů a Bwiti v Africe a v poslední době pomáhají léčit nemocný západní svět.</p>
+
+            <p>
+                <!-- [LANG-ENGLISH]
+                Iboga (Tabernathe Iboga) je vytrvalý keř pocházející z rovníkové středozápadní Afriky.
+                Kořenová kůra byla používána jako přírodní rostlinná medicína po tisíce a tisíce let domorodými obyvateli regionu.
+                Iboga (Tabernathe Iboga) je vytrvalý keř pocházející z rovníkové středozápadní Afriky.
+-->
+
+                Kořenová kůra byla použita jako přírodní rostlinná medicína po tisíce a tisíce let domorodými obyvateli regionu.
+
+            </p>
 
             <strong>Bwiti</strong>
             <p class="text-justify">Říká se, že lesní lidé neboli Pygmejové ze středozápadní Afriky poprvé přinesli poznatky o této rostlině
                 ostatním. Tato ústní učení se nakonec zformovala do praxe a kultury Bwiti – duchovní tradice založené na používání
                 a učení Ibogy. Po stovky let Bwiti používali Ibogu v léčebných obřadech a duchovních rituálech pro
                 sebeobjevování, osobní rozvoj, fyzické léčení a pro zvládnutí umění žít.</p
+
+            <p>
+                <!-- [LANG-ENGLISH]
+                Je považována za posvátnou svátost těch, kteří praktikují tradici známou jako Bwiti. Iboga se používá v
+                různých obřadních kontextech, jako jsou zasvěcení, duchovní léčení, fyzická léčení a pro pomoc těm, kteří
+                trpí emocionálními a duševními stavy Iboga je tak vysoce ceněna, že byla vládou Gabonu prohlášena za národní poklad.
+-->
+
+                Je to za posvátnou svátost těch, kteří praktikují tradici známou jako Bwiti. Iboga se používá v
+                různých obřadních kontextech, jako jsou zasvěcení, duchovní léčení, fyzické léčení a pro pomoc těm, kteří
+                trpí emocionálními a duševními stavy Iboga je tak vysoce ceněna, že byla vládou Gabonu prohlášena za národní poklad.
+
+            </p>
             <strong>Svaté dřevo</strong>
             <p class="text-justify">V Gabonu je Iboga považována za posvátnou, někdy označovanou jako „svaté dřevo“. U sloupu
                 každého kmene nebo komunity je hlavní šaman, který je zodpovědný za vedení lékařských obřadů iniciace a léčení.</p
@@ -51,7 +75,7 @@
     <div class = "row">
         <div class = "col-xl-6"></div>
         <div class = "col-xl-6">
-            <h2>PROČ POUŽÍVÁME IBOGU?</h2>
+            <h2 class = "h2-heading font-just-me color-iscz-red">PROČ POUŽÍVÁME IBOGU?</h2>
             <p class="text-justify">Účelem Ibogy je detoxikovat mysl, tělo a ducha, léčit na nejhlubších fyzických,
                 emocionálních, mentálních a duchovních úrovních.</p>
 
@@ -85,7 +109,7 @@
     <div class = "row"v>
         <div class = "col-xl-6"></div>
         <div class = "col-xl-6">
-            <h2>JAK FUNGUJE ROSTLINNÁ MEDICÍNA?</h2>
+            <h2 class = "h2-heading font-just-me color-iscz-red">JAK FUNGUJE ROSTLINNÁ MEDICÍNA?</h2>
 
             <p class="text-justify">Iboga je známý jako největší lovec pravdy v nás. Když objevíme svou pravdu a uvidíme,
                 jak naše životy fungují na dysfunkční úrovni – nemůžeme „nevidět“, spínač byl přepnut. Už není pohodlné
@@ -128,79 +152,51 @@
                 budeme chodit každý den, abychom vytvořili nové drážky. Kliknutím sem zobrazíte další informace o tom, co
                 lze od integračního procesu očekávat</p>
             </p>
+
+
+            <h3>Shrnuti</h3>
+            <p>
+                <!-- [LANG-ENGLISH]
+            For this reason, IBOGA is known to be one of the most powerful medicinal plants for treating addictions.
+            IBOGA gives profound insights, gives clarity to one's life and to the truth of oneself. IBOGA will keep
+            working with you in terms of insights for months after your retreat, as you reintegrate into your daily life.
+            IBOGA can promote: Self-actualization, empower self-growth, improve relationships, and reduce emotional suffering.
+-->
+                Z tohoto důvodu je IBOGA známá jako jedna z nejúčinnějších léčivých rostlin pro léčbu závislostí.
+                IBOGA poskytuje hluboké vhledy, objasňuje vlastní život a pravdu o sobě samém. IBOGA zůstane
+                pracovat s vámi ve smyslu vhledů měsíce po vašem ústupu, když se znovu začleníte do svého každodenního života.
+                IBOGA může podporovat: Sebeaktualizaci, posílení vlastního růstu, zlepšení vztahů a snížení emočního utrpení.
+            </p>
+
+            <p>
+                <!-- [LANG-ENGLISH]
+          V poslední době se použití Ibogy rozšířilo mimo africký kontinent a používá se k léčbě a léčení v různých
+          prostředích po celém světě. Od doby, kdy se rozšířil na Západ, si nyní získává větší pozornost díky odvozenému
+          alkaloidu Ibogaine, který se používá především k úspěšnému a trvalému přerušení návykových vzorců chování.
+-->
+                V poslední době se používá Ibogy rozšířilo mimo africký kontinent a používá se k léčbě a léčení v různých
+                prostředí po celém světě. Od doby, kdy se rozšířil na Západ, si nyní získává větší pozornost díky odvozenému
+                alkaloidu Ibogaine, který se používá především k úspěšnému a trvalému přerušení návykových vzorců chování.
+
+            </p>
+
+
+            <p>
+                <!-- [LANG-ENGLISH]
+            Used in a Shamanic traditional Bwiti psycho-spiritual ceremony setting, this is a powerful sacred plant teacher that
+            has the ability to heal the mind, body and soul. It is a Central African Shrub root containing many active alkaloids.
+            The root of the plant is taken orally and can be ingested fresh, made into a tea, or it can be taken in powder form.
+            IBOGA has psychoactive properties, and it gently stimulates the nervous system by cleaning/polishing your
+            neurotransmitters which brings them back to their original default setting – ensuring they are firing and transmitting properly.
+            -->
+                Je to mocný učitel posvátných rostlin, který se používá v tradičním šamanském prostředí Bwiti psycho-duchovního obřadu.
+                má schopnost léčit mysl, tělo i duši. Jedná se o středoafrický keřový kořen obsahující mnoho aktivních alkaloidů.
+                Kořen rostliny se užívá perorálně a lze jej požívat čerstvý, připravit jej na čaj nebo jej lze užívat ve formě prášku.
+                IBOGA má psychoaktivní vlastnosti a jemně stimuluje nervový systém čištěním/leštěním
+                neurotransmitery, které je vrátí do původního výchozího nastavení – zajistí, že budou správně spouštět a vysílat.
+
+            </p>
         </div>
     </div>
 
-    <div class ="row">
-        <div class ="col-xl-12">
-            <h1 class = "h1-heading">
-                Co je Iboga?
-            </h1>
-                <p>
-                    <!-- [LANG-ENGLISH]
-                    Iboga (Tabernathe Iboga) je vytrvalý keř pocházející z rovníkové středozápadní Afriky.
-                    Kořenová kůra byla používána jako přírodní rostlinná medicína po tisíce a tisíce let domorodými obyvateli regionu.
-                    Iboga (Tabernathe Iboga) je vytrvalý keř pocházející z rovníkové středozápadní Afriky.
--->
-
-                    Kořenová kůra byla použita jako přírodní rostlinná medicína po tisíce a tisíce let domorodými obyvateli regionu.
-
-                </p>
-                ​
-                <p>
-                    <!-- [LANG-ENGLISH]
-                    Je považována za posvátnou svátost těch, kteří praktikují tradici známou jako Bwiti. Iboga se používá v
-                    různých obřadních kontextech, jako jsou zasvěcení, duchovní léčení, fyzická léčení a pro pomoc těm, kteří
-                    trpí emocionálními a duševními stavy Iboga je tak vysoce ceněna, že byla vládou Gabonu prohlášena za národní poklad.
--->
-
-                    Je to za posvátnou svátost těch, kteří praktikují tradici známou jako Bwiti. Iboga se používá v
-                    různých obřadních kontextech, jako jsou zasvěcení, duchovní léčení, fyzické léčení a pro pomoc těm, kteří
-                    trpí emocionálními a duševními stavy Iboga je tak vysoce ceněna, že byla vládou Gabonu prohlášena za národní poklad.
-
-                </p>
-                ​
-                <p>
-                    <!-- [LANG-ENGLISH]
-              V poslední době se použití Ibogy rozšířilo mimo africký kontinent a používá se k léčbě a léčení v různých
-              prostředích po celém světě. Od doby, kdy se rozšířil na Západ, si nyní získává větší pozornost díky odvozenému
-              alkaloidu Ibogaine, který se používá především k úspěšnému a trvalému přerušení návykových vzorců chování.
--->
-                    V poslední době se používá Ibogy rozšířilo mimo africký kontinent a používá se k léčbě a léčení v různých
-                    prostředí po celém světě. Od doby, kdy se rozšířil na Západ, si nyní získává větší pozornost díky odvozenému
-                    alkaloidu Ibogaine, který se používá především k úspěšnému a trvalému přerušení návykových vzorců chování.
-
-                </p>
-
-
-                <p>
-                    <!-- [LANG-ENGLISH]
-                Used in a Shamanic traditional Bwiti psycho-spiritual ceremony setting, this is a powerful sacred plant teacher that
-                has the ability to heal the mind, body and soul. It is a Central African Shrub root containing many active alkaloids.
-                The root of the plant is taken orally and can be ingested fresh, made into a tea, or it can be taken in powder form.
-                IBOGA has psychoactive properties, and it gently stimulates the nervous system by cleaning/polishing your
-                neurotransmitters which brings them back to their original default setting – ensuring they are firing and transmitting properly.
-                -->
-                    Je to mocný učitel posvátných rostlin, který se používá v tradičním šamanském prostředí Bwiti psycho-duchovního obřadu.
-                    má schopnost léčit mysl, tělo i duši. Jedná se o středoafrický keřový kořen obsahující mnoho aktivních alkaloidů.
-                    Kořen rostliny se užívá perorálně a lze jej požívat čerstvý, připravit jej na čaj nebo jej lze užívat ve formě prášku.
-                    IBOGA má psychoaktivní vlastnosti a jemně stimuluje nervový systém čištěním/leštěním
-                    neurotransmitery, které je vrátí do původního výchozího nastavení – zajistí, že budou správně spouštět a vysílat.
-
-                </p>
-                ​
-                <p>
-                    <!-- [LANG-ENGLISH]
-                For this reason, IBOGA is known to be one of the most powerful medicinal plants for treating addictions.
-                IBOGA gives profound insights, gives clarity to one's life and to the truth of oneself. IBOGA will keep
-                working with you in terms of insights for months after your retreat, as you reintegrate into your daily life.
-                IBOGA can promote: Self-actualization, empower self-growth, improve relationships, and reduce emotional suffering.
--->
-                    Z tohoto důvodu je IBOGA známá jako jedna z nejúčinnějších léčivých rostlin pro léčbu závislostí.
-                    IBOGA poskytuje hluboké vhledy, objasňuje vlastní život a pravdu o sobě samém. IBOGA zůstane
-                    pracovat s vámi ve smyslu vhledů měsíce po vašem ústupu, když se znovu začleníte do svého každodenního života.
-                    IBOGA může podporovat: Sebeaktualizaci, posílení vlastního růstu, zlepšení vztahů a snížení emočního utrpení.
-                </p>
-        </div>
-    </div>
 @stop

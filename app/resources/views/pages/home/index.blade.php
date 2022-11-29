@@ -21,6 +21,6 @@
 
 
 @include('pages.home.section-parallax')
-@include('pages.home.section-kdo-jsme')
+@include('pages.home.section-home-bottom')
 
 @stop

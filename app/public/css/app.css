@@ -10,6 +10,10 @@
     --iscz-brown: #813007;
     --iscz-orange: #DF7015;
 }
+
+img {
+    object-fit: contain;
+}
 a:hover {
     color: var(--dark-red) !important;
 }
@@ -176,7 +180,7 @@ blockquote .small-bq {
 
 blockquote {
     border-left: 3px solid red;
-    color: #1a1a1a;
+    color: red;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 28px;
     font-style: italic;
@@ -187,36 +191,34 @@ blockquote {
     transition: 0.2s border ease-in-out;
     z-index: 0;
     margin-top: 3em;
-
-
 }
 
 blockquote:before {
-    content: "";
+    content: "\201C";
     position: absolute;
     top: 50%;
     left: -4px;
     height: 2em;
-    background-color: #fff;
     width: 5px;
     margin-top: -1em;
     background: none;
 }
-blockquote:after {
-    content: "";
-    position: absolute;
-    top: 50%;
-    left: -0.5em;
-    color: #00CC8F;
-    font-family: "Ionicons";
-    font-style: normal;
-    line-height: 1em;
-    text-align: center;
-    text-indent: -2px;
-    width: 1em;
-    margin-top: -0.5em;
-    transition: 0.2s all ease-in-out, 0.4s transform ease-in-out;
-}
+/*blockquote:after {*/
+/*    content: "";*/
+/*    position: absolute;*/
+/*    top: 50%;*/
+/*    left: -0.5em;*/
+/*    color: #00CC8F;*/
+/*    font-family: "Ionicons";*/
+/*    font-style: normal;*/
+/*    line-height: 1em;*/
+/*    text-align: center;*/
+/*    text-indent: -2px;*/
+/*    width: 1em;*/
+/*    margin-top: -0.5em;*/
+/*    transition: 0.2s all ease-in-out, 0.4s transform ease-in-out;*/
+/*}*/
+
 blockquote.format:before, blockquote.format:after {
     display: none;
 }
@@ -566,10 +568,13 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     background-color: #EBEBEB;
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     padding: 62px 0px 70px 0px;
+    overflow: hidden;
 }
 
 #home-kdo-jsme .box-kdo-jsme {
     min-height: 360px;
+
+    float: left;
 }
 
 .row-kdo-jsme {
