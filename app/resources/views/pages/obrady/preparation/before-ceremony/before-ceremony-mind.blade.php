@@ -1,25 +1,27 @@
 <section class = "prep-generic">
 
     <div class = "row">
-        <h3 class = "font-just-me font-size-60 color-iscz-red">Mysl</h3>
-        <h3 class = "font-just-me font-size-30 color-iscz-red">Nastavení mysli - zamer</h3>
-        <p>Stanovte si svůj záměr na ústup, ujasněte si své cíle a připravte si otázky, na které se
-            budete léku ptát. Další informace o tom, jak to provést, naleznete níže.
-        </p>
+        <div class = "col-xl-12">
+            <h3 class = "font-just-me font-size-60 color-iscz-red">Mysl</h3>
+            <h3 class = "font-just-me font-size-30 color-iscz-red">Nastavení mysli - zamer</h3>
+            <p>Stanovte si svůj záměr pro vas lecebny pobyt -  ujasněte si své cíle a připravte si otázky, na které se
+                budete léku ptát. Další informace o tom, jak to provést, naleznete níže.
+            </p>
 
-        <p>
-            Součástí vašeho retreatového balíčku je přípravný hovor s jedním z nás. Dáme vám představu o
-            tom, co můžete očekávat, uvidíme, jak na tom jste,
-            pomůžeme vám připravit si otázky a stanovit váš záměr.
-        </p>
+            <p>
+                Součástí vašeho retreatového balíčku je přípravný hovor s jedním se mnou. Dám vám představu o
+                tom, co můžete očekávat, uvidíme, jak na tom jste,
+                pomůži vám připravit si otázky a stanovit váš záměr.
+            </p>
 
-        <p>
-            Zarezervovali jste si ústup? Předběžnou výzvu si rezervujte zde.
-        </p>
+    {{--        <p>--}}
+    {{--            Zarezervovali jste si ústup? Předběžnou výzvu si rezervujte zde.--}}
+    {{--        </p>--}}
 
-        <p>
-            Dáváte si neuvěřitelný dar. Zvažte pocit vděčnosti, vzrušení a posílení. Obejmi se hned teď. Pokračuj, počkám.
-        </p>
+            <p>
+                Dáváte si neuvěřitelný dar. Zvažte pocit vděčnosti, vzrušení a posílení. Pochvalte  se hned teď. Pokračujte, počkám.
+            </p>
+        </div>
     </div>
 
     <div class = "row">
