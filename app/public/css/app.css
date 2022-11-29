@@ -573,8 +573,17 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
 
 #home-kdo-jsme .box-kdo-jsme {
     min-height: 360px;
-
+    position: relative;
     float: left;
+}
+
+#home-kdo-jsme .box-kdo-jsme .button-show-more{
+    display: block;
+    align-items: center;
+    /*position: absolute;*/
+    /*bottom: -20px;*/
+    /*overflow: hidden;*/
+    text-align: center;
 }
 
 .row-kdo-jsme {

@@ -18,7 +18,7 @@
 
             <p class = "text--justify mb-5">
                 Moughenda je šaman 10. generace v tradici Missoko Bwiti, v současnosti žije a pracuje v Gabonu v Africe.
-                Celý život žije a dýchá touto tradicí a tímto šamanským způsobem. Byl seznámen s lékem in utero,
+                Celý život žije a dýchá touto tradicí a tímto šamanským způsobem. Byl seznámen s lékem již v děloze,
                 ale teprve v 8 letech si vzal svou úplně první velkou dávku léků a začal trénovat se svým dědečkem,
                 Bwiti Shaman 9. generace. Trvá asi dvacet let intenzivního tréninku a čtyři hlavní zasvěcení, než získáte titul a
                 Bwiti šaman. Jakmile promoval jako šaman, pokračoval v úzké spolupráci se svým dědečkem dalších deset let.

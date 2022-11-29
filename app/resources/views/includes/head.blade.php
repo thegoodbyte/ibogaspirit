@@ -8,8 +8,6 @@
 <link rel="stylesheet" href="/css/app.css">
 
 
-<link rel="profile" href="http://gmpg.org/xfn/11">
-
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="robots" content="max-image-preview:large" />
 <meta name="description" content="Tradiční Iboga obřady v Africké tradici Missoko Bwiti - Česká Republika." />
@@ -21,7 +19,7 @@
 
 {{--@include('includes.removed-old-wp-css-and-js')--}}
 
-<link rel="apple-touch-icon" href="/css/wp-content/uploads/2022/02/favicon.svg" />
+<link rel="apple-touch-icon" href="/images/favicon_io/favicon.ico" />
 
 
 

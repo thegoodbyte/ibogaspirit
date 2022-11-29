@@ -22,6 +22,9 @@
                     </p>
                 </div>
 
+                <div class = "button-show-more">
+                    <a href = "/iboga/iboga-co-je-iboga"><img src = "/images/misc/button-more.png" /></a>
+                </div>
         </div>
 
 
@@ -47,6 +50,9 @@
                         <p>Pusobím mezinarodne ... momentálně v Mexickém Kankunu v <a href = "www.bwitilife.com">Bwitilife.com</a></p>						</div>
                 </div>
 
+            <div class = "button-show-more">
+                <a href = "/onas/nganga"><img src = "/images/misc/button-more.png" /></a>
+            </div>
         </div>
 
 
@@ -76,6 +82,11 @@
                     <strong>17 - 23 června 2023.</strong><br />
                     Vidochov, Královéhradecký kraj
                 </div>
+            </div>
+
+
+            <div class = "button-show-more">
+                <a href = "/obrady/terminy-a-ceny"><img src = "/images/misc/button-more.png" /></a>
             </div>
         </div>
 
