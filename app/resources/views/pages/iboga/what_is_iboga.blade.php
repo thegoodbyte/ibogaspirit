@@ -73,8 +73,8 @@
     </div>
 
     <div class = "row">
-        <div class = "col-xl-6"></div>
-        <div class = "col-xl-6">
+
+        <div class = "col-xl-12">
             <h2 class = "h2-heading font-just-me color-iscz-red">PROČ POUŽÍVÁME IBOGU?</h2>
             <p class="text-justify">Účelem Ibogy je detoxikovat mysl, tělo a ducha, léčit na nejhlubších fyzických,
                 emocionálních, mentálních a duchovních úrovních.</p>
@@ -152,7 +152,12 @@
                 budeme chodit každý den, abychom vytvořili nové drážky. Kliknutím sem zobrazíte další informace o tom, co
                 lze od integračního procesu očekávat</p>
             </p>
+        </div>
+    </div>
 
+    <div class = "row"v>
+        
+        <div class = "col-xl-12">
 
             <h3>Shrnuti</h3>
             <p>
