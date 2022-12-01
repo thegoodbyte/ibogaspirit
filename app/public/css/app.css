@@ -571,10 +571,28 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     overflow: hidden;
 }
 
+.box-kdo-jsme:hover {
+    background-color: rgba(151, 83, 40, 0.15);
+}
+
 #home-kdo-jsme .box-kdo-jsme {
     min-height: 360px;
     position: relative;
-    float: left;
+}
+#home-kdo-jsme .box-kdo-jsme img {
+    object-fit: contain;
+}
+#home-kdo-jsme .who-we-are-col-1 .box-kdo-jsme{
+    padding: 10px;
+}
+#home-kdo-jsme .who-we-are-col-2 .box-kdo-jsme{
+    background-color: rgba(151, 83, 40, 0.1);
+    padding: 10px;
+}
+
+#home-kdo-jsme .who-we-are-col-3 .box-kdo-jsme {
+    background-color: rgba(151, 83, 40, 0.2);
+    padding: 10px;
 }
 
 #home-kdo-jsme .box-kdo-jsme .button-show-more{
