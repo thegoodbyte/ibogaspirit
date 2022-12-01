@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\Facades\Input;
+use Illuminate\Support\Facades\App;
 use Validator;
 use Redirect;
 
@@ -12,8 +13,13 @@ class HomeController extends Controller
 {
 
 
+    public function __construct() {
 
-    public function index() {
+    }
+
+    public function index($lang) {
+
+        App::setLocale('cs');
 
         return View::make('pages.home.index');
 

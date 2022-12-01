@@ -13,7 +13,22 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [\App\Http\Controllers\HomeController::class, "index"]);
+Route::get('/{en}', [\App\Http\Controllers\HomeController::class, "index"]);
+
+Route::controller(\App\Http\Controllers\IbogaController::class)->group(function() {
+    Route::get('/{en}/iboga-bwiti-retraeats-czech-republic-europe', 'index');
+});
+
+Route::controller(\App\Http\Controllers\IbogaController::class)->group(function() {
+    Route::get('/{locale}/iboga', "what_is_iboga");
+    Route::get('/{locale}/iboga/co-je-iboga',  "what_is_iboga");
+    Route::get('/{locale}/iboga/jak-vam-iboga-muze-pomoci',  "jak_vam_iboga_muze_pomoci");
+    Route::get('/{locale}/iboga/iboga-vs-ayahuasca',  "iboga_vs_ayahuasca");
+    Route::get('/{locale}/iboga/gabon', "gabon");
+    Route::get('/{locale}/iboga/deprese',  "deprese");
+    Route::get('/{locale}/iboga/bwiti-tradice',  "bwiti_tradice");
+});
+
 Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "what_id_iboga"]);
 Route::get('/iboga/co-je-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"]);
 Route::get('/iboga/jak-vam-iboga-muze-pomoci', [\App\Http\Controllers\IbogaController::class, "jak_vam_iboga_muze_pomoci"]);

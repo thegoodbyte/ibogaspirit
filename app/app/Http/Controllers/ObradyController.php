@@ -24,7 +24,7 @@ class ObradyController extends Controller
 
     public function vase_prvni_ceremonie() {
 
-        App::setLocale('ru');
+
         return View::make('pages.obrady.pobyt');
     }
 

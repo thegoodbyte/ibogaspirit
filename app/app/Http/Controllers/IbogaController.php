@@ -7,8 +7,16 @@ use Illuminate\Support\Facades\View;
 
 class IbogaController extends Controller
 {
-    public function index() {
 
+
+    public function __construct($lang = 'cs')
+    {
+        echo $lang;
+    }
+
+    public function index($lang = 'cs') {
+
+        echo $lang;
         return View::make('pages.iboga.index');
 
     }

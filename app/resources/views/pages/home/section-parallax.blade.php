@@ -4,7 +4,7 @@
         </div>
 
         <div class = "col-xl-6 col-xs-12">
-            <h2 class="">TRADIČNÍ BWITI LÉČENÍ A DUCHOVNÍ UČENÍ</h2>
+            <h2 class=""><?php echo __('pages/homepage.content.section_bwiti.title') ;?></h2>
             <p>
                 Podle tradice,  když se Iboga poprvé objevila,  rozhodl se být s Bwiti lidmi. Iboga respektoval jejich
                 způsob života, a tak když se lidé začali ptát,

@@ -3,19 +3,16 @@
     <div class="">
         <!-- <div class="row animated fadeInLeft"> -->
             <div class="col-xl-8 pt-3 pb-3 col-sm-12"  id="home-zijte-stastne-pic">
-                    <h1 class = "text-uppercase font-just-me">ŽIJTE ŠŤASTNĚ A NAPLNO</h1>
+                    <h1 class = "text-uppercase font-just-me"><?php echo __('pages/homepage.content.section_3_happily.title_1'); ?></h1>
 
                     <div class = "row">
                         <div class = "col-xl-12">
                             <p class = "text-uppercase">
-                                Život můžeme ctít tím, že budeme žít šťastně. Je to možné a naše vrozené právo.
-                                Medicína Iboga nás učí, jak si užívat života naplno.
+                                <?php echo __('pages/homepage.content.section_3_happily.par_1'); ?><
                             </p>
                             <div class = "row" id = "home-happily-white-row">
                                 <h2 class = "text-uppercase">IBOGA MEDICÍNA</h2>
-                                <p class = "text-uppercase">Dokáže vyléčit jakékoli psychické trauma tím, že nás přivede
-                                    ke kořenům problému a ukáže nám, jak se s ním smířit.
-                                        Je to opravdový zázrak – nové zrození...
+                                <p class = "text-uppercase"><?php echo __('pages/homepage.content.section_3_happily.par_2'); ?><
                                 </p>
 
                             </div>

@@ -16,8 +16,8 @@
                 src="/images/home/slider/fire_circle-1200.jpg" alt="Iboga Bwiti obrady Ceska Republika Cechy" class="d-block w-100">
             <div class="container">
                 <div class="carousel-caption text-start">
-                    <h1>TRADIČNÍ  IBOGA  OBŘADY   V AFRICKÉ  TRADICI MISSOKO BWITI
-                    </h1>
+                    <!--<h1>TRADIČNÍ  IBOGA  OBŘADY   V AFRICKÉ  TRADICI MISSOKO BWITI</h1>-->
+                    <h1><?php echo __('pages/homepage.content.slider.slide_1.title'); ?></h1>
                     <p>Poradam tradicni Bwiti lecebne Iboga ceremonie tak jak jsem se je naucil v Gabounu u samana Moughendy.</p>
 
                 </div>
@@ -34,8 +34,7 @@
 
             <div class="container">
                 <div class="carousel-caption">
-                    <h1>EXKLUZIVNÍ 8 DENNÍ POBYT PRO ZMĚNU ŽIVOTA
-                    </h1>
+                    <h1><?php echo __('pages/homepage.content.slider.slide_2.title'); ?></h1>
                     <p>Tydenni pobyt s dvema psycho-spiritualnimi Iboga obrady, fuchovni sprchou, Bwiti ucenim a mnohem vice...</p>
 
                 </div>
@@ -55,7 +54,7 @@
 
             <div class="container">
                 <div class="carousel-caption text-end">
-                    <h1>VYDEJTE  SE  NA CESTU SEBE POZNÁNÍ</h1>
+                    <h1><?php echo __('pages/homepage.content.slider.slide_3.title'); ?></h1>
                     <p>Vědět, kdo jste, je nejdůležitější součástí poznání. Umožňuje vám to dělat správná rozhodnutí, abyste žili šťastný život</p>
 
                 </div>
