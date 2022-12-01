@@ -572,27 +572,45 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
 }
 
 .box-kdo-jsme:hover {
-    background-color: rgba(151, 83, 40, 0.15);
+    background-color: rgba(151, 83, 40, 0.55);
 }
 
 #home-kdo-jsme .box-kdo-jsme {
-    min-height: 360px;
+    min-height: 604px;
     position: relative;
 }
 #home-kdo-jsme .box-kdo-jsme img {
     object-fit: contain;
 }
 #home-kdo-jsme .who-we-are-col-1 .box-kdo-jsme{
-    padding: 10px;
-}
-#home-kdo-jsme .who-we-are-col-2 .box-kdo-jsme{
-    background-color: rgba(151, 83, 40, 0.1);
+    background-color: rgba(151, 83, 40, 0.05);
     padding: 10px;
 }
 
-#home-kdo-jsme .who-we-are-col-3 .box-kdo-jsme {
-    background-color: rgba(151, 83, 40, 0.2);
+#home-kdo-jsme .who-we-are-col-1 .box-kdo-jsme h2{
+    color: rgb(79, 41, 0);
+}
+
+
+
+#home-kdo-jsme .who-we-are-col-1 .box-kdo-jsme img {
+    border: 6px solid #fff;
+}
+#home-kdo-jsme .who-we-are-col-2 .box-kdo-jsme{
+    background-color: rgba(151, 83, 40, 0.13);
     padding: 10px;
+}
+#home-kdo-jsme .who-we-are-col-2 .box-kdo-jsme h2{
+    color: rgba(79, 41, 0, .92);
+}
+
+#home-kdo-jsme .who-we-are-col-3 .box-kdo-jsme {
+    background-color: rgba(151, 83, 40, 0.22);
+    padding: 10px;
+}
+
+#home-kdo-jsme .who-we-are-col-3 .box-kdo-jsme h2{
+    color: rgba(79, 41, 0, .85);
 }
 
 #home-kdo-jsme .box-kdo-jsme .button-show-more{

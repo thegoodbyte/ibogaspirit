@@ -23,6 +23,18 @@
         smartlook('init', '420864ad1eb8f45c6355383e5ed0953e34fb4a28', { region: 'eu' });
     </script>
 
+    <script type = "text/javascript">
+        import LogRocket from 'logrocket';
+        LogRocket.init('zrzrpa/ibogaspiritcz');
+
+        const store = createStore(
+            reducer, // your app reducer
+
+            // our middleware should go last
+            applyMiddleware(middlewares, LogRocket.reduxMiddleware()),
+        );
+    </script>
+
     @php
         /** PAge Title */
         if (empty($pageTitle))

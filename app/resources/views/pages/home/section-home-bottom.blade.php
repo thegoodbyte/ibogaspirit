@@ -1,92 +1,96 @@
-<section id = "home-kdo-jsme">
+<section id = "home-kdo-jsme" class = "row">
 
-        <div class="col-lg-4 box-kdo-jsme p-2">
+        <div class="who-we-are-col-1 col-xl-4 col-lg-4">
+            <div class = "box-kdo-jsme">
 
-                <div class="row">
-                    <div class="row">
-                        <h2 class="font-just-me">CO JE IBOGA</h2>
-                    </div>
-                </div>
+                <h2 class="font-just-me text-center">CO JE IBOGA</h2>
 
-                <div class="row">
+
+                <div class="container">
+
                     <p class = " text-uppercase">
-                    Iboga (Tabernathe Iboga) je vytrvalý keř pocházející z rovníkové středozápadní Afriky. Kořenová kůra byla používána
+                        Iboga (Tabernathe Iboga) je vytrvalý keř pocházející z rovníkové středozápadní Afriky. Kořenová kůra byla používána
+                    </p>
+                    <div class="container text-center">
+                        <a href = "/iboga/co-je-iboga"><img src = "/images/home/iboga-bark.jpg"  width = "90%" /></a>
+                    </div>
+                    <p class = " text-uppercase">
+
                     jako přírodní rostlinná medicína po tisíce a tisíce let domorodými obyvateli regionu.
                     Je považována za posvátnou svátost těch, kteří praktikují tradici známou jako Bwiti.
                     </p>
                 </div>
 
-                <div class="row">
-                    <p class = "">
-                        Iboga se používá v různých obřadních ...
-                    </p>
-                </div>
+
 
                 <div class = "button-show-more">
                     <a href = "/iboga/iboga-co-je-iboga"><img src = "/images/misc/button-more.png" /></a>
                 </div>
+            </div>
         </div>
 
 
 
 
-        <div class="col-lg-4 box-kdo-jsme p-2">
+        <div class="who-we-are-col-2 col-xl-4 col-lg-4">
+                <div class = "box-kdo-jsme">
 
-                <div class="">
-                    <div class="row">
-                        <h2 class=""><span style="text-align: inherit;">O MNE</span></h2>		</div>
-                </div>
-                <div class="row">
-                    <div class="elementor-widget-container uppercase">
-                        <p class = "">
-                            VItejte - jmenuji se Martin and jsem Nganga - spirituálni lécitel a tradicni Bwiti Iboga facilitátor a poskytovatel.
-                            Studoval jsem bezpecné poskytování Ibogy medicíny a Bwiti ucení a lécení v Gabonu,  stredozápadni Africe, u samana 10-té generace Moughendy Mikaly.
-                            Ucil jsem se tradicní  tisíce-letou praxi v  Missoko Bwiti.
+                    <h2 class="text-center">KDO JSEM</h2>
+
+                    <div class="container">
+                        <p>
+                            Vítejte - jmenuji se Martin a jsem Nganga - spirituálni léčitel a tradiční Bwiti Iboga facilitátor a poskytovatel.
                         </p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="row">
-                        <p>Pusobím mezinarodne ... momentálně v Mexickém Kankunu v <a href = "www.bwitilife.com">Bwitilife.com</a></p>						</div>
-                </div>
+                        <div class = "container text-center">
+                            <img src = "/images/home/onas/martin-circle.png" width = "80%"/>
+                        </div>
 
-            <div class = "button-show-more">
-                <a href = "/onas/nganga"><img src = "/images/misc/button-more.png" /></a>
-            </div>
+                        <p class = "">
+                            Studoval jsem bezpečné poskytování Ibogy medicíny a Bwiti učení a léčení v Gabonu,  středozápadní Africe, u samana 10-té generace Moughendy Mikaly.
+                            Učil jsem se tradiční  tisíce-letou praxi v  Missoko Bwiti.
+                        </p>
+
+{{--                        <p>Působím mezinárodně ... momentálně v Mexickém Kankunu v <a href = "www.bwitilife.com">Bwitilife.com</a> a začinám nabízet tuto léčebnou medicínu u nás v Čechách</p>--}}
+
+                        <div class = "button-show-more">
+                            <a href = "/onas/nganga"><img src = "/images/misc/button-more.png" /></a>
+                        </div>
+                    </div>
+
+                </div>
         </div>
 
 
 
-        <div class="col-lg-4 box-kdo-jsme p-2">
+        <div class="who-we-are-col-3 col-xl-4 col-lg-4">
 
-            <div class="row">
-                <div class="row">
-                    <h2 class="font-just-me">Termíny</h2>
+            <div class = "box-kdo-jsme">
+
+                <h2 class="font-just-me text-center">Termíny</h2>
+
+
+                <div class="container">
+                <p class = "">
+                    Tradiční Missoko Bwiti Iboga obřady poskytuji 4x ročně nebo i častěji, dle zájmu.<br />
+                    Další dva retreaty se budou konat:<br /><br />
+                </p>
                 </div>
-            </div>
-            <div class="row">
-                <div class="row">
-                    <p class = "">
-                        Tradiční Missoko Bwiti Iboga obřady poskytujeme 4x ročně nebo i častěji, dle zájmu.<br />
-                        Naše další dva retreaty se budou konat:<br /><br />
-                    </p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="row">
+
+                <div class="container">
                     <strong>17 - 24 března 2023</strong><br />
-                    Pecka, Jičíny<br /><br />
+                    Pecka, Jičín<br /><br />
                 </div>
 
-                <div class="row">
-                    <strong>17 - 23 června 2023.</strong><br />
+                <div class="container">
+                    <strong>16 - 23 června 2023.</strong><br />
                     Vidochov, Královéhradecký kraj
                 </div>
-            </div>
 
 
-            <div class = "button-show-more">
-                <a href = "/obrady/terminy-a-ceny"><img src = "/images/misc/button-more.png" /></a>
+
+                <div class = "button-show-more">
+                    <a href = "/obrady/terminy-a-ceny"><img src = "/images/misc/button-more.png" /></a>
+                </div>
             </div>
         </div>
 
