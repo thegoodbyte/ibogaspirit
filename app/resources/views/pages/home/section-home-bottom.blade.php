@@ -4,15 +4,13 @@
 
                 <div class="row">
                     <div class="row">
-                        <h2 class="font-just-me">CO JE IBOGA</h2>
+                        <h2 class="font-just-me"><?php echo __('pages/homepage.content.section_bottom_about.col_1.title'); ?></h2>
                     </div>
                 </div>
 
                 <div class="row">
                     <p class = " text-uppercase">
-                    Iboga (Tabernathe Iboga) je vytrvalý keř pocházející z rovníkové středozápadní Afriky. Kořenová kůra byla používána
-                    jako přírodní rostlinná medicína po tisíce a tisíce let domorodými obyvateli regionu.
-                    Je považována za posvátnou svátost těch, kteří praktikují tradici známou jako Bwiti.
+                        <?php echo __('pages/homepage.content.section_bottom_about.col_1.par'); ?>
                     </p>
                 </div>
 
@@ -34,14 +32,12 @@
 
                 <div class="">
                     <div class="row">
-                        <h2 class=""><span style="text-align: inherit;">O MNE</span></h2>		</div>
+                        <h2 class=""><span style="text-align: inherit;"><?php echo __('pages/homepage.content.section_bottom_about.col_2.title'); ?></span></h2>		</div>
                 </div>
                 <div class="row">
                     <div class="elementor-widget-container uppercase">
                         <p class = "">
-                            VItejte - jmenuji se Martin and jsem Nganga - spirituálni lécitel a tradicni Bwiti Iboga facilitátor a poskytovatel.
-                            Studoval jsem bezpecné poskytování Ibogy medicíny a Bwiti ucení a lécení v Gabonu,  stredozápadni Africe, u samana 10-té generace Moughendy Mikaly.
-                            Ucil jsem se tradicní  tisíce-letou praxi v  Missoko Bwiti.
+                            <?php echo __('pages/homepage.content.section_bottom_about.col_2.par'); ?>
                         </p>
                     </div>
                 </div>
@@ -61,26 +57,25 @@
 
             <div class="row">
                 <div class="row">
-                    <h2 class="font-just-me">Termíny</h2>
+                    <h2 class="font-just-me"><?php echo __('pages/homepage.content.section_bottom_about.col_3.title'); ?></h2>
                 </div>
             </div>
             <div class="row">
                 <div class="row">
                     <p class = "">
-                        Tradiční Missoko Bwiti Iboga obřady poskytujeme 4x ročně nebo i častěji, dle zájmu.<br />
-                        Naše další dva retreaty se budou konat:<br /><br />
+                        <?php echo __('pages/homepage.content.section_bottom_about.col_3.par'); ?><br /><br />
                     </p>
                 </div>
             </div>
             <div class="row">
                 <div class="row">
-                    <strong>17 - 24 března 2023</strong><br />
-                    Pecka, Jičíny<br /><br />
+                    <strong><?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.0.date'); ?></strong><br />
+                    <?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.0.place'); ?><br /><br />
                 </div>
 
                 <div class="row">
-                    <strong>17 - 23 června 2023.</strong><br />
-                    Vidochov, Královéhradecký kraj
+                    <strong><?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.1.date'); ?></strong><br />
+                    <?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.0.place'); ?>
                 </div>
             </div>
 

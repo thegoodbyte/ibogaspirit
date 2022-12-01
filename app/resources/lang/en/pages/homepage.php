@@ -5,15 +5,16 @@ return  [
         'slider' => [
             'slide_1' => [
                 'title' => 'TRADITIONAL BWITI IBOGA HEAKING CEREMONIES',
-                'paragraph' => 'Poradam tradicni Bwiti lecebne Iboga ceremonie tak jak jsem se je naucil v Gabounu u samana Moughendy.'
+                'par' => 'I have been providing traditional Bwiti Iboga ceremonies, the exact way I learned them in Gabon from my shaman Moughenda.'
             ],
             'slide_2' => [
                 'title' => 'ALL INLCUSIVE 8-DAY IBOGA HEALING RETREATS',
-                'paragraph' => 'Tydenni pobyt s dvema psycho-spiritualnimi Iboga obrady, fuchovni sprchou, Bwiti ucenim a mnohem vice...'
+                'par' => 'A week long stah including two Iboga ceremonies and a spiritual
+                shower., Bwiti Teachings and much more...'
             ],
             'slide_3' => [
                 'title' => 'GET TO KNOW WHO YOU REALLY ARE',
-                'paragraph' => 'Tydenni pobyt s dvema psycho-spiritualnimi Iboga obrady, fuchovni sprchou, Bwiti ucenim a mnohem vice...'
+                'par' => 'Find out who you are. Reconnect with your soul and love yourself again.'
             ]
         ],
         'section_2_iboga' =>[
@@ -23,8 +24,8 @@ return  [
         ],
         'section_3_happily' => [
             'title_1' => 'LIVE HAPPILY AND TO FULLY',
-            'par_1' => 'WE CAN HONOT OUR LIVES BY LIVING HAPPILY.IT SI ATTAINABLE AND OUR BORTHRIGHT.
-                IBOGA MEDICINE TEACHEA US HOW TO ENJOY THE LIFE FULLY',
+            'par_1' => 'WE CAN HONOR OUR LIVES BY LIVING HAPPILY. IT SI ATTAINABLE AND OUR BIRTHRIGHT.
+                IBOGA MEDICINE TEACHES US HOW TO ENJOY THE LIFE FULLY.',
             'title_2' => 'IBOGA MEDICINE',
             'par_2' => 'CAN HEAL ANY SPIRITUAL OR MENTAL TRAUMA BY BRINGING US TO THE ROOT OF THE ISSUE.
                 IT SHOWS US HOW TO MAKE PEACE WITH IT AND MOVE ON. IT IS A TRUE MIRACLE - A TRUE LIBERATION...
@@ -34,10 +35,9 @@ return  [
         'section_get_to_know' => [
             'left' => [
                 'title' => 'GET TO KNOW<br/>YOUR TRUE SELF ...',
-                'par' => 'ŽIVOT MŮŽEME CTÍT TÍM, ŽE HO BUDEME ŽÍT ŠŤASTNĚ.
-                    JE TO MOŽNÉ A NAŠE VROZENÉ PRÁVO. JE TO MOŽNÉ A NAŠE VROZENÉ PRÁVO IBOGA MEDICÍNA A
-                    BWITI UČENÍ NÁS UČÍ JAK SI UŽÍVAT ŽIVOTA NAPLNO. DOKÁŽE VYLÉČIT JAKÉKOLI PSYCHICKÉ TRAUMA TÍM,
-                    ŽE NÁS PŘIVEDE KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT. JE TO OPRAVDOVÝ ZÁZRAK – NOVÉ ZROZENÍ',
+                'par' => 'knowing who you truly are is the most important part of knowing.
+                    Once you know who you are - you can make the right decisions for yourself and enjoy happy and fullfilling life.
+                    Learn more how we can help you to achieve this.',
             ],
             'right' => [
                 'title' => 'IBOGA MEDICNE',
@@ -59,33 +59,34 @@ return  [
                     at si me vezmou mě a já jim ukažu." A v tomto příběhu je toho mnohem víc...'
         ],
         'section_bottom_about' => [
-            'what_is_iboga' => [
+            'col_1' => [
                 'title' => 'WHAT IS IBOGA',
                 'par'   => 'IBOGA (TABERNATHE IBOGA) JE VYTRVALÝ KEŘ POCHÁZEJÍCÍ Z ROVNÍKOVÉ STŘEDOZÁPADNÍ AFRIKY.
                 KOŘENOVÁ KŮRA BYLA POUŽÍVÁNA JAKO PŘÍRODNÍ ROSTLINNÁ MEDICÍNA PO TISÍCE A TISÍCE LET DOMORODÝMI OBYVATELI
                 REGIONU. JE POVAŽOVÁNA ZA POSVÁTNOU SVÁTOST TĚCH, KTEŘÍ PRAKTIKUJÍ TRADICI ZNÁMOU JAKO BWITI.Iboga se používá v
                 různých obřadních ...'
             ],
-            'about_us' => [
+            'col_2' => [
                 'title' => 'ABOUT ME',
-                'par' => 'VItejte - jmenuji se Martin Halla and jsem Nganga - spirituálni lécitel a tradicni Bwiti Iboga facilitátor a poskytovatel.
+                'par' => 'Vitejte - jmenuji se Martin Halla a jsem Nganga - spirituálni lécitel a tradicni Bwiti Iboga facilitátor a poskytovatel.
                     Jsem cesky rodak ze zapadnich cech, zijici pres 20 let v Severni AmericeStudoval jsem bezpecné poskytování
                     Ibogy medicíny a Bwiti ucení a lécení v Gabonu, stredozápadni Africe, u samana 10-té generace Moughendy Mikaly.
                         Ucil jsem se tradicní tisíce-letou praxi v Missoko Bwiti.
                         Pusobím mezinarodne ... momentálně v Mexickém Kankunu v Bwitilife.com'
             ],
-            'dates' => [
+            'col_3' => [
                 'title' => 'DATES',
-                'par' => 'Tradiční Missoko Bwiti Iboga obřady poskytujeme 4x ročně nebo i častěji, dle zájmu.
-                    Naše další dva retreaty se budou konat:',
+                'par' => 'We provide traditional BWITI Iboga retreats in the Czech Republic four-times a year.
+                Sometimes even more often, based on the demand.
+                    The next 2 retreats will be on:',
                 'terms' => [
                     0 => [
                         'date' => '17 - 24 března 2023',
-                        'place' => 'Pecka, Jičíny'
+                        'place' => 'Pecka, Jičín, Králové Hradec Distrikt, Eastern Czech Republic'
                     ],
                     1 => [
-                        'date' => '17 - 23 června 2023',
-                        'place' => 'Vidochov, Královéhradecký kraj'
+                        'date' => 'June 16th - 23rd 2023',
+                        'place' => 'Vidochov, Králové Hradec Distrikt, Eastern Czech Republic'
                     ],
                 ]
             ]
