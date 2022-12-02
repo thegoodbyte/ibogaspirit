@@ -71,15 +71,21 @@ return [
                 'col_1' => [
                     'title' => 'Fyzicky',
                     'items' => [
-                        => 'Detoxikace buněk celého těla',
-                        => \'Antiparazitární
-                        => \'Antifungální
-                        => \'Antibakteriální
-                        => \'Antivirový
-                        => \'Chemická detoxikace
-                        => \'Zlepšuje neuroplasticitu
-                        => \'Zvyšuje fyzickou sílu a vytrvalost
-                        => \'Odvápnuje epifýzy
+                        0 => 'Detoxikace buněk celého těla',
+                        1=> 'Antiparazitární',
+                        2=> 'Antifungální',
+                        3=> 'Antibakteriální',
+                        4=> 'Antivirový',
+                        5=> 'Chemická detoxikace',
+                        6=> 'Zlepšuje neuroplasticitu',
+                        7=> 'Zvyšuje fyzickou sílu a vytrvalost',
+                        8=> 'Odvápnuje epifýzy'
+                    ]
+                ],
+                'col_2' => [
+                    'title' => '',
+                    'items' => [
+
                     ]
                 ]
             ]

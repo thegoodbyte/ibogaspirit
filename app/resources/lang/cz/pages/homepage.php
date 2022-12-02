@@ -61,33 +61,39 @@ return  [
                     at si me vezmou mě a já jim ukažu." A v tomto příběhu je toho mnohem víc...'
         ],
         'section_bottom_about' => [
-            'what_is_iboga' => [
-                'title' => 'CO JE IBOGA',
-                'par'   => 'IBOGA (TABERNATHE IBOGA) JE VYTRVALÝ KEŘ POCHÁZEJÍCÍ Z ROVNÍKOVÉ STŘEDOZÁPADNÍ AFRIKY.
-                KOŘENOVÁ KŮRA BYLA POUŽÍVÁNA JAKO PŘÍRODNÍ ROSTLINNÁ MEDICÍNA PO TISÍCE A TISÍCE LET DOMORODÝMI OBYVATELI
+            'col_1' => [
+                'title' => 'WHAT IS IBOGA',
+                'par'   => [
+                    'top' => 'IBOGA (TABERNATHE IBOGA) JE VYTRVALÝ KEŘ POCHÁZEJÍCÍ Z ROVNÍKOVÉ STŘEDOZÁPADNÍ AFRIKY.
+                        KOŘENOVÁ KŮRA BYLA POUŽÍVÁNA ',
+                    'bottom' => 'JAKO PŘÍRODNÍ ROSTLINNÁ MEDICÍNA PO TISÍCE A TISÍCE LET DOMORODÝMI OBYVATELI
                 REGIONU. JE POVAŽOVÁNA ZA POSVÁTNOU SVÁTOST TĚCH, KTEŘÍ PRAKTIKUJÍ TRADICI ZNÁMOU JAKO BWITI.Iboga se používá v
                 různých obřadních ...'
+                ]
             ],
-            'about_us' => [
-                'title' => 'O MNE',
-                'par' => 'VItejte - jmenuji se Martin Halla and jsem Nganga - spirituálni lécitel a tradicni Bwiti Iboga facilitátor a poskytovatel.
-                    Jsem cesky rodak ze zapadnich cech, zijici pres 20 let v Severni AmericeStudoval jsem bezpecné poskytování
+            'col_2' => [
+                'title' => 'ABOUT ME',
+                'par' => [
+                    'top' => 'Vitejte - jmenuji se Martin Halla a jsem Nganga - spirituálni lécitel a tradicni Bwiti Iboga facilitátor a poskytovatel.',
+                    'bottom' => 'Jsem cesky rodak ze zapadnich cech, zijici pres 20 let v Severni AmericeStudoval jsem bezpecné poskytování
                     Ibogy medicíny a Bwiti ucení a lécení v Gabonu, stredozápadni Africe, u samana 10-té generace Moughendy Mikaly.
                         Ucil jsem se tradicní tisíce-letou praxi v Missoko Bwiti.
                         Pusobím mezinarodne ... momentálně v Mexickém Kankunu v Bwitilife.com'
+                ]
             ],
-            'dates' => [
-                'title' => 'TERMÍNY',
-                'par' => 'Tradiční Missoko Bwiti Iboga obřady poskytujeme 4x ročně nebo i častěji, dle zájmu.
-                    Naše další dva retreaty se budou konat:',
+            'col_3' => [
+                'title' => 'DATES',
+                'par' => 'We provide traditional BWITI Iboga retreats in the Czech Republic four-times a year.
+                Sometimes even more often, based on the demand.
+                    The next 2 retreats will be on:',
                 'terms' => [
                     0 => [
                         'date' => '17 - 24 března 2023',
-                        'place' => 'Pecka, Jičíny'
+                        'place' => 'Pecka, Jičín, Králové Hradec Distrikt, Eastern Czech Republic'
                     ],
                     1 => [
-                        'date' => '17 - 23 června 2023',
-                        'place' => 'Vidochov, Královéhradecký kraj'
+                        'date' => 'June 16th - 23rd 2023',
+                        'place' => 'Vidochov, Králové Hradec Distrikt, Eastern Czech Republic'
                     ],
                 ]
             ]

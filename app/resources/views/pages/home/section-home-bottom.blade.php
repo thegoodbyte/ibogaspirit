@@ -1,87 +1,93 @@
-<section id = "home-kdo-jsme">
+<section id = "home-kdo-jsme" class = "row">
 
-        <div class="col-lg-4 box-kdo-jsme p-2">
+        <div class="who-we-are-col-1 col-xl-4 col-lg-4">
+            <div class = "box-kdo-jsme">
 
-                <div class="row">
-                    <div class="row">
-                        <h2 class="font-just-me"><?php echo __('pages/homepage.content.section_bottom_about.col_1.title'); ?></h2>
-                    </div>
-                </div>
+                <h2 class="font-just-me text-center"><?php echo __('pages/homepage.content.section_bottom_about.col_1.title'); ?></h2>
 
-                <div class="row">
+
+                <div class="container">
+
                     <p class = " text-uppercase">
-                        <?php echo __('pages/homepage.content.section_bottom_about.col_1.par'); ?>
+                        <?php echo __('pages/homepage.content.section_bottom_about.col_1.par.top'); ?>
+                    </p>
+                    <div class="container text-center">
+                        <a href = "/iboga/co-je-iboga"><img src = "/images/home/iboga-bark.jpg"  width = "90%" /></a>
+                    </div>
+                    <p class = " text-uppercase">
+                        <?php echo __('pages/homepage.content.section_bottom_about.col_1.par.bottom'); ?>
                     </p>
                 </div>
 
-                <div class="row">
-                    <p class = "">
-                        Iboga se používá v různých obřadních ...
-                    </p>
-                </div>
+
 
                 <div class = "button-show-more">
                     <a href = "/iboga/iboga-co-je-iboga"><img src = "/images/misc/button-more.png" /></a>
                 </div>
+            </div>
         </div>
 
 
 
 
-        <div class="col-lg-4 box-kdo-jsme p-2">
+        <div class="who-we-are-col-2 col-xl-4 col-lg-4">
+                <div class = "box-kdo-jsme">
 
-                <div class="">
-                    <div class="row">
-                        <h2 class=""><span style="text-align: inherit;"><?php echo __('pages/homepage.content.section_bottom_about.col_2.title'); ?></span></h2>		</div>
-                </div>
-                <div class="row">
-                    <div class="elementor-widget-container uppercase">
-                        <p class = "">
-                            <?php echo __('pages/homepage.content.section_bottom_about.col_2.par'); ?>
+                    <h2 class="text-center"><?php echo __('pages/homepage.content.section_bottom_about.col_2.title'); ?></h2>
+
+                    <div class="container">
+                        <p>
+                            <?php echo __('pages/homepage.content.section_bottom_about.col_2.par.top'); ?>
                         </p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="row">
-                        <p>Pusobím mezinarodne ... momentálně v Mexickém Kankunu v <a href = "www.bwitilife.com">Bwitilife.com</a></p>						</div>
-                </div>
+                        <div class = "container text-center">
+                            <img src = "/images/home/onas/martin-circle.png" width = "80%"/>
+                        </div>
 
-            <div class = "button-show-more">
-                <a href = "/onas/nganga"><img src = "/images/misc/button-more.png" /></a>
-            </div>
+                        <p class = "">
+                            <?php echo __('pages/homepage.content.section_bottom_about.col_2.par.bottom'); ?>
+                        </p>
+
+{{--                        <p>Působím mezinárodně ... momentálně v Mexickém Kankunu v <a href = "www.bwitilife.com">Bwitilife.com</a> a začinám nabízet tuto léčebnou medicínu u nás v Čechách</p>--}}
+
+                        <div class = "button-show-more">
+                            <a href = "/onas/nganga"><img src = "/images/misc/button-more.png" /></a>
+                        </div>
+                    </div>
+
+                </div>
         </div>
 
 
 
-        <div class="col-lg-4 box-kdo-jsme p-2">
+        <div class="who-we-are-col-3 col-xl-4 col-lg-4">
 
-            <div class="row">
-                <div class="row">
-                    <h2 class="font-just-me"><?php echo __('pages/homepage.content.section_bottom_about.col_3.title'); ?></h2>
+            <div class = "box-kdo-jsme">
+
+                <h2 class="font-just-me text-center"><?php echo __('pages/homepage.content.section_bottom_about.col_3.title'); ?></h2>
+
+
+                <div class="container">
+                <p class = "">
+                    <?php echo __('pages/homepage.content.section_bottom_about.col_3.par'); ?><br /><br />
+                </p>
                 </div>
-            </div>
-            <div class="row">
-                <div class="row">
-                    <p class = "">
-                        <?php echo __('pages/homepage.content.section_bottom_about.col_3.par'); ?><br /><br />
-                    </p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="row">
+
+                <div class="container">
                     <strong><?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.0.date'); ?></strong><br />
                     <?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.0.place'); ?><br /><br />
                 </div>
 
-                <div class="row">
+                <div class="container">
                     <strong><?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.1.date'); ?></strong><br />
                     <?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.0.place'); ?>
+
                 </div>
-            </div>
 
 
-            <div class = "button-show-more">
-                <a href = "/obrady/terminy-a-ceny"><img src = "/images/misc/button-more.png" /></a>
+
+                <div class = "button-show-more">
+                    <a href = "/obrady/terminy-a-ceny"><img src = "/images/misc/button-more.png" /></a>
+                </div>
             </div>
         </div>
 

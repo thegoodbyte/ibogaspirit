@@ -61,18 +61,22 @@ return  [
         'section_bottom_about' => [
             'col_1' => [
                 'title' => 'WHAT IS IBOGA',
-                'par'   => 'IBOGA (TABERNATHE IBOGA) JE VYTRVALÝ KEŘ POCHÁZEJÍCÍ Z ROVNÍKOVÉ STŘEDOZÁPADNÍ AFRIKY.
-                KOŘENOVÁ KŮRA BYLA POUŽÍVÁNA JAKO PŘÍRODNÍ ROSTLINNÁ MEDICÍNA PO TISÍCE A TISÍCE LET DOMORODÝMI OBYVATELI
-                REGIONU. JE POVAŽOVÁNA ZA POSVÁTNOU SVÁTOST TĚCH, KTEŘÍ PRAKTIKUJÍ TRADICI ZNÁMOU JAKO BWITI.Iboga se používá v
-                různých obřadních ...'
+                'par'   => [
+                    'top' => 'IBOGA (TABERNATHE IBOGA) IS A PERENNIAL SHRUB NATIVE OF EQUATORIAL CENTRAL WEST AFRICA. THE ROOT BARK HAS BEEN USED ',
+                    'bottom' => 'AS NATURAL PLANT MEDICINE FOR THOUSANDS AND THOUSANDS OF YEARS BY INDIGENOUS INHABITANTS
+                REGION. IT IS CONSIDERED SACRED BY THOSE WHO PRACTICE THE TRADITION KNOWN AS BWITI. Iboga is used in
+                various ceremonials ...'
+            ]
             ],
             'col_2' => [
                 'title' => 'ABOUT ME',
-                'par' => 'Vitejte - jmenuji se Martin Halla a jsem Nganga - spirituálni lécitel a tradicni Bwiti Iboga facilitátor a poskytovatel.
-                    Jsem cesky rodak ze zapadnich cech, zijici pres 20 let v Severni AmericeStudoval jsem bezpecné poskytování
-                    Ibogy medicíny a Bwiti ucení a lécení v Gabonu, stredozápadni Africe, u samana 10-té generace Moughendy Mikaly.
-                        Ucil jsem se tradicní tisíce-letou praxi v Missoko Bwiti.
-                        Pusobím mezinarodne ... momentálně v Mexickém Kankunu v Bwitilife.com'
+                'par' => [
+                    'top' => 'Welcome - I am Martin and I am a Nganga - a spiritual healer and traditional Bwiti Iboga facilitator and provider.',
+                    'bottom' => 'I am a Czech native of Western guilds, living in North America for over 20 years.
+                    I studied the safe provision of Iboga medicine and Bwiti teaching and healing in Gabon, Central West Africa,
+                    with the 10th generation shaman Moughenda Mikala. I learned a traditional thousand-year-old practice in Missoko Bwiti.
+                    I work internationally ... currently in Cancun, Mexico at <a href = "www.bwitilife.com">Bwitilife.com</a>'
+                ]
             ],
             'col_3' => [
                 'title' => 'DATES',

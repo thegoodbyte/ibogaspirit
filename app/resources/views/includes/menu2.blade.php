@@ -42,7 +42,7 @@
             <!--<li class="dropdown menu-item"><a href="#"><?php //echo __('menu.menu_ceremonies.ceremonies.ceremonies'); ?></a>-->
 
             <li class = "dropdown3 menu-item">
-                <a href="#">O Nas</a>
+                <a href="#">O NÁS</a>
                 <ul>
                     <li><a href="/onas/nganga">Nganga - Léčitel</a></li>
                     <li><a href="/onas/moughenda">Šaman Moughenda</a></li>

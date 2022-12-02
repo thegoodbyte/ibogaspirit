@@ -3,12 +3,8 @@
     <div class = "row">
         <div class = "col-xl-6 ">
             <h2 class="p-3"><?php echo __('pages/homepage.content.section_get_to_know.left.title'); ?></h2>
-            <p class  = "p-3">
-                ŽIVOT MŮŽEME CTÍT TÍM, ŽE HO BUDEME ŽÍT ŠŤASTNĚ. <br>JE TO MOŽNÉ A NAŠE VROZENÉ PRÁVO.
-                JE TO MOŽNÉ A NAŠE VROZENÉ PRÁVO
-                IBOGA MEDICÍNA  A BWITI  UČENÍ NÁS UČÍ  JAK SI UŽÍVAT ŽIVOTA NAPLNO.
-                DOKÁŽE VYLÉČIT JAKÉKOLI PSYCHICKÉ TRAUMA TÍM, ŽE NÁS PŘIVEDE KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT.
-                JE TO OPRAVDOVÝ ZÁZRAK – NOVÉ ZROZENÍ
+            <p class  = "p-3 text-uppercase">
+                <?php echo __('pages/homepage.content.section_get_to_know.left.par'); ?>
             </p>
         </div>
 
