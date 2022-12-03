@@ -3,7 +3,6 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
 
-
 <title>{{ $pageTitle ?? 'test' }}</title>
 <link rel="stylesheet" href="/css/app.css">
 
@@ -14,13 +13,10 @@
 <meta name="robots" content="index,follow" />
 
 
-
 {{--<link rel='dns-prefetch' href='http://fonts.googleapis.com' />--}}
 
-{{--@include('includes.removed-old-wp-css-and-js')--}}
 
 <link rel="apple-touch-icon" href="/images/favicon_io/favicon.ico" />
-
 
 
 <link rel="stylesheet"  href="/css/menu2.css" type="text/css" media="all">

@@ -44,11 +44,11 @@ return [
         ],
         'section_mid_image_and_bellow' => [
             'quote' => 'Iboga nás přivádí zpět k nám samotným, nabízí vedení a léčení na hluboké duchovní úrovni',
-            'quote_bellow' => 'Kazdy problém a nemoc má začátek, Iboga je schopna je odhalit a vyléčit',
+            'quote_bellow' => 'Každý problém a nemoc má začátek, Iboga je schopna je odhalit a vyléčit',
             'par' => [
                 0 => 'Dalším faktorem, který dělá z Ibogy účinnou léčbu závislostí, je jeho schopnost léčit
-                emocionální a psychologické základní příčiny závislosti. Ibogae působí přes minulá traumata,
-                naučené destruktivní chování a s ystémy přesvědčení. Léčí základní emocionální příčinu vaší závislosti.
+                emocionální a psychologické základní příčiny závislosti. Iboga působí přes minulá traumata,
+                naučené destruktivní chování a systémy přesvědčení. Léčí základní emocionální příčinu vaší závislosti.
                 Iboga má také trvalý antidepresivní účinek, který dále přispívá k úspěšnému plánu obnovy.',
                 1 => 'Iboga má i další prospěšné vlastnosti. Funguje jako silný detoxikátor. Je také známý pro
                 své silné protiplísňové, antiparazitární a antivirové účinky, které podporují celkovou pohodu
@@ -56,16 +56,17 @@ return [
             ],
         ],
         'section_why_participate' => [
-            'title' => 'Proč se zúčastnit? Existují tři hlavní důvody, proč se lidé účastní obřadu Iboga.',
+            'title' => 'Proč se zúčastnit? Existují tři hlavní důvody, proč se lidé účastní obřadu Ibogy.',
             'items' => [
                 0 => 'Pro léčení',
                 1 => 'Chcete-li optimalizovat svůj život',
                 2 => 'Intuitivní volání',
             ],
             'pars' => [
-                0 => 'Jako rostlinný učitel , Iboga je jako vůdčí světlo, které osvětluje naši cestu a přináší hluboké vědomí sama sebe.',
+                0 => 'Jako rostlinný učitel, Iboga je jako vůdčí světlo, které osvětluje naši cestu a přináší hluboké vědomí sama sebe.',
                 1 => 'Iboga je jedním z nejúčinnějších rostlinných léků pro naše hluboké učení léčení.',
-                2 => 'Iboga poskytuje výhody neuroplasticity, které mohou přebudovat mozek, uvolnit trauma a podpořit vytváření nových zdravých návyků.'
+                2 => 'Iboga poskytuje výhody neuroplasticity, které mohou přebudovat mozek, uvolnit trauma a podpořit
+                vytváření nových zdravých návyků.'
             ],
             'cols' => [
                 'col_1' => [
@@ -83,12 +84,56 @@ return [
                     ]
                 ],
                 'col_2' => [
-                    'title' => '',
+                    'title' => 'Mentálně',
                     'items' => [
-
+                        'Resetuje neurotransmitery mozku',
+                        'Mentální detox negativních myšlenek',
+                        'Pomáhá léčit trauma z minulosti',
+                        'Pomáhá zklidnit úzkostné vzorce',
+                        'Podporuje jasnost a duševní klid',
+                        'Zmírňuje úzkosti a deprese',
+                        'Zmírňuje PTSD',
+                        'Uzdravení ze závislosti',
                     ]
+                ],
+                'col_3' => [
+                    'title' => 'Emocionálně',
+                    'items' => [
+                        'Zvyšte emoční sílu a bezpečí',
+                        'Uzemnění a centrování',
+                        'Uvolnění nezdravých příloh',
+                        'Přerušení začarovaných cyklů a smyček negativní zpětné vazby'
+                    ],
+                ],
+                'col_4' => [
+                    'title' => 'Spirituálně',
+                    'items' => [
+                        'Duchovní očista',
+                        'Léčení předků',
+                        'Spojení se svým pravým já/duší',
+                        'Uvolnění nezdravých vazeb/příloh',
+                        'Otevření třetího oka',
+                        'Pomáhá při sebeobjevování',
+                        'uzemnění'
+                    ],
                 ]
             ]
+        ],
+        'section_feedback' => [
+            'par' => 'Feedback od jednoho z mých hostů:',
+            'body' => 'Moje zkušenost s Martinem mi otevřela oči! Před prvním obřadem jsem byl velmi vzrušený a nervózní,
+                protože jsem neměl žádné předchozí zkušenosti s Ibogou. Martin byl vždy připraven zodpovědět všechny otázky nebo obavy,
+                které jsem měl během své cesty. I boga mi skutečně otevřela mysl a ukázala mi nešťastnou osobu, kterou jsem se stala,
+                a skutečnou šťastnou osobu, kterou ve skutečnosti jsem a kterou se mohu znovu stát. Setkat se tváří v tvář se svou duší
+                a napravit se mi vyniklo ze všech zážitků, které jsem na své cestě zažil. Pokud potřebujete duchovní uzdravení,
+                vřele doporučuji oslovit Martina a udělat první krok.',
+            'name' => 'J.Barreto'
+        ],
+        'section_bottom_text' => [
+            'par_1' => 'Tento lék neléčí pouze tělo; může léčit duši – zvláště když se
+                    koná v tradičním obřadu se silnými úmysly. Provozuji tradicni MIssoko Bwiti obrady',
+            'par_2' => 'Iboga je známá léčbou závislosti,ale to je jen začátek toho, co může nabídnout.',
+            'par_3' => 'Je to medicína duchovního zasvěcení a vizionářské kreativity.'
         ]
     ],
 ];

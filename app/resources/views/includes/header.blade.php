@@ -1,6 +1,4 @@
 <header id="masthead" class="site-header ">
-
-
         <section class="row">
             <div class="elementor-container elementor-column-gap-no">
                 <div class="" data-id="713a3ea" data-element_type="column">
