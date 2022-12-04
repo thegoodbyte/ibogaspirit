@@ -48,24 +48,10 @@ class HomeController extends Controller
     public function mailContactForm(ContactFormRequest $message, Recipient $recipient)
     {
 
-
         $recipient->notify(new ContactFormMessage($message));
 
         return redirect()->back()->with('message', 'Thanks for your message! We will get back to you soon!');
     }
 
-    public function postContactus(Request $request)
-    {
-        $this->validate($request, [
-            'fullname' => 'required',
-            'email' => 'required',
-            'description' => 'required',
-            'g-recaptcha-response' => 'required|captcha',
-        ]);
 
-
-        // Write here your database logic
-        \Session::put('message', 'Your Request Submited Successfully..!!');
-        return redirect()->back();
-    }
 }
