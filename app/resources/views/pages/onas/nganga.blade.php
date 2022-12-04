@@ -115,7 +115,7 @@
             <p>Kdykoli mě prosím kontaktujte a napište mi, i jen s jakoukoliv otázkou.
             Bude mi potěšením se s vámi setkat a pomoci vám, jak jen budu moci!</p>
 
-            <p class = "font-signature font-size-60">Martin Halla</p>
+            <p><img src = "/images/home/onas/my-signture.png"></p>
         </div>
     </div>
 
