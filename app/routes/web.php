@@ -19,22 +19,29 @@ Route::controller(\App\Http\Controllers\IbogaController::class)->group(function(
     Route::get('/{en}/iboga-bwiti-retraeats-czech-republic-europe', 'index');
 });
 
-Route::controller(\App\Http\Controllers\IbogaController::class)->group(function() {
+Route::controller(\App\Http\Controllers\IbogaController::class)->group(function($locale) {
     Route::get('/{locale}/iboga', "what_is_iboga");
     Route::get('/{locale}/iboga/co-je-iboga',  "what_is_iboga");
     Route::get('/{locale}/iboga/jak-vam-iboga-muze-pomoci',  "jak_vam_iboga_muze_pomoci");
     Route::get('/{locale}/iboga/iboga-vs-ayahuasca',  "iboga_vs_ayahuasca");
     Route::get('/{locale}/iboga/gabon', "gabon");
     Route::get('/{locale}/iboga/deprese',  "deprese");
-    Route::get('/{locale}/iboga/bwiti-tradice',  "bwiti_tradice");
+//    Route::get('/{locale}/iboga/bwiti-tradice',  "bwiti_tradice");
+
+    Route::get('/{locale}/iboga/bwiti-tradice', 'bwiti_tradice');
+
+
 });
 
-Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "what_id_iboga"]);
+
+
+
+//Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "what_id_iboga"]);
 Route::get('/iboga/co-je-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"]);
-Route::get('/iboga/jak-vam-iboga-muze-pomoci', [\App\Http\Controllers\IbogaController::class, "jak_vam_iboga_muze_pomoci"]);
-Route::get('/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"]);
-Route::get('/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"]);
-Route::get('/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"]);
+//Route::get('/iboga/jak-vam-iboga-muze-pomoci', [\App\Http\Controllers\IbogaController::class, "jak_vam_iboga_muze_pomoci"]);
+//Route::get('/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"]);
+//Route::get('/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"]);
+//Route::get('/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"]);
 Route::get('/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, "bwiti_tradice"]);
 
 Route::get('/obrady/priprava', [\App\Http\Controllers\ObradyController::class, "preparation"]);

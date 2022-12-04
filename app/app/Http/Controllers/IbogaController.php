@@ -9,20 +9,19 @@ class IbogaController extends Controller
 {
 
 
-    public function __construct($lang = 'cs')
+    public function __construct($lang = 'it')
     {
         echo $lang;
     }
 
-    public function index($lang = 'cs') {
+    public function index() {
 
-        echo $lang;
         return View::make('pages.iboga.index');
 
     }
 
-    public function jak_vam_iboga_muze_pomoci() {
-
+    public function jak_vam_iboga_muze_pomoci($lang = 'cz') {
+        app()->setlocale($lang);
         return View::make('pages.iboga.jak_vam_iboga_muze_pomoci');
 
     }
@@ -39,8 +38,8 @@ class IbogaController extends Controller
 
     }
 
-    public function bwiti_tradice() {
-
+    public function bwiti_tradice($lang = 'cz') {
+        app()->setlocale($lang);
         return View::make('pages.iboga.bwiti-tradice');
 
     }

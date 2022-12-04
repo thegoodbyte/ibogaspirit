@@ -32,13 +32,13 @@ return [
             'par' => ''
         ],
         'section_par_nature' => [
-            'title' => 'Příroda cZ',
-            'par_1' => 'Bwiti věří, že jim bude poskytnuto vše, co potřebují. Pokud jste někdy chodili v džungli v Gabonu,
-            rychle pochopíte, jak tato vděčnost a důvěra vznikla. Výživné jídlo a ovoce mohou být shromážděné téměř odkudkoli
-            lze nastražit pasti na to, čemu říkají „křoví maso“, a jednoduše je shromáždit, než trávit dny na lovu. Voda také
-            hojně teče se spoustou deště, aby udržela džungli při životě. Jak bylo zmíněno výše, nejstarší Bwiti neustále studovali
-            život samotný a zkoumali, kdo by to mohl být dal jim život a hojnost. Z toho hledání vzešlo mocné poselství, že příroda
-            vždy bude dejte jim, co potřebují, ale pokud by toho zneužili nebo se k tomu připoutali, utrpěli by bídu.',
+            'title' => 'Nature',
+            'par_1' => 'Bwiti believe that they will be provided with everything they need. If you\'ve ever walked in a jungle in Gabon,
+            you will quickly understand how this gratitude and trust came about. Nutritious food and fruit can be gathered from almost anywhere
+            traps can be set for what they call "bushmeat" and simply collected rather than spending days hunting. Water too
+            it flows profusely with plenty of rain to keep the jungle alive. As mentioned above, the oldest Bwiti were constantly studying
+            life itself and explored who it might be that gave them life and abundance. From that search came a powerful message that nature
+            it will always give them what they need, but if they misused it or became attached to it, they would suffer misery.',
 
             'par_2' => 'Tento koncept je při zkoumání tak silnou destilací moudrosti. Člověk rychle pochopí, proč lidé existující
             v „moderním světě“ jsou tak nešťastní, takže jejich životy jsou shromažďováním hmotných statků a žít v celé struktuře,

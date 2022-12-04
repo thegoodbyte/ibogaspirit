@@ -141,23 +141,17 @@
 <div class = "row">
 
     <div class = "col-xl-7">
-        <h4 class = "bwiti-tradice-h3 font-just-me">Příroda</h4>
+        <h4 class = "bwiti-tradice-h3 font-just-me"><?php echo __('pages/bwiti_tradition.content.section_par_nature.title'); ?></h4>
         <p>
-            Bwiti věří, že jim bude poskytnuto vše, co potřebují. Pokud jste někdy chodili v džungli
-            v Gabonu, rychle pochopíte, jak tato vděčnost a důvěra vznikla. Výživné jídlo a ovoce mohou být
-            shromážděné téměř odkudkoli lze nastražit pasti na to, čemu říkají „křoví maso“, a jednoduše je shromáždit,
-            než trávit dny na lovu. Voda také hojně teče se spoustou deště, aby udržela džungli při životě.
-            Jak bylo zmíněno výše, nejstarší Bwiti neustále studovali život samotný a zkoumali, kdo by to mohl být
-            dal jim život a hojnost. Z toho hledání vzešlo mocné poselství, že příroda vždy bude
-            dejte jim, co potřebují, ale pokud by toho zneužili nebo se k tomu připoutali, utrpěli by bídu.
+            <?php echo __('pages/bwiti_tradition.content.section_par_nature.par_1'); ?>
         </p>
 
         <p>
-            Tento koncept je při zkoumání tak silnou destilací moudrosti. Člověk rychle pochopí, proč lidé
-            existující v „moderním světě“ jsou tak nešťastní, takže jejich životy jsou shromažďováním hmotných statků a
-            žít v celé struktuře, která zneužívá přírodní svět a je hluboce spjata s materiálem
-            zboží, které vytěžila. Bwiti stále žijí s bezúhonností, která vyplývá z jejich respektu k tomuto přísloví.
-            Žijí jednodušší život, který je hluboce spjat s přírodou a komunitou a díky tomu jsou neuvěřitelně šťastní.
+            This concept is such a powerful distillation of wisdom when explored. One quickly understands why people
+            existing in the "modern world" they are so unhappy that their lives are the accumulation of material possessions and
+            living in a whole structure that abuses the natural world and is deeply connected to the material
+            the goods she mined. The Bwiti still live with the integrity that results from their respect for this proverb.
+            They live a simpler life that is deeply connected to nature and community, making them incredibly happy.
         </p>
 
 
