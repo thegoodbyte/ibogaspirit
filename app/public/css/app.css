@@ -40,6 +40,17 @@ a:hover {
     src: url('/fonts/strawberry-blossom/Strawberry_Blossom.ttf');
 }
 
+@font-face {
+    font-family: thesignture;
+    src: url('/fonts/thesignature/Thesignature.ttf');
+}
+
+.font-signature {
+    font-family: thesignture, Arial;
+}
+
+
+
 .font-size-30 {
     font-size: 30px;
 }
