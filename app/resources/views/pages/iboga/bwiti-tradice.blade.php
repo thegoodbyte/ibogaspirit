@@ -3,18 +3,17 @@
 
 
     <div class = "row"  id = "iboga-bwiti-tradice-top-iamge">
-        <h2 class = "font-just-me font-size-80">
-            Bwiti tradice – šamanské léčení</h2>
+        <h2 class = "font-just-me font-size-80"><?php echo __('pages/bwiti_tradition.content.section_top_image.title'); ?></h2>
 
             <div class = "text-box">
-                <p>Bwiti je tradice, která pochází z kmene Bwiti v Gabonu v Africe, což znamená...</p>
-                <h3>„Studium života nebo Studium přírozenosti“.</h3>
+                <p><?php echo __('pages/bwiti_tradition.content.section_top_image.par'); ?></p>
+                <h3><?php echo __('pages/bwiti_tradition.content.section_top_image.subtitle'); ?></h3>
             </div>
     </div>
 
 <div class = "row mt-5">
     <div class = "row">
-        <h4 class = "font-just-me font-size-40">Bwiti - Tradiční duchovní cesta</h4>
+        <h4 class = "font-just-me font-size-40"><?php echo __('pages/bwiti_tradition.content.section_traditional_path.title'); ?></h4>
     </div>
 
     <div class = "col-xl-1">
@@ -23,18 +22,16 @@
 
     <div class = "col-xl-10">
         <p>
+        <?php echo __('pages/bwiti_tradition.content.section_traditional_path.par_1'); ?>
+            <!--
             Bwiti and the Iboga plant’s symbiotic relationship goes back thousands of years to when the
             Iboga plant was first discovered. Iboga became a sacrament of the Bwiti, with nearly every aspect of
             their tradition and their ceremonies given to them by the spirit of Iboga itself. Iboga is such an
-            important part of their lives, that it is used as the initiation into the tradition and is consumed regularly at ceremonies.
+            important part of their lives, that it is used as the initiation into the tradition and is consumed regularly at ceremonies.-->
         </p>
         <p>
+            <?php echo __('pages/bwiti_tradition.content.section_traditional_path.par_2'); ?>
 
-            Bwiti není náboženství, ale tradiční duchovní cesta, která vás přivede k hlubokému spojení s vaší duší,
-            učí vás ovládat sebe sama a být přítomen ve své vlastní zkušenosti.
-            Umožňuje vám odhalit všechny pravdy o sobě, které vám mohou bránit žít život, jaký chcete.
-            K cestě dovnitř používáme posvátnou rostlinnou medicínu IBOGA. Je to svátost tradice, „jemný obr“
-            učitel rostlin s vrozenou moudrostí, aby vás přivedl k pravdě o tom, kdo jste.
         </p>
     </div>
 
@@ -46,23 +43,18 @@
 
 
     <div class = "col-xl-12">
-        <h3 class = "bwiti-tradice-h3 font-just-me"> Missoko Bwiti Tradice</h3>
+        <h3 class = "bwiti-tradice-h3 font-just-me">
+
+            <?php echo __('pages/bwiti_tradition.content.section_missoko_bwiti.title'); ?></h3>
 
         <p>
-            Tradice Missoko Bwiti sahá tisíce let zpět a její linie může sahat až k nejstarším
-            doby lidstva. Pochází z tradice Dissumba, což je původní forma Bwiti, která nakonec
-            se rozdělil na různé sekty, z nichž každá stále drží mnoho stejných tradic.
-            Tradice začala u Babongů z Gabonu, kteří jsou také známí jako Pygmejové, nicméně,
-            Pygmej je francouzský výraz a je považován za hanlivý. <br />
+            <?php echo __('pages/bwiti_tradition.content.section_missoko_bwiti.par_1'); ?> <br />
+        </p>
         <div class = "row">
             <img src = "/images/iboga/bwiti-temple-1200.jpg" />
         </div>
-            Ještě předtím, než objevili Ibogu, Babongo studovali
-            život sám vytváří základ pro tradici, kterou máme dnes. Babongo byli také těmi, kdo objevili
-            Ibogu a nakonec Iboga ovlivnila a inspirovala všechno Bwiti. Téměř každý aspekt Missoko
-            dnešní tradice je vytvořen duchem Ibogy a Iboga je jejich hlavní svátostí. Lidé Babongo si ponechali
-            svátost Ibogy mezi sebou a po velmi dlouhou dobu ji tajily, aby ji ochránili. Nakonec
-            ji sdíleli s ostatními a nyní je to jedna z hlavních duchovních tradic Gabonu.
+        <p>
+            <?php echo __('pages/bwiti_tradition.content.section_missoko_bwiti.par_2'); ?>
         </p>
     </div>
 </div>
@@ -70,21 +62,12 @@
 
 
 <div class = "row">
+    <h3 class = "bwiti-tradice-h3 font-just-me"><?php echo __('pages/bwiti_tradition.content.section_misinterpretation.title'); ?></h3>
     <div class = "col-xl-12">
-        <h3 class = "bwiti-tradice-h3 font-just-me">Misreprezentace a Zkreslení</h3>
         <p>
-            Mnoho informací o Bwiti dostupných v knihách a na internetu je ve skutečnosti o Fang tradici.
-            Fang nejsou jedinou pobockou tam venku a jsou ve skutečnosti docela odlišní od Missoko.
-            Zatímco Fang jsou Bwiti, jsou ve skutečnosti ovlivněni křesťanstvím, které do Gabonu přinesl F
-            rench misionáři před několika sty lety. Missoko Bwiti nemá křesťanský vliv a je
-            dnes méně známá, protože byla záměrně skryta a utajována, aby byla chráněna před křesťany
-            a francouzských kolonialistů. <br />
-
-            Missoko Bwiti byla pouze předávána z dechu do dechu nebo prostřednictvím ústní tradice
-            a z tohoto důvodu je velká část dostupných dat omezena na Tesáky, kteří s nimi byli ve větším kontaktu
-            Západ. Historie Missoko Bwiti nebyla zaznamenána tak, jak ji zaznamenáváme na západě, ale byla předávána dál
-            příběhy z generace na generaci.
+            <?php echo __('pages/bwiti_tradition.content.section_misinterpretation.par_1'); ?><br />
         </p>
+
     </div>
 
 </div>
@@ -93,12 +76,11 @@
 
 
 <div class = "row background-text-light-grey">
-    <div class = "row">
 
-    </div>
-    <div class = "col-xl-4 col-sm-1 col-md-1">
+    <div class = "col-xl-5 col-sxs-12 col-md-12">
         <img
-            srcset="/images/iboga/bwiti/moughenda-torch-1200w.jpg 1200w, /images/iboga/bwiti/moughenda-torch-400w.jpg 400w"
+            srcset="/images/iboga/bwiti/moughenda-torch-1200w.jpg 1200w,
+                    /images/iboga/bwiti/moughenda-torch-400w.jpg 400w"
             sizes = "(max-width: 400px) 400px"
             src="/images/iboga/bwiti/moughenda-torch-1200w.jpg"
             alt = "Saman Moughenda - Iboga seance - Ceska Republika"
@@ -106,31 +88,22 @@
     </div>
 
 
-    <div class = "col-xl-8  col-sm-1 col-md-1">
-
-        <h4 class = "bwiti-tradice-h3 font-just-me">Rituály a obřady</h4>
+    <div class = "col-xl-7  col-xs-12 col-md-1">
         <p>
-            Missoko Bwiti rituály a ceremonie jsou mocně bohatým vyjádřením lidského ducha.
-            Rite of Passage, rituál „dospívání“ pro ženy a muže všech věkových kategorií, trvající
-            různě dlouhou dobu a přináší změněné lidi na druhé straně. Funguje to jako způsob, jak zajistit
-            komunitu, integritu a spojení, což je něco, co jsme na západě ztratili. Zasvěcení je další obřad „dospívání“,
-            kdy se konzumuje Iboga. Zasvěcení je místo, kde se učí realitě života a setkávají se se svou duší, poznávají,
-            kým skutečně jsou. Iniciační obřady zahrnují požívání Ibogy, spoustu nádherné hudby a tance. Jsou velmi silným
-            tradičním zážitkem, kterého se lze zúčastnit.
+            <?php echo __('pages/bwiti_tradition.content.section_misinterpretation.par_2'); ?>
+        </p>
+        <h4 class = "bwiti-tradice-h3 font-just-me"><?php echo __('pages/bwiti_tradition.content.section_rituals.title'); ?></h4>
+        <p>
+            <?php echo __('pages/bwiti_tradition.content.section_rituals.par'); ?>
         </p>
 
-        <h4 class = "bwiti-tradice-h3 font-just-me">Šaman</h4>
+        <h4 class = "bwiti-tradice-h3 font-just-me"><?php echo __('pages/bwiti_tradition.content.section_shaman.title'); ?></h4>
         <p>
-            Šamani (Nimas) jsou duchovní vůdci komunity a procházejí přísným výcvikem po celá desetiletí.
-            V případě našeho Šamana bylo jeho narození prorokováno roky dopředu. Nový šaman je obvykle někdo
-            v pokrevní linii předchozího šamana, ale není to nutně jejich syn nebo dcera.
+            <?php echo __('pages/bwiti_tradition.content.section_shaman.par_1'); ?>
         </p>
 
         <p>
-            Šaman je
-            hlavní léčitel a duchovní průvodce komunity. Když je někdo nemocný nebo má duchovní potíže,
-            obracejí se na šamana, který má celou sadu nástrojů džungle a duchů, aby jim pomohl v jejich léčení.
-            Dobrý šaman je mistrem rostlinných léčiv nalezených v džungli, zná stovky rostlin uvnitř i vně.
+            <?php echo __('pages/bwiti_tradition.content.section_shaman.par_2'); ?>
         </p>
     </div>
 </div>
@@ -141,22 +114,26 @@
 <div class = "row">
 
     <div class = "col-xl-7">
-        <h4 class = "bwiti-tradice-h3 font-just-me"><?php echo __('pages/bwiti_tradition.content.section_par_nature.title'); ?></h4>
+        <h4 class = "bwiti-tradice-h3 font-just-me">
+            <?php echo __('pages/bwiti_tradition.content.section_nature.title'); ?></h4>
         <p>
-            <?php echo __('pages/bwiti_tradition.content.section_par_nature.par_1'); ?>
+            <?php echo __('pages/bwiti_tradition.content.section_nature.par_1'); ?>
         </p>
 
         <p>
+
+            <?php echo __('pages/bwiti_tradition.content.section_nature.par_2'); ?>
+            <!--
             This concept is such a powerful distillation of wisdom when explored. One quickly understands why people
             existing in the "modern world" they are so unhappy that their lives are the accumulation of material possessions and
             living in a whole structure that abuses the natural world and is deeply connected to the material
             the goods she mined. The Bwiti still live with the integrity that results from their respect for this proverb.
-            They live a simpler life that is deeply connected to nature and community, making them incredibly happy.
+            They live a simpler life that is deeply connected to nature and community, making them incredibly happy.-->
         </p>
 
 
-        <h4 class = "font-just-me mb-5">Jediná modlitba v Bwiti tradici</h4>
-        <blockquote class = "mt-5">Děkuji ti stvořiteli za další nový den</blockquote>
+        <h4 class = "font-just-me mb-5"><?php echo __('pages/bwiti_tradition.content.section_prayer.title'); ?></h4>
+        <blockquote class = "mt-5"><?php echo __('pages/bwiti_tradition.content.section_prayer.quote'); ?></blockquote>
     </div>
 
     <div class = "col-xl-5">
