@@ -5,7 +5,13 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\Facades\Input;
-use Illuminate\Support\Facades\App;
+
+
+use App\Notifications\ContactFormMessage;
+use App\Http\Requests\ContactFormRequest;
+use App\Models\Recipient;
+
+
 use Validator;
 use Redirect;
 
@@ -35,19 +41,24 @@ class HomeController extends Controller
 
     public function kontakt() {
 
+
         return View::make('pages.onas.kontakt');
     }
 
-    public function postContactus(Request $request)
+    /**
+     * @param ContactFormRequest $message
+     * @param Recipient $recipient
+     * @return \Illuminate\Http\RedirectResponse
+     *
+     * https://welcm.uk/blog/creating-a-contact-form-for-your-laravel-website
+     */
+    public function mailContactForm(ContactFormRequest $message, Recipient $recipient)
     {
-        $this->validate($request, [
-            'fullname' => 'required',
-            'email' => 'required',
-            'description' => 'required',
-            'g-recaptcha-response' => 'required|captcha',
-        ]);
-        // Write here your database logic
-        \Session::put('success', 'Youe Request Submited Successfully..!!');
-        return redirect()->back();
+
+        $recipient->notify(new ContactFormMessage($message));
+
+        return redirect()->back()->with('message', 'Thanks for your message! We will get back to you soon!');
     }
+
+
 }

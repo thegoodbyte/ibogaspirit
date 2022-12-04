@@ -12,33 +12,33 @@
         </div>
 
         <div class = "col-xl-7">
-            <p> Vitejte - já jsem Martin - Spiritualní léčitel neboli Nganga - tradiční Missoko Bwiti Iboga facilitátor.
+            <p> Vitejte - já jsem Martin - spirituální léčitel neboli "<strong>Nganga</strong>" - tradiční Missoko Bwiti Iboga facilitátor.
                 Studoval jsem tradiční
-                léčení Ibogou u šamana 10-te generace přímo v Gabonu ve stredozápadní Africe a praktuji převážne v Mexiku.
-                Nyni take nabízím Iboga obřady take u nás Cecháchr</p>
+                léčení Ibogou u šamana 10-té generace přímo v Gabonu ve středozápadní Africe. Pocházím ze Západních Čech - z Rokycanska - ale již přes 20 let bydlím v Severní Americe a praktuji převážně v Mexiku.
+                Nyní nabízím Iboga obřady také u nás v Čechách.</p>
             <p>
-                Zamiloval jsem se do tradice Bwiti a Ibogy medicíny protože nás učí nasi vnitřní pravdu a
-                jak krásny,  jednoduchy a nekomplikovany  náš zivot je a muže být.
+                Zamiloval jsem se do tradice Bwiti a Ibogy medicíny protože nás učí naši vnitřní pravdu a
+                jak krásný,  jednoduchý a nekomplikovaný  náš život je a může být.
                 Rostlina Iboga je zároveň léčitelem a učitelem.
                 Iboga mi pomohla, když jsem v životě procházel traumatickým obdobím.
                 Před tímto obdobím jsem býval velmi úspěšný a šťastný, ale pak mě traumatická událost poslala do
-                falešných domněnek a predstav, úzkostí, strachu a panických záchvatů.
+                falešných domněnek a představ, úzkostí, strachu a panických záchvatů.
                 Hodně jsem na sobě pracoval - autosugesce, ruzné  toltécké šamanské praktiky, kurzy od Tonyho Robinse,
-                zákon pritažlivosti, věstkyně,  každodenní meditace atd. Pomalu jsem pokracoval
+                zákon přitažlivosti, věstkyně,  každodenní meditace atd. Pomalu jsem pokračoval
                  ale nikam jsem se nedostával.
             </p>
 
             <p>
-                O Iboze medicíně jsem se prvně dozvěděl od polské věštkyně z Chikaga.
+                O Iboze medicíně jsem se prvně dozvěděl od polské věštkyně z Chikága.
                 Pověděla mi "Jeď na Ibogu a všechny tvoje problémy budou vyřešeny".
-                Zdálo se mi to jako nějaká fráze a neveřil jsem tomu. Trvalo mi to 7 let nez jsem ucinil ten první krok a
-                vydal se za šamanskym Bwiti lécením do blizke Kostariky.
+                Zdálo se mi to jako nějaká fráze a nevěřil jsem tomu. Trvalo mi to 7 let než jsem učinil ten první krok a
+                vydal se za šamanským Bwiti léčením do blízké Kostariky.
             </p>
 
             <p>
-                Po tydenním pobytu (a dvouch obřadech) to bylo, jako bych to byl nový já  - se všemi svými předchozími vlastnostmi, ale tentokrát lepsími..
-                Navíc jsem se cítil a vypadal jako omlazeny.
-                Mé srdce bylo znovu otevřené, nejen k tomu milovat druhé , ale také milovat sam sebe.
+               Po týdenním pobytu (a dvouch obřadech) to bylo, jako bych to byl nový já  - se všemi svými předchozími vlastnostmi, ale tentokrát lepšími..
+               Navíc jsem se cítil a vypadal jako omlazený.
+                Mé srdce bylo znovu otevřené, nejen k tomu milovat druhé , ale také milovat sám sebe.
                 Nemohl jsem uvěřit, že existuje tak úžasné a jednoduché řešení pro různé komplikované problémy a podmínky.
             </p>
 
@@ -114,6 +114,8 @@
 
             <p>Kdykoli mě prosím kontaktujte a napište mi, i jen s jakoukoliv otázkou.
             Bude mi potěšením se s vámi setkat a pomoci vám, jak jen budu moci!</p>
+
+            <p><img src = "/images/home/onas/my-signture.png"></p>
         </div>
     </div>
 
