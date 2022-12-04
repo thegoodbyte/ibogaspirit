@@ -22,7 +22,7 @@
 
 
                 <div class = "button-show-more">
-                    <a href = "/iboga/iboga-co-je-iboga"><img src = "/images/misc/button-more.png" /></a>
+                    <a href = "/iboga/co-je-iboga"><img src = "/images/misc/button-more.png" /></a>
                 </div>
             </div>
         </div>
