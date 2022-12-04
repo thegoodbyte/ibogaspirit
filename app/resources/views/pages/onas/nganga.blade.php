@@ -18,7 +18,7 @@
                 Nyní nabízím Iboga obřady také u nás v Čechách.</p>
             <p>
                 Zamiloval jsem se do tradice Bwiti a Ibogy medicíny protože nás učí naši vnitřní pravdu a
-                jak krásny,  jednoduchý a nekomplikovaný  náš život je a může být.
+                jak krásný,  jednoduchý a nekomplikovaný  náš život je a může být.
                 Rostlina Iboga je zároveň léčitelem a učitelem.
                 Iboga mi pomohla, když jsem v životě procházel traumatickým obdobím.
                 Před tímto obdobím jsem býval velmi úspěšný a šťastný, ale pak mě traumatická událost poslala do
