@@ -8,7 +8,7 @@
 
 
     <div class = "row">
-        <h1 class = "font-just-me color-iscz-red text-center h1-heading">VÁŠ PRVNÍ IBOGA CEREMONIÁL </h1>
+        <h1 class = "font-just-me color-iscz-red text-center h1-heading"></h1>
     </div>
 
     <div class = "row">

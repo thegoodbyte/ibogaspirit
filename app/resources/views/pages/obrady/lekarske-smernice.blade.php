@@ -8,10 +8,6 @@
     </div>
 
 
-
-
-
-
     <!-- ----- SECTION --------------------- -->
     <div class = "row">
         <div class = "col-xl-12">
@@ -115,14 +111,14 @@
 
                     <p>
                         Iboga může být velmi nebezpečná, pokud je kombinována s psychiatrickými léky.<br />
-                    PROSÍM, KONTAKTUJTE NÁS, POKUD MÁTE V TOMTO DOTAZY NEBO OTÁZKY!!!
-                </p>
+                        PROSÍM, KONTAKTUJTE NÁS, POKUD MÁTE V TOMTO DOTAZY NEBO OTÁZKY!!!
+                    </p>
 
-                <p>
-                    Je důležité vědět, že Iboga má potenciál očistit a detoxikovat tělo i mysl,
-                    takže nejsou nutné žádné diety, ani detox.
+                    <p>
+                        Je důležité vědět, že Iboga má potenciál očistit a detoxikovat tělo i mysl,
+                        takže nejsou nutné žádné diety, ani detox.
 
-                </p>
+                    </p>
             </div>
 
             <div class = "col-xl-6">
