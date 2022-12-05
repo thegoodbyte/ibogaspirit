@@ -1106,6 +1106,7 @@ footer a:hover {
         color: #760505;
         width: 240px;
         padding-left: 10px;
+        line-height: 100%;
     }
 
     #img-box-iboga-helps blockquote:before {
@@ -1113,11 +1114,18 @@ footer a:hover {
         padding-left: 10px;
     }
 
+    #img-box-iboga-helps-middle blockquote {
+        padding-top: 25px;
+    }
+
     #img-box-iboga-helps blockquote {
 
-        padding-left: 20px;
-        border-left: 0px;
-        width: 250px;
+        width: 260px;
+        font-size: 20px;
+        top: -10px;
+        padding-top: 20px;
+        padding-bottom: 0;
+        line-height: 120%;
     }
 
 

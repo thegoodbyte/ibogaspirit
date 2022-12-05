@@ -8,8 +8,8 @@
     </div>
 
 
-    <div class = "row">
-        <div class = "col-xl-12 col-xs-1 pt-5" id = "how-iboga-helps-h2-who-is-for">
+    <div class = "container">
+        <div class = "col-xl-12 col-xs-1" id = "how-iboga-helps-h2-who-is-for">
             <h3 class = "font-size-40 font-just-me color-iscz-green">
                 <?php echo __('pages/how_iboga_can_help.content.section_mid_text.quote'); ?>
             </h3>
@@ -209,14 +209,14 @@
 
 
             <p>
-                <?php echo __('pages/how_iboga_can_help.content.section_bottom.par_1'); ?>
+                <?php echo __('pages/how_iboga_can_help.content.section_bottom_text.par_1'); ?>
             </p>
 
             <p>
-                <?php echo __('pages/how_iboga_can_help.content.section_bottom.par_2'); ?>.
+                <?php echo __('pages/how_iboga_can_help.content.section_bottom_text.par_2'); ?>.
             </p>
             <p>
-                <?php echo __('pages/how_iboga_can_help.content.section_bottom.par_3'); ?>
+                <?php echo __('pages/how_iboga_can_help.content.section_bottom_text.par_3'); ?>
             </p>
 
         </div>
