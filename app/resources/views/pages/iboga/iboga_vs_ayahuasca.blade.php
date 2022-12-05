@@ -152,117 +152,129 @@
         </div>
     </div>
 
-    <div class = "row">
-        <h2 class = "font-just-me h2-heading color-iscz-orange text-center">Jídlo, Léky a Drogy</h2>
+    <div class = "container background-text-light-okr">
+        <div class = "row background-text-light-okr">
+            <h2 class = "font-just-me h2-heading color-iscz-orange text-center">Jídlo, Léky a Drogy</h2>
+        </div>
+        <div class = "row">
+            <div class = "col-xl-6">
+
+                <h2  class  = "font-just-me color-iscz-red h2-heading">Jídlo, kterému je třeba se vyhnout</h2>
+                <p>
+                    Červené maso<br />
+                    Vepřové maso<br />
+                    zralé sýry<br />
+                    Jogurt<br />
+                    Alkohol<br />
+                    Fermentované potraviny, jako je sójová omáčka, fermentované tofu a kysané zelí<br />
+                    Aspartam<br />
+                    Výživové doplňky, jako jsou proteinové prášky<br />
+                    Arašídy (ve velkém množství)<br />
+                    Čokoláda (ve velkém množství)<br />
+                </p>
+
+                <p>
+                    Kořeněná jídla<br />
+                    Rafinovaný cukr (tj. sladkosti a nezdravé jídlo)<br />
+                    Mléčné výrobky<br />
+                    Kofein<br />
+                    Oleje<br />
+                </p>
+            </div>
+
+            <div class = "col-xl-6">
+                <h3 class = "font-just-me color-iscz-red h3-heading">Léky, kterým je třeba se vyhnout, patří:</h3>
+                <p>
+                    – Antidepresiva jako SSRI<br />
+                    – inhibitory MAO<br />
+                    – Barbituráty<br />
+                    – Léky na spaní<br />
+                    – Alfa- a beta-blokátory<br />
+                </p>
+
+
+                <h3 class = "font-just-me color-iscz-red h3-heading">Musíte se také vyhnout pouličním drogám, jako jsou:</h3>
+                <p>– Kokain<br />
+                    – Amfetaminy<br />
+                    – Opiáty<br />
+                    – Psilocybin<br />
+                    – LSD<br />
+                    – Marihuana<br />
+                    – MDMA</p>
+
+            </div>
+        </div>
     </div>
+
+
     <div class = "row">
-        <div class = "col-xl-6">
+        <div class = "col-xl-12">
+            <h2 class = "font-just-me color-iscz-red text-center h2-heading">Délka trvání.</h2>
+            <h2  class  = "font-just-me color-iscz-red h2-heading">
+                 Iboga vs Ayahuasca
+            </h2>
 
-            <h2  class  = "font-just-me color-iscz-red h2-heading">Jídlo, kterému je třeba se vyhnout</h2>
-            <p>
-                Červené maso<br />
-                Vepřové maso<br />
-                zralé sýry<br />
-                Jogurt<br />
-                Alkohol<br />
-                Fermentované potraviny, jako je sójová omáčka, fermentované tofu a kysané zelí<br />
-                Aspartam<br />
-                Výživové doplňky, jako jsou proteinové prášky<br />
-                Arašídy (ve velkém množství)<br />
-                Čokoláda (ve velkém množství)<br />
-            </p>
+            <p>Iboga: Obřady Iboga trvají 8-12 hodin a její účinky trvají 12-36 hodin. Způsobuje ataxii, která ztěžuje pohyb a můžete se také očistit. I když to není nutné, může to být nezbytnou součástí holistického léčebného procesu, který vede k vyčištění toho, co jste drželi ve svém těle. Na Iboze se s největší pravděpodobností nevyspíte až následující večer, a proto je den po obřadu ibogy většinou stráven jako „den zpracování“. Den zpracování je den po obřadu, kdy dochází k hluboké introspekci a vhledům. Tento zážitek ze zpracování může být často poučnější než samotný obřad.
+                Ayahuasca: Průměrná doba trvání ayahuascového sezení je 4-6 hodin. Nastartování trvá 20-60 minut a jeho nejsilnější účinky mohou trvat 3-6 hodin. Často dochází k katarzní očistě energie, jako je průjem, zvracení, zívání a pláč. Nastává poměrně rychlá doba zotavení, protože po skončení obřadu můžete spát a s největší pravděpodobností se zotavíte do snídaně. Následující den je obvykle naplněn pocitem láskyplného, hřejivého dosvitu.</p>
+            <h3 class = "font-just-me color-iscz-red">Počet požadovaných obřadů: Iboga vs Ayahuasca</h3>
+            <p>Ayahuasca: Ayahuasca obvykle vyžaduje častější obřady, v rozmezí desítek až stovekkrát, aby bylo možné zažít trvalé uzdravení. I když je jeho učení hluboké, může někdy rychle vyblednout, a proto vyžaduje důslednou údržbu. Jeho účinky obvykle trvají 1-2 měsíce.
+                Iboga: Iboga vyžaduje méně obřadů, aby bylo možné zažít dlouhotrvající léčení. Obvykle 1-3krát. Má totiž skvělé a trvalé účinky, které jsou udržitelné po dobu 2 měsíců až 1 roku. Účinky Ibogy závisí na vašem výběru poskytovatele a vašem chování po ústupu. Renomovaná centra pro retreat iboga mají personál a vybavení potřebné k zajištění toho, aby účastníci dostali vše, co potřebují, aby mohli integrovat to, co se naučili, jak postupují v životě kupředu.</p>
 
-            <p>
-                Kořeněná jídla<br />
-                Rafinovaný cukr (tj. sladkosti a nezdravé jídlo)<br />
-                Mléčné výrobky<br />
-                Kofein<br />
-                Oleje<br />
-            </p>
+        </div>
+    </div>
+
+    <div class = "container background-text-light-blue">
+        <div class = "row">
+            <h2 class = "font-just-me color-iscz-green text-center h2-heading">Účinky na lidské tělo</h2>
         </div>
 
-        <div class = "col-xl-6">
-            <h3 class = "font-just-me color-iscz-red h3-heading">Léky, kterým je třeba se vyhnout, patří:</h3>
-            <p>
-                – Antidepresiva jako SSRI<br />
-                – inhibitory MAO<br />
-                – Barbituráty<br />
-                – Léky na spaní<br />
-                – Alfa- a beta-blokátory<br />
-            </p>
+
+        <div class = "row">
+            <div class = "col-xl-6">
+                <h3 class  = "font-just-me color-iscz-red">
+                    Účinky Ayahuascy na lidské tělo
+                </h3>
+
+                <p>Účinky na mozek a tělo Nedávný přehled literatury odhaluje, že Ayahuasca aktivuje sigma-1 receptory (Sig1R) (1).
+                    Spouštění těchto receptorů je spojeno se snížením zánětu a oxidačního stresu v mozku.
+
+                    DMT se zdá být hlavním aktivátorem Sig1R a také zvyšuje přežití neuronů tím, že mozkové buňky jsou odolnější vůči hypoxii (2).
+
+                    Kromě toho může účinek DMT na receptory stimulovat tvorbu nových neuronů a zlepšit mentální výkonnost testovaných zvířat (3)
+
+                    Bylo také zjištěno, že beta-karbolin vyvolává proliferaci nových mozkových buněk (4). Podle přehledu aktuálně
+                    dostupných preklinických studií zvyšuje IMAO hladiny mozkového neurotrofického faktoru (BDNF) (5).
 
 
-            <h3 class = "font-just-me color-iscz-red h3-heading">Musíte se také vyhnout pouličním drogám, jako jsou:</h3>
-            <p>– Kokain<br />
-                – Amfetaminy<br />
-                – Opiáty<br />
-                – Psilocybin<br />
-                – LSD<br />
-                – Marihuana<br />
-                – MDMA</p>
+                    Je známo, že BDNF zvyšuje přežití mozkových buněk a stimuluje schopnost růstu nových neuronů.
+                    Kromě toho beta-karbolin zlepšil paměť/učení v několika zvířecích modelech.
 
+                    Kromě účinku na mozek může Ayahuasca také modulovat hladiny stresového hormonu kortizolu v těle (6).
+                    To je považováno za jednu z výhod čaje pro pacienty s depresí.</p>
+
+                <img src = "/images/iboga/iboga-vs-aya-aya-body.jpeg" />
+
+
+            </div>
+
+            <div class = "col-xl-6">
+                <img src = "/images/iboga/iboga-vs-aya-effects-body.jpg" />
+                <h3 class  = "font-just-me color-iscz-red">
+                    Účinky Ibogy na mozek a tělo
+                </h3>
+
+                <p>Ibogain ovlivňuje více neurotransmiterů v mozku. Například zvyšuje hladiny dopaminu a serotoninu blokováním jejich transportérů (11, 12).
+                    Tyto účinky přispívají ke zmírnění chování při hledání drog a příznaků deprese. Kromě toho ibogain také inhibuje N-acetylcholinové receptory v mozku (13).
+                    Alkaloid může aktivovat více neurotrofních růstových faktorů v mozku, jako je BDNF. Především upreguluje neurotrofický faktor odvozený z gliových buněk (GDNF), který stimuluje neurální remodelaci, a podobně jako BDNF zvyšuje přežití mozkových buněk (14).
+                    GDNF může stimulovat tvorbu nových dopaminergních neuronů, které mohou mít potenciál při léčbě neurodegenerativních stavů, jako je Parkinsonova choroba.
+                    Ibogain také aktivuje Sig1R, díky čemuž jsou neurony odolnější vůči stresu a zánětu (15).
+                    Kromě jeho přínosů pro zdraví mozku předběžné studie naznačují, že ibogain má antimikrobiální účinky proti bakteriím, virům a plísním (16, 17, 18).
+                    Zejména má antifungální aktivitu proti kmenům Candida albicans. Bylo zjištěno, že ibogain významně snižuje úmrtnost infikovaných zvířat (19).</p>
+
+
+
+            </div>
         </div>
-    </div>
-
-
-<div class = "row">
-    <div class = "col-xl-12">
-        <h2 class = "font-just-me color-iscz-red text-center h2-heading">Délka trvání.</h2>
-        <h2  class  = "font-just-me color-iscz-red h2-heading">
-             Iboga vs Ayahuasca
-        </h2>
-
-        <p>Iboga: Obřady Iboga trvají 8-12 hodin a její účinky trvají 12-36 hodin. Způsobuje ataxii, která ztěžuje pohyb a můžete se také očistit. I když to není nutné, může to být nezbytnou součástí holistického léčebného procesu, který vede k vyčištění toho, co jste drželi ve svém těle. Na Iboze se s největší pravděpodobností nevyspíte až následující večer, a proto je den po obřadu ibogy většinou stráven jako „den zpracování“. Den zpracování je den po obřadu, kdy dochází k hluboké introspekci a vhledům. Tento zážitek ze zpracování může být často poučnější než samotný obřad.
-            Ayahuasca: Průměrná doba trvání ayahuascového sezení je 4-6 hodin. Nastartování trvá 20-60 minut a jeho nejsilnější účinky mohou trvat 3-6 hodin. Často dochází k katarzní očistě energie, jako je průjem, zvracení, zívání a pláč. Nastává poměrně rychlá doba zotavení, protože po skončení obřadu můžete spát a s největší pravděpodobností se zotavíte do snídaně. Následující den je obvykle naplněn pocitem láskyplného, hřejivého dosvitu.</p>
-        <h3 class = "font-just-me color-iscz-red">Počet požadovaných obřadů: Iboga vs Ayahuasca</h3>
-        <p>Ayahuasca: Ayahuasca obvykle vyžaduje častější obřady, v rozmezí desítek až stovekkrát, aby bylo možné zažít trvalé uzdravení. I když je jeho učení hluboké, může někdy rychle vyblednout, a proto vyžaduje důslednou údržbu. Jeho účinky obvykle trvají 1-2 měsíce.
-            Iboga: Iboga vyžaduje méně obřadů, aby bylo možné zažít dlouhotrvající léčení. Obvykle 1-3krát. Má totiž skvělé a trvalé účinky, které jsou udržitelné po dobu 2 měsíců až 1 roku. Účinky Ibogy závisí na vašem výběru poskytovatele a vašem chování po ústupu. Renomovaná centra pro retreat iboga mají personál a vybavení potřebné k zajištění toho, aby účastníci dostali vše, co potřebují, aby mohli integrovat to, co se naučili, jak postupují v životě kupředu.</p>
-
-    </div>
-</div>
-
-<div class = "row">
-    <h2 class = "font-just-me color-iscz-green text-center h2-heading">Účinky na lidské tělo</h2>
-</div>
-
-
-<div class = "row">
-    <div class = "col-xl-6">
-        <h3 class  = "font-just-me color-iscz-red">
-            Účinky Ayahuascy na lidské tělo
-        </h3>
-
-        <p>Účinky na mozek a tělo Nedávný přehled literatury odhaluje, že Ayahuasca aktivuje sigma-1 receptory (Sig1R) (1). Spouštění těchto receptorů je spojeno se snížením zánětu a oxidačního stresu v mozku.
-
-            DMT se zdá být hlavním aktivátorem Sig1R a také zvyšuje přežití neuronů tím, že mozkové buňky jsou odolnější vůči hypoxii (2).
-
-            Kromě toho může účinek DMT na receptory stimulovat tvorbu nových neuronů a zlepšit mentální výkonnost testovaných zvířat (3)
-
-            Bylo také zjištěno, že beta-karbolin vyvolává proliferaci nových mozkových buněk (4). Podle přehledu aktuálně dostupných preklinických studií zvyšuje IMAO hladiny mozkového neurotrofického faktoru (BDNF) (5).
-
-
-            Je známo, že BDNF zvyšuje přežití mozkových buněk a stimuluje schopnost růstu nových neuronů. Kromě toho beta-karbolin zlepšil paměť/učení v několika zvířecích modelech.
-
-            Kromě účinku na mozek může Ayahuasca také modulovat hladiny stresového hormonu kortizolu v těle (6). To je považováno za jednu z výhod čaje pro pacienty s depresí.</p>
-
-
-    </div>
-
-    <div class = "col-xl-6">
-        <h3 class  = "font-just-me color-iscz-red">
-            Účinky Ibogy na mozek a tělo
-        </h3>
-
-        <p>Ibogain ovlivňuje více neurotransmiterů v mozku. Například zvyšuje hladiny dopaminu a serotoninu blokováním jejich transportérů (11, 12).
-            Tyto účinky přispívají ke zmírnění chování při hledání drog a příznaků deprese. Kromě toho ibogain také inhibuje N-acetylcholinové receptory v mozku (13).
-            Alkaloid může aktivovat více neurotrofních růstových faktorů v mozku, jako je BDNF. Především upreguluje neurotrofický faktor odvozený z gliových buněk (GDNF), který stimuluje neurální remodelaci, a podobně jako BDNF zvyšuje přežití mozkových buněk (14).
-            GDNF může stimulovat tvorbu nových dopaminergních neuronů, které mohou mít potenciál při léčbě neurodegenerativních stavů, jako je Parkinsonova choroba.
-            Ibogain také aktivuje Sig1R, díky čemuž jsou neurony odolnější vůči stresu a zánětu (15).
-            Kromě jeho přínosů pro zdraví mozku předběžné studie naznačují, že ibogain má antimikrobiální účinky proti bakteriím, virům a plísním (16, 17, 18).
-            Zejména má antifungální aktivitu proti kmenům Candida albicans. Bylo zjištěno, že ibogain významně snižuje úmrtnost infikovaných zvířat (19).</p>
-
-
-
     </div>
 
     <div class = "row">
