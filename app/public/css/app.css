@@ -334,6 +334,14 @@ blockquote cite {
      background-color: #F4F4F4;
  }
 
+.background-text-light-okr {
+    background-color: var(--okr-light);
+}
+
+.background-text-light-blue {
+    background-color: rgba(40, 133, 191, .15);
+}
+
 
 
 .bwiti-tradice-h3 {
@@ -707,6 +715,7 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     background-position: top;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    height: 300px;
 }
 
 #iboga-vs-aya-page-pg-diet {
