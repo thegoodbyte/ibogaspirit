@@ -31,7 +31,7 @@
 
             <li class="dropdown menu-item"><a href="#">OBŘADY</a>
                 <ul>
-                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
+                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat">Váš první Iboga ceremoniál / Otázky</a></li>
                     <li><a href="/obrady/priprava">Příprava a Průbežná péče</a></li>
                     <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní lecebny pobyt</a></li>
                     <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
@@ -42,7 +42,9 @@
             <!--<li class="dropdown menu-item"><a href="#"><?php //echo __('menu.menu_ceremonies.ceremonies.ceremonies'); ?></a>-->
 
             <li class = "dropdown3 menu-item">
+
                 <a href="#">O NÁS</a>
+
                 <ul>
                     <li><a href="/onas/nganga">Nganga - Léčitel</a></li>
                     <li><a href="/onas/moughenda">Šaman Moughenda</a></li>
