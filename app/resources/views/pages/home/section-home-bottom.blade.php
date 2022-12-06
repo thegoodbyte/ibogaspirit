@@ -46,8 +46,8 @@
                         </div>
 
                         <p class = "">
-                            Studoval jsem bezpečné poskytování Ibogy medicíny a Bwiti učení a léčení v Gabonu,  středozápadní Africe, u samana 10-té generace Moughendy Mikaly.
-                            Učil jsem se tradiční  tisíce-letou praxi v  Missoko Bwiti.
+                            Studoval jsem bezpečné poskytování Ibogy medicíny a Bwiti učení a léčení v Gabonu,  středozápadní Africe, u šamana 10-té generace Moughendy Mikaly.
+                            Učil jsem se tradiční  tisíce-letou praxi -  Missoko Bwiti.
                         </p>
 
 {{--                        <p>Působím mezinárodně ... momentálně v Mexickém Kankunu v <a href = "www.bwitilife.com">Bwitilife.com</a> a začinám nabízet tuto léčebnou medicínu u nás v Čechách</p>--}}
@@ -77,13 +77,13 @@
                 </div>
 
                 <div class="container">
-                    <strong>17 - 24 března 2023</strong><br />
+                    <strong>24 - 31 března 2023</strong><br />
                     Pecka, Jičín<br /><br />
                 </div>
 
                 <div class="container">
                     <strong>16 - 23 června 2023.</strong><br />
-                    Vidochov, Královéhradecký kraj
+                    Svoboda nad Upou, Královéhradecký kraj
                 </div>
 
 
