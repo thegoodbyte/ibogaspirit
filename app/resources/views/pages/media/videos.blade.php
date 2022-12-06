@@ -25,9 +25,15 @@ https://www.youtube.com/watch?v=UJsuTSHsdbU Translate this. sfirst
 kdo je moughenda
 https://www.youtube.com/watch?v=6oIi-dIZ_FU
 
+battered souls =>  https://www.youtube.com/watch?v=T2i6cb6p0ek
+
 
 TrDICNI IBOGA CEREMONIE
 https://www.youtube.com/watch?v=UpTbMlVWiJQ
 
 Moughenda - bwiti
 https://www.youtube.com/watch?v=2ys7o75HUrY&t=109s
+
+AUDIO podcast:
+
+https://batteredsouls.com/battered-souls-046-the-truth-about-your-soul-with-moughenda-mikala/
