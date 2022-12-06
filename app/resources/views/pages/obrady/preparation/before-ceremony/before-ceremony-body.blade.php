@@ -35,6 +35,12 @@
                 ty v pozitivním slova smyslu.
 
             </p>
+
+            <p>
+                Nejméně týden před cestou na Ibogu vám doporučujeme začít s přípravou těla,
+                mysli a ducha. Medicína funguje nejlépe s nejčistším kanálem, takže čím více práce uděláme
+                tím méně „hluku“ a toxinů, které medicína potřebuje prorazit. Čím více času si dáte, tím lépe.
+            </p>
         </div>
     </div>
 </section>

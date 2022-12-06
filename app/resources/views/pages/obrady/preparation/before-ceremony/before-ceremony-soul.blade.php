@@ -45,7 +45,7 @@
 
     <div class = "col-xl-12">
 
-        <h3 class  = "font-just-me font-size-40 color-iscz-red">Najdete cas pro sebe</h3>
+        <h3 class  = "font-just-me font-size-40 color-iscz-red">Najdete čas pro sebe</h3>
         <p>
 
             <!--
@@ -57,12 +57,13 @@
             before getting to the heart of what we are looking to receive from the medicine.
 
             -->
-            Procházky v přírodě, třeba s domácím mazlíčkem
-            Jemná jóga, qi gong, tai chi
-            Plavání, vyjížďky na kole
+
+            Procházky v přírodě, třeba s domácím mazlíčkem<br />
+            Jemná jóga, qi gong, tai chi<br />
+            Plavání, vyjížďky na kole<br />
             Detoxujte svůj mozek~ Snižte/eliminujte čas strávený u televize, počítače a sociálních sítí. Skladujeme hodně
             programování v našem podvědomí z těchto zdrojů a čím jasnější jsme – tím méně toho Iboga musí projít
-            než se dostaneme k jádru toho, co od léku očekáváme.
+            než se dostaneme k jádru toho, co od léku očekáváme.<br />
         </p>
     </div>
 </section>

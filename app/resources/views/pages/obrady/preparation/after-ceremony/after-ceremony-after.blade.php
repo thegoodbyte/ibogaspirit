@@ -6,8 +6,6 @@
     </div>
     <div class = "row">
         <div class = "col-xl-6">
-
-
             <p>
 
                 <!-- Stay Positive — Trust the process. As you learn about yourself and shed old patterns, it is important to

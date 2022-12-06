@@ -78,6 +78,52 @@ return [
             kteří se potřebují vyléčit z deprese, úzkosti, ptsd, traumatu, závislostí, sebenenávisti, hněvu, traumatických
             poranění mozku, Parkinsonovy choroby, autoimunitních onemocnění a dalších.'
                     ],
+                    4 => [
+                        'q' =>'What are the difference between Iboga and Ibogaine?',
+                        'a' => 'Iboga & Ibogaine are both used for addictions and have a 90% success rate.',
+                    ],
+                    5 => [
+                        'q' =>'How big are the groups in an Iboga Ceremony?',
+                            'a' => 'Groups generally range from 3-10 participants under the care of one trained
+                            Provider and at least two assistants.',
+                    ],
+                    6 => [
+                        'q' =>'Is Iboga safe?',
+                        'a' => 'Taken the necessary precautions with health assessment,
+                        EKG & medications review, and under the care of a professional
+                        Provider in a safe and appropriate environment, Iboga is 100% safe.',
+                    ],
+                    7 => [
+                        'q' =>'Is Iboga For Me?',
+                         'a' => 'Very few people have heard of Iboga.  If you are thinking of Iboga, or
+                         feel an intuitive pull towards it, then likely the plant has something important to offer you.',
+                    ],
+                    8 => [
+                        'q' =>'Is there a special diet before taking Iboga?',
+                            'a' => 'There is no strict diet required to prepare for Iboga.  However we recommend
+                            a clean and healthy diet as much as possible leading up to your retreat.',
+                     ],
+                    9 => [
+                        'q' =>'Is Iboga scary?',
+                        'a' => 'In our experience this is rarely ever the case.  Although we notice some people are scared before their
+                        first time working with the medicine, once the ceremony begins, usually the fear goes away, and the experience overall tends to be calm and peaceful.',
+                    ],
+                    10 => [
+                        'q' =>'Will I feel nauseous on iboga?',
+                            'a' => 'Some people do, and some people don’t.  Everyone is different.
+                            We would estimate about 35% of people feel nauseous during ceremony.',
+                    ],
+                    11 => [
+                        'q' =>'How does it feel to be on Iboga?',
+                            'a' => 'Unlike many other entheogens, Iboga is very grounding (it’s a root!), and you tend to feel very self-aware,
+                            and connected to yourself, your body, your life, and the environment around you throughout the process.',
+                    ],
+                    12 => [
+                        'q' =>'How much does an Iboga ceremony cost?',
+                            'a' => 'The price range varies based on room type, location, and health assessment. Our prices for a standard
+                            retreat program range from  $2750 USD - $3500 USD for a regular, week-long session with two ceremonies.',
+                    ],
+
                 ],
             ]
         ]

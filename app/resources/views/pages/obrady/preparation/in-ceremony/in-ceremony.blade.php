@@ -8,8 +8,7 @@
             <li>Otevřete své srdce a svou mysl</li>
             <li>Pochopte, že důvěra v medicínu a v nás zvyšuje proces hojení na každé úrovni</li>
             <li>Odhodlání k obřadu je příležitostí k řešení všeho, co nám způsobilo utrpení. Zatímco</li>
-            <li>minulost nelze změnit, volba uzavřít s ní mír zůstává v naší kontrole, síla nikoli<li>
-            <li>mimo nás!</li>
+            <li>minulost nelze změnit, volba uzavřít s ní mír zůstává v naší kontrole, síla nikoli mimo nás!</li>
         </ul>
     </div>
 </div>

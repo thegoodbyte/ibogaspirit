@@ -47,7 +47,7 @@
 <div class = "row">
 
     @include('pages.obrady.preparation.after-ceremony.after-ceremony-discovery-day')
-    @include('pages.obrady.preparation.after-ceremony.after-ceremony-stay-positive')
+
     @include('pages.obrady.preparation.after-ceremony.after-ceremony-after')
 </div>
 {{--    <div class = "row">--}}
