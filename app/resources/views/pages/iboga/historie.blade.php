@@ -95,7 +95,6 @@
 
             <h2>Detox</h2>
 
-
             <p>
                 Its healing effects have also been tapped for detox of the body, detox from drugs, and mental detox.
                 In iboga-assisted detoxification from substance addiction, people can be cured without having any withdrawal symptoms.
@@ -112,10 +111,7 @@
                 cough, conjunctivitis, and toothache.
             </p>
 
-
             <h2>Is Iboga’s Existence Threatened by Massive Harvesting?</h2>
-
-
 
             <p>
                 Due to its high efficacy on various conditions, iboga has become one of the most sought-after plant medicines.

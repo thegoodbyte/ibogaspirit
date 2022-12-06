@@ -18,8 +18,9 @@ ceremonie
 
 https://www.youtube.com/watch?v=pySavnkm5JU
 
-psycho spiriual moughenda
+psycho spiriual -  moughenda
 https://www.youtube.com/watch?v=5ST2mfkA05U&t=590s
+https://www.youtube.com/watch?v=UJsuTSHsdbU Translate this. sfirst
 
 kdo je moughenda
 https://www.youtube.com/watch?v=6oIi-dIZ_FU
