@@ -3,22 +3,25 @@
 
 return [
     'menu_ceremonies' => [
-        'home' => 'home 2',
+        'home' => 'home EN',
         'iboga' =>  [
-            'how_iboga_can_help_you' => 'Hoe Iboga Can Help You',
+            'title' => 'Iboga',
+            'how_iboga_can_help_you' => 'Ho2 Iboga Can Help You',
             'bwiti_tradition'           => 'bwiti_tradition',
-            'what_is_iboga'             => 'What is Iboga',
+            'what_is_iboga'             => 'What is Iboga?',
             'iboga_vas_ayahuasca'       => 'Iboga vs Ayahuasca',
             'gabon_africa'              => 'Gabon Africa'
          ],
         'ceremonies' => [
+            'title' => 'Ceremonies',
             'your_first_ceremony' => 'Your first ceremoney / F.A.Q.',
             'preparation' => 'Preparation and ongoing care',
             'eight_day_retreat' => "8-day retreat",
-            'medical_guidelines' => 'Medical Guidelinesn',
+            'medical_guidelines' => 'Medical Guidelines',
             'dates' => 'Dates and Prices'
         ],
         'about_us' => [
+            'title' => 'About Us',
             'nganga' => 'Ngange - Spiritual Healer',
             'moughenda' => 'Shaman Moughenda'
         ],

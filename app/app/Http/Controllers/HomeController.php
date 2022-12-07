@@ -61,4 +61,10 @@ class HomeController extends Controller
     }
 
 
+    public function setLanguage($lang) {
+        session(['applocale' => $lang]);
+        return back();
+    }
+
+
 }

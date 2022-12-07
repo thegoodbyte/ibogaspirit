@@ -34,6 +34,9 @@ Route::controller(\App\Http\Controllers\IbogaController::class)->group(function(
 });
 
 
+Route::get('/set-language/{lang}', [\App\Http\Controllers\HomeController::class, 'setLanguage'])->name('set.language');
+
+
 
 
 //Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "what_id_iboga"]);

@@ -19,7 +19,7 @@
             <li class = "menu-item"><a href="/">HOME</a></li>
 
             <li class = "dropdown2 menu-item">
-                <a href="#">IBOGA</a>
+                <a href="#"><?php echo __('menu.menu_ceremonies.iboga.title'); ?></a>
                 <ul>
                     <li><a href="/iboga/jak-vam-iboga-muze-pomoci"><?php echo __('menu.menu_ceremonies.iboga.how_iboga_can_help_you'); ?></a></li>
                     <li><a href="/iboga/bwiti-tradice"><?php echo __('menu.menu_ceremonies.iboga.bwiti_tradition'); ?></a></li>
@@ -29,7 +29,7 @@
                 </ul>
             </li>
 
-            <li class="dropdown menu-item"><a href="#">OBŘADY</a>
+            <li class="dropdown menu-item"><a href="#"><?php echo __('menu.menu_ceremonies.ceremonies.title'); ?></a>
                 <ul>
                     <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
                     <li><a href="/obrady/priprava"><?php echo __('menu.menu_ceremonies.ceremonies.preparation'); ?></a></li>
@@ -43,7 +43,7 @@
 
             <li class = "dropdown3 menu-item">
 
-                <a href="#">O NÁS</a>
+                <a href="#"><?php echo __('menu.menu_ceremonies.about_us.title'); ?></a>
 
                 <ul>
                     <li><a href="/onas/nganga"><?php echo __('menu.menu_ceremonies.about_us.nganga'); ?></a></li>
