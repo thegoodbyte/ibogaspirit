@@ -73,6 +73,7 @@
                 </div>
 
                 <div class="container">
+
                     <strong><?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.0.date'); ?></strong><br />
                     <?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.0.place'); ?><br /><br />
                 </div>
@@ -80,6 +81,7 @@
                 <div class="container">
                     <strong><?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.1.date'); ?></strong><br />
                     <?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.0.place'); ?>
+
 
                 </div>
 

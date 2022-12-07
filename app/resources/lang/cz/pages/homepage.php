@@ -18,8 +18,12 @@ return  [
         ],
         'section_2_iboga' =>[
             'title' => 'IBOGA MEDICÍNA A BWITI UČENÍ',
-            'par' => 'IBOGA MEDICÍNA NÁS UČÍ, JAK SI UŽÍVAT ŽIVOTA NAPLNO. DOKÁŽE VYLÉČIT JAKÉKOLI PSYCHICKÉ T RAUMA TÍM, ŽE NÁS PŘIVEDE
-            KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT. JE TO OPRAVDOVÝ ZÁZRAK – NOVÉ ZROZENÍ'
+            'par' => 'Šamanské léčení a učení k léčbě jakékoliv mentální, duševní nebo fyzické nemoci. Vydejte se na cestu sebepoznání
+            a osvoboďte se z pout ega a mysli. Utěšte svou duši a žijte šťastný život. Jeden týdenní pobyt s dvěma obřady Ibogy může změnit
+            váš život k lepšímu. Už žádné nešťastné smutné nebo popletené vy - jen nový a krásný život před vámi, A UŽívání si ho naplno.<br />
+            IBOGA MEDICÍNA  MŮŽE VYLÉČIT KAŽDÉ DUŠEVNÍ TRAUMA
+            TÍM ŽE NÁS PŘIVEDE KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT A ZÁROVEŇ NÁS VYLÉČÍ.
+            JE TO SKUTEČNÝ ZÁZRAK – ZNOVUROZENÍ'
         ],
         'section_3_happily' => [
             'title_1' => 'ŽIJTE ŠŤASTNĚ A NAPLNO',
@@ -75,10 +79,8 @@ return  [
                 'title' => 'ABOUT ME',
                 'par' => [
                     'top' => 'Vitejte - jmenuji se Martin Halla a jsem Nganga - spirituálni lécitel a tradicni Bwiti Iboga facilitátor a poskytovatel.',
-                    'bottom' => 'Jsem cesky rodak ze zapadnich cech, zijici pres 20 let v Severni AmericeStudoval jsem bezpecné poskytování
-                    Ibogy medicíny a Bwiti ucení a lécení v Gabonu, stredozápadni Africe, u samana 10-té generace Moughendy Mikaly.
-                        Ucil jsem se tradicní tisíce-letou praxi v Missoko Bwiti.
-                        Pusobím mezinarodne ... momentálně v Mexickém Kankunu v Bwitilife.com'
+                    'bottom' => 'Studoval jsem bezpečné poskytování Ibogy medicíny a Bwiti učení a léčení v Gabonu,  středozápadní Africe, u šamana 10-té generace Moughendy Mikaly.
+                            Učil jsem se tradiční  tisíce-letou praxi -  Missoko Bwiti.'
                 ]
             ],
             'col_3' => [
@@ -88,12 +90,12 @@ return  [
                     The next 2 retreats will be on:',
                 'terms' => [
                     0 => [
-                        'date' => '17 - 24 března 2023',
+                        'date' => '24 - 31 března 2023',
                         'place' => 'Pecka, Jičín, Králové Hradec Distrikt, Eastern Czech Republic'
                     ],
                     1 => [
                         'date' => 'June 16th - 23rd 2023',
-                        'place' => 'Vidochov, Králové Hradec Distrikt, Eastern Czech Republic'
+                        'place' => 'Svoboda nad Upou, Královéhradecký kraj, Czech Republic'
                     ],
                 ]
             ]
