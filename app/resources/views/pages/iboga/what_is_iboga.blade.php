@@ -14,7 +14,7 @@
     <div class = "row">
 
         <div class = "col-xl-6">
-            <img src = "/images/iboga/iboga_shrub_martin.jpg" width = "500" />
+            <img src = "/images/iboga/iboga_shrub_martin-400w.jpg" width = "500" />
         </div>
 
         <div class = "col-xl-6">

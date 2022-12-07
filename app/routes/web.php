@@ -20,15 +20,15 @@ Route::controller(\App\Http\Controllers\IbogaController::class)->group(function(
 });
 
 Route::controller(\App\Http\Controllers\IbogaController::class)->group(function($locale) {
-    Route::get('/{locale}/iboga', "what_is_iboga");
-    Route::get('/{locale}/iboga/co-je-iboga',  "what_is_iboga");
-    Route::get('/{locale}/iboga/jak-vam-iboga-muze-pomoci',  "jak_vam_iboga_muze_pomoci");
-    Route::get('/{locale}/iboga/iboga-vs-ayahuasca',  "iboga_vs_ayahuasca");
-    Route::get('/{locale}/iboga/gabon', "gabon");
-    Route::get('/{locale}/iboga/deprese',  "deprese");
+    Route::get('iboga', "what_is_iboga");
+    Route::get('iboga/co-je-iboga',  "what_is_iboga");
+    Route::get('iboga/jak-vam-iboga-muze-pomoci',  "how_iboga_can_help");
+    Route::get('iboga/iboga-vs-ayahuasca',  "iboga_vs_ayahuasca");
+    Route::get('iboga/gabon', "gabon");
+    Route::get('iboga/deprese',  "deprese");
 //    Route::get('/{locale}/iboga/bwiti-tradice',  "bwiti_tradice");
 
-    Route::get('/{locale}/iboga/bwiti-tradice', 'bwiti_tradice');
+    Route::get('iboga/bwiti-tradice', 'bwiti_tradice');
 
 
 });
