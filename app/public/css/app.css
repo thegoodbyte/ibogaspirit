@@ -968,6 +968,8 @@ footer a:hover {
     text-decoration: underline;
 }
 
+
+/** MOBILE ***/
 @media screen and (max-width: 400px) {
     .h1-heading, h1 {
         font-size: 40px;
@@ -1084,7 +1086,7 @@ footer a:hover {
     }
 
     #how-iboga-helps-h2-who-is-for {
-        padding: 30px;
+        padding: 0 20px 10px 20px;
     }
 
     #how-iboga-helps-h2-who-is-for h2 {
@@ -1106,6 +1108,7 @@ footer a:hover {
         color: #760505;
         width: 240px;
         padding-left: 10px;
+        line-height: 85%;
     }
 
     #img-box-iboga-helps blockquote:before {
@@ -1116,8 +1119,11 @@ footer a:hover {
     #img-box-iboga-helps blockquote {
 
         padding-left: 20px;
+        padding-top: 0px;
         border-left: 0px;
-        width: 250px;
+        width: 260px;
+        line-height: 90%;
+        font-size: 1.5em;
     }
 
 
@@ -1127,6 +1133,12 @@ footer a:hover {
         background-color: red;
     }
 
+    ol.how-iboga-helps-3-reasoes-list {
+        margin-left: 20px;
+    }
+    ol.how-iboga-helps-3-reasoes-list li {
+        font-size: 1.5em;
+    }
     /**
     PAGE - Medical Quidelines
      */
