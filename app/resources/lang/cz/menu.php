@@ -5,24 +5,24 @@ return [
     'menu_ceremonies' => [
         'home' => 'Home',
         'iboga' =>  [
-            'how_iboga_can_help_you' => 'How Iboga Can Help You',
+            'how_iboga_can_help_you' => 'Jak vám Iboga může pomoci',
             'bwiti_tradition' => 'Bwiti Tradice',
-            'what_is_iboga' => 'What is Iboga?',
-            'iboga_vas_ayahuasca' => 'Iboga vs Ayahuasca',
-            'gabon_africa' => 'Gabon Africa'
+            'what_is_iboga' => 'Co je Iboga?',
+            'iboga_vs_ayahuasca' => 'Iboga vs Ayahuasca',
+            'gabon_africa' => 'Gabon Afrika'
          ],
         'ceremonies' => [
-            'your_first_ceremony'   => 'Váš první ceremoniál.',
-            'preparation'           => 'Preparation and ongoing care',
-            'eight_day_retreat'     => "8-day retreat",
-            'medical_guidelines'    => 'Medical Guidelinesn',
-            'dates'                 => 'Dates and Prices'
+            'your_first_ceremony'   => 'Váš první ceremoniál',
+            'preparation'           => 'Příprava a Průbežná péče',
+            'eight_day_retreat'     => "Osmidenní léčebny pobyt",
+            'medical_guidelines'    => 'Lékařské směrnice',
+            'dates'                 => 'Terminy a Ceny'
         ],
         'about_us' => [
-            'nganga'    => 'Ngange - Spiritual Healer',
-            'moughenda' => 'Shaman Moughenda'
+            'nganga'    => 'Nganga - Léčitel',
+            'moughenda' => 'Šaman Moughenda<'
         ],
-        'contact' => 'Contact me'
+        'contact' => 'Kontakt'
     ],
     'pages' => [
         'home' => [

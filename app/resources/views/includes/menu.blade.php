@@ -21,21 +21,21 @@
             <li class = "dropdown2 menu-item">
                 <a href="#">IBOGA</a>
                 <ul>
-                    <li><a href="/iboga/jak-vam-iboga-muze-pomoci">Jak vám Iboga může pomoci</a></li>
-                    <li><a href="/iboga/bwiti-tradice">Bwiti Tradice</a></li>
-                    <li><a href="/iboga/co-je-iboga">Co je Iboga?</a></li>
-                    <li><a href="/iboga/iboga-vs-ayahuasca">Iboga vs Ayahuasca</a></li>
-                    <li><a href="/iboga/gabon">Gabon - Afrika</a></li>
+                    <li><a href="/iboga/jak-vam-iboga-muze-pomoci"><?php echo __('menu.menu_ceremonies.iboga.how_iboga_can_help_you'); ?></a></li>
+                    <li><a href="/iboga/bwiti-tradice"><?php echo __('menu.menu_ceremonies.iboga.bwiti_tradition'); ?></a></li>
+                    <li><a href="/iboga/co-je-iboga"><?php echo __('menu.menu_ceremonies.iboga.what_is_iboga'); ?></a></li>
+                    <li><a href="/iboga/iboga-vs-ayahuasca"><?php echo __('menu.menu_ceremonies.iboga.iboga_vs_ayahuasca'); ?></a></li>
+                    <li><a href="/iboga/gabon"><?php echo __('menu.menu_ceremonies.iboga.gabon_africa'); ?></a></li>
                 </ul>
             </li>
 
             <li class="dropdown menu-item"><a href="#">OBŘADY</a>
                 <ul>
-                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat">Váš první Iboga ceremoniál / Otázky</a></li>
-                    <li><a href="/obrady/priprava">Příprava a Průbežná péče</a></li>
-                    <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní lecebny pobyt</a></li>
-                    <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
-                    <li><a href="/obrady/terminy-a-ceny">Terminy a Ceny</a></li>
+                    <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
+                    <li><a href="/obrady/priprava"><?php echo __('menu.menu_ceremonies.ceremonies.preparation'); ?></a></li>
+                    <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt"><?php echo __('menu.menu_ceremonies.ceremonies.eight_day_retreat'); ?></a></li>
+                    <li><a href="/obrady/lekarske-smernice"><?php echo __('menu.menu_ceremonies.ceremonies.medical_guidelines'); ?></a></li>
+                    <li><a href="/obrady/terminy-a-ceny"><?php echo __('menu.menu_ceremonies.ceremonies.dates'); ?></a></li>
                 </ul>
             </li>
             <!-- <li class="dropdown menu-item"><a href="#">OBŘADY</a>-->
@@ -46,12 +46,12 @@
                 <a href="#">O NÁS</a>
 
                 <ul>
-                    <li><a href="/onas/nganga">Nganga - Léčitel</a></li>
-                    <li><a href="/onas/moughenda">Šaman Moughenda</a></li>
+                    <li><a href="/onas/nganga"><?php echo __('menu.menu_ceremonies.about_us.nganga'); ?></a></li>
+                    <li><a href="/onas/moughenda"><?php echo __('menu.menu_ceremonies.about_us.moughenda'); ?></a></li>
 
                 </ul>
             </li>
-            <li class = "menu-item"><a href="/kontakt">KONTAKT</a></li>
+            <li class = "menu-item"><a href="/kontakt"><?php echo __('menu.menu_ceremonies.contact'); ?></a></li>
         </ul>
     </nav>
 
