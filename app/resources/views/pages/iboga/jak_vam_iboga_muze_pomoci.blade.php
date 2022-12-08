@@ -55,14 +55,14 @@
         </div>
         <div class = "col-xl-5">
             <img
-                srcset = "/images/iboga/iboga-graphics-400w.jpeg 400w,
-                          /images/iboga/iboga-graphics-400w.jpeg 600w,
-                          /images/iboga/iboga-graphics-400w.jpeg 900w,
-                          /images/iboga/iboga-graphics-400w.jpeg 1200w,"
-                sizes = "(max-width: 400px) 400w,
-                         (min-width: 401px and max-width: 600px) 600w,
-                         (min-width: 601px and max-width: 900px) 900w,
-                         (min-width: 901px) 1200w"
+{{--                srcset = "/images/iboga/iboga-graphics-400w.jpeg 400w,--}}
+{{--                          /images/iboga/iboga-graphics-400w.jpeg 600w,--}}
+{{--                          /images/iboga/iboga-graphics-400w.jpeg 900w,--}}
+{{--                          /images/iboga/iboga-graphics-400w.jpeg 1200w,"--}}
+{{--                sizes = "(max-width: 400px) 400w,--}}
+{{--                         (min-width: 401px and max-width: 600px) 600w,--}}
+{{--                         (min-width: 601px and max-width: 900px) 900w,--}}
+{{--                         (min-width: 901px) 1200w"--}}
                 src = "/images/iboga/iboga-graphics-400w.jpeg" />
         </div>
     </div>
@@ -97,7 +97,7 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-            <blockquote>Kazdy problém a nemoc má začátek, Iboga je schopna je odhalit a vyléčit</blockquote>
+            <blockquote>Každý problém a nemoc má začátek, Iboga je schopna je odhalit a vyléčit</blockquote>
             <p>
                 Dalším faktorem, který dělá z Ibogy účinnou léčbu závislostí, je jeho schopnost léčit emocionální a
                 psychologické základní příčiny závislosti. Ibogae působí přes minulá traumata, naučené destruktivní chování a s
@@ -118,7 +118,7 @@
             <h3 class = "font-size-30 color-iscz-red font-just-me">Proč se zúčastnit?
                 Existují tři hlavní důvody, proč se lidé účastní obřadu Iboga.</h3>
 
-            <ol>
+            <ol class = "how-iboga-helps-3-reasoes-list">
                 <li class = "font-size-40 color-iscz-green">
                     Pro léčení
                 </li>
@@ -157,10 +157,10 @@
 
     <diV class = "row" id = "iboga-benefits">
             <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #DCF1F1;">
-                <div class = "align-content-center">
+                <div class = "text-center">
                     <img src = "/images/icons/physical.png" width = "80" />
                 </div>
-                <h3>Fyzicky</h3>
+                <h3 class = "text-center">Fyzicky</h3>
                 <ul>
                     <li>Detoxikace buněk celého těla</li>
                     <li>Antiparazitární</li>
@@ -175,10 +175,10 @@
             </div>
 
             <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #Fffdf1;">
-                <div class = "">
+                <div class = "text-center">
                     <img src = "/images/icons/mental.png" width = "80" />
                 </div>
-                <h3>Mentalně</h3>
+                <h3 class = "text-center">Mentalně</h3>
                 <ul>
                     <li>Resetuje neurotransmitery mozku</li>
                     <li>Mentální detox negativních myšlenek</li>
@@ -192,10 +192,10 @@
             </div>
 
             <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #F3eeec;">
-                <div class = "">
+                <div class = "text-center">
                     <img src = "/images/icons/emotional.png" width = "80" />
                 </div>
-                <h3>Emocionálně</h3>
+                <h3 class = "text-center">Emocionálně</h3>
                     <ul>
                         <li>Zvyšte emoční sílu a bezpečí</li>
                         <li>Uzemnění a centrování</li>
@@ -206,10 +206,10 @@
 
 
             <div class = "col-xl-3 col-sm-12 iboga-helps-block" style = "background-color: #E9f1e9;">
-                <div class = "">
+                <div class = "text-center">
                     <img src = "/images/icons/spiritual.png" width = "80" />
                 </div>
-                <h3>Spiritualně</h3>
+                <h3 class = "text-center">Spiritualně</h3>
                 <ul>
                     <li>Duchovní očista</li>
                     <li>Léčení předků</li>

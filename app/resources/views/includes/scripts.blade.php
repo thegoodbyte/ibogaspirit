@@ -1,5 +1,5 @@
 <script type='text/javascript' src='/js/app.js' id='underscore-js2'></script>
-<script src="//code.tidio.co/4ahyw1xwtem99qsvkhskdeiwgnw8qukl.js" async></script>
+{{--<script src="//code.tidio.co/4ahyw1xwtem99qsvkhskdeiwgnw8qukl.js" async></script>--}}
 
 <!-- free chat -->
 <script type="text/javascript" src="https://popupsmart.com/freechat.js"></script>
