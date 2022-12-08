@@ -123,15 +123,15 @@ dropdown3.addEventListener('click', function(e) {
 
 
 
-// Second level dropdown toggle on mobile
-const deepDropdown = document.querySelector('.second-level a');
-
-deepDropdown.addEventListener('click', function(e) {
-    console.log('.second-level a clicked');
-    this.nextElementSibling.classList.toggle('show');
-    this.parentNode.classList.toggle('active');
-    e.stopPropagation();
-});
+// // Second level dropdown toggle on mobile
+// const deepDropdown = document.querySelector('.second-level a');
+//
+// deepDropdown.addEventListener('click', function(e) {
+//     console.log('.second-level a clicked');
+//     this.nextElementSibling.classList.toggle('show');
+//     this.parentNode.classList.toggle('active');
+//     e.stopPropagation();
+// });
 //elementor-widget-container
 
 
