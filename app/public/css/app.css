@@ -350,9 +350,24 @@ blockquote cite {
 }
 
 .header-bottom-row {
-    background-color: black;
+
     max-width: 1200px;
     margin: auto;
+    text-align: right;
+}
+
+.header-bottom-row ol.languages{
+
+}
+
+
+.header-bottom-row a {
+     color: rgba(153,153,153,1);
+     text-decoration: none;
+ }
+
+.header-bottom-row a:hover{
+    text-decoration: underline;
 }
 
 
