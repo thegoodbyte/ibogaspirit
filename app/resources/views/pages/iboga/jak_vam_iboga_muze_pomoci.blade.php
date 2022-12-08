@@ -178,7 +178,7 @@
                 <div class = "text-center">
                     <img src = "/images/icons/mental.png" width = "80" />
                 </div>
-                <h3 class = "text-center">Mentalně</h3>
+                <h3 class = "text-center">Mentálně</h3>
                 <ul>
                     <li>Resetuje neurotransmitery mozku</li>
                     <li>Mentální detox negativních myšlenek</li>
@@ -209,7 +209,7 @@
                 <div class = "text-center">
                     <img src = "/images/icons/spiritual.png" width = "80" />
                 </div>
-                <h3 class = "text-center">Spiritualně</h3>
+                <h3 class = "text-center">Spirituálně</h3>
                 <ul>
                     <li>Duchovní očista</li>
                     <li>Léčení předků</li>
@@ -217,7 +217,7 @@
                     <li>Uvolnění nezdravých vazeb/příloh</li>
                     <li>Otevření třetího oka</li>
                     <li>Pomáhá při sebeobjevování</li>
-                    <li>uzemnění</li>
+                    <li>Uzemnění</li>
                 </ul>
             </div>
    </div>

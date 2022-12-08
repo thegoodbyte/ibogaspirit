@@ -21,3 +21,15 @@
         services: [{"name":"whatsapp","content":"+19177413162"}]})
 </script>
 
+{{--<script type = "text/javascript">--}}
+{{--    import LogRocket from 'logrocket';--}}
+{{--    LogRocket.init('zrzrpa/ibogaspiritcz');--}}
+
+{{--    const store = createStore(--}}
+{{--        reducer, // your app reducer--}}
+
+{{--        // our middleware should go last--}}
+{{--        applyMiddleware(middlewares, LogRocket.reduxMiddleware()),--}}
+{{--    );--}}
+{{--</script>--}}
+
