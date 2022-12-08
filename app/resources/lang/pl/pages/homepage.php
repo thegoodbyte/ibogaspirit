@@ -4,93 +4,115 @@ return  [
     'content' => [
         'slider' => [
             'slide_1' => [
-                'title' => 'TRADITIONAL BWITI IBOGA HEAKING CEREMONIES',
-                'par' => 'I have been providing traditional Bwiti Iboga ceremonies, the exact way I learned them in Gabon from my shaman Moughenda.'
+                'title' => 'TRADYCYJNE CEREMONIE UZDROWIEŃ BWITI IBOGA',
+                'par' => 'Prowadzę tradycyjne ceremonie Bwiti Iboga, dokładnie tak, jak nauczyłem się ich w Gabonie od mojego szamana Moughendy.'
             ],
             'slide_2' => [
-                'title' => 'ALL INLCUSIVE 8-DAY IBOGA HEALING RETREATS',
-                'par' => 'A week long stah including two Iboga ceremonies and a spiritual
-                shower., Bwiti Teachings and much more...'
+                'title' => 'ALL INCLUSIVE 8-DNIOWE REKOLEKCJE LECZNICZE IBOGA',
+                'par' => 'Tygodniowy stah, w tym dwie ceremonie Iboga i duchowy
+                 prysznic., Nauki Bwiti i wiele więcej...'
             ],
             'slide_3' => [
-                'title' => 'GET TO KNOW WHO YOU REALLY ARE',
-                'par' => 'Find out who you are. Reconnect with your soul and love yourself again.'
+                'title' => 'DOWIEDZ SIĘ, KIM NAPRAWDĘ JESTEŚ',
+                'par' => 'Dowiedz się, kim jesteś. Połącz się ponownie ze swoją duszą i ponownie pokochaj siebie.'
             ]
         ],
         'section_2_iboga' =>[
-            'title' => 'IBOGA MEDICINE AND BWITI TEACHINGS',
-            'par' => 'IBOGA MEDICÍNA NÁS UČÍ, JAK SI UŽÍVAT ŽIVOTA NAPLNO. DOKÁŽE VYLÉČIT JAKÉKOLI PSYCHICKÉ T RAUMA TÍM, ŽE NÁS PŘIVEDE
-            KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT. JE TO OPRAVDOVÝ ZÁZRAK – NOVÉ ZROZENÍ'
+            'title' => 'MEDYCYNA IBOGA I NAUKI BWITI',
+            'par' => 'MEDYCYNA IBOGA UCZY NAS CIESZYĆ SIĘ PEŁNIĄ ŻYCIA. MOŻE LECZYĆ KAŻDĄ TRAUMĘ PSYCHICZNĄ PRZENOSZĄC NAS
+             DO KORZENI PROBLEMU I POKAŻ NAM JAK Z NIM ZROBIĆ. TO PRAWDZIWY CUD - NOWE NARODZENIE'
+        ],
+        // TOD): add to do page
+        'what_iboga_does' => [
+            'title' => 'Co robi Iboga?',
+            'pars' => [
+                0 => 'Iboga to głęboko ugruntowana medycyna, która wykorzystuje prawdę do uzdrawiania. Jego celem jest sprowadzenie cię z powrotem do
+                 swojego pierwotnego prawdziwego ja i ponownie połączyć cię ze swoją duszą. Robi to, najpierw oczyszczając (detoksykując)
+                 wszystko, co nie pasuje fizycznie i psychicznie. Jest to często doświadczane jako przypadkowe myśli,
+                 obrazy i takie przepływające, ponieważ czyści wszystko, podobnie jak defragmentacja komputera.',
+
+                1 => 'Iboga pokaże ci również, jak działa twój umysł, ujawniając wzorce myślenia, które mogłeś wychwycić
+                 przez całe życie, które nie są autentyczne lub zdrowe. Po tym, jak Iboga przywróci spokój umysłowi,
+                 ujawnia źródła waszego cierpienia i nadal was uczy, ukazując prawdę. Krótko mówiąc, to
+                 pomaga uwolnić się od wzorców, wspomnień i traum, aby uwolnić się od nich – dzięki czemu możesz być prawdziwym sobą. Po ceremonii,
+                 Iboga nadal pomaga ci, poprawiając uważność i promując neuroplastyczność, abyś mógł stworzyć nowy,
+                 zdrowsze życie z łatwością.',
+
+                2 => 'Biorąc to pod uwagę, doświadczenie jest różne dla każdej osoby za każdym razem. Dlatego jedna osoba, która to robi
+                 to wielokrotnie będzie miało inne doświadczenie za każdym razem. Podobnie dwie osoby podczas tej samej ceremonii będą miały bardzo dużo
+                 różne doświadczenia. Dzieje się tak, ponieważ Iboga jest wysoce inteligentnym duchem, który daje każdej osobie swój własny ideał
+                 doświadczenie uzdrawiania, które odpowiada ich specyficznym potrzebom – w sposób, który najlepiej zrozumieją.'
+            ]
         ],
         'section_3_happily' => [
-            'title_1' => 'LIVE HAPPILY AND TO FULLY',
-            'par_1' => 'WE CAN HONOR OUR LIVES BY LIVING HAPPILY. IT SI ATTAINABLE AND OUR BIRTHRIGHT.
-                IBOGA MEDICINE TEACHES US HOW TO ENJOY THE LIFE FULLY.',
-            'title_2' => 'IBOGA MEDICINE',
-            'par_2' => 'CAN HEAL ANY SPIRITUAL OR MENTAL TRAUMA BY BRINGING US TO THE ROOT OF THE ISSUE.
-                IT SHOWS US HOW TO MAKE PEACE WITH IT AND MOVE ON. IT IS A TRUE MIRACLE - A TRUE LIBERATION...
+            'title_1' => 'ŻYĆ SZCZĘŚLIWIE I W PEŁNI',
+            'par_1' => 'MOŻEMY UCZCIĆ NASZE ŻYCIE, ŻYJĄC SZCZĘŚLIWIE. TO JEST OSIĄGALNE I NASZE PRAWO.
+                 MEDYCYNA IBOGA UCZY NAS, JAK W PEŁNI CIESZYĆ SIĘ ŻYCIEM.',
+            'title_2' => 'MEDYCYNA IBOGA',
+            'par_2' => 'MOŻE LECZYĆ KAŻDĄ TRAUMĘ DUCHOWĄ LUB PSYCHICZNĄ, DOPROWADZAJĄC NAS DO ŹRÓDŁA PROBLEMU.
+                 POKAZUJE NAM, JAK SIĘ Z NIM POGODZIĆ I IŚĆ DALEJ. TO PRAWDZIWY CUD - PRAWDZIWE WYZWOLENIE...
             '
 
         ],
         'section_get_to_know' => [
             'left' => [
-                'title' => 'GET TO KNOW<br/>YOUR TRUE SELF ...',
-                'par' => 'knowing who you truly are is the most important part of knowing.
-                    Once you know who you are - you can make the right decisions for yourself and enjoy happy and fullfilling life.
-                    Learn more how we can help you to achieve this.',
+                'title' => 'POZNAJ<br/>SWOJE PRAWDZIWE JA...',
+                'par' => 'wiedza o tym, kim naprawdę jesteś, jest najważniejszą częścią poznania.
+                     Kiedy już wiesz, kim jesteś – możesz podejmować właściwe dla siebie decyzje i cieszyć się szczęśliwym i pełnym życiem.
+                     Dowiedz się więcej, jak możemy Ci pomóc to osiągnąć.',
             ],
             'right' => [
-                'title' => 'IBOGA MEDICNE',
+                'title' => 'MEDYCYNA IBOGA',
                 'list_items' => [
-                    0 => 'What is IBOGA medicine',
-                    1 => 'How Iboga can help you',
-                    2 => 'Bwiti Tradition',
-                    3 => 'Iboga vs Ayahuasca',
-                    4 => 'Preparation and Ongoing Care',
-                    5 => 'Your first ceremony',
+                    0 => 'Czym jest medycyna IBOGA',
+                    1 => 'Jak Iboga może Ci pomóc',
+                    2 => 'Tradycja Bwiti',
+                    3 => 'Iboga kontra Ayahuasca',
+                    4 => 'Przygotowanie i bieżąca opieka',
+                    5 => 'Wasza pierwsza ceremonia',
                 ]
             ]
         ],
         'section_bwiti' => [
-            'title' => 'TRADITIONAL BWITI HEALING AND TEACHINGS',
-            'par' => 'Podle tradice, když se Iboga poprvé objevila, rozhodl se být s Bwiti lidmi.
-                    Iboga respektoval jejich způsob života, a tak když se lidé začali ptát, odkud přišli a za co mohou
-                    být tolik vděční, Iboga se představil a řekl: „Řekněte svým lidem, že až budou mít otázky,
-                    at si me vezmou mě a já jim ukažu." A v tomto příběhu je toho mnohem víc...'
+            'title' => 'TRADYCYJNE UZDROWIENIA I NAUKI BWITI',
+            'par' => 'Zgodnie z tradycją, kiedy Iboga pojawił się po raz pierwszy, zdecydował się być z ludem Bwiti.
+                     Iboga szanował ich sposób życia, więc kiedy ludzie zaczęli pytać, skąd pochodzą i za co są odpowiedzialni
+                     będąc tak wdzięcznym, Iboga przedstawił się i powiedział: „Powiedz swoim ludziom, że kiedy mają pytania,
+                     a oni mnie wezmą, a ja im pokażę.” A w tej historii jest znacznie więcej…'
         ],
         'section_bottom_about' => [
             'col_1' => [
-                'title' => 'WHAT IS IBOGA',
+                'title' => 'CZYM JEST IBOGA',
                 'par'   => [
-                    'top' => 'IBOGA (TABERNATHE IBOGA) IS A PERENNIAL SHRUB NATIVE OF EQUATORIAL CENTRAL WEST AFRICA. THE ROOT BARK HAS BEEN USED ',
-                    'bottom' => 'AS NATURAL PLANT MEDICINE FOR THOUSANDS AND THOUSANDS OF YEARS BY INDIGENOUS INHABITANTS
-                REGION. IT IS CONSIDERED SACRED BY THOSE WHO PRACTICE THE TRADITION KNOWN AS BWITI. Iboga is used in
-                various ceremonials ...'
+                    'top' => 'IBOGA (TABERNATHE IBOGA) TO WIELOLETNI KRZEW POCHODZĄCY Z RÓWNIKOWEJ CENTRALNIE ZACHODNIEJ AFRYKI. KORA KORZENIA ZOSTAŁA WYKORZYSTANA',
+                     'bottom' => 'JAKO NATURALNE MEDYCYNY ROŚLINNE PRZEZ TYSIĄCE I TYSIĄCE LAT PRZEZ rdzennych mieszkańców
+                 REGION. JEST UWAŻANY ZA ŚWIĘTY PRZEZ TYCH, KTÓRZY PRAKTYKUJĄ TRADYCJĘ ZNANĄ JAKO BWITI. Iboga jest używana w
+                 różne ceremonie...'
             ]
             ],
             'col_2' => [
-                'title' => 'ABOUT ME',
+                'title' => 'O MNIE<br /><br />',
                 'par' => [
-                    'top' => 'Welcome - I am Martin and I am a Nganga - a spiritual healer and traditional Bwiti Iboga facilitator and provider.',
-                    'bottom' => 'I am a Czech native of Western guilds, living in North America for over 20 years.
-                    I studied the safe provision of Iboga medicine and Bwiti teaching and healing in Gabon, Central West Africa,
-                    with the 10th generation shaman Moughenda Mikala. I learned a traditional thousand-year-old practice in Missoko Bwiti.
-                    I work internationally ... currently in Cancun, Mexico at <a href = "www.bwitilife.com">Bwitilife.com</a>'
+                    'top' => 'Witam - jestem Martin i jestem Nganga - duchowym uzdrowicielem i tradycyjnym facylitatorem i dostawcą Bwiti Iboga.',
+                    'bottom' => 'Jestem Czechem pochodzącym z zachodnich gildii, mieszkającym w Ameryce Północnej od ponad 20 lat.
+                     Studiowałem bezpieczne dostarczanie medycyny Iboga oraz nauczanie i uzdrawianie Bwiti w Gabonie, w Afryce Środkowo-Zachodniej,
+                     z szamanem 10 generacji Moughenda Mikala. Nauczyłem się tradycyjnej tysiącletniej praktyki w Missoko Bwiti.
+                     Pracuję na arenie międzynarodowej ... obecnie w Cancun w Meksyku na <a href = "www.bwitilife.com">Bwitilife.com</a>'
                 ]
             ],
             'col_3' => [
-                'title' => 'DATES',
-                'par' => 'We provide traditional BWITI Iboga retreats in the Czech Republic four-times a year.
-                Sometimes even more often, based on the demand.
-                    The next 2 retreats will be on:',
+                'title' => 'DAKTYLE<br /><br />',
+                'par' => 'Cztery razy w roku prowadzimy tradycyjne rekolekcje BWITI Iboga w Czechach.
+                 Czasami nawet częściej, w zależności od zapotrzebowania.
+                     Kolejne 2 rekolekcje odbędą się:',
                 'terms' => [
                     0 => [
-                        'date' => '17 - 24 března 2023',
-                        'place' => 'Pecka, Jičín, Králové Hradec Distrikt, Eastern Czech Republic'
+                        'date' => '17 - 24 marca 2023 r',
+                        'place' => 'Pecka, Jičín, powiat Králové Hradec, wschodnie Czechy'
                     ],
                     1 => [
-                        'date' => 'June 16th - 23rd 2023',
-                        'place' => 'Vidochov, Králové Hradec Distrikt, Eastern Czech Republic'
+                        'date' => '16-23 czerwca 2023 r',
+                        'place' => 'Vidochov, powiat Králové Hradec, wschodnie Czechy'
                     ],
                 ]
             ]

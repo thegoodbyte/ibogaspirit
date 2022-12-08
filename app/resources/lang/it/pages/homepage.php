@@ -4,7 +4,7 @@ return  [
     'content' => [
         'slider' => [
             'slide_1' => [
-                'title' => 'TRADITIONAL BWITI IBOGA HEAKING CEREMONIES',
+                'title' => 'TRADITIONAL BWITI IBOGA HEALING CEREMONIES',
                 'par' => 'I have been providing traditional Bwiti Iboga ceremonies, the exact way I learned them in Gabon from my shaman Moughenda.'
             ],
             'slide_2' => [

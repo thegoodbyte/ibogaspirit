@@ -17,7 +17,7 @@ class ObradyController extends Controller
 
 
     public function lekarske_smernice() {
-        return View::make('pages.obrady.lekarske-smernice');
+        return View::make('pages.obrady.medical-guidelines');
     }
 
 
