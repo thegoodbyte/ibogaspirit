@@ -366,6 +366,11 @@ blockquote cite {
      text-decoration: none;
  }
 
+.header-bottom-row span.active {
+    color: red;
+    text-decoration: none;
+}
+
 .header-bottom-row a:hover{
     text-decoration: underline;
 }

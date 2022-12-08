@@ -11,18 +11,61 @@
 
         <section>
             <div class = "header-bottom-row">
-                <ol class = "languages">
+                <div class = "languages">
                     @if (session('applocale'))
                     {{ session('applocale') }}
                     @endif
-                    <a href = "/set-language/en">english</a> |
-                    <a href = "/set-language/de">auf Deutsch</a> |
-                    <a href = "/set-language/ru">на русском</a> |
-                    <a href = "/set-language/pl">po polsku</a> |
-                    <a href = "/set-language/es">en español</a> |
-                    <a href = "/set-language/fr">en francés</a> |
-                    <a href = "/set-language/it">in italiano</a> |
-                </ol>
+                        @if (session('applocale') == 'cz')
+                            <span class = "active">česky</span> |
+                        @else
+                            <a href = "/set-language/cz">česky</a> |
+                        @endif
+                    {{-- ====================================================== --}}
+                        @if (session('applocale') == 'en')
+                            <span class = "active">english</span> |
+                        @else
+                            <a href = "/set-language/en">english</a> |
+                        @endif
+                    {{-- ====================================================== --}}
+                        @if (session('applocale') == 'de')
+                            <span class = "active">auf Deutsch</span> |
+                        @else
+                            <a href = "/set-language/de">auf Deutsch</a> |
+                        @endif
+                     {{-- ====================================================== --}}
+
+                        @if (session('applocale') == 'ru')
+                            <span class = "active">на русском</span> |
+                        @else
+                            <a href = "/set-language/ru">на русском</a> |
+                        @endif
+                     {{-- ====================================================== --}}
+
+                        @if (session('applocale') == 'pl')
+                            <span class = "active">po polsku</span> |
+                        @else
+                            <a href = "/set-language/pl">po polsku</a> |
+                        @endif
+                        {{-- ====================================================== --}}
+
+                        @if (session('applocale') == 'es')
+                            <span class = "active">en español</span> |
+                        @else
+                            <a href = "/set-language/es">en español</a> |
+                        @endif
+                        {{-- ====================================================== --}}
+                        @if (session('applocale') == 'fr')
+                            <span class = "active">en francés</span> |
+                        @else
+                            <a href = "/set-language/fr">en francés</a> |
+                        @endif
+                        {{-- ====================================================== --}}
+                        @if (session('applocale') == 'it')
+                            <span class = "active">in italiano</span> |
+                        @else
+                            <a href = "/set-language/it">in italiano</a> |
+                        @endif
+                </div>
 
             </div>
         </section>
