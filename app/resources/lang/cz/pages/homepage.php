@@ -87,7 +87,7 @@ return  [
         ],
         'section_bottom_about' => [
             'col_1' => [
-                'title' => 'WHAT IS IBOGA',
+                'title' => 'CO JE IBOA',
                 'par'   => [
                     'top' => 'IBOGA (TABERNATHE IBOGA) JE VYTRVALÝ KEŘ POCHÁZEJÍCÍ Z ROVNÍKOVÉ STŘEDOZÁPADNÍ AFRIKY.
                         KOŘENOVÁ KŮRA BYLA POUŽÍVÁNA ',
@@ -97,7 +97,7 @@ return  [
                 ]
             ],
             'col_2' => [
-                'title' => 'ABOUT ME',
+                'title' => 'KDO JSEM',
                 'par' => [
                     'top' => 'Vitejte - jmenuji se Martin Halla a jsem Nganga - spirituálni lécitel a tradicni Bwiti Iboga facilitátor a poskytovatel.',
                     'bottom' => 'Studoval jsem bezpečné poskytování Ibogy medicíny a Bwiti učení a léčení v Gabonu,  středozápadní Africe, u šamana 10-té generace Moughendy Mikaly.
@@ -105,7 +105,7 @@ return  [
                 ]
             ],
             'col_3' => [
-                'title' => 'DATES',
+                'title' => 'TERMINY',
                 'par' => 'We provide traditional BWITI Iboga retreats in the Czech Republic four-times a year.
                 Sometimes even more often, based on the demand.
                     The next 2 retreats will be on:',
