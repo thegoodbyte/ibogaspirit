@@ -96,6 +96,24 @@ return [
                 budeme chodit každý den, abychom vytvořili nové drážky. Kliknutím sem zobrazíte další informac7 o tom, co
                 lze od integračního procesu očekávat.',
             ],
+            // TODO: add to the page !!!
+            'what_iboga_isnt' => [
+                'pars' => [
+                    0 => 'Iboga is not Ibogaine. In reality, Ibogaine refers to Ibogaine HCL, which is a fully extracted alkaloid,
+                    basically a prescription drug. Ibogaine is famous for its effectiveness in treating drug addiction, particularly opiate addiction.
+                    A person who consumes Ibogaine can prevent opiate withdrawal completely, detox physically, and begin healing
+                    the things that made them an addict in the first place.',
+
+                    1 => 'Ibogaine is found in Iboga but is just one of the active alkaloids. Iboga also contains other alkaloids
+                    that are effective for healing. Ibogaine HCL also lacks the spirit of Iboga, so it is only beneficial for
+                    physical healing and detox, not spiritual healing. ',
+
+                    2 => 'There are also many differences between Iboga and other plant medicines, entheogens, or psychedelics.
+                    The experience is entirely different. It is often compared with Ayahuasca since it is the most popular plant
+                    medicine in our time, but they are very different. We will expand upon the experience below, but essentially
+                    Iboga roots you deeply back into yourself while other psychedelics/entheogens take you outward on a visionary journey to heal.'
+                ]
+            ],
             'conclusion' => [
                 'title' => 'Shrnutí',
                 'par_1' => 'Z tohoto důvodu je IBOGA známá jako jedna z nejúčinnějších léčivých rostlin pro léčbu závislostí.

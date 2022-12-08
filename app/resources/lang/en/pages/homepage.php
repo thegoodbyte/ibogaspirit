@@ -4,7 +4,7 @@ return  [
     'content' => [
         'slider' => [
             'slide_1' => [
-                'title' => 'TRADITIONELLE BWITI IBOGA HEAKING ZEREMONIEN',
+                'title' => 'TRADITIONAL BWITI IBOGA HEALING CEREMONIES',
                 'par' => 'I have been providing traditional Bwiti Iboga ceremonies, the exact way I learned them in Gabon from my shaman Moughenda.'
             ],
             'slide_2' => [
@@ -21,6 +21,27 @@ return  [
             'title' => 'IBOGA-MEDIZIN UND BWITI-LEHREN',
             'par' => 'IBOGA MEDICÍNA NÁS UČÍ, JAK SI UŽÍVAT ŽIVOTA NAPLNO. DOKÁŽE VYLÉČIT JAKÉKOLI PSYCHICKÉ T RAUMA TÍM, ŽE NÁS PŘIVEDE
             KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT. JE TO OPRAVDOVÝ ZÁZRAK – NOVÉ ZROZENÍ'
+        ],
+        // TOD): add to do page
+        'what_iboga_does' => [
+            'title' => 'What Does Iboga Do?',
+            'pars' => [
+                0 => 'Iboga is a deeply grounding medicine that uses the truth to heal. Its goal is to bring you back to
+                your original true self and reconnect you to your soul. It does this by first clearing out (detoxing)
+                anything it can that doesn’t belong physically and mentally. This is often experienced as random thoughts,
+                images, and such flowing by as it cleans everything out, much like defragmenting a computer.
+                Iboga will also show you how your mind works, revealing patterns of thinking that you may have picked up
+                throughout your life that are not genuine or healthy. After Iboga restores peace to the mind,
+                it reveals the origins of your suffering and continues to teach you by showing you the truth. In short, it
+                helps you release patterns, memories, and traumas to free you from them – so you can be the true you. After the ceremony,
+                Iboga continues to help you by improving mindfulness and promoting neuroplasticity so you can create a new,
+                healthier life with ease.',
+
+                1 => 'That being said, the experience is different for every person every time. Therefore, one person who does
+                it multiple times will have a different experience each time. Likewise, two people in the same ceremony will have very
+                different experiences. This is because Iboga is a highly intelligent spirit that gives each person their own perfect
+                healing experience to fit their specific needs – in the way they will best understand.'
+            ]
         ],
         'section_3_happily' => [
             'title_1' => 'GLÜCKLICH UND VOLL LEBEN',

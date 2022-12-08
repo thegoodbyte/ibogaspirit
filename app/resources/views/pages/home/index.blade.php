@@ -10,6 +10,15 @@
         <p>
             <?php echo __('pages/homepage.content.section_2_iboga.par'); ?>
         </p>
+        <p>
+            <?php echo __('pages/homepage.content.what_iboga_does.pars.0'); ?>
+        </p>
+        <p>
+            <?php echo __('pages/homepage.content.what_iboga_does.pars.1'); ?>
+        </p>
+        <p>
+            <?php echo __('pages/homepage.content.what_iboga_does.pars.2'); ?>
+        </p>
     </div>
 </div>
 

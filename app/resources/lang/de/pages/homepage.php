@@ -4,7 +4,7 @@ return  [
     'content' => [
         'slider' => [
             'slide_1' => [
-                'title' => 'TRADITIONELLE BWITI IBOGA HEAKING ZEREMONIEN',
+                'title' => 'TRADITIONELLE BWITI IBOGA HEILZEREMONIEN',
                 'par' => 'Ich habe traditionelle Bwiti Iboga-Zeremonien angeboten, genau so, wie ich sie in Gabun von meinem Schamanen Moughenda gelernt habe.'
             ],
             'slide_2' => [

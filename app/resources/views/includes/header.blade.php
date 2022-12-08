@@ -15,7 +15,7 @@
                     @if (session('applocale'))
                     {{ session('applocale') }}
                     @endif
-                        @if (session('applocale') == 'cz')
+                        @if (session('applocale') == 'cz' || (empty (session('applocale'))))
                             <span class = "active">česky</span> |
                         @else
                             <a href = "/set-language/cz">česky</a> |
