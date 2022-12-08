@@ -9,8 +9,20 @@
             </div>
         </section>
 
-{{--        <section>--}}
-{{--            <div class = "header-bottom-row">2</div>--}}
-{{--        </section>--}}
+        <section>
+            <div class = "header-bottom-row">
+                <ol class = "languages">
+                    <<a href = "/set-language/cz">česky</a>
+                    <<a href = "/set-language/en">english</a>
+                    <<a href = "/set-language/de">auf Deutsch</a>
+                    <<a href = "/set-language/ru">на русском</a>
+                    <<a href = "/set-language/pl">po polsku</a>
+                    <<a href = "/set-language/es">en español</a>
+                    <<a href = "/set-language/fr">en francés</a>
+                    <<a href = "/set-language/it">in italiano</a>
+                </ol>
+
+            </div>
+        </section>
 
 </header>

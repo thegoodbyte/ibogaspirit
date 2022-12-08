@@ -4,26 +4,26 @@ return  [
     'content' => [
         'slider' => [
             'slide_1' => [
-                'title' => 'TRADITIONELLE BWITI IBOGA HEAKING ZEREMONIEN',
+                'title' => 'TRADITIONAL BWITI IBOGA HEAKING CEREMONIES',
                 'par' => 'I have been providing traditional Bwiti Iboga ceremonies, the exact way I learned them in Gabon from my shaman Moughenda.'
             ],
             'slide_2' => [
                 'title' => 'ALL INLCUSIVE 8-DAY IBOGA HEALING RETREATS',
-                'par' => 'Eine einwöchige Stah mit zwei Iboga-Zeremonien und einer spirituellen Zeremonie
-                Dusche., Bwiti Lehren und vieles mehr...'
+                'par' => 'A week long stah including two Iboga ceremonies and a spiritual
+                shower., Bwiti Teachings and much more...'
             ],
             'slide_3' => [
-                'title' => 'LERNE WISSEN, WER DU WIRKLICH BIST',
-                'par' => 'Finden Sie heraus, wer Sie sind. Verbinde dich wieder mit deiner Seele und liebe dich selbst wieder.'
+                'title' => 'GET TO KNOW WHO YOU REALLY ARE',
+                'par' => 'Find out who you are. Reconnect with your soul and love yourself again.'
             ]
         ],
         'section_2_iboga' =>[
-            'title' => 'IBOGA-MEDIZIN UND BWITI-LEHREN',
+            'title' => 'IBOGA MEDICINE AND BWITI TEACHINGS',
             'par' => 'IBOGA MEDICÍNA NÁS UČÍ, JAK SI UŽÍVAT ŽIVOTA NAPLNO. DOKÁŽE VYLÉČIT JAKÉKOLI PSYCHICKÉ T RAUMA TÍM, ŽE NÁS PŘIVEDE
             KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT. JE TO OPRAVDOVÝ ZÁZRAK – NOVÉ ZROZENÍ'
         ],
         'section_3_happily' => [
-            'title_1' => 'GLÜCKLICH UND VOLL LEBEN',
+            'title_1' => 'LIVE HAPPILY AND TO FULLY',
             'par_1' => 'WE CAN HONOR OUR LIVES BY LIVING HAPPILY. IT SI ATTAINABLE AND OUR BIRTHRIGHT.
                 IBOGA MEDICINE TEACHES US HOW TO ENJOY THE LIFE FULLY.',
             'title_2' => 'IBOGA MEDICINE',

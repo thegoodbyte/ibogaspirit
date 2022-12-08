@@ -110,6 +110,7 @@ return [
         'English' => 'en',
         'Russian' => 'ru',
         'French' => 'fr',
+        'Spanish' => 'es',
     ],
 
     /*

@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/{en}', [\App\Http\Controllers\HomeController::class, "index"]);
+Route::get('/', [\App\Http\Controllers\HomeController::class, "index"]);
 
 Route::controller(\App\Http\Controllers\IbogaController::class)->group(function() {
     Route::get('/{en}/iboga-bwiti-retraeats-czech-republic-europe', 'index');

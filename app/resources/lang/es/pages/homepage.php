@@ -4,26 +4,27 @@ return  [
     'content' => [
         'slider' => [
             'slide_1' => [
-                'title' => 'TRADITIONELLE BWITI IBOGA HEAKING ZEREMONIEN',
-                'par' => 'I have been providing traditional Bwiti Iboga ceremonies, the exact way I learned them in Gabon from my shaman Moughenda.'
+                'title' => 'CEREMONIAS TRADICIONALES DE HEAKING BWITI IBOGA',
+                'par' => 'He estado brindando ceremonias tradicionales de Bwiti Iboga, exactamente de la misma manera que las aprendí en Gabón de mi chamán Moughenda.'
             ],
             'slide_2' => [
-                'title' => 'ALL INLCUSIVE 8-DAY IBOGA HEALING RETREATS',
-                'par' => 'Eine einwöchige Stah mit zwei Iboga-Zeremonien und einer spirituellen Zeremonie
-                Dusche., Bwiti Lehren und vieles mehr...'
+                'title' => 'RETIROS DE SANACIÓN IBOGA DE 8 DÍAS CON TODO INCLUIDO',
+                'par' => '
+Una estadía de una semana que incluye dos ceremonias de Iboga y una espiritual
+                ducha., Enseñanzas Bwiti y mucho más...'
             ],
             'slide_3' => [
-                'title' => 'LERNE WISSEN, WER DU WIRKLICH BIST',
-                'par' => 'Finden Sie heraus, wer Sie sind. Verbinde dich wieder mit deiner Seele und liebe dich selbst wieder.'
+                'title' => 'CONOCE QUIÉN ERES REALMENTE',
+                'par' => 'Descubre quién eres. Reconecta con tu alma y ámate de nuevo.'
             ]
         ],
         'section_2_iboga' =>[
-            'title' => 'IBOGA-MEDIZIN UND BWITI-LEHREN',
+            'title' => 'MEDICINA IBOGA Y ENSEÑANZAS BWITI',
             'par' => 'IBOGA MEDICÍNA NÁS UČÍ, JAK SI UŽÍVAT ŽIVOTA NAPLNO. DOKÁŽE VYLÉČIT JAKÉKOLI PSYCHICKÉ T RAUMA TÍM, ŽE NÁS PŘIVEDE
             KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT. JE TO OPRAVDOVÝ ZÁZRAK – NOVÉ ZROZENÍ'
         ],
         'section_3_happily' => [
-            'title_1' => 'GLÜCKLICH UND VOLL LEBEN',
+            'title_1' => 'LIVE HAPPILY AND TO FULLY',
             'par_1' => 'WE CAN HONOR OUR LIVES BY LIVING HAPPILY. IT SI ATTAINABLE AND OUR BIRTHRIGHT.
                 IBOGA MEDICINE TEACHES US HOW TO ENJOY THE LIFE FULLY.',
             'title_2' => 'IBOGA MEDICINE',

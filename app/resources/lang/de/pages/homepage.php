@@ -5,10 +5,10 @@ return  [
         'slider' => [
             'slide_1' => [
                 'title' => 'TRADITIONELLE BWITI IBOGA HEAKING ZEREMONIEN',
-                'par' => 'I have been providing traditional Bwiti Iboga ceremonies, the exact way I learned them in Gabon from my shaman Moughenda.'
+                'par' => 'Ich habe traditionelle Bwiti Iboga-Zeremonien angeboten, genau so, wie ich sie in Gabun von meinem Schamanen Moughenda gelernt habe.'
             ],
             'slide_2' => [
-                'title' => 'ALL INLCUSIVE 8-DAY IBOGA HEALING RETREATS',
+                'title' => 'ALLES INKLUSIVE 8-TÄGIGE IBOGA HEALING RETREATS',
                 'par' => 'Eine einwöchige Stah mit zwei Iboga-Zeremonien und einer spirituellen Zeremonie
                 Dusche., Bwiti Lehren und vieles mehr...'
             ],
@@ -27,20 +27,20 @@ return  [
             'par_1' => 'WE CAN HONOR OUR LIVES BY LIVING HAPPILY. IT SI ATTAINABLE AND OUR BIRTHRIGHT.
                 IBOGA MEDICINE TEACHES US HOW TO ENJOY THE LIFE FULLY.',
             'title_2' => 'IBOGA MEDICINE',
-            'par_2' => 'CAN HEAL ANY SPIRITUAL OR MENTAL TRAUMA BY BRINGING US TO THE ROOT OF THE ISSUE.
-                IT SHOWS US HOW TO MAKE PEACE WITH IT AND MOVE ON. IT IS A TRUE MIRACLE - A TRUE LIBERATION...
-            '
+            'par_2' => 'KANN JEDES SPIRITUELLE ODER GEISTIGE TRAUMA HEILEN, INDEM SIE UNS ZUR WURZEL DES PROBLEMS BRINGEN.
+                ES ZEIGT UNS, WIE MAN MIT IHM FRIEDEN SCHLIESST UND WEITERGEHT. ES IST EIN WAHRES WUNDER - EINE WAHRE BEFREIUNG...
+           '
 
         ],
         'section_get_to_know' => [
             'left' => [
-                'title' => 'GET TO KNOW<br/>YOUR TRUE SELF ...',
-                'par' => 'knowing who you truly are is the most important part of knowing.
-                    Once you know who you are - you can make the right decisions for yourself and enjoy happy and fullfilling life.
-                    Learn more how we can help you to achieve this.',
+                'title' => 'LERNE DEIN <br />WAHRES SELBST KENNEN ...',
+                'par' => 'Zu wissen, wer du wirklich bist, ist der wichtigste Teil des Wissens.
+                    Sobald Sie wissen, wer Sie sind, können Sie die richtigen Entscheidungen für sich selbst treffen und ein glückliches und erfülltes Leben genießen.
+                    Erfahren Sie mehr darüber, wie wir Ihnen dabei helfen können',
             ],
             'right' => [
-                'title' => 'IBOGA MEDICNE',
+                'title' => 'IBOGA-MEDIZIN',
                 'list_items' => [
                     0 => 'What is IBOGA medicine',
                     1 => 'How Iboga can help you',
@@ -52,7 +52,7 @@ return  [
             ]
         ],
         'section_bwiti' => [
-            'title' => 'TRADITIONAL BWITI HEALING AND TEACHINGS',
+            'title' => 'TRADITIONELLE BWITI HEILUNG UND LEHREN',
             'par' => 'Podle tradice, když se Iboga poprvé objevila, rozhodl se být s Bwiti lidmi.
                     Iboga respektoval jejich způsob života, a tak když se lidé začali ptát, odkud přišli a za co mohou
                     být tolik vděční, Iboga se představil a řekl: „Řekněte svým lidem, že až budou mít otázky,
@@ -60,33 +60,33 @@ return  [
         ],
         'section_bottom_about' => [
             'col_1' => [
-                'title' => 'WHAT IS IBOGA',
+                'title' => 'WAS IST IBOGA',
                 'par'   => [
-                    'top' => 'IBOGA (TABERNATHE IBOGA) IS A PERENNIAL SHRUB NATIVE OF EQUATORIAL CENTRAL WEST AFRICA. THE ROOT BARK HAS BEEN USED ',
-                    'bottom' => 'AS NATURAL PLANT MEDICINE FOR THOUSANDS AND THOUSANDS OF YEARS BY INDIGENOUS INHABITANTS
-                REGION. IT IS CONSIDERED SACRED BY THOSE WHO PRACTICE THE TRADITION KNOWN AS BWITI. Iboga is used in
-                various ceremonials ...'
-            ]
+                    'top' => 'IBOGA (TABERNATHE IBOGA) IST EIN MEHRJÄHRIGER STRAUB, DER AUS DEM ÄQUATORIALEN ZENTRALEN WESTAFRIKA NATIVE IST. DIE WURZELRINDE WURDE VERWENDET',
+                    'bottom' => 'ALS NATÜRLICHE PFLANZENMEDIZIN SEIT TAUSENDEN UND TAUSENDEN VON JAHREN VON INDIGENEN EINWOHNERN
+                REGION. ES WIRD VON JENEN, DIE DIE ALS BWITI BEKANNTE TRADITION praktizieren, als heilig angesehen. Iboga wird verwendet in
+                verschiedene Zeremonien ...'
+                ]
             ],
             'col_2' => [
-                'title' => 'ABOUT ME',
+                'title' => 'ÜBER MICH',
                 'par' => [
-                    'top' => 'Welcome - I am Martin and I am a Nganga - a spiritual healer and traditional Bwiti Iboga facilitator and provider.',
-                    'bottom' => 'I am a Czech native of Western guilds, living in North America for over 20 years.
-                    I studied the safe provision of Iboga medicine and Bwiti teaching and healing in Gabon, Central West Africa,
-                    with the 10th generation shaman Moughenda Mikala. I learned a traditional thousand-year-old practice in Missoko Bwiti.
-                    I work internationally ... currently in Cancun, Mexico at <a href = "www.bwitilife.com">Bwitilife.com</a>'
+                    'top' => 'Willkommen - ich bin Martin und ich bin ein Nganga - ein spiritueller Heiler und traditioneller Bwiti Iboga-Trainer und Anbieter.',
+                    'bottom' => 'Ich bin gebürtiger Tscheche aus westlichen Gilden und lebe seit über 20 Jahren in Nordamerika.
+                    Ich habe die sichere Bereitstellung von Iboga-Medizin und Bwiti-Lehre und -Heilung in Gabun, Zentralwestafrika, studiert.
+                    mit dem Schamanen Moughenda Mikala in der 10. Generation. Ich habe in Missoko Bwiti eine traditionelle, tausend Jahre alte Praxis erlernt.
+                    Ich arbeite international ... derzeit in Cancun, Mexiko bei <a href = "www.bwitilife.com">Bwitilife.com</a>'
                 ]
             ],
             'col_3' => [
-                'title' => 'DATES',
-                'par' => 'We provide traditional BWITI Iboga retreats in the Czech Republic four-times a year.
-                Sometimes even more often, based on the demand.
-                    The next 2 retreats will be on:',
+                'title' => 'TERMINE',
+                'par' => 'Wir bieten viermal im Jahr traditionelle BWITI Iboga Retreats in der Tschechischen Republik an.
+                Je nach Nachfrage manchmal sogar öfter.
+                    Die nächsten 2 Retreats finden statt am:',
                 'terms' => [
                     0 => [
-                        'date' => '17 - 24 března 2023',
-                        'place' => 'Pecka, Jičín, Králové Hradec Distrikt, Eastern Czech Republic'
+                        'date' => '17. - 24. März 2023',
+                        'place' => 'Pecka, Jičín, Bezirk Králové Hradec, Osttschechische Republik'
                     ],
                     1 => [
                         'date' => 'June 16th - 23rd 2023',
