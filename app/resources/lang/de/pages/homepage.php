@@ -42,11 +42,11 @@ return  [
             'right' => [
                 'title' => 'IBOGA-MEDIZIN',
                 'list_items' => [
-                    0 => 'What is IBOGA medicine',
-                    1 => 'How Iboga can help you',
+                    0 => 'Was ist IBOGA-Medizin',
+                    1 => 'HWie Iboga Ihnen helfen kann',
                     2 => 'Bwiti Tradition',
-                    3 => 'Iboga vs Ayahuasca',
-                    4 => 'Preparation and Ongoing Care',
+                    3 => 'Iboga gegen Ayahuasca',
+                    4 => 'Vorbereitung und laufende Pflege',
                     5 => 'Your first ceremony',
                 ]
             ]

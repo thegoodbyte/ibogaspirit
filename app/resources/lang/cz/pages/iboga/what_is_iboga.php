@@ -114,6 +114,11 @@ return [
                     Iboga roots you deeply back into yourself while other psychedelics/entheogens take you outward on a visionary journey to heal.'
                 ]
             ],
+            'ibogaine' => [
+                'par' => 'V poslední době se používá Ibogy rozšířilo mimo africký kontinent a používá se k léčbě a léčení v různých
+                prostředí po celém světě. Od doby, kdy se rozšířil na Západ, si nyní získává větší pozornost díky odvozenému
+                alkaloidu Ibogaine, který se používá především k úspěšnému a trvalému přerušení návykových vzorců chování.'
+            ],
             'conclusion' => [
                 'title' => 'Shrnutí',
                 'par_1' => 'Z tohoto důvodu je IBOGA známá jako jedna z nejúčinnějších léčivých rostlin pro léčbu závislostí.

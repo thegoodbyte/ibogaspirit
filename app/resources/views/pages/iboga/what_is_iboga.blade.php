@@ -144,9 +144,11 @@
           prostředích po celém světě. Od doby, kdy se rozšířil na Západ, si nyní získává větší pozornost díky odvozenému
           alkaloidu Ibogaine, který se používá především k úspěšnému a trvalému přerušení návykových vzorců chování.
 -->
-                V poslední době se používá Ibogy rozšířilo mimo africký kontinent a používá se k léčbě a léčení v různých
-                prostředí po celém světě. Od doby, kdy se rozšířil na Západ, si nyní získává větší pozornost díky odvozenému
-                alkaloidu Ibogaine, který se používá především k úspěšnému a trvalému přerušení návykových vzorců chování.
+
+                <?php echo __('pages/iboga/what_is_iboga.content.sections.ibogaine.par'); ?>
+            </p>
+
+            <p>
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.conclusion.par_2'); ?>
 
             </p>

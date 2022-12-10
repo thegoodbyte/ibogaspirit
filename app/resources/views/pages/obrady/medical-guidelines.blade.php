@@ -2,9 +2,9 @@
 @section('content')
 <div class = "container-fluid" id = "medical-quidelines-container">
     <div class = "row" id = "img-box-top-med-guidelines">
-        <h1 class = "font-just-me font-size-80">Lékařské Směrnice</h1>
+        <h1 class = "font-just-me font-size-80"><?php echo __('pages/ceremonies/medical-guidelines.content.title'); ?></h1>
 
-        <blockquote>Iboga je neuvěřitelně bezpečný lék, pokud má uživatel zdravé srdce a neužívá žádné návykové látky</blockquote>
+        <blockquote><?php echo __('pages/ceremonies/medical-guidelines.content.quote'); ?></blockquote>
     </div>
 
 
@@ -12,21 +12,17 @@
     <div class = "row">
         <div class = "col-xl-12">
 
-            <h2 class = "font-size-60 font-just-me">Bezpečí Ibogy</h2>
+            <h2 class = "font-size-60 font-just-me"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.safety.title'); ?></h2>
             <p>
-                Iboga je neuvěřitelně bezpečný lék, pokud má uživatel zdravé srdce a neužívá žádné navykove látky.
+                <?php echo __('pages/ceremonies/medical-guidelines.content.sections.safety.pars.0'); ?>
             </p>
 
             <p>
-                Naprostá většina jakýchkoli zdravotních důsledků byla důsledkem užívání pro účely detoxikace drog nebo
-                situací, kdy byl srdeční stav nezodpovědně přehlížen.
+                <?php echo __('pages/ceremonies/medical-guidelines.content.sections.safety.pars.1'); ?>
             </p>
 
             <p>
-                Naopak Iboga ve skutečnosti velmi pomáhá k celkovému zlepšení našeho fyzického zdraví, a to nejen svou
-                schopností odstraňovat toxicitu, ale také tím, že si
-                ve sklepní paměti ukládáme obrovské množství emocionální bolesti. Když se utrpení v mysli začne zmírňovat,
-                tělo povolí a naopak.
+                <?php echo __('pages/ceremonies/medical-guidelines.content.sections.safety.pars.2'); ?>
             </p>
         </div>
     </div>
@@ -36,34 +32,25 @@
     <div class = "row bg-container">
         <div class = "row">
             <div class = "col-xl-12">
-                <h3 class = "font-just-me font-size-80">Požadavky</h3>
+                <h3 class = "font-just-me font-size-80"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.requirements.title'); ?></h3>
                 <p>
-                    Momentalně nepracuji s nikým, kdo je fyzicky závislý na nějaké navykove látce.
-                    Každý host musí mít předem udělaný elektrokardiogram (EKG) a jaterní panel abychom ověřili že host nemá
-                    žádné problémy s játry nebo závažné zneužívání alkoholu.
+                    <?php echo __('pages/ceremonies/medical-guidelines.content.sections.requirements.par'); ?>
                 </p>
             </div>
         </div>
 
         <div class = "row">
             <div class = "col-xl-6">
-                <h3 class = "font-just-me font-size-40">EKG a Jaterní panel</h3>
+                <h3 class = "font-just-me font-size-40"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.requirements.ekg.title'); ?></h3>
                 <p>
-                    Každý host musí mít předem udelany elektrokardiogram (EKG) a jaterní panel.<br />
-                    EKG lze provést u svého lékaře nebo na místě zde. Naši lékaři jsou speciálně vyškoleni, aby se podívali
-                    na specifika v EKG, která jsou
-                    specifická pro Ibogu a nemohou být čtena jiným lékařem.
+                    <?php echo __('pages/ceremonies/medical-guidelines.content.sections.requirements.ekg.par'); ?>
                 </p>
             </div>
 
             <div class = "col-xl-6">
-                <h3 class = "font-just-me font-size-40">Zdravotní formulář</h3>
+                <h3 class = "font-just-me font-size-40"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.requirements.form.title'); ?></h3>
                 <p>
-                    Moji hosté jsou povinni vyplnit podrobný zdravotní formulář se základním fyzickým a duševním zdravím,
-                    kterému věnujeme velkou pozornost.
-                    Na každých 2,5 hostů mám jednoho facilitátora a jsme velmi šikovní, zvláště během obřadu a dne objevu
-                    (den po obřadu).
-                    Práce s tímto lékem je zážitek na celý život a přitom velmi bezpečný!
+                    <?php echo __('pages/ceremonies/medical-guidelines.content.sections.requirements.form.par'); ?>
                 </p>
             </div>
         </div>
@@ -78,9 +65,7 @@
 {{--    </div>--}}
 
     <div class = "row">
-        <blockquote>Každý je plně odpovědný za informování zprostredkovatele o minulých nebo současných
-        drogových problémech, případných závažných poruchách fyzické či psychické rovnováhy
-        nebo aktuálně předepsaných lécích.</blockquote>
+        <blockquote><?php echo __('pages/ceremonies/medical-guidelines.content.sections.quote'); ?></blockquote>
     </div>
 
 
@@ -94,7 +79,7 @@
         <div class = "row">
 
             <div class = "col-xl-6">
-                <h3 class = "font-just-me font-size-60">Léky</h3>
+                <h3 class = "font-just-me font-size-60"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.title'); ?>/h3>
                 <p>
                     Měli byste přestat používat jakékoli léky, které nejsou nezbytné pro podporu života.
                     To zahrnuje jakékoli farmaceutické produkty, které potlačují příznaky.
