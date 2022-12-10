@@ -41,8 +41,8 @@ return [
                     'mind_setup' => [
                         'title' => 'Nastavení mysli - záměr',
                             'pars' => [
-                                0 => 'Stanovte si svůj záměr pro vas lecebny pobyt -  ujasněte si své cíle a připravte si otázky, na které se
-                                    budete léku ptát. Další informace o tom, jak to provést, naleznete níže.',
+                                0 => 'Stanovte si svůj záměr pro váš lečebný pobyt -  ujasněte si své cíle a připravte si otázky, na které se
+                                    budete medicíny ptát. Další informace o tom, jak to provést, naleznete níže.',
                                 1 => 'Součástí vašeho retreatového balíčku je přípravný hovor s jedním se mnou. Dám vám představu o
                                     tom, co můžete očekávat, uvidíme, jak na tom jste,
                                     pomůži vám připravit si otázky a stanovit váš záměr.',
@@ -52,7 +52,7 @@ return [
                     'no_distractions'=> [
                         'title'=> 'Žádné rozptylování',
                         'pars' =>[
-                            0 => 'No Distractions — Iboga retreats should be a calm, introspective time. To allow for maximum healing, this
+                            0 => '<!-- No Distractions — Iboga retreats should be a calm, introspective time. To allow for maximum healing, this
                 means limiting or removing distractions. Save travel excursions and adventures for before or after your retreat.
                 After a journey, the insights flow freely. The only way to listen to your soul and observe the depths of healing
                 is to embrace the stillness. Sometimes people have the most powerful realizations the day after their ceremony.

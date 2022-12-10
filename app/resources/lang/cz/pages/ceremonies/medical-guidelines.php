@@ -3,12 +3,12 @@
 return [
     'content' => [
         'title' => 'Lékařské Směrnice',
-        'quote' => 'Iboga je neuvěřitelně bezpečný lék, pokud má uživatel zdravé srdce a neužívá žádné návykové látky',
+        'quote' => 'Iboga je neuvěřitelně bezpečný medicína, pokud má uživatel zdravé srdce a neužívá žádné návykové látky',
         'sections' => [
             'safety' => [
                 'title' => 'Bezpečí Ibogy',
                 'pars' => [
-                    0 => 'Iboga je neuvěřitelně bezpečný lék, pokud má uživatel zdravé srdce a neužívá žádné navykove látky.',
+                    0 => 'Iboga je neuvěřitelně bezpečný medicína, pokud má uživatel zdravé srdce a neužívá žádné navykove látky.',
                     1 => 'Naprostá většina jakýchkoli zdravotních důsledků byla důsledkem užívání pro účely detoxikace drog nebo
                 situací, kdy byl srdeční stav nezodpovědně přehlížen.',
                     2 => 'Naopak Iboga ve skutečnosti velmi pomáhá k celkovému zlepšení našeho fyzického zdraví, a to nejen svou
@@ -35,12 +35,12 @@ return [
                     kterému věnujeme velkou pozornost.
                     Na každých 2,5 hostů mám jednoho facilitátora a jsme velmi šikovní, zvláště během obřadu a dne objevu
                     (den po obřadu).
-                    Práce s tímto lékem je zážitek na celý život a přitom velmi bezpečný!'
+                    Práce s touto medicínou je zážitek na celý život a přitom velmi bezpečný'
                 ]
             ],
             'quote' => 'Každý je plně odpovědný za informování zprostredkovatele o minulých nebo současných
-        drogových problémech, případných závažných poruchách fyzické či psychické rovnováhy
-        nebo aktuálně předepsaných lécích.',
+                        drogových problémech, případných závažných poruchách fyzické či psychické rovnováhy
+                        nebo aktuálně předepsaných lécích.',
             'meds' => [
                 'title' => 'Léky',
                 'pars' => [
@@ -60,18 +60,18 @@ return [
                 'meds_to_avoid' => [
                     'title' => 'Léky, kterým je třeba se vyhnout:',
                     'items' => [
-                        'MAOI inhibitory monoaminooxidázy)',
-                        'SSRI (selektivní inhibitory zpětného vychytávání serotoninu)',
-                        'Antihypertenziva/lék na vysoký krevní tlak',
-                        'Potlačující chuť k jídlu nebo pilulky na hubnutí',
-                        'Lék na astma, bronchitidu nebo jiné dýchací potíže',
-                        'Antihistaminika',
-                        'Lék na nachlazení, problémy s dutinami, sennou rýmu nebo alergie (jakýkoli
-                        lék obsahující dextromethorfan/DXM, nebo který má ve svém názvu DM, DX nebo Tuss)',
-                        'Látky tlumící CNS (centrální nervový systém) (např. Xanax, Ativan)',
-                        'Vazodilatátory',
-                        'Antipsychotika',
-                        'Barbituráty',
+                        0 => 'MAOI inhibitory monoaminooxidázy)',
+                        1 => 'SSRI (selektivní inhibitory zpětného vychytávání serotoninu)',
+                        2 => 'Antihypertenziva/lék na vysoký krevní tlak',
+                        3 => 'Potlačující chuť k jídlu nebo pilulky na hubnutí',
+                        4 => 'Lék na astma, bronchitidu nebo jiné dýchací potíže',
+                        5 => 'Antihistaminika',
+                        6 => 'Lék na nachlazení, problémy s dutinami, sennou rýmu nebo alergie (jakýkoli
+                        7 => lék obsahující dextromethorfan/DXM, nebo který má ve svém názvu DM, DX nebo Tuss)',
+                        8 => 'Látky tlumící CNS (centrální nervový systém) (např. Xanax, Ativan)',
+                        9 => 'Vazodilatátory',
+                        10 => 'Antipsychotika',
+                        11 => 'Barbituráty',
                     ]
                 ]
             ],
@@ -80,7 +80,7 @@ return [
                 'pars' => [
                     0 => 'Iboga má vynikající výsledky v detoxikaci lidí od narkotik. V současné době však nenabízíme
                     žádnou medikamentózní léčbu ani drogový detox.',
-                    1 => 'Pokud trpíte drogovou závislostí, doporučujeme, abyste se před návštěvou našeho útočiště přihlásili do detoxikační kliniky
+                    1 => 'Pokud trpíte drogovou závislostí, doporučujeme, abyste se před návštěvou našeho wellness pobytu přihlásili do detoxikační kliniky
                     (před každým obřadem dělám testy na drogy). Níže prosím zkontrolujte léky, kterým je třeba se vyhnout na stránce Iboga.'
                 ],
                 'detox_warning' => 'Nejsme však KLINIKA ANI REHABACE A NENABÍZÍME DROGOVÝ DETOX',
@@ -89,23 +89,23 @@ return [
                     'title' => 'Léky a drogy  kterým je třeba se vyhnout',
                     'list_title' => 'Drogy VELMI nebezpečné v kombinaci s Ibogou:',
                     'items' => [
-                        'Kokain, amfetaminy a efedrin',
-                            'MDMA (extáze), MDA, MDEA, PMA',
-                            'Opiáty (heroin, morfin, kodein, opium)',
-                            'Dextromethorfan (DXM)',
-                            'Mescaline (any phenethylamine)',
-                            'Alkohol',
-                            'Kratom',
-                            'Kava',
-                            '5-MEO-DMT',
+                        0 => 'Kokain, amfetaminy a efedrin',
+                        1 => 'MDMA (extáze), MDA, MDEA, PMA',
+                        2 => 'Opiáty (heroin, morfin, kodein, opium)',
+                        3 => 'Dextromethorfan (DXM)',
+                        4 => 'Mescaline (any phenethylamine)',
+                        5 => 'Alkohol',
+                        6 => 'Kratom',
+                        7 => 'Kava',
+                        8 => '5-MEO-DMT',
                     ],
-                    'abstinence_perios' => 'Musíte mít minimálně 30 dní pauzu od výše uvedených látek',
+                    'abstinence_period' => 'Musíte mít minimálně 30 dní pauzu od výše uvedených látek',
 
                 ],
             ],
             'psychology' => [
                 'title' => 'Psychologická bezpečnost',
-                'par' => [
+                'pars' => [
                     0 => 'Pokud trpíte schizofrenií nebo duševní poruchou, přečtěte si prosím:',
                     1 => 'Je také důležité vzít v úvahu psychologickou bezpečnost. Lidé s poruchami osobnosti nebo s
                     mentálními poruchami v anamnéze (jako je hraniční, schizofrenie atd.) jsou při užívání Ibogy

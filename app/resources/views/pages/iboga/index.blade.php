@@ -95,7 +95,7 @@
 
             <p class="text-justify">Je důležité poznamenat: že i když se jedná o silný lék na mnoha úrovních,
                 nedělá práci za nás. Musíme reagovat na učení a implementovat nové chování a vytvářet nové vzorce myšlení.
-                Útočiště Iboga je jen začátek cesty. Lék nám pomůže vést cestu, ale my se musíme rozhodnout, že po cestě
+                Iboga wellness pobyt je jen začátek cesty. Medicína nám pomůže vést cestu (journey) , ale my se musíme rozhodnout, že po cestě
                 budeme chodit každý den, abychom vytvořili nové drážky. Kliknutím sem zobrazíte další informace o tom, co
                 lze od integračního procesu očekávat</p>
             </p>

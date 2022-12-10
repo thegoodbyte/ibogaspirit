@@ -24,7 +24,7 @@
 
 <p>
     Na úrovni duše nikdo nechce po zbytek života brát léky a oklamat svůj mozek, aby pocítil pocit falešného míru a spokojenosti – medikované emoce, které se ani zdaleka neblíží radosti ze skutečného, ​​autentického míru a spokojenosti.
-    Duch Ibogy, mocný lék, nám pomáhá pamatovat si. Když Iboga splyne s naším vlastním Duchem, jeho zdrojová pravda se zrcadlí v našich duších. Osvětluje pravdu, kterou v sobě držíme, připomíná nám naši vlastní moc.
+    Duch Ibogy, mocný medicína, nám pomáhá pamatovat si. Když Iboga splyne s naším vlastním Duchem, jeho zdrojová pravda se zrcadlí v našich duších. Osvětluje pravdu, kterou v sobě držíme, připomíná nám naši vlastní moc.
     Když si vzpomeneme na svou sílu, jsme schopni využít naši nebojácnost a odvahu. Pak můžeme začít vylézat z temných hlubin, abychom čelili pravdě.
     Musíme čelit naší obtížné, temné minulosti – přímo. Musíme konečně udělat to, čemu jsme se tolik snažili vyhnout – čelit minulosti a přijmout ji.
     Jen tak jsme schopni uvolnit temnotu a její kontrolu nad naším životem.

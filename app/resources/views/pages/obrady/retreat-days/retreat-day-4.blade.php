@@ -13,9 +13,9 @@
         <div class = "col-xl-8">
             <p class = "pl-3">
                 V tento den se hosté cítí ve svém těle pevněji, mysl je tišší a tělo lehčí.
-                Lekce stále přicházejí, ale hosté se cítí připraveni vyrazit mimo útočiště, aby byli svědky učení.
+                Lekce stále přicházejí, ale hosté se cítí připraveni vyrazit mimo wellness pobyt, aby byli svědky učení.
                 Tento den je nezbytný. Některé retreaty dělají 4 nebo 5 nočních retreatů se 2 ceremoniemi. Pokud byste byli připraveni
-                na další obřad jeden den po uzdravení, možná vám nebyla podána dostatečná dávka léku.
+                na další obřad jeden den po uzdravení, možná vám nebyla podána dostatečná dávka medicíny.
             </p>
 
             <p>

@@ -79,29 +79,21 @@
         <div class = "row">
 
             <div class = "col-xl-6">
-                <h3 class = "font-just-me font-size-60"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.title'); ?>/h3>
+                <h3 class = "font-just-me font-size-60"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.title'); ?></h3>
                 <p>
-                    Měli byste přestat používat jakékoli léky, které nejsou nezbytné pro podporu života.
-                    To zahrnuje jakékoli farmaceutické produkty, které potlačují příznaky.
-                    Je nutné přestat užívat léky až dva až tři týdny před a po užití Ibogy.
-                    Většina léků může snížit léčivý potenciál Ibogy nebo změnit její účinky.
+                    <?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.pars.0'); ?>
                     </p>
 
                     <p>
-                    Některé z
-                    léku mohou být také extrémně nebezpečné v kombinaci s Ibogou. Pro vaši bezpečnost si nerezervujte a
-                    ustupte, pokud užíváte nějaké psychiatrické léky. Doporučujeme, abyste si promluvili se svým lékařem a viděli všechny možnosti
-                    vysadit všechny psychiatrické léky na minimálně dva měsíce.
+                        <?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.pars.1'); ?>
                     </p>
 
                     <p>
-                        Iboga může být velmi nebezpečná, pokud je kombinována s psychiatrickými léky.<br />
-                        PROSÍM, KONTAKTUJTE NÁS, POKUD MÁTE V TOMTO DOTAZY NEBO OTÁZKY!!!
+                        <?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.pars.2'); ?>
                     </p>
 
                     <p>
-                        Je důležité vědět, že Iboga má potenciál očistit a detoxikovat tělo i mysl,
-                        takže nejsou nutné žádné diety, ani detox.
+                        <?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.pars.3'); ?>
 
                     </p>
             </div>
@@ -111,19 +103,19 @@
 
                     &nbsp;
                 </div>
-                <h3 class = "font-just-me font-size-40">Léky, kterým je třeba se vyhnout:</h3>
+                <h3 class = "font-just-me font-size-40"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.meds_to_avoid.title'); ?></h3>
                 <ul class = "ul-padded">
-                    <li>MAOI inhibitory monoaminooxidázy)</li>
-                    <li>SSRI (selektivní inhibitory zpětného vychytávání serotoninu)</li>
-                    <li>Antihypertenziva/lék na vysoký krevní tlak</li>
-                    <li>Potlačující chuť k jídlu nebo pilulky na hubnutí</li>
-                    <li>Lék na astma, bronchitidu nebo jiné dýchací potíže</li>
-                    <li>Antihistaminika</li>
-                    <li>Lék na nachlazení, problémy s dutinami, sennou rýmu nebo alergie (jakýkoli lék obsahující dextromethorfan/DXM, nebo který má ve svém názvu DM, DX nebo Tuss)</li>
-                    <li>Látky tlumící CNS (centrální nervový systém) (např. Xanax, Ativan)</li>
-                    <li>Vazodilatátory</li>
-                    <li>Antipsychotika</li>
-                    <li>Barbituráty</li>
+                    <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.meds_to_avoid.items.0'); ?></li>
+                    <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.meds_to_avoid.items.1'); ?></li>
+                    <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.meds_to_avoid.items.2'); ?></li>
+                    <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.meds_to_avoid.items.3'); ?></li>
+                    <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.meds_to_avoid.items.4'); ?></li>
+                    <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.meds_to_avoid.items.5'); ?></li>
+                    <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.meds_to_avoid.items.6'); ?></li>
+                    <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.meds_to_avoid.items.7'); ?></li>
+                    <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.meds_to_avoid.items.8'); ?></li>
+                    <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.meds_to_avoid.items.9'); ?></li>
+                    <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.meds.meds_to_avoid.items.10'); ?></li>
                 </ul>
             </div>
         </div>
@@ -135,17 +127,15 @@
         <div class = "row">
 
             <div class = "row">
-                <h3 class = "font-just-me font-size-60">Rekreační Drogy a Návykové látky</h3>
+                <h3 class = "font-just-me font-size-60"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.title'); ?></h3>
             </div>
 
             <div class = "row">
                 <div class = "col-xl-12">
-                    <p>Iboga má vynikající výsledky v detoxikaci lidí od narkotik. V současné době však nenabízíme
-                        žádnou medikamentózní léčbu ani drogový detox.</p>
-                    <h3 class = "font-just-me font-size-40">Nejsme však KLINIKA ANI REHABACE A NENABÍZÍME DROGOVÝ DETOX</h3>
+                    <p><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.pars.0'); ?></p>
+                    <h3 class = "font-just-me font-size-40"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.detox_warning'); ?></h3>
                     <p>
-                        Pokud trpíte drogovou závislostí, doporučujeme, abyste se před návštěvou našeho útočiště přihlásili do detoxikační kliniky
-                        (před každým obřadem dělám testy na drogy). Níže prosím zkontrolujte léky, kterým je třeba se vyhnout na stránce Iboga.
+                        <?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.pars.1'); ?>
                     </p>
 
                 </div>
@@ -153,24 +143,24 @@
 
             <div class = "row">
                 <div class = "row">
-                    <h2 class = "font-just-me h-class-warning">Léky a drogy  kterým je třeba se vyhnout</h2>
+                    <h2 class = "font-just-me h-class-warning"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.title'); ?></h2>
                 </div>
 
                 <div class = "row">
                     <div class = "col-xl-6">
-                        <h3 class = "font-just-me font-size-30"> Drogy VELMI nebezpečné v kombinaci s Ibogou:</h3>
+                        <h3 class = "font-just-me font-size-30"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.list_title'); ?></h3>
                         <ul>
-                            <li>Kokain, amfetaminy a efedrin</li>
-                            <li>MDMA (extáze), MDA, MDEA, PMA</li>
-                            <li>Opiáty (heroin, morfin, kodein, opium)</li>
-                            <li>Dextromethorfan (DXM)</li>
-                            <li> Mescaline (any phenethylamine)</li>
-                            <li>Alkohol</li>
-                            <li>Kratom</li>
-                            <li>Kava</li>
-                            <li>5-MEO-DMT</li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.0'); ?></li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.1'); ?><</li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.2'); ?><</li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.3'); ?><</li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.4'); ?><</li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.5'); ?><</li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.6'); ?><</li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.7'); ?><</li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.8'); ?><</li>
                         </ul>
-                        <h3 style = "color:darkred;">Musíte mít minimálně 30 dní pauzu od výše uvedených látek</h3>
+                        <h3 style = "color:darkred;"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.abstinence_period'); ?><</h3>
                     </div>
 
                     <div class = "col-xl-6">
@@ -186,9 +176,9 @@
     <!-- ---------------- SECTION Psychological --------------------------------->
     <section class = "medical-guidelines-psychological">
         <div class = "row">
-            <h3 class = "font-just-me font-size-60">Psychologická bezpečnost</h3>
+            <h3 class = "font-just-me font-size-60"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.psychology.title'); ?></h3>
             <p>
-                Pokud trpíte schizofrenií nebo duševní poruchou, přečtěte si prosím:
+                <?php echo __('pages/ceremonies/medical-guidelines.content.sections.psychology.pars.0'); ?>
             </p>
         </div>
 
@@ -208,26 +198,17 @@
         <div class = "row background-text-light-grey" >
             <div class = "col-xl-6">
                 <p>
-                    Je také důležité vzít v úvahu psychologickou bezpečnost. Lidé s poruchami osobnosti nebo s
-                    mentálními poruchami v anamnéze (jako je hraniční, schizofrenie atd.) jsou při užívání Ibogy
-                    ohroženi. Provádíme vstupní (screeningový) dotazník pro všechny potenciální hosty, který hodnotí přítomnost
-                    výše uvedených rizikových faktorů.
+                    <?php echo __('pages/ceremonies/medical-guidelines.content.sections.psychology.pars.1'); ?>
                 </p>
-
-
 
 
             </div>
 
             <div class = "col-xl-6">
                 <p>
-                    Důležité poznámky (prosím čtěte):<br />
+                    <?php echo __('pages/ceremonies/medical-guidelines.content.sections.notes.title'); ?><br />
 
-                    Užívání jiných učitelských rostlin nebo drog (např. houby, marihuana, DMT, LSD) je silně nežádoucí; v
-                    případě jakýchkoliv dotazů mě prosím kontaktujte.
-                    Poraďte se s námi předem v případě, že máte <strong>astma, tuberkulózu, jakékoli onemocnění srdce nebo jater</strong>,
-                    těhotenství nebo v případě jakýchkoli jiných zdravotních problémů, které mohou potenciálně narušovat
-                    nebo být nebezpečné v kombinaci s Ibogou
+                        <?php echo __('pages/ceremonies/medical-guidelines.content.sections.notes.par'); ?>
 
                 </p>
             </div>
@@ -236,8 +217,7 @@
         <div class = "row background-text-light-grey">
             <div class = "col-xl-12">
                     <p>
-                        Bezpečnost našich hostů považujeme za prvořadou a zajišťujeme, aby všechna opatření, včetně 24-hodinového dohledu,
-                        byla přijata podle potřeby.
+                        <?php echo __('pages/ceremonies/medical-guidelines.content.sections.notes.safety_warning'); ?>
                     </p>
                 </div>
             </div>
@@ -251,8 +231,8 @@
         Who Should Not Take Iboga
         Iboga use can be dangerous if you have the following conditions:
             -->
-            <h5>Kdo by neměl brát Ibogu<h5>
-            Užívání Ibogy může být nebezpečné, pokud máte následující podmínky:
+            <h5><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.title'); ?></h5>
+            <?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.par'); ?>
         </p>
             <!--
         Seizures/ Epilepsy
@@ -264,13 +244,13 @@
         Please let your facilitator know if you:
             -->
         <ul>
-            <li>Záchvaty/ epilepsie</li>
-            <li>Srdeční problémy (arytmie, abnormální srdeční frekvence, bradykardie, prodloužený QT interval, embolie, anamnéza</li>
-            <li>infarkt)</li>
-            <li>Závažné respirační stavy (emfyzém, chronická obstrukční plicní porucha)</li>
-            <li>Porucha funkce jater nebo ledvin</li>
-            <li>Těhotenství</li>
-            <li>Dejte prosím vědět svému facilitátorovi, pokud:</li>
+            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.0'); ?></li>
+            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.1'); ?></li>
+            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.2'); ?></li>
+            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.3'); ?></li>
+            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.4'); ?></li>
+            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.5'); ?></li>
+            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.6'); ?></li>
 
             <!--
             Are currently on SSRI or MAOI medications
@@ -279,10 +259,10 @@
             have neurological or cardiac/heart conditions
             -->
 
-            <li>V současné době užíváte léky ze skupiny SSRI nebo MAOI</li>
-            <li>máte v anamnéze mánii (protože tato svátost může urychlit manické příznaky)</li>
-            <li>mít aktivní záchvaty paniky</li>
-            <li>máte neurologické nebo srdeční/srdeční potíže</li>
+            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.7'); ?></li>
+            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.8'); ?></li>
+            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.9'); ?></li>
+            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.10'); ?></li>
         </ul>
 
     </div>

@@ -55,7 +55,7 @@ return [
                         'par' => 'Den, kdy se hosté mohou setkat, spojit se s poskytovateli, usadit se a udělat si pohodlí.
                                     Za tmy se shromažďujeme kolem ohně a sdílíme trochu informaci kdo jsme a co chcem ziskat pres pristi tyden.
                                     Nabizim pribehy o svých vlastních zkušenostech s Ibogou,
-                                    historii mediciny a Bwiti, moudrosti o tom, jak z této zkušenosti vytěžit maximum, a diskutujeme o rozvrhu sezení
+                                    historii medicíny a Bwiti, moudrosti o tom, jak z této zkušenosti vytěžit maximum, a diskutujeme o rozvrhu sezení
                                     a obecných informacích lecebneho pobytu (retreatu).'
                     ],
 
@@ -96,7 +96,7 @@ return [
                     'day_4'=> [
                         'title' => 'DEN ČTVRTÝ</span> - Exkurze a duchovní sprcha',
                         'par_1' => 'V tento den se hosté cítí ve svém těle pevněji, mysl je tišší a tělo lehčí.
-                            Lekce stále přicházejí, ale hosté se cítí připraveni vyrazit mimo útočiště, aby byli svědky učení.
+                            Lekce stále přicházejí, ale hosté se cítí připraveni vyrazit mimo wellness pobyt, aby byli svědky učení.
                             Tento den je nezbytný. Některé retreaty dělají 4 nebo 5 nočních retreatů se 2 ceremoniemi. Pokud byste byli připraveni
                             na další obřad jeden den po uzdravení, možná vám nebyla podána dostatečná dávka léku.',
                         'par_2' => 'Čtvrtý den je důležitým časem pro opětovné spojení s přírodou. Iboga nás nechává otevřené a citlivé k energiím kolem nás.

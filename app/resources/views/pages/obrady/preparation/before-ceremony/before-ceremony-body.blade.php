@@ -7,7 +7,7 @@
             </p>
 
             <p>
-                Některé léky/léky vyžadují abstinenci až 30 dnů. Žádný strach, dejte nám vědět, co se děje, a my s
+                Některé léky vyžadují abstinenci až 30 dnů. Žádný strach, dejte nám vědět, co se děje, a my s
                 vámi budeme v tomto procesu spolupracovat.
             </p>
 
@@ -16,7 +16,7 @@
             </p>
 
             <p>
-                Colon Hydroterapie umožňuje, aby se lék dostal hlouběji do vašeho těla
+                Colon Hydroterapie umožňuje, aby se medicína dostal hlouběji do vašeho těla
             </p>
 
 
@@ -76,8 +76,8 @@
                 We find that many people after having a deep internal shift will also implement changes in their diet and vice versa.
                 The more prep we can do in advance to “tune in” and clean up aspects of our lives, the deeper
                 the medicine can go more quickly.-->
-                Dieta před a po Iboze~ Neexistuje žádná „iboga dieta“, ale čím čistší jíme, tím méně potřebujeme
-                detoxikovat dříve, než lék začne fungovat, je to úplná magie. Existuje také velmi silná korelace
+                Dieta před a po Iboze: Neexistuje žádná „Iboga dieta“, ale čím čistěji jíme, tím méně potřebujeme
+                detoxikovat dříve, než medicína začne fungovat, je to úplná magie. Existuje také velmi silná korelace
                 mezi spojením těla/mysli/duše. Když jsme si vědomi a uvědomujeme si, co do toho vkládáme
                 těla, máme tendenci být více všímaví ke svým myšlenkám, prostředí a společnosti, kterou se rozhodneme udržovat.
                 Zjistili jsme, že mnoho lidí po hlubokém vnitřním posunu také zavede změny ve své stravě a naopak.
