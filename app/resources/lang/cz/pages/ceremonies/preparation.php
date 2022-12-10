@@ -19,7 +19,7 @@ return [
                             vámi budeme v tomto procesu spolupracovat.',
                         2 => 'Jezte co nejčistěji. Cukrům a průmyslově zpracovaným potravinám je lepší se vyhnout.',
                         3 => 'Colon Hydroterapie umožňuje, aby se medicína dostala hlouběji do vašeho těla',
-                        4 => '<!--
+                        4 => '<!-- [ENGLISH]
                                 2. Practice Meditation
                                                 Remember to breathe! If the iboga experience feels overwhelming, slow down and focus on your breath.
                                 Experienced meditators will have an easier time maintaining calmness and balance, even during difficult
@@ -52,7 +52,7 @@ return [
                     'no_distractions'=> [
                         'title'=> 'Žádné rozptylování',
                         'pars' =>[
-                            0 => '<!-- No Distractions — Iboga retreats should be a calm, introspective time. To allow for maximum healing, this
+                            0 => '<!--  [ENGLISH]No Distractions — Iboga retreats should be a calm, introspective time. To allow for maximum healing, this
                 means limiting or removing distractions. Save travel excursions and adventures for before or after your retreat.
                 After a journey, the insights flow freely. The only way to listen to your soul and observe the depths of healing
                 is to embrace the stillness. Sometimes people have the most powerful realizations the day after their ceremony.
@@ -65,14 +65,14 @@ return [
                 je přijmout ticho. Někdy lidé mají nejmocnější realizace den po obřadu.
                 Po cestě je důležitéwebphpnepoužívat počítače, telefony, knihy ani jiné rušivé prvky. Naše životy jsou tak zaneprázdněné.
                 Zvolte „odpojit se“ a zpomalte. Tímto způsobem dostanete od Ibogy mnohem více.',
-                            1 => '<!--
+                            1 => '<!-- [ENGLISH]
                 Committing to this spiritual journey and setting our intentions is the beginning. But as our journey approaches,
                 the mind, sensing imminent demise of its destructive ways, will play tricks and cause us to doubt.
 
                 -->
                 Odhodlání se na tuto duchovní cestu a stanovení našich záměrů je začátek. Ale jak se naše cesta blíží,
                 mysl, která cítí bezprostřední zánik svých destruktivních způsobů, bude hrát triky a způsobí, že budeme pochybovat.',
-                            2 => '<!--
+                            2 => '<!-- [ENGLISH]
                 When these doubtful thoughts come, simply acknowledge them and let them pass. Be aware of the thoughts without
                 reading into them, or attaching to them. It is okay that they exist. Thoughts will always exist, negative
                 and positive. It is up to us to decide how much power to give them. -->
@@ -80,7 +80,7 @@ return [
                 Když tyto pochybné myšlenky přijdou, jednoduše je uznejte a nechte je projít. Buďte si vědomi myšlenek bez
                 číst do nich nebo se k nim připojovat. Je v pořádku, že existují. Myšlenky budou vždy existovat, negativní
                 a pozitivní. Je na nás, abychom se rozhodli, jakou moc jim dáme.',
-                            3 => '<!--
+                            3 => '<!-- [ENGLISH]
                 Deep healing is not comfortable and it is not easy, but it works. Healing at the root happens when we surrender.
                 It happens when we confront our fears. By confronting our shadows, we break through to our greatest possible light! -->
 
@@ -94,7 +94,7 @@ return [
                 -->
 
                 Když uvažujeme o Iboze jako o učiteli, musíme udělat první krok a zeptat se sami sebe: ‚Jsem připraven/a?',
-                            5 => '<!--
+                            5 => '<!-- [ENGLISH]
                 This means that we are willing to look deep inside our soul, to commit to taking back ownership of our
                 minds and our lives, that we are ready to seek truth and break free from what is holding us back.
 
@@ -102,7 +102,7 @@ return [
                 To znamená, že jsme ochotni nahlédnout hluboko do své duše, zavázat se, že převezmeme zpět své vlastnictví
                 mysl a naše životy, že jsme připraveni hledat pravdu a osvobodit se od toho, co nás brzdí.',
                         ],
-                        6 => '<!--Set Your Intention
+                        6 => '<!-- [ENGLISH] Set Your Intention
                 Meditation and intention are essential to guiding your journey! This is a deep soujourn into your inner
                 psyche and having questions prepared will help to drive the journey and visions. Practice guided imagery
                 of surrendering and letting go of who you are for the purpose of being psychologically and spiritually
@@ -147,7 +147,7 @@ return [
                     ],
                     'find_time_for_yourself' => [
                         'title' => 'Najdete čas pro sebe',
-                        'par' => '<!--
+                        'par' => '<!-- [ENGLISH]
                         Walks in nature, perhaps with a pet
                         Gentle yoga, qi gong, tai chi
                         Swimming, bike rides
@@ -167,7 +167,7 @@ return [
                 ],
                 'start_process' => [
                     'title' => 'Začněte Proces',
-                    'pars' => 'The changes often begin the moment we make the commitment to work with this medicine. Up to
+                    'pars' => ' <!-- [ENGLISH]The changes often begin the moment we make the commitment to work with this medicine. Up to
                         months in advance most notice that life begins to shift. In order to get the most of your experience
                         we suggest some preparation in advance:-->
 
@@ -176,7 +176,7 @@ return [
                         doporučujeme urcitou přípravu předem abyste ze svých zkušeností získali maximum:',
 
                     'items' => [
-                      'en'  => '  <!--
+                      'en'  => '  <!-- [ENGLISH]
                             Review aspects of your life/behaviors that you are ready to release
                             Clarifying what you are looking to heal
                             Create clear intentions about what you wish to discover about your life
@@ -196,7 +196,7 @@ return [
                     ],
                     'connect_intent' => [
                         'title' => 'Spojte se se svými záměry',
-                        'par' => '<!--
+                        'par' => '<!-- [ENGLISH]
                                 Connect with your intentions~
                                 Get very clear on what it is you are looking to heal. Doing the workbook and with a preparation coach, therapist or
                                 healer can also assist in moving and clarifying a lot to begin to move some of the energy in advance to
@@ -210,7 +210,7 @@ return [
                     ],
                     'focus_on_you' => [
                         'title' => 'Zaměřte se na sebe',
-                        'par' => '<!--
+                        'par' => '<!-- [ENGLISH]
                                 Focus On You — If you have been contemplating on whether or not to go on a retreat with a loved one,
                                 or a group of friends, you must focus on you — not them — during your retreat. Simply put, the process
                                 is yours, and loved ones can be more of a distraction than a comfort. Focusing on someone else will
@@ -287,7 +287,7 @@ return [
                     5 => 'Pochopte, že důvěra v medicínu a v nás zvyšuje proces hojení na každé úrovni',
                     6 => 'Odhodlání k obřadu je příležitostí k řešení všeho, co nám způsobilo utrpení. Zatímco',
                     7 => 'minulost nelze změnit, volba uzavřít s ní mír zůstává v naší kontrole, síla nikoli mimo nás!',
-                    8 => '    Surrender, be willing to be open to how the process unfolds
+                    8 => 'Surrender, be willing to be open to how the process unfolds
                         Understand that whatever we expect will be completely different
                         Be open to entering a state of complete vulnerability
                         Be willing to look at uncomfortable aspects of your life (this helps them pass and heal)
@@ -304,7 +304,7 @@ return [
                 'dont_force_anything' => [
                     'title'=> 'Nic Nenuťte',
                     'pars' => [
-                        0 => '<!--  Don’t Force It — After taking Iboga, it is common to experience discomfort at first. This is just how the
+                        0 => '<!--  [ENGLISH] Don’t Force It — After taking Iboga, it is common to experience discomfort at first. This is just how the
                             energy of Iboga works — you’ve got to feel it to heal it. The most easeful way to navigate any discomfort
                             is to relax, by focusing on your breath, and surrender. The medicine knows exactly what needs to happen
                             for us to heal. -->
@@ -312,7 +312,7 @@ return [
                             energie Ibogy funguje – musíte ji cítit, abyste ji vyléčili. Nejjednodušší způsob, jak překonat jakékoli nepohodlí
                             je uvolnit se, soustředit se na svůj dech a odevzdat se. Lék přesně ví, co se má stát
                             abychom se uzdravili.',
-                        1 => '<!-- Remember why Iboga called you, and sit in that trust. Expectations of how you want your
+                        1 => '<!--  [ENGLISH] Remember why Iboga called you, and sit in that trust. Expectations of how you want your
                             journey to go are fruitless. No two people ever experience Iboga in the same way. Your journey is yours
                             alone, and the Spirit of Iboga will sit and wait until you are ready to receive it. Our providers will
                             be with you the whole time to guide and assist-->
@@ -337,7 +337,7 @@ return [
                             je to práce. Zaměřte se na zónu bez rozptylování a když vás poskytovatelé kontrolují, neváhejte se zeptat.
                             Pokud se na chůzi ještě necítíte, nebudete muset. Poskytovatelé přivezou všechna vaše jídla
                             do svého pokoje. Jakmile se poprvé dobře vyspíte, budete se cítit inspirováni a omlazeni.
-                            <!--
+                            <!-- [ENGLISH]
                             8. Discovery Day — Following your ceremony, the next day is spent resting in your room. Providers will
                                 continually come in and out to check in on you. If you cannot sleep, don’t worry. It is common to not
                                 fall asleep until later in the evening. Discovery Day is meant for relaxation and stillness — two key
@@ -350,7 +350,7 @@ return [
                     ],
                     'stay_positive'=> [
                         'pars' => [
-                            0 => '<!-- Stay Positive — Trust the process. As you learn about yourself and shed old patterns, it is important to
+                            0 => '<!-- [ENGLISH] Stay Positive — Trust the process. As you learn about yourself and shed old patterns, it is important to
                                 consciously choose positivity. It is common to experience ups and downs during a retreat, while your body
                                 and mind are defragmenting and reprogramming, and that is a beautiful thing. Just be a witness to the shifts.
                                 How you feel on day three will be drastically different than how you feel on day eight. Embark on this
@@ -366,7 +366,7 @@ return [
                                 integrace s účelem a odvrátit jakékoli negativní myšlenky tím, že se znovu zaměříte na pozitivní myšlenky. Jděte s
                                 s vlnou zmeny a budte trpěliví sám se sebou. Negativní myšlenky mohou růst pouze tehdy, když jim věnujeme pozornost.
                                 Jinak nad nami namaji moc..',
-                            2 => '<!--
+                            2 => '<!-- [ENGLISH]
                                 When you arrive home have a trusted friend, coach, counselor or spiritual advisor to process the experience with.
                                 This sacrament can open up your psychological and energetic field so it is advantageous to surround yourself
                                 with people who are loving and at a empathetic in the days following. For example, avoid large crowds. -->
@@ -374,7 +374,7 @@ return [
                                     Když se vrátíte domů, mějte důvěryhodného přítele, kouče, poradce nebo duchovního poradce, se kterým budete zkušenost zpracovávat.
                                     Tato svátost může otevřít vaše psychologické a energetické pole, takže je výhodné obklopit se
                                     s lidmi, kteří jsou milující a empatičtí v následujících dnech. Vyhněte se například velkým davům lidí.',
-                            3 => '<!--
+                            3 => '<!-- [ENGLISH]
                                 Some people report difficulty sleeping the nights following and melatonin supplementation (~3mg at bedtime) or
                                     GABA can be beneficial in this regard.
                                     -->
@@ -392,7 +392,7 @@ return [
                                 po dobu 3-6 měsíců můžete ve svém životě zaznamenat ještě hlubší změny než samotný obřad. Mnoho
                                 hlásí, že ani nemá touhu pít, protože candida nebo citová vazba bývají úplné
                                 eliminován lékem, čímž se snižuje jakákoli chuť na cukr a sacharidy.',
-                            5 => 'NOTE: If you plan on taking doing other ceremonial plant medicines, give at least a month in between for
+                            5 => '<!-- [ENGLISH] NOTE: If you plan on taking doing other ceremonial plant medicines, give at least a month in between for
                                 recovery and integration of your experience. This powerful plant spirit is still providing healing months
                                 after the ceremony and other medicines can interfere with the process. Many people report high levels of
                                 sensitivity to other psychoactive medicines post ceremony. Use caution specifically with recreational
