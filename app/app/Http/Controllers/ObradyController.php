@@ -12,32 +12,30 @@ class ObradyController extends Controller
 
 
     public function preparation() {
-        return View::make('pages.obrady.preparation');
+        return View::make('pages.ceremonies.preparation');
     }
 
 
-    public function lekarske_smernice() {
-        return View::make('pages.obrady.lekarske-smernice');
+    public function medical_guidelines() {
+        return View::make('pages.ceremonies.medical_guidelines');
     }
-
 
 
     public function vase_prvni_ceremonie() {
 
-        App::setLocale('ru');
-        return View::make('pages.obrady.pobyt');
+        return View::make('pages.ceremonies.pobyt');
     }
 
     public function eight_day_retreat() {
-        return View::make('pages.obrady.8-day-retreat');
+        return View::make('pages.ceremonies.8-day-retreat');
     }
 
     public function your_first_ceremony() {
-        return View::make('pages.obrady.your-first-ceremony');
+        return View::make('pages.ceremonies.your-first-ceremony');
     }
 
     public function dates() {
-        return View::make('pages.obrady.dates');
+        return View::make('pages.ceremonies.dates');
     }
 
 

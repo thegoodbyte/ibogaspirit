@@ -16,7 +16,7 @@
     <div class = "row">
         <div class = "col-xl-12">
 
-            <h2 class = "font-size-60 font-just-me">Bezpečí Ibogy</h2>
+            <h1 class = "h1-heading font-just-me color-iscz-green">Bezpečí Ibogy</h1>
             <p>
                 Iboga je neuvěřitelně bezpečný lék, pokud má uživatel zdravé srdce a neužívá žádné navykove látky.
             </p>
@@ -270,7 +270,7 @@
         Who Should Not Take Iboga
         Iboga use can be dangerous if you have the following conditions:
             -->
-            <h5>Kdo by neměl brát Ibogu<h5>
+            <h5>Kdo by neměl brát Ibogu</h5>
             Užívání Ibogy může být nebezpečné, pokud máte následující podmínky:
         </p>
             <!--
