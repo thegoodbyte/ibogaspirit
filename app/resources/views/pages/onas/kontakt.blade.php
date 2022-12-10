@@ -82,7 +82,13 @@
         </div>
 
         <div class = "col-xl-4 col-xs-12 background-text-light-grey">
-
+            <div class = "row">
+                Zavolejte mi zdarma:<br />
+            </div>
+            <div class = "row mb-5">
+                <img class = "img-no-fit" src = "/images/icons/old-typical-phone.png" width = "64" />
+                <strong><a href = "tel:8334264229">833 IBOGACZ</a> <br />(833-426-4229)</strong>
+            </div>
             <div class = "row">
                 <h3>Email</h3>
                 <img class = "img-no-fit" src = "/images/icons/email-apple-icon.png" width = "64" /><a href = "mailto:info@ibogaspirit.cz">info@ibogaspirit.cz</a>

@@ -21,11 +21,11 @@
 
                 <div class = "col-xl-2">
                     <ul>
-                        <li>Obrady</li>
+                        <li>Obřady</li>
                         <li><hr /></li>
                         <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat">Váš první Iboga ceremoniál / Otázky</a></li>
                         <li><a href="/obrady/priprava">Příprava a Průběžná péče</a></li>
-                        <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní retreatační pobyt</a></li>
+                        <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní léčebny pobyt</a></li>
 
                         <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
                         <li><a href="/obrady/terminy-a-ceny">Termíny a Ceny</a></li>
@@ -35,7 +35,7 @@
                 <div class = "col-xl-2">
 
                     <ul>
-                        <li><a href="/onas">O Nas</a></li>
+                        <li><a href="/onas">O Nás</a></li>
                         <li><hr /></li>
                         <li><a href="/onas/nganga">Nganga - Léčitel</a></li>
                         <li><a href="/onas/moughenda">Šaman Moughenda</a></li>
@@ -44,7 +44,14 @@
                 </div>
 
                 <div class = "col-xl-2">
+                    <ul>
 
+                        <li><a href="/kontakt">Kontakt</a></li>
+                        <li><hr /></li>
+                        <li>Call us toll free:</li>
+                        <li><a href = "tel:+18334264229">+1 833 IBOGACZ</a>  +1 (833-426-4229)</li>
+
+                    </ul>
                 </div>
 
                 <div class = "col-xl-2">
