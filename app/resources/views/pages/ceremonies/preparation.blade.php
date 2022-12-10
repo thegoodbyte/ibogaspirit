@@ -4,15 +4,15 @@
     <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
 
     <div class = "row">
-        <h1 class = "font-just-me font-size-80 color-iscz-red">
-            Příprava na obřad Ibogy</h1>
+        <h1 class = "font-just-me font-size-80 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.title') ?>
+            </h1>
     </div>
 
 
 {{--    @include('pages.obrady.preparation.before-ceremony-bring-journal')--}}
 
     <div class = "row">
-        <h3 class = "font-just-me font-size-40 color-iscz-red">Před obřadem.</h3>
+        <h3 class = "font-size-60"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.title') ?></h3>
     </div>
 
     @include('pages.ceremonies.preparation.before-ceremony.before-ceremony-bring-journal')
@@ -25,7 +25,7 @@
     @include('pages.ceremonies.preparation.before-ceremony.preparing-questions')
 
     <div class = "row">
-        <h3 clSS = "font-just-me font-size-40 color-iscz-red">Při Obřadu </h3>
+        <h3 class = "font-size-60"><?php echo __('pages/ceremonies/preparation.content.sections.in_ceremony.title') ?></h3>
     </div>
 
     <div class = "row">
@@ -34,16 +34,16 @@
     </div>
 
 
-    <div class = "row">
-        <h3 class = "font-just-me color-iscz-red font-size-60">Po Obřadu..</h3>
+    <div class = "container  background-text-light-okr">
+        <h3 class = "font-size-60"><?php echo __('pages/ceremonies/preparation.content.sections.after_ceremony.title') ?></h3>
     </div>
 
     <div class = "row">
 
 
-        @include('pages.obrady.preparation.after-ceremony.after-ceremony-discovery-day')
+        @include('pages.ceremonies.preparation.after-ceremony.after-ceremony-discovery-day')
 
-        @include('pages.obrady.preparation.after-ceremony.after-ceremony-after')
+        @include('pages.ceremonies.preparation.after-ceremony.after-ceremony-after')
 
 </div>
 {{--    <div class = "row">--}}
