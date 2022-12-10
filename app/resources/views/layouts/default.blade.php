@@ -38,6 +38,10 @@
         })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
     </script>
 
+    <!--
+    <script async id="slcLiveChat" src="https://widget.sonetel.com/SonetelWidget.min.js" data-account-id="208133551"></script>
+    -->
+
     @php
         /** PAge Title */
         if (empty($pageTitle))

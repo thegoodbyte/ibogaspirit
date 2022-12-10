@@ -52,6 +52,7 @@
                         <li>Call us toll free:</li>
                         <li><a href = "tel:+18334264229">+1 833 IBOGACZ</a>  +1 (833-426-4229)</li>
                         -->
+                        <li><a href = "tel:+420234717595">+420 234-717-595</a></li>
 
                     </ul>
                 </div>
