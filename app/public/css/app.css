@@ -5,7 +5,8 @@
     --dark-green: rgba(79, 129, 15, 1);
     --okr: rgba(177, 153, 70, 1);
     --okr-light: rgb(229 225 208);
-    --beige: rgba(188, 183, 170, 1);
+    --beige: rgba(188, 183, 170, 0.5);
+    --beige-light: rgba(229 222 204, 1);
     --okr2: rgba(225, 145, 77, 1);
     --iscz-brown: #813007;
     --iscz-orange: #DF7015;
@@ -465,8 +466,8 @@ section.medical-guidelines-psychological .bg-img p {
     display: block;
    position:absolute;
     color: #fff;
-    top: 165px;
-    left: 90px;
+    top: 100px;
+    left: 30px;
     width: 460px;
     border-left: none;
     box-shadow: none;
@@ -942,7 +943,7 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     }
 
 }
-
+/***************** M E D I C A L   G U I D E L I N E S *****************************/
 
 #medical-quidelines-container .bg-container   {
     background-color: var(--okr-light);
@@ -961,10 +962,11 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     position: relative;
 }
 
-#img-box-top-med-guidelines h2 {
+#img-box-top-med-guidelines h1 {
     position: absolute;
-    left: 50px;
-    top: 50px;
+    left: 20px;
+    top: 10px;
+    color: #f1931b;
 }
 
 /*
@@ -988,6 +990,8 @@ footer a:hover {
     text-decoration: underline;
 }
 
+
+/** MOBILE ***/
 @media screen and (max-width: 400px) {
     .h1-heading, h1 {
         font-size: 40px;
@@ -1104,7 +1108,7 @@ footer a:hover {
     }
 
     #how-iboga-helps-h2-who-is-for {
-        padding: 30px;
+        padding: 0 20px 10px 20px;
     }
 
     #how-iboga-helps-h2-who-is-for h2 {
@@ -1119,14 +1123,15 @@ footer a:hover {
     #img-box-iboga-helps {
         background-image: url('/images/headers/misc-nature-trip-woman-400w.jpeg');
         min-height: 240px;
-        background-color: red;
     }
 
     #img-box-iboga-helps h2 {
         color: #760505;
         width: 240px;
         padding-left: 10px;
-        line-height: 100%;
+
+        line-height: 85%;
+
     }
 
     #img-box-iboga-helps blockquote:before {
@@ -1140,12 +1145,14 @@ footer a:hover {
 
     #img-box-iboga-helps blockquote {
 
+
         width: 260px;
         font-size: 20px;
         top: -10px;
         padding-top: 20px;
         padding-bottom: 0;
         line-height: 120%;
+
     }
 
 
@@ -1155,6 +1162,12 @@ footer a:hover {
         background-color: red;
     }
 
+    ol.how-iboga-helps-3-reasoes-list {
+        margin-left: 20px;
+    }
+    ol.how-iboga-helps-3-reasoes-list li {
+        font-size: 1.5em;
+    }
     /**
     PAGE - Medical Quidelines
      */

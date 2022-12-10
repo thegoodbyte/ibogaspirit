@@ -48,7 +48,7 @@ Route::get('/iboga/co-je-iboga', [\App\Http\Controllers\IbogaController::class, 
 Route::get('/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, "bwiti_tradice"]);
 
 Route::get('/obrady/priprava', [\App\Http\Controllers\ObradyController::class, "preparation"]);
-Route::get('/obrady/lekarske-smernice', [\App\Http\Controllers\ObradyController::class, "lekarske_smernice"]);
+Route::get('/obrady/lekarske-smernice', [\App\Http\Controllers\ObradyController::class, "medical_guidelines"]);
 Route::get('/obrady/osmi-denni-iboga-wellness-pobyt', [\App\Http\Controllers\ObradyController::class, "eight_day_retreat"]);
 Route::get('/obrady/prvni-ceremonial-a-co-ocekavat', [\App\Http\Controllers\ObradyController::class, "your_first_ceremony"]);
 Route::get('/obrady/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"]);

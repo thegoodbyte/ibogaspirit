@@ -81,8 +81,10 @@
 
 
     <div class = "row">
+
         <div class = "col-xl-12">section_mid_image_and_bellow
             <blockquote><?php echo __('pages/iboga/how_iboga_can_help.content.section_mid_image_and_bellow.quote_bellow'); ?></blockquote>
+
             <p>
                 <?php echo __('pages/iboga/how_iboga_can_help.content.section_mid_image_and_bellow.par.0'); ?>
             </p>
@@ -100,9 +102,11 @@
                 <?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.title'); ?>
             </h3>
 
+
             <ol>
                 <li class = "font-size-30 color-iscz-green">
                     <?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.items.0'); ?>
+
                 </li>
 
                 <li class = "font-size-30 color-iscz-green">
@@ -135,7 +139,9 @@
                 <div class = "text-center">
                     <img src = "/images/icons/physical.png" width = "80" />
                 </div>
+
                 <h3 class =  "text-center"><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_1.title'); ?></h3>
+
                 <ul>
                     <li><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_1.items.0'); ?></li>
                     <li><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_1.items.1'); ?></li>
@@ -153,7 +159,9 @@
                 <div class = "text-center">
                     <img src = "/images/icons/mental.png" width = "80" />
                 </div>
+
                 <h3 class =  "text-center"><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_2.title'); ?></h3>
+
                 <ul>
                     <li><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_2.items.0'); ?></li>
                     <li><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_2.items.1'); ?></li>
@@ -170,7 +178,9 @@
                 <div class = "text-center">
                     <img src = "/images/icons/emotional.png" width = "80" />
                 </div>
+
                 <h3 class =  "text-center"><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_3.title'); ?></h3>
+
                     <ul>
                         <li><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_3.items.0'); ?></li>
                         <li><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_3.items.1'); ?></li>
@@ -184,6 +194,7 @@
                 <div class = "text-center">
                     <img src = "/images/icons/spiritual.png" width = "80" />
                 </div>
+
                 <h3 class =  "text-center"><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_4.title'); ?></h3>
                 <ul>
                     <li><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_4.items.0'); ?></li>
@@ -193,6 +204,7 @@
                     <li><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_4.items.4'); ?></li>
                     <li><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_4.items.5'); ?></li>
                     <li><?php echo __('pages/iboga/how_iboga_can_help.content.section_why_participate.cols.col_4.items.6'); ?></li>
+
                 </ul>
             </div>
    </div>

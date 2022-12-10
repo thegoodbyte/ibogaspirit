@@ -1,11 +1,7 @@
 @extends('layouts.default')
 @section('content')
 
-
-
     <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
-
-
 
     <div class = "row">
         <h1 class = "font-just-me font-size-80 color-iscz-red">
@@ -19,36 +15,36 @@
         <h3 class = "font-just-me font-size-40 color-iscz-red">Před obřadem.</h3>
     </div>
 
-    @include('pages.obrady.preparation.before-ceremony.before-ceremony-bring-journal')
-    @include('pages.obrady.preparation.before-ceremony.before-ceremony-body')
+    @include('pages.ceremonies.preparation.before-ceremony.before-ceremony-bring-journal')
+    @include('pages.ceremonies.preparation.before-ceremony.before-ceremony-body')
 
 
-    @include('pages.obrady.preparation.before-ceremony.before-ceremony-mind')
-    @include('pages.obrady.preparation.before-ceremony.before-ceremony-soul')
-    @include('pages.obrady.preparation.before-ceremony.before-ceremony-start-the-process')
-    @include('pages.obrady.preparation.before-ceremony.preparing-questions')
+    @include('pages.ceremonies.preparation.before-ceremony.before-ceremony-mind')
+    @include('pages.ceremonies.preparation.before-ceremony.before-ceremony-soul')
+    @include('pages.ceremonies.preparation.before-ceremony.before-ceremony-start-the-process')
+    @include('pages.ceremonies.preparation.before-ceremony.preparing-questions')
 
     <div class = "row">
         <h3 clSS = "font-just-me font-size-40 color-iscz-red">Při Obřadu </h3>
     </div>
 
     <div class = "row">
-        @include('pages.obrady.preparation.in-ceremony.in-ceremony')
-        @include('pages.obrady.preparation.in-ceremony.in-ceremony-dont-force');
+        @include('pages.ceremonies.preparation.in-ceremony.in-ceremony')
+        @include('pages.ceremonies.preparation.in-ceremony.in-ceremony-dont-force');
     </div>
 
 
+    <div class = "row">
+        <h3 class = "font-just-me color-iscz-red font-size-60">Po Obřadu..</h3>
+    </div>
+
+    <div class = "row">
 
 
-<div class = "row">
-    <h3 class = "font-just-me color-iscz-red font-size-60">Po Obřadu..</h3>
-</div>
+        @include('pages.obrady.preparation.after-ceremony.after-ceremony-discovery-day')
 
-<div class = "row">
+        @include('pages.obrady.preparation.after-ceremony.after-ceremony-after')
 
-    @include('pages.obrady.preparation.after-ceremony.after-ceremony-discovery-day')
-
-    @include('pages.obrady.preparation.after-ceremony.after-ceremony-after')
 </div>
 {{--    <div class = "row">--}}
 {{--        <div class = "col-xl-12">--}}
