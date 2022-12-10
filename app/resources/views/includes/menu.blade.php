@@ -36,9 +36,9 @@
                 <ul>
                     <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat">Váš první Iboga ceremoniál / Otázky</a></li>
                     <li><a href="/obrady/priprava">Příprava a Průbežná péče</a></li>
-                    <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní lecebny pobyt</a></li>
+                    <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní léčebný pobyt</a></li>
                     <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
-                    <li><a href="/obrady/terminy-a-ceny">Terminy a Ceny</a></li>
+                    <li><a href="/obrady/terminy-a-ceny">Termíny a Ceny</a></li>
                 </ul>
             </li>
             <!-- <li class="dropdown menu-item"><a href="#">OBŘADY</a>-->
