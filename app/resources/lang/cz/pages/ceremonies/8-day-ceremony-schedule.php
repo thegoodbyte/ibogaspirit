@@ -3,13 +3,15 @@
 return [
     'content' => [
         'title' => 'Osmi-denní IBOGA léčebný Pobyt',
-        'par_1' => 'V tradičním psycho-spirituálním obřadu IBOGY se o sobě učíme na všech úrovních; fyzicky, mentálně,
+        'pars' => [
+            0 => 'V tradičním psycho-spirituálním obřadu IBOGY se o sobě učíme na všech úrovních; fyzicky, mentálně,
             emocionálně a duchovně.
             IBOGA pomáhá tím, že boří iluze ega, opouští minulost, falešná přesvědčení, traumata a lži, které jsme si
             doposud říkali.',
-        'par_2' => ' Celý plán pobytu navrhl náš učitel a šaman Moughenda. Harmonogram zajišťuje, že hosté mají dostatek času
-            připravit se na obřad Ibogy a ziskat co nejvice z celeho pobytu. Patří mezi ně dny věnované zpracovávání
-            zážitku Ibogy leceni a take dny integrace Ibogy zaxzitku a poznani do běžného života hosta.',
+            1 => 'Celý plán pobytu navrhl náš učitel a šaman Moughenda. Harmonogram zajišťuje, že hosté mají dostatek času
+                připravit se na obřad Ibogy a ziskat co nejvice z celeho pobytu. Patří mezi ně dny věnované zpracovávání
+                zážitku Ibogy leceni a take dny integrace Ibogy zaxzitku a poznani do běžného života hosta.',
+            ],
         'sections' => [
             'schedule_days' => [
                 'title' => 'Rozvrh pobytu',

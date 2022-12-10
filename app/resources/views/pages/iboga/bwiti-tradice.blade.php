@@ -23,11 +23,6 @@
     <div class = "col-xl-10">
         <p>
         <?php echo __('pages/iboga/bwiti_tradition.content.section_traditional_path.par_1'); ?>
-            <!--
-            Bwiti and the Iboga plant’s symbiotic relationship goes back thousands of years to when the
-            Iboga plant was first discovered. Iboga became a sacrament of the Bwiti, with nearly every aspect of
-            their tradition and their ceremonies given to them by the spirit of Iboga itself. Iboga is such an
-            important part of their lives, that it is used as the initiation into the tradition and is consumed regularly at ceremonies.-->
         </p>
         <p>
             <?php echo __('pages/iboga/bwiti_tradition.content.section_traditional_path.par_2'); ?>

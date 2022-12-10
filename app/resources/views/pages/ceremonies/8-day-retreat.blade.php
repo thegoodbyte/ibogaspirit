@@ -6,34 +6,29 @@
 
 
     <div class = "row text-center">
-        <h1 class = "font-just-me color-iscz-red">Osmi-denní IBOGA léčebný Pobyt</h1>
+        <h1 class = "font-just-me color-iscz-red"><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.title'); ?></h1>
 
         <p>
-            V tradičním psycho-spirituálním obřadu IBOGY se o sobě učíme na všech úrovních; fyzicky, mentálně,
-            emocionálně a duchovně.
-            IBOGA pomáhá tím, že boří iluze ega, opouští minulost, falešná přesvědčení, traumata a lži, které jsme si
-            doposud říkali.
+            <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.pars.0'); ?>
         </p>
 
         <p>
-            Celý plán pobytu navrhl náš učitel a šaman Moughenda. Harmonogram zajišťuje, že hosté mají dostatek času
-            připravit se na obřad Ibogy a ziskat co nejvice z celeho pobytu. Patří mezi ně dny věnované zpracovávání
-            zážitku Ibogy leceni a take dny integrace Ibogy zaxzitku a poznani do běžného života hosta.
+            <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.pars.1'); ?>
         </p>
     </div>
 
     <div class = "row background-text-light-grey">
         <div class = "col-xl-5">
-            <h3>Rozvrh pobytu</h3>
+            <h3><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.schedule_days.title'); ?></h3>
                 <ul id = "pobyty-list-overview">
-                <li><span>1. </span> PŘÍJEZD / UBYTOVÁNÍ</li>
-                <li><span>2. </span>PORADENSTVÍ / PRVNÍ CEREMONIÁL</li>
-                <li><span>3. </span> DEN ZPRACOVÁNÍ A REALIZACE</li>
-                <li><span>4. </span>DEN INTEGRACE / AKTIVITY</li>
-                <li><span>5. </span>PORADENSTVÍ A DRUHÝ CEREMONIÁL</li>
-                <li><span>6. </span>DEN ZPRACOVÁNÍ A REALIZACE</li>
-                <li><span>7. </span>DEN INTEGRACE / AKTIVITY</li>
-                <li><span>8. </span>LOUČENÍ / ODJEZD</li>
+                <li><span>1. </span><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.schedule_days.items.1'); ?></li>
+                <li><span>2. </span><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.schedule_days.items.2'); ?></li>
+                <li><span>3. </span><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.schedule_days.items.3'); ?></li>
+                <li><span>4. </span><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.schedule_days.items.4'); ?></li>
+                <li><span>5. </span><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.schedule_days.items.6'); ?></li>
+                <li><span>6. </span><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.schedule_days.items.7'); ?></li>
+                <li><span>7. </span><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.schedule_days.items.8'); ?></li>
+                <li><span>8. </span><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.schedule_days.items.9'); ?></li>
             </ul>
 
         </div>

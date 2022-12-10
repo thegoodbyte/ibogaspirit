@@ -9,10 +9,11 @@ return [
         ],
         'section_traditional_path' => [
             'title' => 'Bwiti - Tradiční duchovní cesta',
-            'par_1' => 'Symbiotický vztah mezi Bwiti a rostlinou Iboga sahá tisíce let do doby, kdy
-            Jako první byla objevena rostlina Iboga. Iboga se stala svátostí Bwiti téměř ve všech aspektech
-            jejich tradice a jejich obřady, které jim dal duch samotné Ibogy. Iboga je taková
-            důležitou součástí jejich života, že se používá jako zasvěcení do tradice a pravidelně se konzumuje při obřadech.',
+            'par_1' => '
+            Bwiti and the Iboga plant’s symbiotic relationship goes back thousands of years to when the
+            Iboga plant was first discovered. Iboga became a sacrament of the Bwiti, with nearly every aspect of
+            their tradition and their ceremonies given to them by the spirit of Iboga itself. Iboga is such an
+            important part of their lives, that it is used as the initiation into the tradition and is consumed regularly at ceremonies.',
             'par_2' => 'Bwiti není náboženství, ale tradiční duchovní cesta, která vás přivede k hlubokému spojení s vaší duší,
             učí vás ovládat sebe sama a být přítomen ve své vlastní zkušenosti.
             Umožňuje vám odhalit všechny pravdy o sobě, které vám mohou bránit žít život, jaký chcete.
