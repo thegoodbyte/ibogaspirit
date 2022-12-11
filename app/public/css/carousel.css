@@ -15,22 +15,66 @@
   top: 100px;
   z-index: 10;
 }
+.carousel-caption p a{
+    color: #fff;
+
+}
 
 .carousel .carousel-item:first-child .carousel-caption h1{
     left: 25%;
     width: 80%;
     top: 260px;
 }
+/** first one */
+.carousel .carousel-item:first-child .carousel-caption p{
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    position: absolute;
+    bottom: 0px;
+}
 
+.carousel .carousel-item:first-child  h1 {
+    font-family: "Lato", Sans-serif;
+    font-size: 60px;
+}
 
-.carousel-item:first-child  h1 {
+/** 2nd one */
+.carousel .carousel-item:nth-child(2) .carousel-caption {
+    top: -10px;
+}
+
+.carousel .carousel-item:nth-child(2) .carousel-caption p {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.carousel .carousel-item:nth-child(2)  h1 {
     font-family: "Lato", Sans-serif;
     font-size: 60px;
 
-
 }
 
-.carousel-caption > h1 {
+/** 3rd one */
+
+
+.carousel .carousel-item:nth-child(3) .carousel-caption p {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.carousel .carousel-item:nth-child(3)  h1 {
+    font-family: "Lato", Sans-serif;
+    font-size: 60px;
+    position: relative;
+    top: 0px;
+    left : 0px;
+}
+
+.carousel .carousel-caption > h1 {
     font-family: "Lato", Sans-serif;
     font-size: 60px;
     color: #fff;

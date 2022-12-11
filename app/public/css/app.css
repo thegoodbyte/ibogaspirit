@@ -9,6 +9,7 @@
     --beige-light: rgba(229 222 204, 1);
     --okr2: rgba(225, 145, 77, 1);
     --iscz-brown: #813007;
+    --iscz-brown2: #89590a;
     --iscz-orange: #DF7015;
 }
 
@@ -392,8 +393,10 @@ blockquote cite {
     background-image: url("/images/home/onas/moughenda-and-martin.jpg");
 }
 
-.mecical-guidelines-section-drugs {
 
+/*** MEDICAL GUIDELINES ***/
+.med-guidelines-box-reqs h3 {
+    color: var(--iscz-brown2)
 }
 
 .block-reversae-red {

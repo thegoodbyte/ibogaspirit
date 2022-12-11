@@ -37,7 +37,7 @@
     <!-- ----- EOF SECTION --------------------- -->
 
 
-    <div class = "row bg-container">
+    <div class = "row bg-container med-guidelines-box-reqs">
         <div class = "row">
             <div class = "col-xl-12">
                 <h3 class = "font-just-me font-size-80">Požadavky</h3>

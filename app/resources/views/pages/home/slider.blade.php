@@ -6,6 +6,7 @@
         <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
     </div>
     <div class="carousel-inner">
+
         <div class="carousel-item active">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
             <img
@@ -14,15 +15,15 @@
                           /images/home/slider/fire_circle-900w.jpg 900px"
                 sizes = "(max-width: 400px) 400px, (min-width: 401px and max-width: 600px) 600px, (min-width: 601px and max-width: 900px) 900px, (min-width: 901px) 1200px,  "
                 src="/images/home/slider/fire_circle-1200.jpg" alt="Iboga Bwiti obrady Ceska Republika Cechy" class="d-block w-100">
-            <div class="container">
+
                 <div class="carousel-caption text-start">
-                    <h1>TRADIČNÍ  IBOGA  OBŘADY   V AFRICKÉ  TRADICI MISSOKO BWITI
+                    <h1>TRADIČNÍ  IBOGA  OBŘADY  V AFRICKÉ  TRADICI MISSOKO BWITI
                     </h1>
-                    <p>Poradam tradicni Bwiti lecebne Iboga ceremonie tak jak jsem se je naucil v Gabounu u samana Moughendy.</p>
+                    <p>Poskytuji tradiční <a href = "/iboga/bwiti-tradice">Bwiti</a> léčebné obřady Ibogy, jak mě učil v Gabonu <a href = "/onas/moughenda">šaman Moughenda 10. generace</a>.</p>
 
                 </div>
-            </div>
-        </div>
+
+
         <div class="carousel-item">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
             <img
@@ -32,15 +33,16 @@
                 sizes = "(max-width: 400px) 400px, (min-width: 401px and max-width: 600px) 600px, (min-width: 601px and max-width: 900px) 900px, (min-width: 901px) 1200px"
                 src="/images/home/slider/slide-pobyt-2.jpeg" alt="Iboga retreats Czech Republic" class="d-block w-100">
 
-            <div class="container">
-                <div class="carousel-caption">
-                    <h1>EXKLUZIVNÍ 8 DENNÍ POBYT PRO ZMĚNU ŽIVOTA
-                    </h1>
-                    <p>Tydenni pobyt s dvema psycho-spiritualnimi Iboga obrady, fuchovni sprchou, Bwiti ucenim a mnohem vice...</p>
 
+                <div class="carousel-caption">
+                    <h1>EXKLUZIVNÍ &nbsp;8 DENNÍ POBYT PRO ZMĚNU ŽIVOTA
+                    </h1>
+                    <p><a href = "/ceremonies/osmi-denni-iboga-wellness-pobyt">Týdenní pobyt</a> s dvěma psycho-spirituálními obřady Ibogy, duchovní sprchou, naukou Bwiti a mnohem vice...</p>
                 </div>
-            </div>
+
         </div>
+
+
         <div class="carousel-item">
 {{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
             <img
@@ -53,13 +55,13 @@
                 (min-width: 901px) 1200px"
                 src="/images/home/slider/sebepoznani.jpg" alt="New York" class="d-block w-100">
 
-            <div class="container">
+
                 <div class="carousel-caption text-end">
                     <h1>VYDEJTE  SE  NA CESTU SEBE POZNÁNÍ</h1>
                     <p>Vědět, kdo jste, je nejdůležitější součástí poznání. Umožňuje vám to dělat správná rozhodnutí, abyste žili šťastný život</p>
 
                 </div>
-            </div>
+
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
