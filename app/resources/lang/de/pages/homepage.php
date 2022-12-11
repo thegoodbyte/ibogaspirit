@@ -19,8 +19,26 @@ return  [
         ],
         'section_2_iboga' =>[
             'title' => 'IBOGA-MEDIZIN UND BWITI-LEHREN',
-            'par' => 'IBOGA MEDICÍNA NÁS UČÍ, JAK SI UŽÍVAT ŽIVOTA NAPLNO. DOKÁŽE VYLÉČIT JAKÉKOLI PSYCHICKÉ T RAUMA TÍM, ŽE NÁS PŘIVEDE
-            KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT. JE TO OPRAVDOVÝ ZÁZRAK – NOVÉ ZROZENÍ'
+            'pars' => [
+                0 => 'Šamanské léčení a učení k léčbě jakékoliv mentální, duševní nebo fyzické nemoci. Vydejte se na cestu sebepoznání
+                a osvoboďte se z pout ega a mysli. Utěšte svou duši a žijte šťastný život. Jeden týdenní pobyt s dvěma obřady Ibogy může změnit
+                váš život k lepšímu. Už žádné nešťastné smutné nebo popletené vy - jen nový a krásný život před vámi, A užívání si ho naplno.',
+                1 => 'Iboga je hluboce uzemňující medicína, který používá pravdu k léčení. Jejím cílem je vás přivést  zpět
+                ke svému původnímu pravému já a znovu vás spojí s vaší duší. Dělá to tak, že nejprve vyčistí (detoxikuje)
+                vše, co může, co fyzicky a duševně k vám nepatří . To je často zažíváno jako náhodné myšlenky,
+                obrázky a takové proudění, které všechno vyčistí, je podobná k defragmentaci počítače.',
+                2 => 'Iboga vám také ukáže jak funguje vaše mysl a odhalí vzorce myšlení, které jste možná pochytili
+                během vašeho života. Vzorce které nejsou pravdivé nebo zdravé. Poté, co Iboga obnoví mír a pokoj ve vaší mysli,
+                odhalí vám původ vašeho utrpení a   učí vás dále tím, že vám ukazuje pravdu. Zkrátka vám to
+                pomáhá uvolnit vzorce, vzpomínky a traumata a osvobodí vás od nich – abyste mohli být tím svým pravým já. Po ceremoniálu,
+                Iboga vám nadále pomáhá zlepšováním všímavosti a podporou neuroplasticity, abyste mohli vytvořit nový,
+                zdravější život s lehkostí',
+
+                3 => 'Znamená to, že zkušenost Ibogy je pro každého člověka pokaždé jiná. Proto jedna osoba, která projde obřady
+                vícekrát, bude mít pokaždé jiný zážitek. Stejně tak dva lidé ve stejném obřadu budou mít velmi
+                různé zkušenosti. Je to proto, že Iboga je vysoce inteligentní duch, který dává každému člověku jeho vlastní dokonalost
+                léčebné zkušenosti, aby vyhovovaly jejich specifickým potřebám – způsobem, kterému budou nejlépe rozumět.'
+            ]
         ],
         'section_3_happily' => [
             'title_1' => 'GLÜCKLICH UND VOLL LEBEN',
