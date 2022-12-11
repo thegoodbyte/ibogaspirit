@@ -25,10 +25,10 @@ return [
             ',
                     2 => 'Během povídání u ohně  se sdílejí základní učení Bwiti a také šamanská učení, která vytváří fáze introspekce.',
                     3 => 'Přednášky předávají životně důležitou moudrost, kterou můžeme využít v každodenním životě. Učení  o tom,
-                kdo jsme, že život je dar, spojení s naší duší, milování sebe sama, překonání ega, posílení sebe sama, nalezení
-                vnitřního klidu a učení se, jak odpustit naší minulosti a důvěřovat nasemu životu.To jsou některá ze mocných témat.',
+                        kdo jsme, že život je dar, spojení s naší duší, milování sebe sama, překonání ega, posílení sebe sama, nalezení
+                        vnitřního klidu a učení se, jak odpustit naší minulosti a důvěřovat nasemu životu.To jsou některá ze mocných témat.',
                     4 => 'Načasování obřadu u ohně je zásadní. Hosté vstoupí do ceremonie s tímto učením v popředí svého vědomí, těsně
-                před užitím medicíny.U ohně diskutujeme o účincích medicíny a podělíme se o naše vlastní léčebné zkušenosti.',
+                    před užitím medicíny.U ohně diskutujeme o účincích medicíny a podělíme se o naše vlastní léčebné zkušenosti.',
 
                 ]
             ],

@@ -8,62 +8,53 @@
 
 
     <div class = "row">
-        <h1 class = "font-just-me color-iscz-red text-center h1-heading"><?php echo ('pages/ceremonies/preparation.content.title');?></h1>
+        <h1 class = "font-just-me color-iscz-red text-center h1-heading"><?php echo __('pages/ceremonies/your-first-ceremony.content.title');?></h1>
     </div>
 
     <div class = "row">
-        <h3 class = "font-just-me font-size-40">Co očekávat:</h3>
+        <h3 class = "font-just-me font-size-40"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.what_to_expect.title');?></h3>
         <div class = "col-xl-6">
 
             <p>
-                Nejlepší je nemit žádná očekávání před příjezdem na náš iboga retreat.
+                <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.what_to_expect.pars.0');?>
             </p>
 
             <p>
-                Ne všichni účastníci budou mít vize, nicméně je důležité pochopit, že iboga je zaměřena na hluboké léčení a ne na „zakopávání“.
-                Nemít vize ve svém prvním obřadu je velmi běžné, ale vytrvalost, trpělivost a odhodlání často povedou k vizionářským stavům.
-                Počáteční práce během retreatu Iboga je zaměřena na očistu a pročištění vašeho fyzického těla a mysli,
-                abyste byli připraveni na další fáze vaší cesty duchovního léčení.
+                <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.what_to_expect.pars.1');?>
             </p>
 
         </div>
 
         <div class = "col-xl-6">
             <p>
-                Jedno rozumné očekávání je, že můžete projít silnou fyzickou a emocionální očistou se zvracením a/nebo
-                možná průjmem. Někteří lidé mají od svých prvních obřadů nerealisticky velká očekávání. Očekávají,
-                že uvidí dechberoucí vize, což je v této rané fázi vzácné, ale může se stát.
+                <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.what_to_expect.pars.2');?>
             </p>
         </div>
     </div>
 
 
     <div class = "row">
-        <h2 class = "font-just-me color-iscz-red">Prvni Ceremonie</h2>
+        <h2 class = "font-just-me color-iscz-red"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.first_ceremony.title');?></h2>
         <div class = "col-xl-12">
 
             <p>
-                Každý obřad Ibogy začíná kolem ohně, ktery důležitou součástí ctění posvátné tradice Bwiti.
+                <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.first_ceremony.pars.0');?>
             </p>
 
             <p>
-                Oheň byl prvním portálem, který Bwiti objevil do duchovního světa. Oheň je skvělým ochráncem,
-                osvětluje obřadní prostor a jeho kouř slouží jako přistávací dráha pro duchy, aby vstoupili a pomohli. Oheň spálí to, co nám již neslouží.
+                <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.first_ceremony.pars.1');?>
             </p>
 
             <p>
-                Během řeči u ohně  se sdílejí základní učení Bwiti a také šamanská učení, aby se vytvořila fáze introspekce.
+                <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.first_ceremony.pars.2');?>
             </p>
 
             <p>
-                Přednášky předávají životně důležitou moudrost, kterou můžeme využít v každodenním životě. Učení se o tom,
-                kdo jsme, že život je dar, spojení s naší duší, milování sebe sama, překonání ega, posílení sebe sama, nalezení
-                vnitřního klidu a učení se, jak odpustit naší minulosti a důvěřovat tomuto životu, to jsou některá ze silných témat.
+                <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.first_ceremony.pars.3');?>
             </p>
 
             <p>
-                Načasování obřadu u ohně je zásadní. Hosté vstoupí do ceremonie s tímto učením v popředí svého vědomí, těsně
-                před užitím medicíny U ohně budou naši facilitátoři diskutovat o účincích medicíny a podělí se o naše vlastní léčebné zkušenosti.
+                <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.first_ceremony.pars.4');?>
             </p>
 
             <p>
@@ -84,29 +75,28 @@
 
     <div class = "row background-text-light-grey">
         <div class = "row">
-            <h3 class = "font-just-me">Jak cesta vstoupí v platnost, můžete zažít:</h3>
+            <h3 class = "font-just-me"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.you_can_experience.title');?></h3>
         </div>
         <div class = "row">
             <div class = "col-xl-6">
                 <ul>
-                    <li>Pocity euforie nebo zvýšené smysly</li>
-                    <li>Sluchové halucinace (jako když si myslíte, že někdo vedle vás mluví)</li>
-                    <li>Vizuální halucinace (s otevřenýma nebo zavřenýma očima)</li>
-                    <li>Intuitivní zprávy</li>
-                    <li>Kolísání tělesné teploty</li>
-                    <li>Zhoršená motorika (po celou dobu vás dovedeme na toaletu a na vaši matraci)</li>
+                    <li><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.you_can_experience.items.0');?></li>
+                    <li><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.you_can_experience.items.1');?></li>
+                    <li><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.you_can_experience.items.2');?></li>
+                    <li><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.you_can_experience.items.3');?></li>
+                    <li><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.you_can_experience.items.4');?></li>
+                    <li><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.you_can_experience.items.5');?></li>
 
                 </ul>
             </div>
 
             <div class = "col-xl-6">
                 <ul>
-                    <li>Tracery a blikající světla v naší vizi</li>
-                    <li>Tepová frekvence se může zvýšit, ale nakonec se zpomalí</li>
-                    <li>Rychlé překrývající se myšlenky „nazývané očista mysli“ (vedoucí ke zklidnění mysli)</li>
-                    <li>Čištění (zvracení, pláč, třes, pocení, smích, časté močení atd.)</li>
-                    <li>To vše je normální zapínání a vypínání během cesty. Přečtěte si naše tipy,
-                        jak navigovat pomocí Iboga, kde najdete další podrobnosti.</li>
+                    <li><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.you_can_experience.items.6');?></li>
+                    <li><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.you_can_experience.items.7');?></li>
+                    <li><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.you_can_experience.items.8');?></li>
+                    <li><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.you_can_experience.items.9');?></li>
+                    <li><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.you_can_experience.items.10');?></li>
                 </ul>
             </div>
         </div>
@@ -114,24 +104,117 @@
 
 
 
-    <h2 class = "font-just-me font-size-80">Časté otázky - F.A.Q.</h2>
+    <h2 class = "font-just-me font-size-80"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.title');?></h2>
 
     <div class = "row">
-        <p>
-            <div class = "font-just-me-small">Jak poznám, že je Iboga pro mě to pravé?</div>
-            Toto velmi osobní a důležité rozhodnutí musíte udělat sami, ale my jsme tu, abychom vám pomohli.
-        </p>
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+                <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.0.q');?></div>
+                <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.0.a');?></div>
+            </p>
+        </div>
+
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.1.q');?></div>
+            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.1.a');?></div>
+            </p>
+        </div>
+        <!-- 2-3-->
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.2.q');?></div>
+            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.2.a');?></div>
+            </p>
+        </div>
+
+{{--        <div class = "col-xl-6 col-xs-12">--}}
+{{--            <p>--}}
+{{--            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.3.q');?></div>--}}
+{{--            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.3.a');?></div>--}}
+{{--            </p>--}}
+{{--        </div>--}}
+
+        <!-- 4 - 5 -->
+{{--        <div class = "col-xl-6 col-xs-12">--}}
+{{--            <p>--}}
+{{--            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.4.q');?></div>--}}
+{{--            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.4.a');?></div>--}}
+{{--            </p>--}}
+{{--        </div>--}}
+
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.5.q');?></div>
+            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.5.a');?></div>
+            </p>
+        </div>
+
+        <!-- 6 - 7 -->
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.6.q');?></div>
+            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.6.a');?></div>
+            </p>
+        </div>
+
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.7.q');?></div>
+            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.7.a');?></div>
+            </p>
+        </div>
+
+        <!-- 8 - 9 -->
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.8.q');?></div>
+            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.8.a');?></div>
+            </p>
+        </div>
+
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.9.q');?></div>
+            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.9.a');?></div>
+            </p>
+        </div>
+
+        <!-- 10  - 11 -->
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.10.q');?></div>
+            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.10.a');?></div>
+            </p>
+        </div>
+
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.11.q');?></div>
+            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.11.a');?></div>
+            </p>
+        </div>
+
+        <!-- 12 - 13 -->
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.12.q');?></div>
+            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.12.a');?></div>
+            </p>
+        </div>
+
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.13.q');?></div>
+            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.13.a');?></div>
+            </p>
+        </div>
 
     </div>
 
 
-    <div class = "">
-    </div>
+    <div class = "container">
 
-        <p>
-            Aby byl zajištěn bezpečný zážitek z Ibogy, hosté projdou naším procesem příjmu, abychom zjistili,
-            zda existují nějaké diskriminující zdravotní faktory nebo léky. Jakmile je proces dokončen, zážitek je velmi bezpečný.
-        </p>
 
         <p>
             Kromě toho je hlavním požadavkem pro úspěšnou zkušenost s Ibogou ochota léčit se tím, že přijmete pravdu a
