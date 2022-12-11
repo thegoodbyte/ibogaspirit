@@ -21,20 +21,40 @@
     width: 80%;
     top: 260px;
 }
-
+/** first one */
 .carousel .carousel-item:first-child .carousel-caption p{
-    background-color: rgba(0, 0, 0, 1);
+    background-color: rgba(0, 0, 0, 0.4);
     padding: 10px;
 }
 
-.carousel-item:first-child  h1 {
+.carousel .carousel-item:first-child  h1 {
     font-family: "Lato", Sans-serif;
     font-size: 60px;
-
-
 }
 
-.carousel-caption > h1 {
+/** 2nd one */
+.carousel .carousel-item:nth-child(2) .carousel-caption p{
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+}
+
+.carousel .carousel.carousel-item:first-child  h1 {
+    font-family: "Lato", Sans-serif;
+    font-size: 60px;
+}
+
+/** 3rd one */
+.carousel .carousel-item:nth-child(3) .carousel-caption p{
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+}
+
+.carousel .carousel.carousel-item:first-child  h1 {
+    font-family: "Lato", Sans-serif;
+    font-size: 60px;
+}
+
+.carousel .carousel-caption > h1 {
     font-family: "Lato", Sans-serif;
     font-size: 60px;
     color: #fff;

@@ -9,8 +9,7 @@ return  [
             ],
             'slide_2' => [
                 'title' => 'ALLES INKLUSIVE 8-TÄGIGE IBOGA HEALING RETREATS',
-                'par' => 'Eine einwöchige Stah mit zwei Iboga-Zeremonien und einer spirituellen Zeremonie
-                Dusche., Bwiti Lehren und vieles mehr...'
+                'par' => 'Ein einwöchiges Retreat mit zwei Iboga-Zeremonien und einer spirituellen Dusche, Bwiti-Lehren und vielem mehr...'
             ],
             'slide_3' => [
                 'title' => 'LERNE WISSEN, WER DU WIRKLICH BIST',

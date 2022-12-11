@@ -35,7 +35,7 @@
             <div class="container">
                 <div class="carousel-caption">
                     <h1><?php echo __('pages/homepage.content.slider.slide_2.title'); ?></h1>
-                    <p><p><?php echo __('pages/homepage.content.slider.slide_2.par'); ?></p></p>
+                    <p><?php echo __('pages/homepage.content.slider.slide_2.par'); ?></p>
 
                 </div>
             </div>
@@ -55,7 +55,7 @@
             <div class="container">
                 <div class="carousel-caption text-end">
                     <h1><?php echo __('pages/homepage.content.slider.slide_3.title'); ?></h1>
-                    <p><p><?php echo __('pages/homepage.content.slider.slide_3.par'); ?></p></p>
+                    <p><?php echo __('pages/homepage.content.slider.slide_3.par'); ?></p>
 
                 </div>
             </div>

@@ -5,16 +5,16 @@ return  [
         'slider' => [
             'slide_1' => [
                 'title' => 'TRADITIONAL BWITI IBOGA HEALING CEREMONIES',
-                'par' => 'I have been providing traditional Bwiti Iboga ceremonies, the exact way I learned them in Gabon from my shaman Moughenda.'
+                'par' => 'I have been providing traditional Bwiti  Iboga healing ceremonies the same way I was taught by Bwiti shaman Moughenda in Gabon'
             ],
             'slide_2' => [
                 'title' => 'ALL INLCUSIVE 8-DAY IBOGA HEALING RETREATS',
-                'par' => 'Eine einwöchige Stah mit zwei Iboga-Zeremonien und einer spirituellen Zeremonie
-                Dusche., Bwiti Lehren und vieles mehr...'
+                'par' => 'A week-long retreat with two iboga ceremonies and a spiritual
+                 Shower, Bwiti teachings and much more...'
             ],
             'slide_3' => [
                 'title' => 'LERNE WISSEN, WER DU WIRKLICH BIST',
-                'par' => 'Finden Sie heraus, wer Sie sind. Verbinde dich wieder mit deiner Seele und liebe dich selbst wieder.'
+                'par' => 'Find out who you are. Reconnect with your soul and love yourself again.'
             ]
         ],
         'section_2_iboga' =>[

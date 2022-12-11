@@ -5,7 +5,7 @@ return  [
         'slider' => [
             'slide_1' => [
                 'title' => 'TRADIČNÍ IBOGA OBŘADY V AFRICKÉ TRADICI MISSOKO BWITI',
-                'par' => 'Poradam tradicni Bwiti lecebne Iboga ceremonie tak jak jsem se je naucil v Gabounu u samana Moughendy.'
+                'par' => 'Poskytuji tradiční Bwiti léčebné Iboga ceremonie stejným způsobem, jakým mě učil Bwiti šaman Moughenda v Gabonu'
             ],
             'slide_2' => [
                 'title' => 'EXKLUZIVNÍ 8 DENNÍ POBYT PRO ZMĚNU ŽIVOTA',

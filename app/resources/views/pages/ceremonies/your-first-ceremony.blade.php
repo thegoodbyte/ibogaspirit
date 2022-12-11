@@ -8,7 +8,7 @@
 
 
     <div class = "row">
-        <h1 class = "font-just-me color-iscz-red text-center h1-heading"></h1>
+        <h1 class = "font-just-me color-iscz-red text-center h1-heading"><?php echo ('pages/ceremonies/preparation.content.title');?></h1>
     </div>
 
     <div class = "row">
