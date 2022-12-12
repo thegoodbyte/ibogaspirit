@@ -82,6 +82,7 @@
                 </div>
 
                 <div class="container">
+                    <img src = "/images/promotions/cz/2023/06/banner-cs-june-upava-v2.jpg" />
                     <strong>16 - 23 června 2023.</strong><br />
                     Svoboda nad Upou, Královéhradecký kraj
                 </div>
