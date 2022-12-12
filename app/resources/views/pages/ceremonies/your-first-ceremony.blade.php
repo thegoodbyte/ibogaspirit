@@ -63,7 +63,7 @@
 
             <p>
                 Načasování obřadu u ohně je zásadní. Hosté vstoupí do ceremonie s tímto učením v popředí svého vědomí, těsně
-                před užitím léku U ohně budou naši facilitátoři diskutovat o účincích léku a podělí se o naše vlastní léčebné zkušenosti.
+                před užitím medicíny u ohně budou naši facilitátoři diskutovat o účincích medicíny a podělí se o naše vlastní léčebné zkušenosti.
             </p>
 
             <p>

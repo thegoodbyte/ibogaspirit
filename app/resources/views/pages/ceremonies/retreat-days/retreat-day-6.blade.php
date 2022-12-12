@@ -1,13 +1,13 @@
 <div class = "row">
     <div class = "row">
-        <h3  class = "font-just-me">DEN ŠESTÝ Den objevů</h3>
+        <h3  class = "font-just-me">DEN ŠESTÝ -  Den objevů</h3>
     </div>
     <div class = "row">
         <div class = "col-xl-12">
             <p>
-                To, co se stane druhého Discovery Day, je velmi podobné prvnímu; <br />
+                To, co se stane druhého dne objevů , je velmi podobné prvnímu; <br />
                 Moudrost a učení Ibogy se odhalují, když její obřadní
-                energie začíná utichat. Trávíme čas bez rozptylování, zkoumáním vnitrního klidu  a pravdy,
+                energie začíná utichat. Trávíme čas bez rozptylování, zkoumáním vnitřního klidu  a pravdy,
                 nehybnosti našeho vlastního ducha.
 
             </p>

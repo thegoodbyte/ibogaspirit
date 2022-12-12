@@ -6,15 +6,15 @@
     <div class = "row background-text-light-grey">
         <div class = "col-xl-6 col-sm-1">
             <p>
-                Brzy během dne mám soukromý chat s každým hostem kdy diskutujeme životní záměry a otázky týkající se léku.
-                Podává se pozdní oběd, po kterém se hosté po zbytek dne postí. Za tmy se koná skupinova <strong>Iboga Fire Ceremony,</strong> kde hraje tradiční hudba
-                Bwiti a předává se učení moudrosti.
+                Brzy během dne mám soukromý chat s každým hostem kdy diskutujeme životní záměry a otázky týkající se mediciny.
+                Podává se pozdní oběd, po kterém se hosté po zbytek dne postí. Za tmy se koná skupinová <strong>Iboga Ceremoniál u ohně,</strong> kde hraje tradiční hudba
+                Bwiti a předává se učení moudrosti Bwiti (školy života).
                 Hosté užívají medicínu, která se podává jak jako kůra kořene Ibogy.
             </p>
             <p>
                 Mluvíme o Životě a dalších důležitých učeních, které pocházejí z tradice Bwiti.
                 Tato tradice je ve skutečnosti <u>studiem samotného Života</u>. Asi po hodině je Iboga dána každému, kdo
-                se účastní obřadu. Většině lidí trvá asi hodinu, než začnou „cítit lék“.
+                se účastní obřadu. Většině lidí trvá asi hodinu, než začnou „cítit medicínu“.
                 Jakmile někdo cítí Ibogu, je eskortován na matraci v obřadní oblasti, kde stráví zbytek noci.
             </p>
             <p>

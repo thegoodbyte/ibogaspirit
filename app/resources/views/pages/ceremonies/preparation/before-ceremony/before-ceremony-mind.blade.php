@@ -5,7 +5,7 @@
             <h3 class = "font-just-me font-size-60 color-iscz-red">Mysl</h3>
             <h3 class = "font-just-me font-size-30 color-iscz-red">Nastavení mysli - zamer</h3>
             <p>Stanovte si svůj záměr pro vas lecebny pobyt -  ujasněte si své cíle a připravte si otázky, na které se
-                budete léku ptát. Další informace o tom, jak to provést, naleznete níže.
+                budete ptát medicíny. Další informace o tom, jak to provést, naleznete níže.
             </p>
 
             <p>

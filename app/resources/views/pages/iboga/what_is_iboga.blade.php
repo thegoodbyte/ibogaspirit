@@ -135,7 +135,7 @@
                 blahobytu, bude očištěno.</p>
 
             <p class="text-justify">Tento detox také čistí mysl od systémů přesvědčení a negativních myšlenkových vzorců,
-                které nám neslouží. To také pomůže léku vypořádat se s fyzickými aspekty těchto uložených emocí a mnoho
+                které nám neslouží. To také pomůže medicíně se vypořádat  s fyzickými aspekty těchto uložených emocí a mnoho
                 lidí zaznamená velké zlepšení v jejich celkové pohodě.</p>
 
             <p class="text-justify">Iboga nás učí znovu získat kontrolu nad našimi myšlenkami a využít mysl ve svůj
