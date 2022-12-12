@@ -1,6 +1,6 @@
 <div class = "row pobyt-day-box">
     <div class = "row">
-        <h4>DEN DRUHÝ První ceremonie Ibogy</h4>
+        <h4  class = "font-just-me">DEN DRUHÝ První ceremonie Ibogy</h4>
     </div>
 
     <div class = "row background-text-light-grey">
@@ -18,7 +18,7 @@
                 Jakmile někdo cítí Ibogu, je eskortován na matraci v obřadní oblasti, kde stráví zbytek noci.
             </p>
             <p>
-                Náš personál je přítomen po celou dobu obřadu, aby pomohl lidem s jejich potřebami, trochou vody k pití,
+                Můj personál je přítomen po celou dobu obřadu, aby pomohl lidem s jejich potřebami, trochou vody k pití,
                 více iboga v případě potřeby, pomoc při cestě do az blízké koupelny, čištění (zvracení) nebo nabídnutí směru podle potřeby.
                 Vytváříme pro vás velmi bezpečné prostředí, abyste se mohli soustředit na svůj zážitek.
             </p>
@@ -36,7 +36,7 @@
 
             <img src = "/images/obrady/first-ceremony-600.jpg" />
             <p><br /><br />
-                Zbytek noci stráví hosté "journeying" v obřadní oblasti až do východu slunce, kdy jsou hosté odvezeni zpět do svých pokojů.
+                Zbytek noci stráví hosté "journeying" v obřadní oblasti až do východu slunce, kdy jsou hosté odvedeni zpět do svých pokojů.
             </p>
     {{--        <div class = "retreats-img-box-">--}}
     {{--            <img src = "/images/obrady/first-ceremony-600.jpg" />--}}

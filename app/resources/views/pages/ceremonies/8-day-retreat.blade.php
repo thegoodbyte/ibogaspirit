@@ -6,7 +6,7 @@
 
 
     <div class = "row text-center">
-        <h1 class = "font-just-me color-iscz-red">Osmi-denní IBOGA léčebný Pobyt</h1>
+        <h1 class = "font-just-me color-iscz-red h1-heading">Osmi-denní IBOGA léčebný Pobyt</h1>
 
         <p>
             V tradičním psycho-spirituálním obřadu IBOGY se o sobě učíme na všech úrovních; fyzicky, mentálně,
@@ -163,9 +163,9 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-            <h2 class = "font-just-me">OSMIDENNI  IBOGA RETREAT SROZVRH</h2>
+            <h2 class = "font-just-me">OSMIDENNÍ PROGRAM WELLNESS IBOGA POBYTU </h2>
             <p>
-                Naše 8-denní vse-zahrnuto léčebné pobyty Ibogy jsou navrženy tak, aby podporovaly silný léčebný zážitek
+                Moje 8-denní vše-zahrnující léčebné pobyty Ibogy jsou navrženy tak, aby podporovaly silný léčebný zážitek
                 a sebeobjevování. Prostřednictvím posvátných obřadů při svíčkách, které pronikají do této neuvěřitelné rostlinné medicíny
                 přirozenou inteligencí usnadňujeme cestu osobního léčení v pohodlném a bezpečném prostoru.
             </p>
