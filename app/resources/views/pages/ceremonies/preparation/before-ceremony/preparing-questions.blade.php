@@ -6,7 +6,7 @@
         </p>
 
         <p>
-            Ano! Jakmile během obřadu požijete dostatek léků, můžete se Ibogy zeptat naprosto na cokoliv.
+            Ano! Jakmile během obřadu požijete dostatek medicíny, můžete se Ibogy zeptat naprosto na cokoliv.
             Iboga vás spojuje s vaší duší, vaší pravdou – kde jsou všechny odpovědi.
         </p>
 

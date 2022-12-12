@@ -12,7 +12,7 @@
                 be with you the whole time to guide and assist.-->
                 Nenuťte to – Po užití Ibogy je běžné, že budete zpočátku pociťovat nepohodlí. Takto se právě
                 energie Ibogy funguje – musíte ji cítit, abyste ji vyléčili. Nejjednodušší způsob, jak překonat jakékoli nepohodlí
-                je uvolnit se, soustředit se na svůj dech a odevzdat se. Lék přesně ví, co se má stát
+                je uvolnit se, soustředit se na svůj dech a odevzdat se. Medicína přesně ví, co se má stát
                 abychom se uzdravili.
             </p>
             <p>Vzpomeňte si, proč vás Iboga zavolala, a sedněte si v této důvěře. Očekávání, jak chcete své

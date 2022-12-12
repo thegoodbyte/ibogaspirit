@@ -67,7 +67,7 @@
                 příspěvek, takže můžete plně integrovat své zkušenosti. Pokud maximalizujete výhody čištění, držte se dál
                 po dobu 3-6 měsíců můžete ve svém životě zaznamenat ještě hlubší změny než samotný obřad. Mnoho
                 hlásí, že ani nemá touhu pít, protože candida nebo citová vazba bývají úplné
-                eliminován lékem, čímž se snižuje jakákoli chuť na cukr a sacharidy.
+                eliminován medicínou, čímž se snižuje jakákoli chuť na cukr a sacharidy.
             </p>
         </div>
     </div>
@@ -83,11 +83,11 @@
             after the ceremony and other medicines can interfere with the process. Many people report high levels of
             sensitivity to other psychoactive medicines post ceremony. Use caution specifically with recreational
             use of psychoactive medicines. -->
-            POZNÁMKA: Pokud máte v plánu užívat jiné obřadní rostlinné léky, dejte na to alespoň měsíc
+            POZNÁMKA: Pokud máte v plánu užívat jiné obřadní rostlinné medicíny, dejte na to alespoň měsíc
             obnovení a integrace vašich zkušeností. Tento mocný rostlinný duch stále poskytuje léčivé měsíce
-            po obřadu a jiné léky mohou proces narušovat. Mnoho lidí uvádí vysokou úroveň
-            citlivost na jiné psychoaktivní léky po obřadu. Buďte opatrní zejména u rekreačních
-            užívání psychoaktivních léků.
+            po obřadu a jiné medicíny mohou proces narušovat. Mnoho lidí uvádí vysokou úroveň
+            citlivost na jiné psychoaktivní medicíny po ceremoniich. Buďte opatrní zejména u rekreačních
+            užívání psychoaktivních medicín.
         </p>
 
         </div>

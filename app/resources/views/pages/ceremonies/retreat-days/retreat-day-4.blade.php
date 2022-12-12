@@ -7,7 +7,7 @@
 
     <div class = "row">
         <div class = "col-xl-4">
-            <img src = "/images/obrady/spiritual-shower-1200w.jpeg" width = "400" />
+            <img src = "/images/obrady/spiritual-shower-1200w.jpeg" width = "390" />
         </div>
 
         <div class = "col-xl-8">
@@ -26,7 +26,7 @@
 
             <p>
                 Den strávíme venku, podle počasi a sezony. Vetšinou jdeme ven na procházku do prilehlych lesů,. Hosté se mohou hluboce připojit
-                léčivá energie rostlin, stromů – a co je nejdůležitější, vody - v podobe řeky, či potoka. Voda - konečný čistič toho, co nám neslouží.
+                léčivá energie rostlin, stromů – a co je nejdůležitější, vody - v podobě řeky, či potoka. Voda - konečný čistič toho, co nám neslouží.
             </p>
 
             <h5>Duchovní sprcha</h5>
@@ -35,7 +35,7 @@
                 Po návratu zpátky je hostům poskytnuta duchovní sprcha, která se koná v tradičním obřadu Bwiti.
                 Protože Iboga odstranila hluboce uvízlé emoce, přesvědčení, traumata a vzorce, účelem Duchovní sprchy je
                 úplně uvolnit tyto věci. V prostoru vzniklém jejich nepřítomností si hosté mohou pozvat své nejhlubší sny a přání ke vzniku.
-                Duchovní sprcha se provádí u místní řeky (podle sezony) ci uvnitř vynajatého objektu.
+                Duchovní sprcha se provádí u místní řeky (podle sezony) či uvnitř vynajatého objektu.
             </p>
 
             <p>
@@ -48,7 +48,7 @@
                 v pozitivních, samoúčelných vzorcích a uvolňovat negativní, sebesabotující vzorce.
                 Hloubky, do kterých můžeme uvolnit negativitu v tomto obřadu, jsou neomezené – jsme dokonce schopni
                 přístup a zbavit se negativity z naší rodové linie. To vše je možné smýt, vyčistit a obnovit.
-                Vsechny komponenty jsou přimo z Gabonu a připraveny africkým kmenem Bwiti.
+                Všechny komponenty jsou přímo z Gabonu a připraveny africkým kmenem Bwiti.
             </p>
         </div>
     </div>

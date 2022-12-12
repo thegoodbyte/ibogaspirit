@@ -2,7 +2,7 @@
     <li>8 dní, 7 nocí ubytování na místě, které bude upřesněno.</li>
     <li>2 tradiční Bwiti IBOGA psycho-duchovní ceremonie od tradičního Bwiti vyškoleným poskytovatelem</li>
     <li>Přípravný hovor s poskytovatelem IBOGY</li>
-    <li>Obřadně sklizený lék od našeho Bwitiučitele  Moughendy</li>
+    <li>Obřadně sklizený medicína od našeho Bwitiučitele  Moughendy</li>
     <li>Celodenní výlet do krásných místních míst</li>
     <li>One on one talk terapie v průběhu týdne a poradenská sezení před a po ceremoniálu</li>
     <li>Tradiční Bwiti duchovní sprcha / očista (posvátný rituál rostlinné koupele)</li>

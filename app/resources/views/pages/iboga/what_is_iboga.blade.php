@@ -122,7 +122,7 @@
                 jak úžasný může být život, když očistíme staré vzorce a začneme se svými životy zacházet s hodnotou, respektem a láskou.
             </p>
 
-            <p class="text-justify">Tento lék umožňuje opětovné spojení s naší duší a uvádí nás do našeho nejčistšího stavu,
+            <p class="text-justify">Tato medicína umožňuje opětovné spojení s naší duší a uvádí nás do našeho nejčistšího stavu,
                 než jsme byli zraněni. Moudrost rostliny posílí naše vědomí, aby nám pomohla získat jasnost o našich vášních,
                 inspiracích, kreativitě a účelu. Spojením nás s naší duší dostáváme příležitost pocítit hlubokou vděčnost
                 za dar života samotného.</p>
@@ -144,11 +144,11 @@
 
             <p class="text-justify">Ukáže nám, abychom nežili v minulosti: v naší depresi. Ani v budoucnosti: v naší
                 úzkosti. Iboga nás učí, jak žít přítomným okamžikem, stát se svým vlastním svědkem a být přítomen nyní.
-                Tento lék má sílu začít přetvářet způsob, jakým přemýšlíme a jak přistupujeme nebo jak žijeme.</p>
+                Tato medicína má sílu začít přetvářet způsob, jakým přemýšlíme a jak přistupujeme nebo jak žijeme.</p>
 
-            <p class="text-justify">Je důležité poznamenat: že i když se jedná o silný lék na mnoha úrovních,
+            <p class="text-justify">Je důležité poznamenat: že i když se jedná o silnou medicínu na mnoha úrovních,
                 nedělá práci za nás. Musíme reagovat na učení a implementovat nové chování a vytvářet nové vzorce myšlení.
-                Útočiště Iboga je jen začátek cesty. Lék nám pomůže vést cestu, ale my se musíme rozhodnout, že po cestě
+                Útočiště Iboga je jen začátek cesty. Medicíny nám pomůže vést cestu (journey) , ale my sami se musíme rozhodnout, že po cestě
                 budeme chodit každý den, abychom vytvořili nové drážky. Kliknutím sem zobrazíte další informace o tom, co
                 lze od integračního procesu očekávat</p>
             </p>
