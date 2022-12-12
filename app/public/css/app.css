@@ -633,8 +633,12 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
 }
 
 #home-kdo-jsme .who-we-are-col-3 .box-kdo-jsme {
-    background-color: rgba(151, 83, 40, 0.22);
-    padding: 10px;
+     background-color: rgba(151, 83, 40, 0.22);
+     padding: 10px;
+ }
+
+#home-kdo-jsme .who-we-are-col-3  img{
+    border: 6px solid #fff;
 }
 
 #home-kdo-jsme .who-we-are-col-3 .box-kdo-jsme h2{
