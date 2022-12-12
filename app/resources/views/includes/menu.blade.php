@@ -15,18 +15,22 @@
                 <span class="mrg"></span></a>
         </div>
     </div>
+    @php
+        $applocale = session('applocale') ?? 'cz';
+
+    @endphp
 
 
     <nav class="menu-toggle">
         <ul class="nav__menu">
-            <li class = "menu-item"><a href="/">HOME</a></li>
+            <li class = "menu-item"><a href="/">HOME {{  $applocale }}</a></li>
 
             <li class = "dropdown2 menu-item">
                 <a href="#"><?php echo __('menu.menu_ceremonies.iboga.title'); ?></a>
                 <ul>
                     <li><a href="/iboga/jak-vam-iboga-muze-pomoci"><?php echo __('menu.menu_ceremonies.iboga.how_iboga_can_help_you'); ?></a></li>
                     <li><a href="/iboga/bwiti-tradice"><?php echo __('menu.menu_ceremonies.iboga.bwiti_tradition'); ?></a></li>
-                    <li><a href="/iboga/co-je-iboga"><?php echo __('menu.menu_ceremonies.iboga.what_is_iboga'); ?></a></li>
+                    <li><a href="{{ route('iboga-what-is_' . $applocale) }}"><?php echo __('menu.menu_ceremonies.iboga.what_is_iboga'); ?></a></li>
                     <li><a href="/iboga/iboga-vs-ayahuasca"><?php echo __('menu.menu_ceremonies.iboga.iboga_vs_ayahuasca'); ?></a></li>
                     <li><a href="/iboga/gabon"><?php echo __('menu.menu_ceremonies.iboga.gabon_africa'); ?></a></li>
                 </ul>

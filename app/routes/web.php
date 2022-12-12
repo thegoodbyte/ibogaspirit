@@ -40,7 +40,9 @@ Route::get('/set-language/{lang}', [\App\Http\Controllers\HomeController::class,
 
 
 //Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "what_id_iboga"]);
-Route::get('/iboga/co-je-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"]);
+Route::get('/iboga/co-je-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_cz');
+Route::get('/iboga/was-ist-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_de');
+Route::get('/iboga/what-is-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_en');
 //Route::get('/iboga/jak-vam-iboga-muze-pomoci', [\App\Http\Controllers\IbogaController::class, "jak_vam_iboga_muze_pomoci"]);
 //Route::get('/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"]);
 //Route::get('/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"]);
