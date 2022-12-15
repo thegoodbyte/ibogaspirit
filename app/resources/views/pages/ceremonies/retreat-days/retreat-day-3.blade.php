@@ -2,33 +2,28 @@
 
     <div class = "row">
         <div class = "col-xl-5 col-sm-12" >
-            <blockquote>Intuitivní zprávy a hluboké osobní znalosti v tichu třetího dne</blockquote>
+            <blockquote><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_3.quote'); ?>/blockquote>
         </div>
     </div>
 
 
     <div class = "row">
         <div class = "row">
-            <h4 class = "font-just-me"><span class = "">DEN TŘETÍ</span>  - Den objevů</h4>
+            <h4 class = "font-just-me"><span class = ""><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_3.title'); ?></span></h4>
         </div>
 
 
         <div class = "row">
             <div class = "col-xl-6 col-sm-12">
                 <p class = "-p-6">
-                    Tento den je o introspekci, vhledu, uvolnění a přijetí. Běžně se toho během aktivního děje tolik
-                    Samotná cesta Iboga (den dva), na které se realizuje mnoho poznatků a zpracování této cesty
-                    Den objevů. Jak se intenzita medicíny ustálí, jsou prezentovány dary Ibogy. Je  běžné
-                    že zažijte intuitivní zprávy a hluboké osobní znalosti v tichu třetího dne.
+                    <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_3.par_1'); ?>
 
                 </p>
             </div>
 
             <div class = "col-xl-6 col-sm-12">
                 <p class = "-p-6">
-                    takže <strong>je nesmírně důležité zachovat si klid tím, že zůstanete mimo telefony, počítače a další
-                        elektronická zařízení</strong>. Odstraněním rušivých vlivů se udržujeme otevřeni přijímání zpráv. Zařízení a
-                    rozptýlení brání Iboze pokračovat v její práci.
+                    <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_3.par_2'); ?>
                 </p>
             </div>
         </div>

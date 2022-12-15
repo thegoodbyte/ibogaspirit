@@ -1,37 +1,31 @@
 <div class = "row ">
     <div class = "row">
-        <h4 class = "font-just-me">DEN PÁTÝ  - Aktivity na místě a druhý obřad Ibogy</h4>
+        <h4 class = "font-just-me"><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_5.title'); ?></h4>
     </div>
-
-
 
     <div class = "col-xl-8 pl-5">
 
         <p>
-           Tento den nabízíme holotropní dýchaní(Pozn. pouze na vybraných pobytech).
+           <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_5.par_1'); ?>
         </p>
 
         <p>
-            Skupinový integrační kroužek před obědem. Lehké procházky přírodou později odpoledne.
+            <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_5.par_2'); ?>
         </p>
 
         <p>
-            Večer pořádáme náš druhý obřad Ibogy. Kolem ohně, když začneme brát medicínu,
-            hosté jsou zváni (ale není to nutné), aby se podělili o svůj první obřad. Věci, které byly během
-            první cestu nebude třeba znovu řešit. Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitř.
+            <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_5.par_3'); ?>
         </p>
 
         <p>
-            Zážitek z Ibogy se bude nějakým způsobem lišit pokaždé kdy užívíme tuto medicínu. Hosté by měli medicíně
-            důvěřovat, že udělá svou práci.
-            Musíme jen vědět, co z této zkušenosti chceme.
+            <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_5.par_4'); ?>
         </p>
 
 
     </div>
 
     <div class = "col-xl-4 id = "retreat-day-img-box-day-5">
-        <blockquote>Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitřku nás samých.</blockquote>
+        <blockquote><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_5.quote'); ?></blockquote>
     </div>
 
 

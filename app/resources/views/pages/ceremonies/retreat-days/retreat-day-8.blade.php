@@ -1,14 +1,13 @@
 <div class = "row">
     <div class = "col-xl-12">
-        <h4  class = "font-just-me">DEN OSMÝ - Odjezd</h4>
+        <h4  class = "font-just-me"><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_8.title'); ?></h4>
 
         <p>
-            Podávají se snídaně a obědy, zatímco hosté čekají na odvoz na vlak ci letiště.
+            <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_8.par_1'); ?>
         </p>
 
         <p class = "color-iscz-green font-italic">
-            Všechny činnosti nabízené během mých 8-denních pobytů jsou volitelné; pokud se hosté necítí dobře -  účastnit se určitých
-            plánované činností, mohou se odhlásit. Je to všechno o zmocněné volbě a volba zúčastnit se je vždy na jednotlivci.
+        <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_8.par_2'); ?>
         <p>
     </div>
 </div>

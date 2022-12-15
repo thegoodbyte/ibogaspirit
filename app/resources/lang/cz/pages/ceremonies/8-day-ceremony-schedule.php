@@ -26,7 +26,7 @@ return [
                         8 => 'LOUČENÍ / ODJEZD',
                     ]
             ],
-            'mousghenda_design' => 'Celý plán pobytu navrhl náš učitel a šaman Moughenda. Harmonogram zajišťuje, že hosté mají dostatek
+            'moughenda_design' => 'Celý plán pobytu navrhl náš učitel a šaman Moughenda. Harmonogram zajišťuje, že hosté mají dostatek
                 času připravit se na obřad Ibogy a ziskat co nejvice z celeho pobytu. Patří mezi ně dny věnované
                 zpracovávání zážitku Ibogy leceni a take dny integrace Ibogy zaxzitku a poznani do běžného života hosta.',
             'included' => [
@@ -43,11 +43,13 @@ return [
                     8 => 'TRADIČNĚ PŘIPRAVOVANÁ A SLAVNOSTNĚ SKLIZENÁ IBOGA',
                     9 => 'JEDINEČNÉ MÍSTNÍ VÝLETY,  HOLOTROPNÍ DÝCHÁNÍ*',
                     10 => 'TRADIČNÍ DUCHOVNÍ SPRCHA BWITI',
+                    11 => 'LÉKAŘSKÉ VYŠETŘENÍ K ZAJIŠTĚNÍ BEZPEČNÉHO POBYTU'
 
                 ]
             ],
             'eight_day_schedule'=> [
-                'title'=> 'Lékařské vyšetření k zajištění bezpečného pobytu',
+                'quote' => 'Iboga nás učí znovu získat kontrolu nad našimi myšlenkami a využít mysl ve svůj prospěch',
+                'title'=> 'PROGRAM OSMIDENNÍHO IBOGA POBYTU ',
                 'par' => 'Naše 8-denní vse-zahrnuto léčebné pobyty Ibogy jsou navrženy tak, aby podporovaly silný léčebný zážitek
                 a sebeobjevování. Prostřednictvím posvátných obřadů při svíčkách, které pronikají do této neuvěřitelné rostlinné medicíny
                 přirozenou inteligencí usnadňujeme cestu osobního léčení v pohodlném a bezpečném prostoru.',
@@ -80,7 +82,6 @@ return [
                                 Pomocí tohoto procesu je také možné navázat kontakt se zesnulou rodinou a přáteli.
                                 Během této cesty (journey) s průvodcem, vám také ‚otevřeme‘ třetí oko (duchovní vidění) pomocí speciálních bylin a kůry, které připravili
                                 Pygmejové..',
-
                         'par_5' => 'Zbytek noci stráví hosté "journeying" v obřadní oblasti až do východu slunce, kdy jsou hosté odvezeni zpět do svých pokojů.',
 
                     ],
@@ -134,7 +135,7 @@ return [
                         'quote' => 'Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitř.',
                     ],
                     'day_6'=> [
-                        'title' => 'Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitř.',
+                        'title' => 'DEN ŠESTÝ -  Den objevů',
                         'par' => 'To, co se stane druhého Discovery Day, je velmi podobné prvnímu; <br />
                             Moudrost a učení Ibogy se odhalují, když její obřadní
                             energie začíná utichat. Trávíme čas bez rozptylování, zkoumáním vnitrního klidu  a pravdy,

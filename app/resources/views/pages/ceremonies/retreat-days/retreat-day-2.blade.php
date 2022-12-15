@@ -1,34 +1,21 @@
 <div class = "row pobyt-day-box">
     <div class = "row">
-        <h4  class = "font-just-me">DEN DRUHÝ První ceremonie Ibogy</h4>
+        <h4  class = "font-just-me"><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_2.title'); ?></h4>
     </div>
 
     <div class = "row background-text-light-grey">
         <div class = "col-xl-6 col-sm-1">
             <p>
-                Brzy během dne mám soukromý chat s každým hostem kdy diskutujeme životní záměry a otázky týkající se mediciny.
-                Podává se pozdní oběd, po kterém se hosté po zbytek dne postí. Za tmy se koná skupinová <strong>Iboga Ceremoniál u ohně,</strong> kde hraje tradiční hudba
-                Bwiti a předává se učení moudrosti Bwiti (školy života).
-                Hosté užívají medicínu, která se podává jak jako kůra kořene Ibogy.
+                <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_2.par_1'); ?>
             </p>
             <p>
-                Mluvíme o Životě a dalších důležitých učeních, které pocházejí z tradice Bwiti.
-                Tato tradice je ve skutečnosti <u>studiem samotného Života</u>. Asi po hodině je Iboga dána každému, kdo
-                se účastní obřadu. Většině lidí trvá asi hodinu, než začnou „cítit medicínu“.
-                Jakmile někdo cítí Ibogu, je eskortován na matraci v obřadní oblasti, kde stráví zbytek noci.
+                <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_2.par_2'); ?>
             </p>
             <p>
-                Můj personál je přítomen po celou dobu obřadu, aby pomohl lidem s jejich potřebami, trochou vody k pití,
-                více iboga v případě potřeby, pomoc při cestě do az blízké koupelny, čištění (zvracení) nebo nabídnutí směru podle potřeby.
-                Vytváříme pro vás velmi bezpečné prostředí, abyste se mohli soustředit na svůj zážitek.
+                <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_2.par_3'); ?>
             </p>
             <p>
-                Až nadejde správný čas, zahájíme proces zavedení vás do vás samotných. Tento proces používají Bwiti po mnoho generací.
-                Tím, že vás provedeme, můžete získat odpovědi na jakékoli otázky, které o svém životě máte. Možná budete schopni vidět a
-                konverzovat se svým vlastním duchem (vaší duší / vyšším já). Mnoho lidí je schopno „cestovat“ duchovně po celém světě.
-                Pomocí tohoto procesu je také možné navázat kontakt se zesnulou rodinou a přáteli.
-                Během této cesty (journey) s průvodcem, vám také ‚otevřeme‘ třetí oko (duchovní vidění) pomocí speciálních bylin a kůry, které připravili
-                Pygmejové..
+                <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_2.par_4'); ?>
             </p>
 
         </div>
@@ -36,7 +23,7 @@
 
             <img src = "/images/obrady/first-ceremony-600.jpg" />
             <p><br /><br />
-                Zbytek noci stráví hosté "journeying" v obřadní oblasti až do východu slunce, kdy jsou hosté odvedeni zpět do svých pokojů.
+                <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_2.par_5'); ?>
             </p>
     {{--        <div class = "retreats-img-box-">--}}
     {{--            <img src = "/images/obrady/first-ceremony-600.jpg" />--}}

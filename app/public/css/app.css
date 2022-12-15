@@ -358,8 +358,11 @@ blockquote cite {
     text-align: right;
 }
 
-.header-bottom-row ol.languages{
-
+.header-bottom-row .languages a{
+    display: inline-block;
+    clear: none;
+    color: #6e6e6e;
+    text-decoration: none;
 }
 
 
