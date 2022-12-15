@@ -230,9 +230,9 @@
             <blockquote class = "small-bq color-iscz-green feedback-green">
                 Moje zkušenost s Martinem mi otevřela oči! Před prvním obřadem jsem byl velmi vzrušený a nervózní, protože jsem neměl
                 žádné předchozí zkušenosti s Ibogou. Martin byl vždy připraven zodpovědět všechny otázky nebo obavy, které jsem měl během své cesty. I
-                boga mi skutečně otevřela mysl a ukázala mi nešťastnou osobu, kterou jsem se stala, a skutečnou šťastnou osobu,
-                kterou ve skutečnosti jsem a kterou se mohu znovu stát. Setkat se tváří v tvář se svou duší a napravit se mi vyniklo
-                ze všech zážitků, které jsem na své cestě zažil. Pokud potřebujete duchovní uzdravení, vřele doporučuji oslovit
+                boga mi skutečně otevřela mysl a ukázala mi nešťastnou osobu, kterou jsem se stal, a skutečnou šťastnou osobu,
+                kterou ve skutečnosti jsem a kterou se mohu znovu stát. Setkat se tváří v tvář se svou duší a napravit to spojeni mi vyniklo
+                jako nejsilnější ze všech zážitků, které jsem na své cestě zažil. Pokud potřebujete duchovní uzdravení, vřele doporučuji oslovit
                 Martina a udělat první krok.
                 <cite>>J.Barreto</cite>
             </blockquote>

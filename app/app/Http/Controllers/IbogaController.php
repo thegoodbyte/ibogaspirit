@@ -15,13 +15,15 @@ class IbogaController extends Controller
 
     public function jak_vam_iboga_muze_pomoci() {
 
-        return View::make('pages.iboga.jak_vam_iboga_muze_pomoci');
+        return View::make('pages.iboga.jak_vam_iboga_muze_pomoci', [
+            'pageTitle' => 'Iboga rostlinná medicína léčí vaše sebevražedné myšlenky, deprese, úzkosti, traumata. Alternativní holistické léčení Česko'
+        ]);
 
     }
 
     public function iboga_vs_ayahuasca() {
 
-        return View::make('pages.iboga.iboga_vs_ayahuasca',['pageTitle' => 'Iboga vs ayahuaca Ceremonie - Missoko Bwiti Tradice - šamanské léčení deprese, úzkosti atd.']);
+        return View::make('pages.iboga.iboga_vs_ayahuasca',['pageTitle' => 'Iboga vs ayahuasca Česká Republika. ']);
 
     }
 
@@ -39,14 +41,14 @@ class IbogaController extends Controller
 
     public function gabon() {
 
-        return View::make('pages.iboga.gabon', ['pageTitle' => 'Iboga ']);
+        return View::make('pages.iboga.gabon', ['pageTitle' => 'Iboga léčí']);
 
     }
 
     public function what_is_iboga() {
 
         return View::make('pages.iboga.what_is_iboga', [
-            'pageTilte' => 'Iboga ceremonie Česká republika - poznejte své pravé ja, vyléčte se z deprese, uzkosti či traumatu']);
+            'pageTilte' => 'Iboga ceremonie Česká republika - poznejte své pravé ja, miluj se, Iboga léčí vaše sebevražedné myšlenky, deprese, úzkosti, traumata']);
 
     }
 }
