@@ -17,7 +17,7 @@
 
         <p>
             Celý plán pobytu navrhl náš učitel a šaman Moughenda. Harmonogram zajišťuje, že hosté mají dostatek času
-            připravit se na obřad Ibogy a ziskat co nejvice z celého pobytu. Patří mezi ně dny věnované zpracovávání
+            připravit se na ceremonii Ibogy a získat co nejvíce z celého pobytu. Patří mezi ně dny věnované zpracovávání
             zážitku Ibogy léčeni a také dny integrace Ibogy zažitku do běžného života hosta.
         </p>
     </div>
