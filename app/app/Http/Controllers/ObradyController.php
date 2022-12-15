@@ -39,7 +39,7 @@ class ObradyController extends Controller
     }
 
     public function dates() {
-        return View::make('pages.ceremonies.dates');
+        return View::make('pages.ceremonies.dates', ['pageTitle' => 'Týdenní Iboga pobyt v České republice se dvěma ceremoniemi Ibogy, Jídlo a ubytování v ceně']);
     }
 
 

@@ -61,9 +61,9 @@
 
                 -->
 
-                Ujasněte si, co chcete léčit. Dělat sešit a s přípravným trenérem, terapeutem popř
-                léčitel může také pomoci při přesunu a vyjasnění, aby mohl začít přesunovat část energie předem
-                dostávat ještě více z léku během ústupu.
+                Ujasněte si, co chcete léčit. Udělejte si sešit např. s přípravným trenérem, terapeutem popř
+                léčitelem kteří vám  mohou  pomoci při zameru vyjasnění. Přesunem části energie předem vám umožní
+                získat ještě více z medicíny během vaseho pobytu.
             </p>
         </div>
 
@@ -78,11 +78,10 @@
                 is yours, and loved ones can be more of a distraction than a comfort. Focusing on someone else will
                 prevent you from receiving Iboga’s insights. Talk to our Director of Guest Services if you would like
                 to travel with a loved one or group. -->
-                – Pokud jste přemýšleli o tom, zda jít na retreat s milovanou osobou či nikoli,
-                nebo skupina přátel, musíte se během svého retreatu soustředit na vás – ne na ně. Jednoduše řečeno, proces
-                je vaše a blízcí mohou být více rozptýlením než útěchou. Zaměření na někoho jiného bude
-                zabránit vám v přijímání statistik Ibogy. Pokud chcete, obraťte se na našeho ředitele služeb pro hosty
-                cestovat s milovanou osobou obou nebo skupinou.
+                – Pokud jste přemýšleli o tom, zda jít na Iboga pobyt s milovanou osobou či nikoli,
+                nebo skupinou přátel, musíte se během svého Iboga pobytu soustředit na vás – ne na ně. Jednoduše řečeno, proces
+                je váš a blízcí mohou být více rozptýlením než útěchou. Zaměření na někoho jiného vám
+                zabráni  v přijímání benefitu Ibogy.
             </p>
         </div>
 

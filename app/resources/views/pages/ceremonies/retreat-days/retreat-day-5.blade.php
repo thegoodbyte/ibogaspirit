@@ -8,7 +8,7 @@
     <div class = "col-xl-8 pl-5">
 
         <p>
-           Tento den nabízíme holotropní dýchaní.
+           Tento den nabízíme holotropní dýchaní(Pozn. pouze na vybraných pobytech).
         </p>
 
         <p>
@@ -18,19 +18,20 @@
         <p>
             Večer pořádáme náš druhý obřad Ibogy. Kolem ohně, když začneme brát medicínu,
             hosté jsou zváni (ale není to nutné), aby se podělili o svůj první obřad. Věci, které byly během
-            první cestu nebude třeba znovu řešit. Druhý obřad Ibogy nam umožňuje posunout se ještě hlouběji dovnitř.
+            první cestu nebude třeba znovu řešit. Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitř.
         </p>
 
         <p>
-            Zážitek z Ibogy se bude nějakým způsobem lišit pokaždé kdy užívíme tuto medicínu. Hosté by měli medicíně důvěřovat, že udělá svou práci.
-            Musíme jen vědět, co ze zkušenosti chceme.
+            Zážitek z Ibogy se bude nějakým způsobem lišit pokaždé kdy užívíme tuto medicínu. Hosté by měli medicíně
+            důvěřovat, že udělá svou práci.
+            Musíme jen vědět, co z této zkušenosti chceme.
         </p>
 
 
     </div>
 
     <div class = "col-xl-4 id = "retreat-day-img-box-day-5">
-        <blockquote>Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitř.</blockquote>
+        <blockquote>Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitřku nás samých.</blockquote>
     </div>
 
 

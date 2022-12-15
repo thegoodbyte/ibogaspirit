@@ -2,8 +2,11 @@
 
     return [
         'seo' => [
-            'logo' => 'Iboga healing - week long Iboga retreats in Czech Republic, Europe'
+            'iboga' => [
+                'bwiti_tradition' => [
+                    'pageTitle' => 'CZ this is from SEO'
+                ]
+            ]
         ]
     ];
 
-?>

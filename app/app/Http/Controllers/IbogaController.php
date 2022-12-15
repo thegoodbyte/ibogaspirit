@@ -29,7 +29,7 @@ class IbogaController extends Controller
 
     public function iboga_vs_ayahuasca() {
 
-        return View::make('pages.iboga.iboga_vs_ayahuasca');
+        return View::make('pages.iboga.iboga_vs_ayahuasca',['pageTitle' => 'Iboga vs ayahuaca Ceremonie - Missoko Bwiti Tradice - šamanské léčení deprese, úzkosti atd.']);
 
     }
 
@@ -41,19 +41,20 @@ class IbogaController extends Controller
 
     public function bwiti_tradice() {
 
-        return View::make('pages.iboga.bwiti-tradice');
+        return View::make('pages.iboga.bwiti-tradice', ['pageTitle' => __('seo.seo.iboga.bwiti_tradition.pageTitle')]);
 
     }
 
     public function gabon() {
 
-        return View::make('pages.iboga.gabon');
+        return View::make('pages.iboga.gabon', ['pageTitle' => 'Iboga ']);
 
     }
 
     public function what_is_iboga() {
 
-        return View::make('pages.iboga.what_is_iboga');
+        return View::make('pages.iboga.what_is_iboga', [
+            'pageTilte' => 'Iboga ceremonie Česká republika - poznejte své pravé ja, vyléčte se z deprese, uzkosti či traumatu']);
 
     }
 }

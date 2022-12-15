@@ -1,24 +1,24 @@
 <div class = "row pobyt-day-box">
     <div class = "row">
-        <h4>DEN DRUHÝ První ceremonie Ibogy</h4>
+        <h4  class = "font-just-me">DEN DRUHÝ První ceremonie Ibogy</h4>
     </div>
 
     <div class = "row background-text-light-grey">
         <div class = "col-xl-6 col-sm-1">
             <p>
-                Brzy během dne mám soukromý chat s každým hostem kdy diskutujeme životní záměry a otázky týkající se léku.
-                Podává se pozdní oběd, po kterém se hosté po zbytek dne postí. Za tmy se koná skupinova <strong>Iboga Fire Ceremony,</strong> kde hraje tradiční hudba
-                Bwiti a předává se učení moudrosti.
+                Brzy během dne mám soukromý chat s každým hostem kdy diskutujeme životní záměry a otázky týkající se mediciny.
+                Podává se pozdní oběd, po kterém se hosté po zbytek dne postí. Za tmy se koná skupinová <strong>Iboga Ceremoniál u ohně,</strong> kde hraje tradiční hudba
+                Bwiti a předává se učení moudrosti Bwiti (školy života).
                 Hosté užívají medicínu, která se podává jak jako kůra kořene Ibogy.
             </p>
             <p>
                 Mluvíme o Životě a dalších důležitých učeních, které pocházejí z tradice Bwiti.
                 Tato tradice je ve skutečnosti <u>studiem samotného Života</u>. Asi po hodině je Iboga dána každému, kdo
-                se účastní obřadu. Většině lidí trvá asi hodinu, než začnou „cítit lék“.
+                se účastní obřadu. Většině lidí trvá asi hodinu, než začnou „cítit medicínu“.
                 Jakmile někdo cítí Ibogu, je eskortován na matraci v obřadní oblasti, kde stráví zbytek noci.
             </p>
             <p>
-                Náš personál je přítomen po celou dobu obřadu, aby pomohl lidem s jejich potřebami, trochou vody k pití,
+                Můj personál je přítomen po celou dobu obřadu, aby pomohl lidem s jejich potřebami, trochou vody k pití,
                 více iboga v případě potřeby, pomoc při cestě do az blízké koupelny, čištění (zvracení) nebo nabídnutí směru podle potřeby.
                 Vytváříme pro vás velmi bezpečné prostředí, abyste se mohli soustředit na svůj zážitek.
             </p>
@@ -36,7 +36,7 @@
 
             <img src = "/images/obrady/first-ceremony-600.jpg" />
             <p><br /><br />
-                Zbytek noci stráví hosté "journeying" v obřadní oblasti až do východu slunce, kdy jsou hosté odvezeni zpět do svých pokojů.
+                Zbytek noci stráví hosté "journeying" v obřadní oblasti až do východu slunce, kdy jsou hosté odvedeni zpět do svých pokojů.
             </p>
     {{--        <div class = "retreats-img-box-">--}}
     {{--            <img src = "/images/obrady/first-ceremony-600.jpg" />--}}

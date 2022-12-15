@@ -1,6 +1,6 @@
 <div class = "row">
     <div class = "col-xl-12">
-        <h4>DEN OSMÝ - Odjezd</h4>
+        <h4  class = "font-just-me">DEN OSMÝ - Odjezd</h4>
 
         <p>
             Podávají se snídaně a obědy, zatímco hosté čekají na odvoz na vlak ci letiště.

@@ -45,7 +45,7 @@
     @php
         /** PAge Title */
         if (empty($pageTitle))
-        $pageTitle = 'TRADIČNÍ  IBOGA  OBŘADY   V AFRICKÉ  TRADICI MISSOKO BWITI - Česká republika';
+        $pageTitle = 'IBOGA  Ceremonie - Česká republika - alternativní léčba deprese';
     @endphp
  @include('includes.head', ['pageTitle' => $pageTitle])
 </head>

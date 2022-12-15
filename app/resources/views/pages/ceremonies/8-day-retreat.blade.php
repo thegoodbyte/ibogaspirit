@@ -6,14 +6,16 @@
 
 
     <div class = "row text-center">
+        <!-- Osmi-denní léčebný Pobyt IBOGY -->
         <h1 class = "font-just-me color-iscz-red"><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.title'); ?></h1>
-
         <p>
             <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.pars.0'); ?>
         </p>
 
         <p>
+
             <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.pars.1'); ?>
+
         </p>
     </div>
 
@@ -34,9 +36,9 @@
         </div>
 
         <div class = "col-xl-7">
-            <p class = "p-5 font-just-me-small">Celý plán pobytu navrhl náš učitel a šaman Moughenda. Harmonogram zajišťuje, že hosté mají dostatek
-                času připravit se na obřad Ibogy a ziskat co nejvice z celeho pobytu. Patří mezi ně dny věnované
-                zpracovávání zážitku Ibogy leceni a take dny integrace Ibogy zaxzitku a poznani do běžného života hosta.
+            <p class = "p-5 font-just-me-small">Celý plán pobytu navrhl náš učitel a šaman Moughenda. Harmonogram zajišťuje, že hosté mají dostatek času
+                připravit se na obřad Ibogy a ziskat co nejvice z celého pobytu. Patří mezi ně dny věnované zpracovávání
+                zážitku Ibogy léčeni a také dny integrace Ibogy zažitku do běžného života hosta.
             </p>
         </div>
     </div>
@@ -158,9 +160,11 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-            <h2 class = "font-just-me">OSMIDENNI  IBOGA RETREAT ROZVRH</h2>
+
+            <h2 class = "font-just-me">PROGRAM OSMIDENNÍHO WIBOGA POBYTU </h2>
+
             <p>
-                Naše 8-denní vse-zahrnuto léčebné pobyty Ibogy jsou navrženy tak, aby podporovaly silný léčebný zážitek
+                Moje 8-denní vše-zahrnující léčebné pobyty Ibogy jsou navrženy tak, aby podporovaly silný léčebný zážitek
                 a sebeobjevování. Prostřednictvím posvátných obřadů při svíčkách, které pronikají do této neuvěřitelné rostlinné medicíny
                 přirozenou inteligencí usnadňujeme cestu osobního léčení v pohodlném a bezpečném prostoru.
             </p>

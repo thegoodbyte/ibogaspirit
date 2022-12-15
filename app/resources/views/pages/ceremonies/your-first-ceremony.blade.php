@@ -54,7 +54,9 @@
             </p>
 
             <p>
+
                 <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.first_ceremony.pars.4');?>
+
             </p>
 
             <p>

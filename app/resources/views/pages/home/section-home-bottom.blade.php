@@ -79,6 +79,9 @@
                 </div>
 
                 <div class="container">
+                    <a href = "/obrady/terminy-a-ceny">
+                        <img src = "/images/promotions/cz/2023/06/banner-cs-june-upava-v2.jpg" width = "340"/>
+                    </a>
                     <strong><?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.1.date'); ?></strong><br />
                     <?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.0.place'); ?>
 

@@ -16,7 +16,7 @@
             </p>
 
             <p>
-                Colon Hydroterapie umožňuje, aby se medicína dostal hlouběji do vašeho těla
+                Colon Hydroterapie umožňuje, aby se medicína dostala hlouběji do vašeho těla
             </p>
 
 
@@ -76,13 +76,15 @@
                 We find that many people after having a deep internal shift will also implement changes in their diet and vice versa.
                 The more prep we can do in advance to “tune in” and clean up aspects of our lives, the deeper
                 the medicine can go more quickly.-->
+
                 Dieta před a po Iboze: Neexistuje žádná „Iboga dieta“, ale čím čistěji jíme, tím méně potřebujeme
+
                 detoxikovat dříve, než medicína začne fungovat, je to úplná magie. Existuje také velmi silná korelace
                 mezi spojením těla/mysli/duše. Když jsme si vědomi a uvědomujeme si, co do toho vkládáme
                 těla, máme tendenci být více všímaví ke svým myšlenkám, prostředí a společnosti, kterou se rozhodneme udržovat.
                 Zjistili jsme, že mnoho lidí po hlubokém vnitřním posunu také zavede změny ve své stravě a naopak.
                 Čím více se můžeme předem připravit na „naladění“ a vyčištění aspektů našich životů, tím hlouběji
-                lék může jít rychleji.
+                medicína může jít rychleji.
             </p>
 
 
@@ -115,9 +117,9 @@
                 <li>Odstraňte sodu a další sladké nápoje</li>
                 <li>Pijte hodně filtrované vody (1 galon denně +)</li>
                 <li>Odstraňte vysoce zpracované potraviny, zejména s konzervačními látkami a umělými barvivy/příchutěmi</li>
-                <li>Léky a doplňky~ Při práci s Ibogou se doporučuje pozastavit většinu léků. Buď</li>
-                <li>jsou kontraindikovány nebo je lék jednoduše vyplaví. Mluvte s námi upřímně před vámi</li>
-                <li>kniha o všem, co právě berete. Je to pro vaši bezpečnost, nemůžeme to dostatečně zdůraznit.</li>
+                <li>Léky a doplňky~ Při práci s Ibogou se doporučuje pozastavit většinu léků. Buď
+                jsou kontraindikovány nebo je medicína jednoduše vyplaví. Mluvte s námi upřímně před vámi</li>
+                kniha o všem, co právě berete. Je to pro vaši bezpečnost, nemůžeme to dostatečně zdůraznit.</li>
             </ul>
         </div>
 

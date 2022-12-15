@@ -1,7 +1,7 @@
 <div class = "row background-text-light-grey">
     <div class = "col-xl-12">
 
-        <h4>DEN SEDMÝ  - Venkovní túry a závěrečný rozhovor</h4>
+        <h4  class = "font-just-me">DEN SEDMÝ  - Venkovní túry a závěrečný rozhovor</h4>
 
         <p>
             Náš den trávíme nasáváním léčivého slunečního světla a čištěním energie lesa.

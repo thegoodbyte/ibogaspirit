@@ -93,9 +93,11 @@
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_2'); ?>
             </p>
 
+
             <p class="text-justify">
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_3'); ?>
             </p>
+
 
             <p class="text-justify">
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_4'); ?>
@@ -105,9 +107,15 @@
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_5'); ?>
             </p>
 
+
             <p class="text-justify">
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_6'); ?>
             </p>
+
+            <p class="text-justify">Tento detox také čistí mysl od systémů přesvědčení a negativních myšlenkových vzorců,
+                které nám neslouží. To také pomůže medicíně se vypořádat  s fyzickými aspekty těchto uložených emocí a mnoho
+                lidí zaznamená velké zlepšení v jejich celkové pohodě.</p>
+
 
             <p class="text-justify">
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_7'); ?>
@@ -118,6 +126,7 @@
 
             <p class="text-justify">
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_9'); ?>
+
             </p>
 
         </div>

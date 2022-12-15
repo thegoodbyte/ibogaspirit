@@ -8,13 +8,15 @@
 
     <div class = "row">
         <div class = "col-xl-12">
+
             <p><?php echo __('pages/iboga/iboga_vs_aya.content.par'); ?></p>
             <h2><?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_entheo.title'); ?></h2>
 
+
             <div class = "row page-header-bg" id = "iboga-vs-aya-page-pg-entheo"></div>
 
-
             <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_entheo.par'); ?></p>
+
         </div>
     </div>
 
@@ -28,6 +30,7 @@
 
         <div class = "col-xl-6">
             <p>
+
                 <strong><?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_aya.plants_used.0.title'); ?></strong><br/>
                 <?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_aya.plants_used.0.par'); ?>
             </p>
@@ -62,6 +65,7 @@
             <h3 class  = "font-just-me color-iscz-red h3-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.aya_popularity.title'); ?></h3>
             <p>
                 <?php echo __('pages/iboga/iboga_vs_aya.content.sections.aya_popularity.par'); ?></p>
+
         </div>
     </div>
 
@@ -99,6 +103,7 @@
         <h2 class = "font-just-me color-iscz-red h2-heading text-center mb-5"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.comparison_aya_iboga.title'); ?></h2>
             <p>
                 <?php echo __('pages/iboga/iboga_vs_aya.content.sections.comparison_aya_iboga.par'); ?></p>
+
         </div>
     </div>
 
@@ -165,12 +170,14 @@
                 <?php echo __('pages/iboga/iboga_vs_aya.content.sections.duration.subtitle'); ?>
             </h2>
 
+
             <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.duration.pars.iboga'); ?></p>
             <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.duration.pars.aya'); ?></p>
 
             <h3 class = "font-just-me color-iscz-red"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.ceremonies_count.title'); ?></h3>
             <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.ceremonies_count.pars.iboga'); ?></p>
             <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.ceremonies_count.pars.aya'); ?></p>
+
 
         </div>
     </div>
@@ -248,8 +255,7 @@
             <li>https://pubmed.ncbi.nlm.nih.gov/11085338/</li>
             <li>https://journals.sagepub.com/doi/10.1177/2470547020939564</li>
         </ul>
-        <h2></h2>
-        <p></p>
+
 
     </div>
 </div>

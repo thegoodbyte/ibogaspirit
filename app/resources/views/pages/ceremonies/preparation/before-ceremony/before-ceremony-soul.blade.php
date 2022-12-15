@@ -17,7 +17,7 @@
             </p>
 
             <p>
-                Důvěřujte své duši, pokud cítíte intuitivní volání po léku.
+                Důvěřujte své duši, pokud cítíte intuitivní volání po medicíně.
             </p>
         </div>
 
@@ -63,7 +63,9 @@
             Plavání, vyjížďky na kole<br />
             Detoxujte svůj mozek~ Snižte/eliminujte čas strávený u televize, počítače a sociálních sítí. Skladujeme hodně
             programování v našem podvědomí z těchto zdrojů a čím jasnější jsme – tím méně toho Iboga musí projít
-            než se dostaneme k jádru toho, co od léku očekáváme.<br />
+
+            než se dostaneme k jádru toho, co od medicíny očekáváme.
+
         </p>
     </div>
 </section>

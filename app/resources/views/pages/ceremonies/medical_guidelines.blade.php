@@ -4,7 +4,9 @@
     <div class = "row" id = "img-box-top-med-guidelines">
         <h1 class = "font-just-me font-size-80"><?php echo __('pages/ceremonies/medical-guidelines.content.title'); ?></h1>
 
+
         <blockquote><?php echo __('pages/ceremonies/medical-guidelines.content.quote'); ?></blockquote>
+
     </div>
 
 
@@ -14,7 +16,9 @@
 
             <h2 class = "font-size-60 font-just-me"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.safety.title'); ?></h2>
             <p>
+
                 <?php echo __('pages/ceremonies/medical-guidelines.content.sections.safety.pars.0'); ?>
+
             </p>
 
             <p>
@@ -29,7 +33,7 @@
     <!-- ----- EOF SECTION --------------------- -->
 
 
-    <div class = "row bg-container">
+    <div class = "row bg-container med-guidelines-box-reqs">
         <div class = "row">
             <div class = "col-xl-12">
                 <h3 class = "font-just-me font-size-80"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.requirements.title'); ?></h3>

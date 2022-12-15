@@ -38,11 +38,13 @@
 
             <li class="dropdown menu-item"><a href="#"><?php echo __('menu.menu_ceremonies.ceremonies.title'); ?></a>
                 <ul>
+
                     <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
                     <li><a href="/obrady/priprava"><?php echo __('menu.menu_ceremonies.ceremonies.preparation'); ?></a></li>
                     <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt"><?php echo __('menu.menu_ceremonies.ceremonies.eight_day_retreat'); ?></a></li>
                     <li><a href="/obrady/lekarske-smernice"><?php echo __('menu.menu_ceremonies.ceremonies.medical_guidelines'); ?></a></li>
                     <li><a href="/obrady/terminy-a-ceny"><?php echo __('menu.menu_ceremonies.ceremonies.dates'); ?></a></li>
+
                 </ul>
             </li>
             <!-- <li class="dropdown menu-item"><a href="#">OBŘADY</a>-->

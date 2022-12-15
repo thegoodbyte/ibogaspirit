@@ -32,7 +32,7 @@
 
         <p>
             Načasování obřadu u ohně je zásadní. Hosté vstoupí do ceremonie s tímto učením v popředí svého vědomí,
-            těsně před užitím léku U ohně budou naši facilitátoři diskutovat o účincích léku a podělí se o naše vlastní
+            těsně před užitím mediciny U ohně budou naši facilitátoři diskutovat o účincích medicíny a podělí se o naše vlastní
             léčebné zkušenosti.
         </p>
     </div>

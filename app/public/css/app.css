@@ -9,11 +9,12 @@
     --beige-light: rgba(229 222 204, 1);
     --okr2: rgba(225, 145, 77, 1);
     --iscz-brown: #813007;
+    --iscz-brown2: #89590a;
     --iscz-orange: #DF7015;
 }
 
 img {
-    object-fit: contain;
+    /*object-fit: contain;*/
 }
 
 img.img-no-fit {
@@ -412,8 +413,10 @@ blockquote cite {
     background-image: url("/images/home/onas/moughenda-and-martin.jpg");
 }
 
-.mecical-guidelines-section-drugs {
 
+/*** MEDICAL GUIDELINES ***/
+.med-guidelines-box-reqs h3 {
+    color: var(--iscz-brown2)
 }
 
 .block-reversae-red {
@@ -650,8 +653,12 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
 }
 
 #home-kdo-jsme .who-we-are-col-3 .box-kdo-jsme {
-    background-color: rgba(151, 83, 40, 0.22);
-    padding: 10px;
+     background-color: rgba(151, 83, 40, 0.22);
+     padding: 10px;
+ }
+
+#home-kdo-jsme .who-we-are-col-3  img{
+    border: 6px solid #fff;
 }
 
 #home-kdo-jsme .who-we-are-col-3 .box-kdo-jsme h2{

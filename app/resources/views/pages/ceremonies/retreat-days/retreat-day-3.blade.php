@@ -18,8 +18,8 @@
                 <p class = "-p-6">
                     Tento den je o introspekci, vhledu, uvolnění a přijetí. Běžně se toho během aktivního děje tolik
                     Samotná cesta Iboga (den dva), na které se realizuje mnoho poznatků a zpracování této cesty
-                    Den objevů. Jak se intenzita léku ustálí, jsou prezentovány dary Ibogy. Je to běžné
-                    zažijte intuitivní zprávy a hluboké osobní znalosti v tichu třetího dne –
+                    Den objevů. Jak se intenzita medicíny ustálí, jsou prezentovány dary Ibogy. Je  běžné
+                    že zažijte intuitivní zprávy a hluboké osobní znalosti v tichu třetího dne.
 
                 </p>
             </div>
