@@ -74,7 +74,7 @@
 
             <div class = "row">
                 <img src  = "/images/home/onas/moughenda-and-martin.jpg" alt = "S šamanem Moughendou před Bwiti kaplí v Gabou Afrika"/>
-                <p class = "font-just-me color-iscz-red">S šamanem Moughendou před Bwiti kapli v Moughena village v Gabonu v Africe</p>
+                <p class = "font-just-me color-iscz-red font-size-25"><?php echo __('pages/about-us/nganga.content.pic_desc'); ?></p>
             </div>
 
 

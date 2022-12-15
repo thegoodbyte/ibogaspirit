@@ -4,7 +4,7 @@
 
     <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
 
-    <h1 class = "font-just-me color-iscz-red h1-heading text-center">Kontakt - napište mi!</h1>
+    <h1 class = "font-just-me color-iscz-red h1-heading text-center"><?php echo __('pages/contact.content.title');?>HH</h1>
 
     @if(session('message'))
         <div class='alert alert-success'>
@@ -19,7 +19,7 @@
                 <form class="form-horizontal row background-text-light-grey" method="POST" action="{{ route('contactus') }}">
                     {{ csrf_field() }}
                     <div class="form-group{{ $errors->has('fullname') ? ' has-error' : '' }}">
-                        <label for="fullname" class="col-md-4 control-label">Plné jméno</label>
+                        <label for="fullname" class="col-md-4 control-label"><?php echo __('pages/contact.content.form.labels.full_name');?></label>
                         <div class="col-md-6">
                             <input id="fullname" type="text" class="form-control" name="fullname" value="{{ old('fullname') }}" autofocus>
                             @if ($errors->has('fullname'))
@@ -30,7 +30,7 @@
                         </div>
                     </div>
                     <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}">
-                        <label for="email" class="col-md-4 control-label">E-Mail</label>
+                        <label for="email" class="col-md-4 control-label"><?php echo __('pages/contact.content.form.labels.email');?></label>
                         <div class="col-md-6">
                             <input id="email" type="email" class="form-control" name="email" value="{{ old('email') }}">
                             @if ($errors->has('email'))
@@ -42,7 +42,7 @@
                     </div>
 
                     <div class="form-group{{ $errors->has('description') ? ' has-error' : '' }}">
-                        <label for="description" class="col-md-4 control-label">Zpráva</label>
+                        <label for="description" class="col-md-4 control-label"><?php echo __('pages/contact.content.form.labels.message');?></label>
                         <div class="col-md-6">
                             <textarea
                                 id="description"
@@ -72,7 +72,7 @@
                     <div class="form-group">
                         <div class="col-md-6 col-md-offset-4">
                             <button type="submit" class="btn btn-primary">
-                                Vyslat
+                                <?php echo __('pages/contact.content.form.labels.send');?>
                             </button>
                         </div>
                     </div>
@@ -85,11 +85,11 @@
 
 
             <div class = "row">
-                Zavolejte mi <br />
+                <?php echo __('pages/contact.content.pars.call');?> <br />
             </div>
             <div class = "row mb-5">
                 <img class = "img-no-fit" src = "/images/icons/old-typical-phone.png" width = "64" />
-                <!-- <strong><a href = "tel:8334264229">833 IBOGACZ</a> <br />(833-426-4229)</strong>-->
+                <strong><a href = "tel:8334264229">833 IBOGACZ</a> <br />(833-426-4229)</strong>
                 <strong><a href = "tel:+420234717595">+420 234-717-595</a></strong>
             </div>
 
@@ -101,7 +101,7 @@
                 <br />
             </div>
             <div class = "row">
-                <p>Neváhejte se mnou chatovat přes Whatsapp s jakýmikoli dotazy, které byste mohli mít. Rád na ně odpovím</p>
+                <p><?php echo __('pages/contact.content.pars.whatsapp');?></p>
                 <a href = "https://wa.me/message/54FSD44UPZYWN1">
                     <img src = "/images/misc/whatsapp-chat-link-black.png" width = "300"/>
                 </a>
@@ -109,8 +109,7 @@
 
             <div class = "row mt-5 col-xs-12">
                 <p>
-                    Pokud máte nějaké dotazy nebo jste připraveni si zarezervovat své místo v
-                    některém z nadcházejících retreatů - klikněte na odkaz níže a naplánujte si schůzku</p>
+                    <?php echo __('pages/contact.content.pars.appointment');?></p>
                 <a href = "https://calendly.com/ibogaspiritcz/30min"><img src = "/images/misc/book-appt-czech.png" /></a>
             </div>
         </div>
