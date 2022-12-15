@@ -163,7 +163,7 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-            <h2 class = "font-just-me">OSMIDENNÍ PROGRAM WELLNESS IBOGA POBYTU </h2>
+            <h2 class = "font-just-me">PROGRAM OSMIDENNÍHO WIBOGA POBYTU </h2>
             <p>
                 Moje 8-denní vše-zahrnující léčebné pobyty Ibogy jsou navrženy tak, aby podporovaly silný léčebný zážitek
                 a sebeobjevování. Prostřednictvím posvátných obřadů při svíčkách, které pronikají do této neuvěřitelné rostlinné medicíny

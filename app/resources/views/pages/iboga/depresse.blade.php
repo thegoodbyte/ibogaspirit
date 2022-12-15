@@ -79,7 +79,7 @@
 
 
 <p>
-    Do wellness centra Iboga přicházejí lidé ze všech společenských vrstev. Někteří lidé přicházejí kvůli problémům se
+    Na moje Iboga pobyty přicházejí lidé ze všech společenských vrstev. Někteří lidé přicházejí kvůli problémům se
     závislostmi, depresí, úzkostí, posttraumatickou stresovou poruchou, systémy přesvědčení nebo vším výše uvedeným a
     vším mezi tím. Všechny tyto problémy jsou projevem jednoho většího základního problému, který ztrácí kontrolu nad vašimi
     vlastními myšlenkami a nad tím, jak je vnímáme. Namísto zaměření na „proč“ (jako je rozhodování založené na minulém
@@ -95,7 +95,7 @@
 </p>
 
 <p>
-    Ve wellness centru Iboga mluvíme hodně o tom, jak znovu získat sílu řídit své myšlenky a co s myšlenkami děláme.
+    Na mem poytu Ibogy mluvíme hodně o tom, jak znovu získat sílu řídit své myšlenky a co s myšlenkami děláme.
     Je to něco, co se stane zvykem, jakmile si lidé uvědomí, že vaše myšlenky jsou jako vlaky přijíždějící a
     odjíždějící na nádraží. Můžete si vybrat, do kterého vlaku nastoupíte a který vlak necháte ujet. Máte možnost si
     vybrat, zda je tento proces velmi komplikovaný nebo velmi jednoduchý. Během iboga ústupu se můžete dozvědět
@@ -138,7 +138,7 @@
     mysl a srdce a zároveň se soustředit na to, aby byl aktivním hráčem ve svém vlastním léčení. Proces každého
     jednotlivce může vypadat jinak. Někteří mohou zažít obrovský pokrok v krátkém časovém období, zatímco jiní
     potřebují více času. Žádná cesta s ibogou není stejná, což je normální a očekávané. Nejlepší způsob, jak popsat
-    ibogu, je „nástroj“, jak si pomoci. Ve wellness centru Iboga vnímáme ibogu spíše jako vizionářskou bylinnou
+    ibogu, je „nástroj“, jak si pomoci. Vnímáme ibogu spíše jako vizionářskou bylinnou
     léčivou rostlinu namísto „psychedelického“. Zacházíme s lidmi na duševní, fyzické i duchovní úrovni. Věnování
     pozornosti všem třem je důležité a nezbytné během procesu terapie ibogou.
 </p>
