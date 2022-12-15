@@ -49,6 +49,19 @@ return [
                         jak navigovat pomocí Iboga, kde najdete další podrobnosti.'
                 ]
             ],
+            'notes' => [
+                'title' => 'Poznámky',
+                'pars' => [
+                    0 => 'Kromě toho je hlavním požadavkem pro úspěšnou zkušenost s Ibogou ochota léčit se tím, že přijmete pravdu a
+                        necháte jít. Toto je hlavní ukazatel, kdy je někdo připraven; pokud ano, zažijí silné uzdravení',
+                    1 => 'V tradici Bwiti je Iboga pro každého a používá se při „zasvěcení“ nebo obřadech dospívání, které spojují
+                        chlapce a dívky s tradicí a komunitou. Iniciace pomáhají zakořenit je v sobě a zajišťují zdravý dospělý život.
+                        Také budou mít znovu obřady, když lidé sešli ze zdravé cesty a potřebují svůj život napravit nebo se nějak uzdravit.',
+                    2 => 'Jak je věrné naší tradici, věříme, že z obřadu Iboga mohou mít prospěch všichni lidé. Obvykle pracujeme s lidmi,
+                        kteří se potřebují vyléčit z deprese, úzkosti, ptsd, traumatu, závislostí, sebenenávisti, hněvu, traumatických
+                        poranění mozku, Parkinsonovy choroby, autoimunitních onemocnění a dalších.'
+                ]
+            ],
             'faq' => [
                 'title' => 'Časté otázky - F.A.Q.',
                 'questions' => [
