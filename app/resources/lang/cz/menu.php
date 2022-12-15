@@ -13,17 +13,17 @@ return [
             'gabon_africa' => 'Gabon Afrika'
          ],
         'ceremonies' => [
-            'title' => 'Ceremoniály',
-            'your_first_ceremony'   => 'Váš první ceremoniál',
+            'title' => 'Ceremonie',
+            'your_first_ceremony'   => 'Váše první Iboga ceremonie',
             'preparation'           => 'Příprava a Průbežná péče',
             'eight_day_retreat'     => "Osmidenní léčebny pobyt",
             'medical_guidelines'    => 'Lékařské směrnice',
-            'dates'                 => 'Terminy a Ceny'
+            'dates'                 => 'Termíny a Ceny'
         ],
         'about_us' => [
             'title' => 'O nás',
             'nganga'    => 'Nganga - Léčitel',
-            'moughenda' => 'Šaman Moughenda<'
+            'moughenda' => 'Šaman Moughenda'
         ],
         'contact' => 'Kontakt'
     ],
