@@ -27,43 +27,5 @@ return [
         ],
         'contact' => 'Kontakt'
     ],
-    'pages' => [
-        'home' => [
-            'sections' => [
-                'carousel' => [
-                    'slide_1' => [
-                        'title' => '',
-                        'paragraph' => ''
-                    ],
-                    'slide_2' => [
-                        'title' => '',
-                        'paragraph' => ''
-                    ],
-                    'slide_3' => [
-                        'title' => '',
-                        'paragraph' => ''
-                    ]
-
-                ],
-                'iboga_medicine' => [
-
-                ],
-                'live_happily' => [
-
-                ]
-            ]
-        ],
-        'iboga' => '',
-        'ceremonies' => [
-
-        ],
-        'about_us' => [
-
-        ]
-    ],
-    'contact' => [
-
-    ]
 ];
-
-    ?>
+?>
