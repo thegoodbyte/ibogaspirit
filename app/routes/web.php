@@ -31,11 +31,11 @@ Route::controller(\App\Http\Controllers\IbogaController::class)->group(function(
     Route::get('/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"])->name('iboga-vs-aya_cz');
     Route::get('iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"])->name('iboga-gabon_cz');
     Route::get('/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"])->name('iboga-depresion_cz');
-    Route::get('/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_pl');
+    Route::get('/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_cz');
 
     Route::get('/obrady/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_cz');
     Route::get('/obrady/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_cz');
-    Route::get('/obrady/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies_8-day-stay_cz');
+    Route::get('/obrady/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_cz');
     Route::get('/obrady/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_cz');
     Route::get('/obrady/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_cz');
 
@@ -45,50 +45,161 @@ Route::controller(\App\Http\Controllers\IbogaController::class)->group(function(
     Route::post('/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_cz');
     Route::get('/set-language/{lang}',  [\App\Http\Controllers\HomeController::class, 'setLanguage'])->name('set.language');
 
-//// ======================================================================================================
-////         spanish
-//// =====================================================================================================
-Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_es');
-Route::get('/iboga-ceremonies-europe/co-je-iboga',[\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_es');
-Route::get('/iboga/jak-vam-iboga-muze-pomoci2',[\App\Http\Controllers\IbogaController::class,  "how_iboga_can_help"])->name('iboga-how-can-help_es');
-Route::get('/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"])->name('iboga-vs-aya_es');
-Route::get('/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"])->name('iboga-gabon_es');
-Route::get('/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"])->name('iboga-depresion_es');
-Route::get('/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_es');
+    // ======================================================================================================
+    //         spanish
+    // =====================================================================================================
+    Route::get('/es/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_es');
+    Route::get('/es/iboga-ceremonies-europe/co-je-iboga',[\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_es');
+    Route::get('/es/iboga/jak-vam-iboga-muze-pomoci2',[\App\Http\Controllers\IbogaController::class,  "how_iboga_can_help"])->name('iboga-how-can-help_es');
+    Route::get('/es/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"])->name('iboga-vs-aya_es');
+    Route::get('/es/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"])->name('iboga-gabon_es');
+    Route::get('/es/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"])->name('iboga-depresion_es');
+    Route::get('/es/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_es');
 
-Route::get('/obrady/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_es');
-Route::get('/obrady/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_es');
-Route::get('/obrady/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies_8-day-stay_es');
-Route::get('/obrady/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_es');
-Route::get('/obrady/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_es');
+    Route::get('/es/ceremonies/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_es');
+    Route::get('/es/ceremonias/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_es');
+    Route::get('/es/ceremonias/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies_8-day-stay_es');
+    Route::get('/es/ceremonias/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_es');
+    Route::get('/es/ceremonias/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_es');
 
-////
-////// ======================================================================================================
-//////         P O L I S H
-////// =====================================================================================================
-    Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_pl');
+    Route::get('/es/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_es');
+    Route::get('/es/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_es');
+    Route::get('/es/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_es');
+    Route::post('/es/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_es');
+
+// ======================================================================================================
+//         P O L I S H
+// =====================================================================================================
+    Route::get('/pl/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_pl');
     Route::get('/pl/iboga/co-je-iboga',[\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_pl');
-    Route::get('/iboga/jak-vam-iboga-muze-pomoci',[\App\Http\Controllers\IbogaController::class,  "how_iboga_can_help"])->name('ddd');
-    Route::get('/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"])->name('iboga-vs-aya_pl');
-    Route::get('/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"])->name('iboga-gabon_pl');
-    Route::get('/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"])->name('iboga-depresion_pl');
-    Route::get('/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_pl');
-//
-//    Route::get('/obrady/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_pl');
-//    Route::get('/obrady/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_pl');
-//    Route::get('/obrady/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies_8-day-stay_pl');
-//    Route::get('/obrady/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_pl');
-//    Route::get('/obrady/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_pl');
-//
-//    Route::get('/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_pl');
-//    Route::get('/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_pl');
-//    Route::get('/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_pl');
-//    Route::post('/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_pl');
-//
-//
-////
-//
-//
+    Route::get('/pl/iboga/jak-vam-iboga-muze-pomoci',[\App\Http\Controllers\IbogaController::class,  "how_iboga_can_help"])->name('iboga-how-can-help_pl');
+    Route::get('/pl/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"])->name('iboga-vs-aya_pl');
+    Route::get('/pl/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"])->name('iboga-gabon_pl');
+    Route::get('/pl/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"])->name('iboga-depresion_pl');
+    Route::get('/pl/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_pl');
+
+    Route::get('/pl/ceremonia/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_pl');
+    Route::get('/pl/ceremonia/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_pl');
+    Route::get('/pl/ceremonia/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_pl');
+    Route::get('/pl/ceremonia/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_pl');
+    Route::get('/pl/ceremonia/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_pl');
+
+    Route::get('/pl/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_pl');
+    Route::get('/pl/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_pl');
+    Route::get('/pl/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_pl');
+    Route::post('/pl/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_pl');
+
+// ======================================================================================================
+//         GERMAN
+// =====================================================================================================
+Route::get('/de/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_de');
+Route::get('/de/iboga/co-je-iboga',[\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_de');
+Route::get('/de/iboga/jak-vam-iboga-muze-pomoci',[\App\Http\Controllers\IbogaController::class,  "how_iboga_can_help"])->name('iboga-how-can-help_de');
+Route::get('/de/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"])->name('iboga-vs-aya_de');
+Route::get('/de/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"])->name('iboga-gabon_de');
+Route::get('/de/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"])->name('iboga-depresion_de');
+Route::get('/de/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_de');
+
+Route::get('/de/zeremonien/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_de');
+Route::get('/de/zeremonien/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_de');
+Route::get('/de/zeremonien/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_de');
+Route::get('/de/zeremonien/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_de');
+Route::get('/de/zeremonien/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_de');
+
+Route::get('/de/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_de');
+Route::get('/de/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_de');
+Route::get('/de/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_de');
+Route::post('/de/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_de');
+
+// ======================================================================================================
+//         FRENCH
+// =====================================================================================================
+Route::get('/fr/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_fr');
+Route::get('/fr/iboga/co-je-iboga',[\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_fr');
+Route::get('/fr/iboga/jak-vam-iboga-muze-pomoci',[\App\Http\Controllers\IbogaController::class,  "how_iboga_can_help"])->name('iboga-how-can-help_fr');
+Route::get('/fr/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"])->name('iboga-vs-aya_fr');
+Route::get('/fr/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"])->name('iboga-gabon_fr');
+Route::get('/fr/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"])->name('iboga-depresion_fr');
+Route::get('/fr/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_fr');
+
+Route::get('/fr/zeremonien/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_fr');
+Route::get('/fr/zeremonien/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_fr');
+Route::get('/fr/zeremonien/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_fr');
+Route::get('/fr/zeremonien/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_fr');
+Route::get('/fr/zeremonien/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_fr');
+
+Route::get('/fr/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_fr');
+Route::get('/fr/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_fr');
+Route::get('/fr/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_fr');
+Route::post('/fr/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_fr');
+
+
+// ======================================================================================================
+//         ITALIAN
+// =====================================================================================================
+Route::get('/it/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_it');
+Route::get('/it/iboga/co-je-iboga',[\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_it');
+Route::get('/it/iboga/jak-vam-iboga-muze-pomoci',[\App\Http\Controllers\IbogaController::class,  "how_iboga_can_help"])->name('iboga-how-can-help_it');
+Route::get('/it/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"])->name('iboga-vs-aya_it');
+Route::get('/it/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"])->name('iboga-gabon_it');
+Route::get('/it/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"])->name('iboga-depresion_it');
+Route::get('/it/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_it');
+
+Route::get('/it/zeremonien/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_it');
+Route::get('/it/zeremonien/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_it');
+Route::get('/it/zeremonien/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_it');
+Route::get('/it/zeremonien/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_it');
+Route::get('/it/zeremonien/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_it');
+
+Route::get('/it/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_it');
+Route::get('/it/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_it');
+Route::get('/it/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_it');
+Route::post('/it/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_it');
+
+// ======================================================================================================
+//         RUSSIAN
+// =====================================================================================================
+Route::get('/ru/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_ru');
+Route::get('/ru/iboga/co-je-iboga',[\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_ru');
+Route::get('/ru/iboga/jak-vam-iboga-muze-pomoci',[\App\Http\Controllers\IbogaController::class,  "how_iboga_can_help"])->name('iboga-how-can-help_ru');
+Route::get('/ru/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"])->name('iboga-vs-aya_ru');
+Route::get('/ru/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"])->name('iboga-gabon_ru');
+Route::get('/ru/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"])->name('iboga-depresion_ru');
+Route::get('/ru/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_ru');
+
+Route::get('/ru/zeremonien/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_ru');
+Route::get('/ru/zeremonien/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_ru');
+Route::get('/ru/zeremonien/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_ru');
+Route::get('/ru/zeremonien/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_ru');
+Route::get('/ru/zeremonien/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_ru');
+
+Route::get('/ru/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_ru');
+Route::get('/ru/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_ru');
+Route::get('/ru/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_ru');
+Route::post('/ru/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_ru');
+
+// ======================================================================================================
+//         ENGLISH
+// =====================================================================================================
+Route::get('/en/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_en');
+Route::get('/en/iboga/co-je-iboga',[\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_en');
+Route::get('/en/iboga/jak-vam-iboga-muze-pomoci',[\App\Http\Controllers\IbogaController::class,  "how_iboga_can_help"])->name('iboga-how-can-help_en');
+Route::get('/en/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"])->name('iboga-vs-aya_en');
+Route::get('/en/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"])->name('iboga-gabon_en');
+Route::get('/en/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"])->name('iboga-depresion_en');
+Route::get('/en/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_en');
+
+Route::get('/en/zeremonien/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_en');
+Route::get('/en/zeremonien/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_en');
+Route::get('/en/zeremonien/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_en');
+Route::get('/en/zeremonien/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_en');
+Route::get('/en/zeremonien/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_en');
+
+Route::get('/en/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_en');
+Route::get('/en/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_en');
+Route::get('/en/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_en');
+Route::post('/en/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_en');
+
 //Route::get('/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_pl');
 //Route::get('/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_pl');
 //Route::get('/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_es');
