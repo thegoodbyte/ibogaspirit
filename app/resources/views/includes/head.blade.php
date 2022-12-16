@@ -3,13 +3,14 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
 
-<title>{{ $pageTitle ?? 'test' }}</title>
+<title>{{ $pageTitle ?? 'Iboga ceremonie Česká Republika.Alternativní léčba deprese, úzkosti, traumatu, Česko Čechy' }}</title>
+
 <link rel="stylesheet" href="/css/app.css">
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="robots" content="max-image-preview:large" />
-<meta name="description" content="Tradiční Iboga obřady v Africké tradici Missoko Bwiti - Česká Republika." />
+<meta name="description" content="Iboga obřady a ceremonie Česká Republika.Týdenní pobyty Čechy, Alternativní léčba deprese, úzkosti, předchozího traumatu" />
 <meta name="robots" content="index,follow" />
 
 

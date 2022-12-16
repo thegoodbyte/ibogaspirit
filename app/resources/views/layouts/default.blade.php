@@ -45,7 +45,7 @@
     @php
         /** PAge Title */
         if (empty($pageTitle))
-        $pageTitle = 'IBOGA  Ceremonie - Česká republika - alternativní léčba deprese';
+        $pageTitle = 'Iboga obřady a ceremonie Česká Republika.Alternativní léčba deprese, úzkosti, předchozího traumatu.Týdenní pobyty Čechy Česko';
     @endphp
  @include('includes.head', ['pageTitle' => $pageTitle])
 </head>

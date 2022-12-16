@@ -215,8 +215,10 @@
 
             <p class = "pt-5"><?php echo __('pages/iboga/how_iboga_can_help.content.section_feedback.par'); ?></p>
             <blockquote class = "small-bq color-iscz-green feedback-green">
+
                 <?php echo __('pages/iboga/how_iboga_can_help.content.section_feedback.body'); ?>
                 <cite><?php echo __('pages/iboga/how_iboga_can_help.content.section_feedback.name'); ?></cite>
+
             </blockquote>
 
 
