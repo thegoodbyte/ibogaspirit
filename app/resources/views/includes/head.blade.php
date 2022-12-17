@@ -6,6 +6,7 @@
 <title>{{ $pageTitle ?? 'Iboga ceremonie Česká Republika.Alternativní léčba deprese, úzkosti, traumatu, Česko Čechy' }}</title>
 
 <link rel="stylesheet" href="/css/app.css">
+<link rel="stylesheet" href="/css/cookie-consent.css">
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1" />

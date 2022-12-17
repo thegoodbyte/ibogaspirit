@@ -59,7 +59,7 @@
     <div id="content" class="site-content">
         @yield('content')
     </div>
-
+    @include('includes.cookie-consent');
     <!-- #content -->
     @include('includes.footer')
     <!-- #colophon -->
