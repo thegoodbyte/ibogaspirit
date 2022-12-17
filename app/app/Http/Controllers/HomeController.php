@@ -25,7 +25,8 @@ class HomeController extends Controller
 
     public function index() {
 
-        return View::make('pages.home.index');
+        $applocale = session('applocale') ?? 'cz';
+        return View::make('pages.home.index', ['applocale' => $applocale]);
 
     }
 

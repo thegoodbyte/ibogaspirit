@@ -14,22 +14,36 @@
             <div class="menu-iboga-container">
 
                 <div class="">
-                    <a href="/iboga/co-je-iboga" class="">
-                        <?php echo __('pages/homepage.content.section_get_to_know.right.list_items.0'); ?></a></div>
+
+                    <a href ="{{ route('iboga-iboga-vs-aya_' . $applocale) }}" class="">
+                        <?php echo __('pages/homepage.content.section_get_to_know.right.list_items.0'); ?>
+                    </a>
+                </div>
                 <div class="">
-                    <a href="/iboga/jak-vam-iboga-muze-pomoci" class="">
-                        <?php echo __('pages/homepage.content.section_get_to_know.right.list_items.1'); ?></a></div>
-                <div class=""><a href="/iboga/bwiti-tradice" class="">
-                        <?php echo __('pages/homepage.content.section_get_to_know.right.list_items.2'); ?><</a></div>
-                <div class=""><a href="/iboga/iboga-vs-ayahuasca" class="">
-                        <?php echo __('pages/homepage.content.section_get_to_know.right.list_items.3'); ?><</a></div>
-                <div class=""><a href="/obrady/priprava" class="">
-                        <?php echo __('pages/homepage.content.section_get_to_know.right.list_items.4'); ?></a></div>
+                    <a href="{{ route('iboga-iboga-vs-aya_' . $applocale) }}" class="">
+                        <?php echo __('pages/homepage.content.section_get_to_know.right.list_items.1'); ?>
+                    </a>
+                </div>
+                <div class="">
+                    <a href="{{ route('iboga-iboga-vs-aya_' . $applocale) }}" class="">
+                        <?php echo __('pages/homepage.content.section_get_to_know.right.list_items.2'); ?>
+                    </a>
+                </div>
+                <div class="">
+                    <a href="{{ route('iboga-iboga-vs-aya_' . $applocale) }}" class="">
+                        <?php echo __('pages/homepage.content.section_get_to_know.right.list_items.3'); ?>
+                    </a>
+                </div>
+                <div class="">
+                    <a href="{{ route('ceremonies-prep_' . $applocale) }}" class="">
+                        <?php echo __('pages/homepage.content.section_get_to_know.right.list_items.4'); ?>
+                    </a>
+                </div>
 
                 <!-- <div class=""><a href="services/door-to-door-delivery/index.html" class="jet-custom-nav__item-link">Termíny a Ceny</a></div> -->
                 <div class="">
-                    <a href="/obrady/prvni-ceremonial-a-co-ocekavat"
-                       class="jet-custom-nav__item-link"><?php echo __('pages/homepage.content.section_get_to_know.right.list_items.5'); ?><</a>
+                    <a href="{{ route('ceremonies-first-ceremony_' . $applocale) }}"
+                       class="jet-custom-nav__item-link"><?php echo __('pages/homepage.content.section_get_to_know.right.list_items.5'); ?></a>
                 </div>
                 <!-- <div class=""><a href="historie-pouzivani/index.html" class="jet-custom-nav__item-link">Historie používání</a></div> -->
             </div>

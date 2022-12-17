@@ -1,11 +1,14 @@
 
 @extends('layouts.default')
 @section('content')
+
+
     <div class = "container">
         <div class = "row">
             <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
         </div>
 
+        <div class = "container">
             <h1>Iboga Plant: History of Use</h1>
                 What is Tabernanthe Iboga Plant?
                 <p>
@@ -23,9 +26,11 @@
                 naturally-occurring alkaloids in its leaves, stem bark, seeds, root, and root bark – with its root bark having the
                 highest concentration of alkaloids.
                 </p>
+        </div>
 
+        <div class = "container">
 
-                <h2>The Traditional Use of Iboga by Bwiti Practitioners</h2>
+            <h2>The Traditional Use of Iboga by Bwiti Practitioners</h2>
 
             <p>
                 The Bwiti, who consider Iboga their main sacrament,  have protected and worked with it for thousands of years.
@@ -45,11 +50,11 @@
                 use of Iboga in Bwiti practice started from the Babongo and the Bwiti, it is now also being used by other African tribes
                 including the Fang tribes of Cameroon and Congo who have merged Bwiti with Christianity.
             </p>
+        </div>
 
+        <div class = "container">
 
             <h2>Iboga in Western Society</h2>
-
-
             <p>
                 The first use of iboga in the west dates back to around 1899-1900 when some French explorers learned about its effects
                 from the Bwiti tribe and then brought it to Europe. Then it was marketed in France as Lambarene and used as a stimulant.
@@ -69,32 +74,35 @@
                 ibogaine as a medication. Also, in 2017, Health Canada added it to the country’s Prescription Drug List (PDL),
                 meaning ibogaine can only be gotten legally with a medical prescription.
             </p>
+        </div>
 
+        <div class = "container">
             <h2>
                 Iboga’s Healing Effects on Physical, Mental Conditions and Detox</h2>
 
 
-            <p>
-                Apart from its traditional spiritual healing effects, iboga plant has also demonstrated efficacy on
-                various psychological and medical conditions. Its main property, ibogaine, is a psychoactive indole alkaloid
-                that exerts its main effects on the cardiovascular system and the central nervous system (CNS) and effects
-                multiple signaling pathways (Dopamine Transporters, N-acetylcholine receptors, Serotonin transporters,
-                NMDA receptors). While we know from a Bwiti standpoint that Iboga is a powerful healer of many things,
-                there have been several benefits proven by scientific studies like, Neuroplasticity, Improving Mood, Helping
-                Trauma, and Treating Depression and anxiety. One exciting new finding is its effectiveness against neurodegenerative
-                conditions such as Parkinson’s. Research shows that ibogaine leads to a significant increase in GDNF (a protein with
-                an exceptionally positive effect on nerve cell growth) levels in the brain. In several animal studies, ibogaine caused
-                significant improvements in animals with Parkinson’s disease, due to its ability to induce GDNF growth.
-            </p>
+                <p>
+                    Apart from its traditional spiritual healing effects, iboga plant has also demonstrated efficacy on
+                    various psychological and medical conditions. Its main property, ibogaine, is a psychoactive indole alkaloid
+                    that exerts its main effects on the cardiovascular system and the central nervous system (CNS) and effects
+                    multiple signaling pathways (Dopamine Transporters, N-acetylcholine receptors, Serotonin transporters,
+                    NMDA receptors). While we know from a Bwiti standpoint that Iboga is a powerful healer of many things,
+                    there have been several benefits proven by scientific studies like, Neuroplasticity, Improving Mood, Helping
+                    Trauma, and Treating Depression and anxiety. One exciting new finding is its effectiveness against neurodegenerative
+                    conditions such as Parkinson’s. Research shows that ibogaine leads to a significant increase in GDNF (a protein with
+                    an exceptionally positive effect on nerve cell growth) levels in the brain. In several animal studies, ibogaine caused
+                    significant improvements in animals with Parkinson’s disease, due to its ability to induce GDNF growth.
+                </p>
 
-            <p>
-                At low doses, ibogaine primarily releases stimulant effects, which increases alertness and reduces fatigue,
-                hunger and thirst. Check out our article on Ibogaine’s Benefits from a Scientific standpoint here.
-            </p>
+                <p>
+                    At low doses, ibogaine primarily releases stimulant effects, which increases alertness and reduces fatigue,
+                    hunger and thirst. Check out our article on Ibogaine’s Benefits from a Scientific standpoint here.
+                </p>
 
+        </div>
 
+        <div class = "container">
             <h2>Detox</h2>
-
             <p>
                 Its healing effects have also been tapped for detox of the body, detox from drugs, and mental detox.
                 In iboga-assisted detoxification from substance addiction, people can be cured without having any withdrawal symptoms.
@@ -119,7 +127,9 @@
                 over-harvest it from the wild and sometimes uproot the plant. This has led to a growing concern that iboga may
                 become endangered in the near future. Though its sustainability is not yet threatened it could become very scarce in the future.
             </p>
+        </div>
 
+        <div class = "container">
 
             <h2>Conclusion</h2>
 
@@ -130,4 +140,4 @@
             </p>
         </div>
     </div>
-    @end
+@stop

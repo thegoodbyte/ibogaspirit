@@ -127,18 +127,18 @@ return [
                         'title' => 'DEN PÁTÝ  - Aktivity na místě a druhý obřad Ibogy',
                         'par_1' => 'Tento den nabízíme holotropní dýchaní.',
                         'par_2' => 'Skupinový integrační kroužek před obědem. Lehké procházky přírodou později odpoledne.',
-                        'par_3' => 'Večer pořádáme náš druhý obřad Ibogy. Kolem ohně, když začneme brát medicínu,
-            hosté jsou zváni (ale není to nutné), aby se podělili o svůj první obřad. Věci, které byly během
-            první cestu nebude třeba znovu řešit. Druhý obřad Ibogy nam umožňuje posunout se ještě hlouběji dovnitř.',
-                        'par_4' => 'Zážitek z Ibogy se bude nějakým způsobem lišit pokaždé kdy užívíme tuto medicínu. Hosté by měli medicíně důvěřovat, že udělá svou práci.
+                        'par_3' => 'Večer pořádáme náš druhý obřad Ibogy. Sejdeme se kolem ohně, a před tim nez začneme brát medicínu,
+            hosté jsou zváni (ale není to nutné), aby se podělili o zážitky ze své první ceremonie. Věci, které byly během
+            první cesty (journey)  není třeba znovu řešit. Druhá ceremonie Ibogy nám umožňuje posunout se ještě hlouběji do našeho nitra.',
+                        'par_4' => 'Zážitek z Ibogy se bude nějakým způsobem lišit pokaždé kdy užíváme tuto medicínu. Hosté by měli medicíně důvěřovat, že udělá svou práci.
             Musíme jen vědět, co ze zkušenosti chceme.',
                         'quote' => 'Druhý obřad Ibogy nám umožňuje posunout se ještě hlouběji dovnitř.',
                     ],
                     'day_6'=> [
                         'title' => 'DEN ŠESTÝ -  Den objevů',
-                        'par' => 'To, co se stane druhého Discovery Day, je velmi podobné prvnímu; <br />
-                            Moudrost a učení Ibogy se odhalují, když její obřadní
-                            energie začíná utichat. Trávíme čas bez rozptylování, zkoumáním vnitrního klidu  a pravdy,
+                        'par' => 'To, co se stane druhého  Dne objevů, je velmi podobné tomu prvním: <br />
+                            Moudrost a učení Ibogy se odhalují, jak její obřadní
+                            energie začíná utichat. Trávíme čas bez rozptylování, zkoumáním vnitřního klidu  a pravdy,
                             nehybnosti našeho vlastního ducha.'
                     ],
                     'day_7'=> [
@@ -147,12 +147,12 @@ return [
                             Večer se sejdeme jako skupina a užíváme si výhod Ibogy medicíny. Moudrost o tom, že vezmeme naše nově nalezené
                             dary a vezmeme si lekce,
                             které jsme se naučili, abychom si vytvořili život, jaký chceme. V tomto okamžiku si každý uvědomuje dary medicíny a to,
-                            co kdo ze zkušenosti uvolnil.
-                            Dva zážitky plné dávky této medicíny jsou hluboké a pro mnohé to je dostačující zážitek  Ibogy, která jim vydrží na celý život.'
+                            co kdo ze své zkušenosti uvolnil.
+                            Dva zážitky plné povodňové dávky této medicíny jsou hluboké a pro mnohé to je dostačující zážitek  Ibogy, která jim vydrží na celý život.'
                     ],
                     'day_8'=> [
                         'title' => 'DEN OSMÝ - Odjezd',
-                        'par_1' => 'Podávají se snídaně a obědy, zatímco hosté čekají na odvoz na vlak ci letiště.',
+                        'par_1' => 'Podávají se snídaně a obědy, zatímco hosté čekají na odvoz na vlak či letiště.',
                         'par_2' => 'Všechny činnosti nabízené během mých 8-denních pobytů jsou volitelné; pokud se hosté necítí dobře -  účastnit se určitých
                             plánované činností, mohou se odhlásit. Je to všechno o zmocněné volbě a volba zúčastnit se je vždy na jednotlivci.'
                     ],

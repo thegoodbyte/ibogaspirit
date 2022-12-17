@@ -59,4 +59,14 @@ class IbogaController extends Controller
             'pageTilte' => 'Iboga ceremonie Česká republika - poznejte své pravé ja, miluj se, Iboga léčí vaše sebevražedné myšlenky, deprese, úzkosti, traumata']);
 
     }
+
+    public function iboga_ibogaine_difference() {
+        return View::make('pages.iboga.iboga_ibogaine_difference', [
+            'pageTilte' => 'Iboga ceremonie Česká republika - poznejte své pravé ja, miluj se, Iboga léčí vaše sebevražedné myšlenky, deprese, úzkosti, traumata']);
+    }
+
+    public function history() {
+        return View::make('pages.iboga.history', [
+            'pageTilte' => 'Iboga ceremonie Česká republika - poznejte své pravé ja, miluj se, Iboga léčí vaše sebevražedné myšlenky, deprese, úzkosti, traumata']);
+    }
 }
