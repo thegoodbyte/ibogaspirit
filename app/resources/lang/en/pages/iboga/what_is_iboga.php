@@ -15,41 +15,42 @@ return [
                  green leaves produce clusters of tiny white and yellow flowers and orange-colored, oval Iboga fruit.'
             ],
             'iboga_roots' => [
-                'title' => 'Iboga kořeny',
-                'par_1' => 'Ale jeho kořeny jsou tím, co nejlépe definuje jeho ducha. Kůra kořene ibogy obsahuje alkaloidy,
-                které jsou seškrabávány, rozdrceny a požívány, obsahují enteogenní vlastnosti, které se po staletí používají k duchovnímu studiu –
-                počínaje kulturami Pygmejů a Bwiti v Africe a v poslední době pomáhají léčit nemocný západní svět.',
-                'par_2' => 'Kořenová kůra byla použita jako přírodní rostlinná medicína po tisíce a tisíce let domorodými obyvateli regionu.'
+                'title' => 'Iboga roots',
+                'par_1' => 'But his roots are what best defines his spirit. The bark of the iboga root contains alkaloids,
+                  which are scraped, crushed and ingested contain entheogenic properties that have been used for centuries for spiritual study –
+                  beginning with the Pygmy and Bwiti cultures of Africa and more recently helping to heal the ailing Western world.',
+                'par_2' => 'The root bark has been used as a natural herbal medicine for thousands and thousands of years
+                 indigenous people of the region.'
             ],
             'bwiti' => [
                 'title' => 'Bwiti',
-                'par_1' => 'Říká se, že lesní lidé neboli Pygmejové ze středozápadní Afriky poprvé přinesli poznatky o této rostlině
-                ostatním. Tato ústní učení se nakonec zformovala do praxe a kultury Bwiti – duchovní tradice založené na používání
-                a učení Ibogy. Po stovky let Bwiti používali Ibogu v léčebných obřadech a duchovních rituálech pro
-                sebeobjevování, osobní rozvoj, fyzické léčení a pro zvládnutí umění žít.',
-                'par_2' => 'Je to za posvátnou svátost těch, kteří praktikují tradici známou jako Bwiti. Iboga se používá v
-                různých obřadních kontextech, jako jsou zasvěcení, duchovní léčení, fyzické léčení a pro pomoc těm, kteří
-                trpí emocionálními a duševními stavy Iboga je tak vysoce ceněna, že byla vládou Gabonu prohlášena za národní poklad.'
+                'par_1' => 'It is said that the forest people, or Pygmies, of Central West Africa first brought knowledge of this plant
+                 to others. These oral teachings eventually formed into the practice and culture of Bwiti – a spiritual tradition based on usage
+                 and the teachings of Iboga. For hundreds of years the Bwiti have used Iboga in healing ceremonies and spiritual rituals for
+                 self-discovery, personal development, physical healing and to master the art of living.',
+                'par_2' => 'It is for the sacred sacrament of those who practice the tradition known as Bwiti. Iboga is used in
+                 various ceremonial contexts such as initiations, spiritual healing, physical healing and to assist those who
+                 suffer from emotional and mental conditions Iboga is so highly valued that it has been declared a national treasure by the government of Gabon.'
             ],
             'holly_wood' => [
-                'title' => 'Svaté dřevo',
-                'par_1' => 'V Gabonu je Iboga považována za posvátnou, někdy označovanou jako „svaté dřevo“. U sloupu
-                každého kmene nebo komunity je hlavní šaman, který je zodpovědný za vedení lékařských obřadů iniciace a léčení.',
+                'title' => 'Holy woodo',
+                'par_1' => 'In Gabon, Iboga is considered sacred, sometimes referred to as "holy wood". By the pillar
+                 each tribe or community has a chief shaman who is responsible for conducting medical ceremonies of initiation and healing.',
             ],
             'nganga' => [
                 'title' => 'Nganga',
-                'par_1' => 'Zakladatel Iboga Spirit.cz Martin Halla  byl vycvičen a iniciován gabonským šamanem Bwiti 10.
-                generace, který byl také prvním Afričanem, který přinesl úplný kořen Ibogy na západní polokouli.',
+                'par_1' => 'I was trained and initiated by the Gabonese Bwiti Shaman of  10.
+                 generation - Moughenda Mikala. Moughenda is  also the first African to bring the complete Iboga root to the Western Hemisphere.',
             ],
             'why_we_use_iboga' => [
-                'title' => 'PROČ POUŽÍVÁME IBOGU?',
-                'par_1' => 'Účelem Ibogy je detoxikovat mysl, tělo a ducha, léčit na nejhlubších fyzických,
-                emocionálních, mentálních a duchovních úrovních.',
-                'par_2' => 'V určitém okamžiku našeho života byla většina z nás na určité úrovni zraněna.
-                Pro mnohé jsou rány hluboké, pro jiné mohly být tak jednoduché, jako kdyby si z nich dělali legraci
-                ve škole, podceňované trauma.',
-                'par_3' => 'I když nás možná ovlivnily způsoby, kterým jsme nikdy plně neporozuměli, vzpomínky
-                jsou uloženy v našich podvědomých myslích a občas se na nás znovu vynoří a ovlivňují nás bez našeho vědomí.',
+                'title' => 'WHY DO WE USE IBOGA?',
+                'par_1' => 'The purpose of Iboga is to detoxify the mind, body and spirit, to heal at the deepest physical,
+                 emotional, mental and spiritual levels.',
+                'par_2' => 'At some point in our lives, most of us have been hurt on some level.
+                 For many the wounds are deep, for others they may have been as simple as making fun of them
+                 at school, underestimated trauma.',
+                'par_3' => 'Although we may have been affected in ways we never fully understood, the memories
+                 are stored in our subconscious minds and occasionally resurface and affect us without our knowledge.',
                 'par_4' => 'Naše rány mohly být zneužíváním v emocionální, mentální, sexuální nebo fyzické
                 formě nebo těžkým zármutkem či ztrátou. Možná jsme byli zapojeni do traumatického incidentu nebo
                 jsme byli jeho svědky. Mohou nás ovlivnit jako děti, mládež, dospělé nebo v různých obdobích našeho života.',
@@ -115,26 +116,25 @@ return [
                 ]
             ],
             'ibogaine' => [
-                'par' => 'V poslední době se používá Ibogy rozšířilo mimo africký kontinent a používá se k léčbě a léčení v různých
-                prostředí po celém světě. Od doby, kdy se rozšířil na Západ, si nyní získává větší pozornost díky odvozenému
-                alkaloidu Ibogaine, který se používá především k úspěšnému a trvalému přerušení návykových vzorců chování.'
+                'par' => 'Recently, the use of Iboga has spread beyond the African continent and has been used for treatment and healing in various
+                 environment around the world. Since it spread to the West, it is now gaining more attention due to its derivative
+                 of the alkaloid Ibogaine, which is primarily used to successfully and permanently break addictive patterns of behavior.'
             ],
             'conclusion' => [
-                'title' => 'Shrnutí',
-                'par_1' => 'Z tohoto důvodu je IBOGA známá jako jedna z nejúčinnějších léčivých rostlin pro léčbu závislostí.
-                IBOGA poskytuje hluboké vhledy, objasňuje vlastní život a pravdu o sobě samém. IBOGA zůstane pracovat
-                s vámi ve smyslu vhledů měsíce po vašem ústupu, když se znovu začleníte do svého každodenního života.
-                IBOGA může podporovat: Sebeaktualizaci, posílení vlastního růstu, zlepšení vztahů a snížení emočního utrpení.',
-                'par_2' => 'V poslední době se používá Ibogy rozšířilo mimo africký kontinent a používá se k léčbě a léčení
-                v různých prostředí po celém světě. Od doby, kdy se rozšířil na Západ, si nyní získává větší pozornost
-                díky odvozenému alkaloidu Ibogaine, který se používá především k úspěšnému a trvalému přerušení návykových vzorců chování.
+                'title' => 'Conclusion',
+                'par_1' => 'For this reason, IBOGA is known to be one of the most powerful medicinal plants for treating addictions.
+            IBOGA gives profound insights, gives clarity to one\'s life and to the truth of oneself. IBOGA will keep
+            working with you in terms of insights for months after your retreat, as you reintegrate into your daily life.
+            IBOGA can promote: Self-actualization, empower self-growth, improve relationships, and reduce emotional suffering.',
+                'par_2' => 'Recently, the use of Iboga has spread beyond the African continent and is used for treatment and healing in various
+          environments around the world. Since it spread to the West, it is now gaining more attention due to its derivative
+          of the alkaloid Ibogaine, which is primarily used to successfully and permanently break addictive patterns of behavior.
 ',
-                'par_3' => 'Je to mocný učitel posvátných rostlin, který se používá v tradičním šamanském prostředí
-                Bwiti psycho-duchovního obřadu. má schopnost léčit mysl, tělo i duši. Jedná se o středoafrický keřový
-                kořen obsahující mnoho aktivních alkaloidů. Kořen rostliny se užívá perorálně a lze jej požívat čerstvý,
-                připravit jej na čaj nebo jej lze užívat ve formě prášku. IBOGA má psychoaktivní vlastnosti a jemně
-                stimuluje nervový systém čištěním/leštěním neurotransmitery, které je vrátí do původního výchozího
-                nastavení – zajistí, že budou správně spouštět a vysílat.',
+                'par_3' => 'Used in a Shamanic traditional Bwiti psycho-spiritual ceremony setting, this is a powerful sacred plant teacher that
+            has the ability to heal the mind, body and soul. It is a Central African Shrub root containing many active alkaloids.
+            The root of the plant is taken orally and can be ingested fresh, made into a tea, or it can be taken in powder form.
+            IBOGA has psychoactive properties, and it gently stimulates the nervous system by cleaning/polishing your
+            neurotransmitters which brings them back to their original default setting – ensuring they are firing and transmitting properly',
             ],
         ]
     ]
