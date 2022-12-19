@@ -12,7 +12,7 @@
                         <li><hr /></li>
                         <li><a href="/iboga/jak-vam-iboga-muze-pomoci" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Jak vám Iboga může pomoci</a></li>
                         <li><a href="/iboga/bwiti-tradice"  title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Bwiti Tradice</a></li>
-                        <li><a href="/iboga/co-je-iboga?e" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Co je Iboga?</a></li>
+                        <li><a href="/iboga/co-je-iboga" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Co je Iboga?</a></li>
                         <li><a href="/iboga/iboga-vs-ayahuasca" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Iboga vs Ayahuasca</a></li>
                         <li><a href="/iboga/gabon" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Gabon - Afrika</a></li>
                     </ul>
