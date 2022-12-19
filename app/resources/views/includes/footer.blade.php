@@ -23,12 +23,11 @@
                     <ul>
                         <li>Ceremonie</li>
                         <li><hr /></li>
-                        <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat">Váše první Iboga ceremone / Otázky</a></li>
-                        <li><a href="/obrady/priprava">Příprava a Průběžná péče</a></li>
-                        <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní léčebný pobyt</a></li>
-
-                        <li><a href="/obrady/lekarske-smernice">Lékařské směrnice</a></li>
-                        <li><a href="/obrady/terminy-a-ceny">Termíny a Ceny</a></li>
+                        <li><a href="{{ route('ceremonies-first-ceremony_cz') }}">Váše první Iboga ceremonie / Otázky</a></li>
+                        <li><a href="{{ route('ceremonies-preparation_cz') }}">Příprava a Průběžná péče</a></li>
+                        <li><a href="{{ route('ceremonies-retreat_cz') }}">Osmidenní léčebný pobyt</a></li>
+                        <li><a href="{{ route('ceremonies-medical-guidelines_cz') }}">Lékařské směrnice</a></li>
+                        <li><a href="{{ route('ceremonies-dates_cz') }}">Termíny a Ceny</a></li>
                     </ul>
                 </div>
 

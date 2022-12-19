@@ -24,9 +24,15 @@ Route::get('/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class
 
 Route::get('/obrady/priprava', [\App\Http\Controllers\ObradyController::class, "preparation"]);
 Route::get('/obrady/lekarske-smernice', [\App\Http\Controllers\ObradyController::class, "medical_guidelines"]);
-Route::get('/obrady/osmi-denni-iboga-wellness-pobyt', [\App\Http\Controllers\ObradyController::class, "eight_day_retreat"]);
+Route::get('/obrady/osmi-denni-iboga-lecebny-pobyt', [\App\Http\Controllers\ObradyController::class, "eight_day_retreat"]);
 Route::get('/obrady/prvni-ceremonial-a-co-ocekavat', [\App\Http\Controllers\ObradyController::class, "your_first_ceremony"]);
 Route::get('/obrady/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"]);
+
+Route::get('/iboga-ceremonie-ceska-republika/priprava', [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-preparation_cz');
+Route::get('/iboga-ceremonie-cechy/lekarske-smernice', [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_cz');
+Route::get('/iboga-ceremonie-cechy/osmi-denni-iboga-lecebny-pobyt', [\App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-retreat_cz');
+Route::get('/iboga-zkusenosti-ceremonie-cechy/prvni-ceremonie-a-co-ocekavat', [\App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_cz');
+Route::get('/iboga-ceremonie-cechy/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_cz');
 
 
 Route::get('/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"]);
