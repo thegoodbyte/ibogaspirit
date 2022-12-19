@@ -10,11 +10,11 @@
                     <ul>
                         <li>Iboga</li>
                         <li><hr /></li>
-                        <li><a href="/iboga/jak-vam-iboga-muze-pomoci">Jak vám Iboga může pomoci</a></li>
-                        <li><a href="/iboga/bwiti-tradice">Bwiti Tradice</a></li>
-                        <li><a href="/iboga/co-je-iboga?e">Co je Iboga?</a></li>
-                        <li><a href="/iboga/iboga-vs-ayahuasca">Iboga vs Ayahuasca</a></li>
-                        <li><a href="/iboga/gabon">Gabon - Afrika</a></li>
+                        <li><a href="/iboga/jak-vam-iboga-muze-pomoci" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Jak vám Iboga může pomoci</a></li>
+                        <li><a href="/iboga/bwiti-tradice"  title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Bwiti Tradice</a></li>
+                        <li><a href="/iboga/co-je-iboga?e" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Co je Iboga?</a></li>
+                        <li><a href="/iboga/iboga-vs-ayahuasca" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Iboga vs Ayahuasca</a></li>
+                        <li><a href="/iboga/gabon" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Gabon - Afrika</a></li>
                     </ul>
 
                 </div>
@@ -23,11 +23,11 @@
                     <ul>
                         <li>Ceremonie</li>
                         <li><hr /></li>
-                        <li><a href="{{ route('ceremonies-first-ceremony_cz') }}">Váše první Iboga ceremonie / Otázky</a></li>
-                        <li><a href="{{ route('ceremonies-preparation_cz') }}">Příprava a Průběžná péče</a></li>
-                        <li><a href="{{ route('ceremonies-retreat_cz') }}">Osmidenní léčebný pobyt</a></li>
-                        <li><a href="{{ route('ceremonies-medical-guidelines_cz') }}">Lékařské směrnice</a></li>
-                        <li><a href="{{ route('ceremonies-dates_cz') }}">Termíny a Ceny</a></li>
+                        <li><a href="{{ route('ceremonies-first-ceremony_cz') }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Váše první Iboga ceremonie / Otázky</a></li>
+                        <li><a href="{{ route('ceremonies-preparation_cz') }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Příprava a Průběžná péče</a></li>
+                        <li><a href="{{ route('ceremonies-retreat_cz') }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Osmidenní léčebný pobyt</a></li>
+                        <li><a href="{{ route('ceremonies-medical-guidelines_cz') }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Lékařské směrnice</a></li>
+                        <li><a href="{{ route('ceremonies-dates_cz') }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Termíny a Ceny</a></li>
                     </ul>
                 </div>
 
