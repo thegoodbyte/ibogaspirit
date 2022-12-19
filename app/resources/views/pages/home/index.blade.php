@@ -7,11 +7,11 @@
 <div class = "row">
     <div class = "col-xl-12">
         <h2 class = "font-just-me color-iscz-red home-index-under-carousel"><?php echo __('pages/homepage.content.section_2_iboga.title'); ?></h2>
-        <p>
-            <?php echo __('pages/homepage.content.section_2_iboga.pars.0'); ?>
-            <?php echo __('pages/homepage.content.section_2_iboga.pars.1'); ?>
-            <?php echo __('pages/homepage.content.section_2_iboga.pars.2'); ?>
-        </p>
+{{--        <p>--}}
+{{--            <?php echo __('pages/homepage.content.section_2_iboga.pars.0'); ?>--}}
+{{--            <?php echo __('pages/homepage.content.section_2_iboga.pars.1'); ?>--}}
+{{--            <?php echo __('pages/homepage.content.section_2_iboga.pars.2'); ?>--}}
+{{--        </p>--}}
         <p>
             <?php echo __('pages/homepage.content.what_iboga_does.pars.0'); ?>
         </p>

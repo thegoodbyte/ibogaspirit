@@ -6,12 +6,7 @@
         <div class = "col-xl-6 col-xs-12 p-5">
             <h2 class=""><?php echo __('pages/homepage.content.section_bwiti.title') ;?></h2>
             <p>
-                Podle tradice,  když se Iboga poprvé objevila,  rozhodl se být s Bwiti lidmi. Iboga respektoval jejich
-                způsob života, a tak když se lidé začali ptát,
-                odkud přišli a za co mohou být tolik vděční, Iboga se představil a řekl: „Řekněte svým lidem, že až
-                budou mít otázky, at si me vezmou mě a já jim ukažu."
-
-                A v tomto příběhu je toho mnohem víc...
+                <?php echo __('pages/homepage.content.section_bwiti.par') ;?>
 
             </p>
         </div>

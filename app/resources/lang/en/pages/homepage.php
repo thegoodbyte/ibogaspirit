@@ -111,12 +111,12 @@ return  [
                 'country' => 'Czech Republic',
                 'terms' => [
                     0 => [
-                        'date' => '17 - 24 března 2023',
+                        'date' => 'March 25th - April 1st 2023',
                         'place' => 'Pecka, Jičín, Králové Hradec Distrikt, Eastern Czech Republic'
                     ],
                     1 => [
-                        'date' => 'June 16th - 23rd 2023',
-                        'place' => 'Vidochov, Králové Hradec Distrikt, Eastern Czech Republic'
+                        'date' => 'June 17th - 24th 2023',
+                        'place' => 'Svoboda nad Úpou, Králové Hradec Distrikt, Eastern Czech Republic'
                     ],
                 ]
             ]
