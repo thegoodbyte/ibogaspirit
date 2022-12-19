@@ -26,14 +26,15 @@ I can assure you that Africa is an amazing land full of life and love - afterall
 Iboga for thousands of years and developed a healing tradition where safety is the number one priority.this is the tradition I practice
                 -->
                 Pokud jste až doteď žili nešťastný život a už vás omrzelo to, jak se věci mají, je tu možnost změnit svůj život díky této
-    úžasné rostlinné medicíně z Afriky - <a href = "">Iboga</a>. Dokáže doslova přes noc vyřešit všechny vaše problémy – úzkost, deprese, PTSD,
+    úžasné rostlinné medicíně z Afriky - <a href = "/iboga/co-je-iboga">Iboga</a>. Dokáže doslova přes noc vyřešit všechny vaše problémy – úzkost, deprese, PTSD,
                 sebevražedné myšlenky, celoživotní traumata, dokonce i najít příčinu vašeho fyzického onemocnění.
-    Poskytuji <a href = "">týdenní Iboga pobyty</a> v České republice se dvěma  Iboga ceremoniemi nabízené a prováděné v dlouholeté
-    tisícileté a originální africké tradici <a href = "">Missoko Bwiti</a>.
+    Poskytuji <a href = "/obrady/osmi-denni-iboga-wellness-pobyt">týdenní Iboga pobyty</a> v České republice se dvěma  Iboga ceremoniemi nabízené a prováděné v dlouholeté
+    tisícileté a originální africké tradici <a href = "/iboga/bwiti-tradice">Missoko Bwiti</a>.
             </p>
             <p>
     Asi si říkáte – Afrika? není to kontinent velkých nemocí? Je to vůbec bezpečné?
-    Můžu vás ujistit, že Afrika je úžasny kontinent  plny života a lásky – koneckonců právě z Afriky život pochází. Bwiti lidé spolupracují s Ibogou již po tisíce let a rozvinuli
+    Můžu vás ujistit, že Afrika je úžasný kontinent  plný života a lásky – koneckonců právě z Afriky život pochází. Bwiti
+                lidé spolupracují s Ibogou již po tisíce let a rozvinuli
     léčebnou tradici, kde je bezpečnost na prvním místě. Toto je ta tradice, kterou praktikuji.
             </p>
         </div>

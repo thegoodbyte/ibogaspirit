@@ -32,7 +32,7 @@
                 </ul>
             </li>
 
-            <li class="dropdown menu-item"><a href="#">OBŘADY</a>
+            <li class="dropdown menu-item"><a href="#">Ceremonie</a>
                 <ul>
                     <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat" title = "Iboga rostlinná medicína léčí sebevražedné myšlenky, deprese, úzkosti, traumata. Alternativní holistické léčení">Váše první Iboga ceremonie / Otázky</a></li>
                     <li><a href="/obrady/priprava" title = "Iboga rostlinná medicína léčí sebevražedné myšlenky, deprese, úzkosti, traumata. Alternativní holistické léčení">Příprava a Průbežná péče</a></li>

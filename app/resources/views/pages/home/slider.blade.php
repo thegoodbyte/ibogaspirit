@@ -1,4 +1,4 @@
-
+a
 <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-indicators">
         <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -8,13 +8,13 @@
     <div class="carousel-inner">
 
         <div class="carousel-item active">
-{{--            <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>--}}
             <img
                 srcset = "/images/home/slider/fire_circle-400w.jpg 400px,
                           /images/home/slider/fire_circle-600w.jpg 600px,
                           /images/home/slider/fire_circle-900w.jpg 900px"
                 sizes = "(max-width: 400px) 400px, (min-width: 401px and max-width: 600px) 600px, (min-width: 601px and max-width: 900px) 900px, (min-width: 901px) 1200px,  "
-                src="/images/home/slider/fire_circle-1200.jpg" alt="Iboga Bwiti obrady Ceska Republika Cechy" class="d-block w-100">
+                src="/images/home/slider/fire_circle-1200.jpg" alt="Iboga Bwiti obrady Ceska Republika Cechy" class="d-block w-100"
+            />
 
                 <div class="carousel-caption text-start">
                     <h1>TRADIČNÍ  IBOGA  OBŘADY  V AFRICKÉ  TRADICI MISSOKO BWITI
@@ -22,6 +22,7 @@
                     <p>Poskytuji tradiční <a href = "/iboga/bwiti-tradice">Bwiti</a> léčebné obřady Ibogy, jak mě učil v Gabonu <a href = "/onas/moughenda">šaman Moughenda 10. generace</a>.</p>
 
                 </div>
+        </div>
 
 
         <div class="carousel-item">
@@ -59,11 +60,11 @@
                 <div class="carousel-caption text-end">
                     <h1>VYDEJTE  SE  NA CESTU SEBE POZNÁNÍ</h1>
                     <p>Vědět, kdo jste, je nejdůležitější součástí poznání. Umožňuje vám to dělat správná rozhodnutí, abyste žili šťastný život</p>
-
                 </div>
 
         </div>
     </div>
+
     <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Previous</span>

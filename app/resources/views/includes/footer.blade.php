@@ -21,9 +21,9 @@
 
                 <div class = "col-xl-2">
                     <ul>
-                        <li>Obřady</li>
+                        <li>Ceremonie</li>
                         <li><hr /></li>
-                        <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat">Váš první Iboga ceremoniál / Otázky</a></li>
+                        <li><a href="/obrady/prvni-ceremonial-a-co-ocekavat">Váše první Iboga ceremone / Otázky</a></li>
                         <li><a href="/obrady/priprava">Příprava a Průběžná péče</a></li>
                         <li><a href="/obrady/osmi-denni-iboga-wellness-pobyt">Osmidenní léčebný pobyt</a></li>
 
