@@ -37,8 +37,8 @@
                     <li><a href="{{ route('ceremonies-first-ceremony_cz') }}" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata a sebevražedné myšlenky. Alternativní holistické léčení">Váše první Iboga ceremonie / Otázky</a></li>
                     <li><a href="{{ route('ceremonies-preparation_cz') }}" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata a sebevražedné myšlenky. Alternativní holistické léčení">Příprava a Průbežná péče</a></li>
                     <li><a href="{{ route('ceremonies-retreat_cz') }}" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata a sebevražedné myšlenky. Alternativní holistické léčení">Osmidenní léčebný pobyt</a></li>
-                    <li><a href="{{ route('ceremonies-medical-guidelines_cz') }}e" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata a sebevražedné myšlenky. Alternativní holistické léčení">Lékařské směrnice</a></li>
-                    <li><a href="{{ route('ceremonies-dates_cz') }}y" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata a sebevražedné myšlenky. Alternativní holistické léčení">Termíny a Ceny</a></li>
+                    <li><a href="{{ route('ceremonies-medical-guidelines_cz') }}" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata a sebevražedné myšlenky. Alternativní holistické léčení">Lékařské směrnice</a></li>
+                    <li><a href="{{ route('ceremonies-dates_cz') }}" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata a sebevražedné myšlenky. Alternativní holistické léčení">Termíny a Ceny</a></li>
                 </ul>
             </li>
 

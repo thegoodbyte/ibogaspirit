@@ -16,14 +16,17 @@ class IbogaController extends Controller
     public function jak_vam_iboga_muze_pomoci() {
 
         return View::make('pages.iboga.jak_vam_iboga_muze_pomoci', [
-            'pageTitle' => 'Iboga rostlinná medicína léčí vaše sebevražedné myšlenky, deprese, úzkosti, traumata. Alternativní holistické léčení Česko'
+            'pageTitle' => 'Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky, Alternativní léčení Česko'
         ]);
 
     }
 
     public function iboga_vs_ayahuasca() {
 
-        return View::make('pages.iboga.iboga_vs_ayahuasca',['pageTitle' => 'Iboga vs ayahuasca Česká Republika. ']);
+        return View::make('pages.iboga.iboga_vs_ayahuasca',[
+            'pageTitle' => 'Rozdíl mezi Ibogou a Ayahuaskou. Iboga terapie  Česká Republika. ',
+            'metaDesc' => 'Iboga i Ayahuasca jsou hlavní učitelské rostliny, které zapalují trvalé, hluboké duchovní transformace a rozšíření vědomí'
+            ]);
 
     }
 
