@@ -49,7 +49,8 @@
     @endphp
  @include('includes.head', [
     'pageTitle' => $pageTitle,
-    'metaDesc' => $metaDesc ?? 'Iboga terapie ceremonie Česká republika,  Iboga alternativní léčení depresí, úzkostí, traumat. Rozvíjení vědomí , duchovní transforamce Česko'  ])
+    'metaDesc' => $metaDesc ?? 'Iboga terapie ceremonie Česká republika,  Iboga alternativní léčení depresí, úzkostí, traumat. Rozvíjení vědomí , duchovní transforamce Česko',
+    'metaKws' => $metaKws ?? 'Iboga, Iboga terapie, Iboga ceremonie Česká republika,Ayahuasca,  Iboga alternativní léčení deprese, úzkostí, traumat. Rozvíjení vědomí, duchovní transforamce Česko'  ])
 </head>
 <body class="">
 
