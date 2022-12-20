@@ -6,11 +6,7 @@
 
 
     <div class = "col-xl-8 pl-5">
-
-        <p>
-           Tento den nabízíme holotropní dýchaní(Pozn. pouze na vybraných pobytech).
-        </p>
-
+        
         <p>
             Skupinový integrační kroužek před obědem. Lehké procházky přírodou později odpoledne.
         </p>

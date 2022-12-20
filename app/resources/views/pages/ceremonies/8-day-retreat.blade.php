@@ -89,7 +89,7 @@
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/comment-green.png" width = "64" />
-                <p>PŘED A PO IBOGA PYBYTU TELEFONNÍ ROZHOVORY</p>
+                <p>PŘED A PO IBOGA POBYTU TELEFONNÍ ROZHOVORY</p>
             </div>
         </div>
 
@@ -120,7 +120,7 @@
             <div class = "item">
                 <img src = "/images/icons/trips-green.png" width = "64" />
                 <p>
-                    JEDINEČNÉ MÍSTNÍ VÝLETY,  HOLOTROPNÍ DÝCHÁNÍ
+                    JEDINEČNÉ MÍSTNÍ VÝLETY
             </p>
             </div>
         </div>
