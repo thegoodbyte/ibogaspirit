@@ -2,9 +2,9 @@
 @section('content')
 
 
-    <div class = "row"  id = "iboga-bwiti-tradice-top-iamge">
-        <h2 class = "font-just-me font-size-80">
-            Bwiti tradice – šamanské léčení</h2>
+    <div class = "row"  id = "iboga-bwiti-tradice-top-image">
+        <h1 class = "font-just-me font-size-80">
+            Bwiti tradice – šamanské léčení</h1>
 
             <div class = "text-box">
                 <p>Bwiti je tradice, která pochází z kmene Bwiti v Gabonu v Africe, což znamená...</p>

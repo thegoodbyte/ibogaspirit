@@ -312,7 +312,7 @@ blockquote cite {
 }
 
 
-#iboga-bwiti-tradice-top-iamge {
+#iboga-bwiti-tradice-top-image {
     display: block;
     min-height: 600px;
     background-image: url("/images/iboga/bwiti/bwiti-scotty-1200.jpg");
@@ -321,18 +321,18 @@ blockquote cite {
     margin-left: 0px;
 }
 
-#iboga-bwiti-tradice-top-iamge h2{
+#iboga-bwiti-tradice-top-image h2{
     color: #fff;
     margin-left: 20px;
 }
 
-#iboga-bwiti-tradice-top-iamge .text-box{
+#iboga-bwiti-tradice-top-image .text-box{
     color: #fff;
     margin-left:20px;
     margin-top: 20px;
 }
 
-#iboga-bwiti-tradice-top-iamge .text-box  h3{
+#iboga-bwiti-tradice-top-image .text-box  h3{
     color: #fff;
 }
 
@@ -681,7 +681,7 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
 
 #home-parallax {
     background-image: url('/images/iboga/bwiti/bwiti-all-1200w.jpg');
-    background-position:center;
+    background-position:top;
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: 600px;
@@ -1055,24 +1055,25 @@ footer a:hover {
         text-align: center;
     }
 
-    #iboga-bwiti-tradice-top-iamge {
+    #iboga-bwiti-tradice-top-image {
         display: block;
         min-height: 483px;
         background-image: url("/images/iboga/bwiti/bwiti-scotty-400w.jpg");
         background-repeat: no-repeat;
+        width: 100vw;
     }
-    #iboga-bwiti-tradice-top-iamge h2{
+    #iboga-bwiti-tradice-top-image h1{
         color: #fff;
         margin-left: 10px;
         font-size: 45px;
     }
-    #iboga-bwiti-tradice-top-iamge .text-box{
+    #iboga-bwiti-tradice-top-image .text-box{
         color: #fff;
         margin-left:20px;
         margin-top: 200px;
     }
 
-    #iboga-bwiti-tradice-top-iamge .text-box  h3{
+    #iboga-bwiti-tradice-top-image .text-box  h3{
         color: #fff;
     }
 

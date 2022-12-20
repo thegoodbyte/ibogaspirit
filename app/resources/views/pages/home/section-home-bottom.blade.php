@@ -8,13 +8,13 @@
 
                 <div class="container">
 
-                    <p class = " text-uppercase">
+                    <p class = "">
                         Iboga (Tabernathe Iboga) je vytrvalý keř pocházející z rovníkové středozápadní Afriky. Kořenová kůra byla používána
                     </p>
                     <div class="container text-center">
                         <a href = "/iboga/co-je-iboga"><img src = "/images/home/iboga-bark.jpg"  width = "90%" /></a>
                     </div>
-                    <p class = " text-uppercase">
+                    <p class = "">
 
                     jako přírodní rostlinná medicína po tisíce a tisíce let domorodými obyvateli regionu.
                     Je považována za posvátnou svátost těch, kteří praktikují tradici známou jako Bwiti.
