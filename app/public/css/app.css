@@ -13,6 +13,10 @@
     --iscz-orange: #DF7015;
 }
 
+a {
+    color: #9a5959;
+}
+
 img {
     /*object-fit: contain;*/
 }

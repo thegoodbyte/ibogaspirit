@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [\App\Http\Controllers\HomeController::class, "index"]);
 
+
 Route::controller(\App\Http\Controllers\IbogaController::class)->group(function() {
     Route::get('/{en}/iboga-bwiti-retraeats-czech-republic-europe', 'index');
 });
@@ -35,7 +36,7 @@ Route::controller(\App\Http\Controllers\IbogaController::class)->group(function(
 
     Route::get('/obrady/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_cz');
     Route::get('/obrady/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_cz');
-    Route::get('/obrady/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_cz');
+    Route::get('/obrady/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-retreat_cz');
     Route::get('/obrady/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_cz');
     Route::get('/obrady/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_cz');
 
@@ -62,7 +63,7 @@ Route::controller(\App\Http\Controllers\IbogaController::class)->group(function(
 
     Route::get('/en/iboga-ceremonies-europe/preparation-for-first-iboga-healing-ceremony',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_en');
     Route::get('/en/iboga-ceremonies-europe/iboga-plant-medicine-plant-healing',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_en');
-    Route::get('/en/iboga-ceremonies-europe/eight-day-iboga-healing-stay', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_en');
+    Route::get('/en/iboga-ceremonies-europe/eight-day-iboga-healing-stay', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-retreat_en');
     Route::get('/en/iboga-ceremonies-europe/your-first-iboga-healing-ceremony', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_en');
     Route::get('/en/iboga-ceremonies-europe/iboga-retreats-europe-dates-and-prices', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_en');
 
@@ -84,7 +85,7 @@ Route::controller(\App\Http\Controllers\IbogaController::class)->group(function(
 
     Route::get('/es/ceremonies/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_es');
     Route::get('/es/ceremonias/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_es');
-    Route::get('/es/ceremonias/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_es');
+    Route::get('/es/ceremonias/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-retreat_es');
     Route::get('/es/ceremonias/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_es');
     Route::get('/es/ceremonias/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_es');
 
@@ -106,7 +107,7 @@ Route::controller(\App\Http\Controllers\IbogaController::class)->group(function(
 
     Route::get('/pl/ceremonie/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_pl');
     Route::get('/pl/ceremonie/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_pl');
-    Route::get('/pl/ceremonie/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_pl');
+    Route::get('/pl/ceremonie/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-retreat_pl');
     Route::get('/pl/ceremonie/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_pl');
     Route::get('/pl/ceremonie/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_pl');
 
@@ -128,7 +129,7 @@ Route::get('/de/iboga-europa-tschechische-republik/bwiti-tradition-schamanische-
 
 Route::get('/de/iboga-schamanische-heilungszeremonien-europa/vorbereitung-auf-die-iboga-zeremonie',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_de');
 Route::get('/de/iboga-schamanische-heilungszeremonien-europa/medizinische-richtlinien',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_de');
-Route::get('/de/iboga-schamanische-heilungszeremonien-europa/achttägiger-iboga-heilaufenthalt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_de');
+Route::get('/de/iboga-schamanische-heilungszeremonien-europa/achttägiger-iboga-heilaufenthalt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-retreat_de');
 Route::get('/de/iboga-schamanische-heilungszeremonien-europa/erste-iboga-zeremonie', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_de');
 Route::get('/de/iboga-schamanische-heilungszeremonien-europa/termine-und-preise-von-europa-schamanischen-heilaufenthalten', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_de');
 
@@ -150,7 +151,7 @@ Route::get('/fr/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::cl
 
 Route::get('/fr/zeremonien/priprava',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_fr');
 Route::get('/fr/zeremonien/lekarske-smernice',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_fr');
-Route::get('/fr/zeremonien/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_fr');
+Route::get('/fr/zeremonien/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-retreat_fr');
 Route::get('/fr/zeremonien/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_fr');
 Route::get('/fr/zeremonien/terminy-a-ceny', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_fr');
 
@@ -173,7 +174,7 @@ Route::get('/it/iboga-europa-repubblica-ceca/bwiti-tradizione-guarigione-sciaman
 
 Route::get('/it/cerimonie-di-guarigione-sciamanica-iboga-europa-repubblica-ceca/cerimonia di preparazione-per-iboga-guarigione',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_it');
 Route::get('/it/cerimonie-di-guarigione-sciamanica-iboga-europa-repubblica-ceca/iboga-pianta-medicina-medico-linee-guida',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_it');
-Route::get('/it/cerimonie-di-guarigione-sciamanica-iboga-europa-repubblica-ceca/soggiorno-curativo-di-otto-giorni-con-liboga', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_it');
+Route::get('/it/cerimonie-di-guarigione-sciamanica-iboga-europa-repubblica-ceca/soggiorno-curativo-di-otto-giorni-con-liboga', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-retreat_it');
 Route::get('/it/cerimonie-di-guarigione-sciamanica-iboga-europa-repubblica-ceca/prima-cerimonia-di-iboga', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_it');
 Route::get('/it/cerimonie-di-guarigione-sciamanica-iboga-europa-repubblica-ceca/date-e-prezzi', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_it');
 
@@ -196,7 +197,7 @@ Route::get('/ru/ибога/бвити-традиция', [\App\Http\Controllers\
 
 Route::get('/ru/церемонии/подготовка',  [\App\Http\Controllers\ObradyController::class, "preparation"])->name('ceremonies-prep_ru');
 Route::get('/ru/церемонии/медицинские-рекомендации',  [\App\Http\Controllers\ObradyController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_ru');
-Route::get('/ru/церемонии/восьмидневное-лечение-ибогой', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-8-day-stay_ru');
+Route::get('/ru/церемонии/восьмидневное-лечение-ибогой', [ \App\Http\Controllers\ObradyController::class, "eight_day_retreat"])->name('ceremonies-retreat_ru');
 Route::get('/ru/церемонии/первый-церемониальный-и-что-ожидать', [ \App\Http\Controllers\ObradyController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_ru');
 Route::get('/ru/церемонии/срок-службы', [\App\Http\Controllers\ObradyController::class, "dates"])->name('ceremonies-dates_ru');
 

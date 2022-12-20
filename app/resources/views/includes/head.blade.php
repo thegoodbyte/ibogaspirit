@@ -11,7 +11,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="robots" content="max-image-preview:large" />
-<meta name="description" content="Iboga obřady a ceremonie Česká Republika.Týdenní pobyty Čechy, Alternativní léčba deprese, úzkosti, předchozího traumatu" />
+<meta name="description" content="Iboga alternativní léčení depresí, úzkostí, traumat. Rozvíjení vědomí Česká Republika. Iboga Terapie Čechy" />
 <meta name="robots" content="index,follow" />
 
 
