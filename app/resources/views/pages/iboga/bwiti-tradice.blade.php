@@ -3,7 +3,7 @@
 
 
     <div class = "row"  id = "iboga-bwiti-tradice-top-image">
-        <h1 class = "font-just-me font-size-80">
+        <h1 class = "font-just-me">
             Bwiti tradice – šamanské léčení</h1>
 
             <div class = "text-box">
