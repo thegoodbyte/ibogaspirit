@@ -8,7 +8,7 @@
 
 
     <div class = "row">
-        <h1 class = "font-just-me color-iscz-red text-center h1-heading">VÁŠ PRVNÍ IBOGA CEREMONIÁL </h1>
+        <h1 class = "font-just-me color-iscz-red text-center h1-heading">VAŠE PRVNÍ IBOGA CEREMONIE </h1>
     </div>
 
     <div class = "row">
@@ -16,11 +16,11 @@
         <div class = "col-xl-6">
 
             <p>
-                Nejlepší je nemit žádná očekávání před příjezdem na náš iboga retreat.
+                Nejlepší je nemít žádná očekávání před příjezdem na náš Iboga retreat.
             </p>
 
             <p>
-                Ne všichni účastníci budou mít vize, nicméně je důležité pochopit, že iboga je zaměřena na hluboké léčení a ne na „zakopávání“.
+                Ne všichni účastníci budou mít vize, nicméně je důležité pochopit, že Iboga je zaměřena na hluboké léčení a ne na „zakopávání“.
                 Nemít vize ve svém prvním obřadu je velmi běžné, ale vytrvalost, trpělivost a odhodlání často povedou k vizionářským stavům.
                 Počáteční práce během retreatu Iboga je zaměřena na očistu a pročištění vašeho fyzického těla a mysli,
                 abyste byli připraveni na další fáze vaší cesty duchovního léčení.
@@ -39,7 +39,7 @@
 
 
     <div class = "row">
-        <h2 class = "font-just-me color-iscz-red">Prvni Ceremonie</h2>
+        <h2 class = "font-just-me color-iscz-red">První Ceremonie</h2>
         <div class = "col-xl-12">
 
             <p>
@@ -56,14 +56,14 @@
             </p>
 
             <p>
-                Přednášky předávají životně důležitou moudrost, kterou můžeme využít v každodenním životě. Učení se o tom,
-                kdo jsme, že život je dar, spojení s naší duší, milování sebe sama, překonání ega, posílení sebe sama, nalezení
-                vnitřního klidu a učení se, jak odpustit naší minulosti a důvěřovat tomuto životu, to jsou některá ze silných témat.
+                Přednášky předávají životně důležitou moudrost, kterou můžeme využít v každodenním životě. Učení je o tom,
+                kdo jsme, že život je dar, učení o spojení s naší duší, milování sebe sama, překonání ega, posílení sebe sama, nalezení
+                vnitřního klidu a učení se, jak odpustit naší minulosti a důvěřovat tomuto životu... To jsou jen některá ze silných témat Bwiti učení.
             </p>
 
             <p>
-                Načasování obřadu u ohně je zásadní. Hosté vstoupí do ceremonie s tímto učením v popředí svého vědomí, těsně
-                před užitím medicíny u ohně budou naši facilitátoři diskutovat o účincích medicíny a podělí se o naše vlastní léčebné zkušenosti.
+                Načasování obřadu u ohně je zásadní. Hosté vstoupí do ceremonie s tímto učením v popředí svého vědomí. Těsně
+                před užitím medicíny u ohně budou naši facilitátoři diskutovat o účincích medicíny a podělí se take o naše vlastní léčebné zkušenosti.
             </p>
 
             <p>

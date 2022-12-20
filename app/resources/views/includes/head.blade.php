@@ -10,7 +10,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="robots" content="max-image-preview:large" />
-<meta name="description" content="Iboga alternativní léčení depresí, úzkostí, traumat. Rozvíjení vědomí Česká Republika. Iboga Terapie Čechy" />
+<meta name="description" content="{{ $metaDesc }}" />
+<meta name="keywords" content="{{ $metaKws }}" />
 <meta name="robots" content="index,follow" />
 
 

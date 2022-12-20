@@ -230,6 +230,21 @@ header {
 }
 
 
+@media screen and (max-width: 400px) {
+    .nav__menu .dropdown ul.show, .nav__menu .dropdown2 ul.show, .nav__menu .dropdown3 ul.show {
+        /*max-height: 20rem;*/
+        /*transition: all .4s;*/
+        position: relative;
+        left: 20px;
+    }
+
+    .nav__menu .dropdown ul.show, .nav__menu .dropdown2 ul.show, .nav__menu .dropdown3 ul.show a {
+        color: #b90909;
+    }
+
+}
+
+
 @media screen and (min-width: 800px) {
     .menu-toggle {
         display: flex !important;
