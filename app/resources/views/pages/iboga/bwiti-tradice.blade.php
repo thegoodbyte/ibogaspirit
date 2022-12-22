@@ -2,8 +2,10 @@
 @section('content')
 
 
+
     <div class = "row"  id = "iboga-bwiti-tradice-top-iamge">
-        <h2 class = "font-just-me font-size-80"><?php echo __('pages/iboga/bwiti_tradition.content.section_top_image.title'); ?></h2>
+        <h1 class = "font-just-me font-size-80"><?php echo __('pages/iboga/bwiti_tradition.content.section_top_image.title'); ?></h1>
+
 
             <div class = "text-box">
                 <p><?php echo __('pages/iboga/bwiti_tradition.content.section_top_image.par'); ?></p>

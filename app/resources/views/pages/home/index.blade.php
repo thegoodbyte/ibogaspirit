@@ -31,8 +31,10 @@ Iboga for thousands of years and developed a healing tradition where safety is t
                 Pokud jste až doteď žili nešťastný život a už vás omrzelo to, jak se věci mají, je tu možnost změnit svůj život díky této
                 úžasné rostlinné medicíně z Afriky - <a href = "/iboga/co-je-iboga">Iboga</a>. Dokáže doslova přes noc vyřešit všechny vaše problémy – úzkost, deprese, PTSD,
                 sebevražedné myšlenky, celoživotní traumata, dokonce i najít příčinu vašeho fyzického onemocnění.
-                Poskytuji <a href = "/obrady/osmi-denni-iboga-wellness-pobyt">týdenní Iboga pobyty</a> v České republice se dvěma  Iboga ceremoniemi nabízené a prováděné v dlouholeté
-                tisícileté a originální africké tradici <a href = "/iboga/bwiti-tradice">Missoko Bwiti</a>.
+
+    Poskytuji <a href = "{{ route('ceremonies-retreat_cz') }}">týdenní Iboga pobyty</a> v České republice se dvěma  Iboga ceremoniemi nabízené a prováděné v dlouholeté
+    tisícileté a originální africké tradici <a href = "/iboga/bwiti-tradice">Missoko Bwiti</a>.
+
             </p>
             <p>
                 Asi si říkáte – Afrika? není to kontinent velkých nemocí? Je to vůbec bezpečné?
@@ -49,7 +51,7 @@ Iboga for thousands of years and developed a healing tradition where safety is t
 
 
 
->>>>>>> master
+
         <p>
             <?php echo __('pages/homepage.content.what_iboga_does.pars.1'); ?>
         </p>

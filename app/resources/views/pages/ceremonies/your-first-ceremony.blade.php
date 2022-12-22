@@ -8,7 +8,9 @@
 
 
     <div class = "row">
+
         <h1 class = "font-just-me color-iscz-red text-center h1-heading"><?php echo __('pages/ceremonies/your-first-ceremony.content.title');?></h1>
+
     </div>
 
     <div class = "row">
@@ -16,11 +18,13 @@
         <div class = "col-xl-6">
 
             <p>
+
                 <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.what_to_expect.pars.0');?>
             </p>
 
             <p>
                 <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.what_to_expect.pars.1');?>
+
             </p>
 
         </div>
@@ -34,7 +38,9 @@
 
 
     <div class = "row">
+
         <h2 class = "font-just-me color-iscz-red"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.first_ceremony.title');?></h2>
+
         <div class = "col-xl-12">
 
             <p>
@@ -50,12 +56,14 @@
             </p>
 
             <p>
+
                 <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.first_ceremony.pars.3');?>
             </p>
 
             <p>
 
                 <?php echo __('pages/ceremonies/your-first-ceremony.content.sections.first_ceremony.pars.4');?>
+
 
             </p>
 

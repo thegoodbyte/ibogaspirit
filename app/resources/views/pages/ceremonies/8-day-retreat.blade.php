@@ -82,7 +82,9 @@
         <div class = "col-xl-3 col-xs-6">
             <div class = "item">
                 <img src = "/images/icons/comment-green.png" width = "64" />
+
                 <p><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.included.items.5'); ?></p>
+
             </div>
         </div>
 

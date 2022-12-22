@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\Facades\App;
 
-class ObradyController extends Controller
+class CeremoniesController extends Controller
 {
     //
 

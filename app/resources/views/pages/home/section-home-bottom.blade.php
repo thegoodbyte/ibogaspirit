@@ -10,14 +10,18 @@
 
                 <div class="container">
 
+
                     <p class = " text-uppercase">
                         <?php echo __('pages/homepage.content.section_bottom_about.col_1.par.top'); ?>
+
                     </p>
                     <div class="container text-center">
                         <a href = "/iboga/co-je-iboga"><img src = "/images/home/iboga-bark.jpg"  width = "90%" /></a>
                     </div>
+
                     <p class = " text-uppercase">
                         <?php echo __('pages/homepage.content.section_bottom_about.col_1.par.bottom'); ?>
+
                     </p>
                 </div>
 
@@ -27,8 +31,6 @@
                 </div>
             </div>
         </div>
-
-
 
 
         <div class="who-we-are-col-2 col-xl-4 col-lg-4">

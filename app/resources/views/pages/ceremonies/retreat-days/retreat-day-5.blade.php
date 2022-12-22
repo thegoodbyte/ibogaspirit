@@ -4,10 +4,10 @@
     </div>
 
     <div class = "col-xl-8 pl-5">
-
         <p>
            <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_5.par_1'); ?>
         </p>
+
 
         <p>
             <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.sections.eight_day_schedule.days.day_5.par_2'); ?>
