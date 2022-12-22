@@ -14,13 +14,15 @@ class ContactFormMessage extends Notification
     use Queueable;
 
     protected $message;
+    protected $email;
+    protected $name;
 
     /**
      * Create a new notification instance.
      *
      * @return void
      */
-    public function __construct(contactFormRequest $message)
+    public function __construct(ContactFormRequest $message)
     {
         $this->message = $message;
     }
@@ -44,12 +46,16 @@ class ContactFormMessage extends Notification
      */
     public function toMail($notifiable)
     {
+
+        $line = $this->message->fullname . "\n" . $this->message->email . "\n" . $this->message->message ;
+        $subject = config('recipient.name') . ", you have a new message!";
+        //print_r($this);
         return (new MailMessage)
-            ->subject(config('recipient.name') . ", you have a new message!")
+            ->subject($subject)
             ->greeting(" ")
             ->salutation(" ")
             ->from($this->message->email, $this->message->name)
-            ->line($this->message->message);
+            ->line($line);
     }
 
     /**

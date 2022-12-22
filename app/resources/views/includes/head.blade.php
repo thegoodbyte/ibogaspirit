@@ -14,6 +14,8 @@
 <meta name="description" content="{{ $metaDesc }}" />
 <meta name="keywords" content="{{ $metaKws }}" />
 <meta name="robots" content="index,follow" />
+<meta name="csrf-token" content="{{ csrf_token() }}">
+
 
 
 {{--<link rel='dns-prefetch' href='http://fonts.googleapis.com' />--}}
