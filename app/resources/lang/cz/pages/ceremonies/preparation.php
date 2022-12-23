@@ -236,7 +236,7 @@ return [
                     ],
                     'steps' => [
                         'first_step' => [
-                            'title' => 'Prvni Krok',
+                            'title' => 'První Krok',
                             'subtitle' => 'Přehled života',
                             'pars' => [
 
@@ -270,7 +270,7 @@ return [
                                             kurz lodi o jeden stupeň, skončíte ve zcela nové destinaci.',
 
                                 4 => 'Nejprve si ale musíte uvědomit, že máte pod kontrolou, abyste mohli činit nová rozhodnutí – a to je potenciál Ibogy'
-                                ],
+                            ],
                         ],
                         'third_step' => [],
                     ]
@@ -287,15 +287,6 @@ return [
                     5 => 'Pochopte, že důvěra v medicínu a v nás zvyšuje proces hojení na každé úrovni',
                     6 => 'Odhodlání k obřadu je příležitostí k řešení všeho, co nám způsobilo utrpení. Zatímco',
                     7 => 'minulost nelze změnit, volba uzavřít s ní mír zůstává v naší kontrole, síla nikoli mimo nás!',
-                    8 => 'Surrender, be willing to be open to how the process unfolds
-                        Understand that whatever we expect will be completely different
-                        Be open to entering a state of complete vulnerability
-                        Be willing to look at uncomfortable aspects of your life (this helps them pass and heal)
-                        Open your heart and your mind
-                        Understand that trust in the medicine and in us increases the healing process on every level
-                        Committing to ceremony is an opportunity to address everything that has caused us suffering. While the
-                        past cannot be changed, the choice to make peace with it remains in our control, the power is not
-                        outside of us!'
                 ],
                 'title_2' => 'Buďte pohodlní',
                 'par' => 'Buďte pohodlní — Během journey noste volné pohodlné oblečení. Můžete zažít
@@ -304,19 +295,11 @@ return [
                 'dont_force_anything' => [
                     'title'=> 'Nic Nenuťte',
                     'pars' => [
-                        0 => '<!--  [ENGLISH] Don’t Force It — After taking Iboga, it is common to experience discomfort at first. This is just how the
-                            energy of Iboga works — you’ve got to feel it to heal it. The most easeful way to navigate any discomfort
-                            is to relax, by focusing on your breath, and surrender. The medicine knows exactly what needs to happen
-                            for us to heal. -->
-                            Nenuťte to – Po užití Ibogy je běžné, že budete zpočátku pociťovat nepohodlí. Takto se právě
+                        0 => 'Nenuťte to – Po užití Ibogy je běžné, že budete zpočátku pociťovat nepohodlí. Takto se právě
                             energie Ibogy funguje – musíte ji cítit, abyste ji vyléčili. Nejjednodušší způsob, jak překonat jakékoli nepohodlí
                             je uvolnit se, soustředit se na svůj dech a odevzdat se. Lék přesně ví, co se má stát
                             abychom se uzdravili.',
-                        1 => '<!--  [ENGLISH] Remember why Iboga called you, and sit in that trust. Expectations of how you want your
-                            journey to go are fruitless. No two people ever experience Iboga in the same way. Your journey is yours
-                            alone, and the Spirit of Iboga will sit and wait until you are ready to receive it. Our providers will
-                            be with you the whole time to guide and assist-->
-                            Vzpomeňte si, proč vás Iboga zavolala, a sedněte si v této důvěře. Očekávání, jak chcete své
+                        1 => 'Vzpomeňte si, proč vás Iboga zavolala, a sedněte si v této důvěře. Očekávání, jak chcete své
                             cesta jít je neplodná. Žádní dva lidé nikdy nezažijí Ibogu stejným způsobem. Vaše cesta je vaše
                             sám a Duch Ibogy bude sedět a čekat, dokud nebudete připraveni jej přijmout. Naši poskytovatelé budou
                             být s vámi po celou dobu, aby vás vedl a pomáhal.'
@@ -336,29 +319,11 @@ return [
                             materiály jsou rušivé a volba je používat zabrání Iboze v tom, aby mohla pokračovat
                             je to práce. Zaměřte se na zónu bez rozptylování a když vás poskytovatelé kontrolují, neváhejte se zeptat.
                             Pokud se na chůzi ještě necítíte, nebudete muset. Poskytovatelé přivezou všechna vaše jídla
-                            do svého pokoje. Jakmile se poprvé dobře vyspíte, budete se cítit inspirováni a omlazeni.
-                            <!-- [ENGLISH]
-                            8. Discovery Day — Following your ceremony, the next day is spent resting in your room. Providers will
-                                continually come in and out to check in on you. If you cannot sleep, don’t worry. It is common to not
-                                fall asleep until later in the evening. Discovery Day is meant for relaxation and stillness — two key
-                                pieces that allow Iboga to continue revealing insights and messages. Electronic devices and reading
-                                materials are distractions, and choosing to use these will prevent Iboga from being able to continue
-                                its work. Commit to a distraction-free zone, and feel free to ask questions when providers check on you.
-                                If you do not feel like walking just yet, you will not need to. Providers will bring all of your meals
-                                to your room. Once you get that first good night’s sleep, you will feel inspired and rejuvenated.
-                                -->'
+                            do svého pokoje. Jakmile se poprvé dobře vyspíte, budete se cítit inspirováni a omlazeni.'
                     ],
                     'stay_positive'=> [
                         'pars' => [
-                            0 => '<!-- [ENGLISH] Stay Positive — Trust the process. As you learn about yourself and shed old patterns, it is important to
-                                consciously choose positivity. It is common to experience ups and downs during a retreat, while your body
-                                and mind are defragmenting and reprogramming, and that is a beautiful thing. Just be a witness to the shifts.
-                                How you feel on day three will be drastically different than how you feel on day eight. Embark on this
-                                integration with purpose, and deflect any negative thoughts by refocusing on positive ones. Go with the
-                                flow and be patient with yourself. Negative thoughts can only grow when we give attention to them.
-                                Otherwise they are powerless.
-                                -->
-                                Důvěřujte procesu. Je  důležité
+                            0 => 'Důvěřujte procesu. Je  důležité
                                 vědomě zvolit pozitivitu když se o sobě učíte a zbavujete se starých vzorů. Je
                                 běžné zažít vzestupy a pády během retreatu, zatímco vaše tělo
                                 a mysl se defragmentují a přeprogramovávjí, a to je krásná věc. Buďte svědkem posunů.',

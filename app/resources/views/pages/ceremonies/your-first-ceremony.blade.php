@@ -218,20 +218,20 @@
             </p>
         </div>
 
-        <!-- 12 - 13 -->
-        <div class = "col-xl-6 col-xs-12">
-            <p>
-            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.12.q');?></div>
-            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.12.a');?></div>
-            </p>
-        </div>
+{{--        <!-- 12 - 13 -->--}}
+{{--        <div class = "col-xl-6 col-xs-12">--}}
+{{--            <p>--}}
+{{--            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.12.q');?></div>--}}
+{{--            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.12.a');?></div>--}}
+{{--            </p>--}}
+{{--        </div>--}}
 
-        <div class = "col-xl-6 col-xs-12">
-            <p>
-            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.13.q');?></div>
-            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.13.a');?></div>
-            </p>
-        </div>
+{{--        <div class = "col-xl-6 col-xs-12">--}}
+{{--            <p>--}}
+{{--            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.13.q');?></div>--}}
+{{--            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.13.a');?></div>--}}
+{{--            </p>--}}
+{{--        </div>--}}
 
     </div>
 

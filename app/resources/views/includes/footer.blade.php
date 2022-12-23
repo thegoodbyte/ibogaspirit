@@ -24,7 +24,7 @@
                     <ul>
 
                         <li><?php echo __('menu.menu_ceremonies.ceremonies.title'); ?></li>
-                        <li><hr /></li>
+                        <li><hr />{{ $applocale }}</li>
                         <li><a href="{{ route('ceremonies-first-ceremony_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
                         <li><a href="{{ route('ceremonies-prep_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.ceremonies.preparation'); ?><</a></li>
                         <li><a href="{{ route('ceremonies-retreat_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.ceremonies.eight_day_retreat'); ?></a></li>

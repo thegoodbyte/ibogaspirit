@@ -10,4 +10,9 @@ use Illuminate\Routing\Controller as BaseController;
 class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
+
+   // public $applocale = 'cz';
+    public function __construct() {
+        //$this->applocale = session('applocale') ?? 'cz';
+    }
 }
