@@ -12,7 +12,7 @@
 {{--    @include('pages.obrady.preparation.before-ceremony-bring-journal')--}}
 
     <div class = "row">
-        <h3 class = "font-size-60"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.title') ?></h3>
+        <h3 class = "h3-heading"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.title') ?></h3>
     </div>
 
     @include('pages.ceremonies.preparation.before-ceremony.before-ceremony-bring-journal')
@@ -25,7 +25,7 @@
     @include('pages.ceremonies.preparation.before-ceremony.preparing-questions')
 
     <div class = "row">
-        <h3 class = "font-size-60"><?php echo __('pages/ceremonies/preparation.content.sections.in_ceremony.title') ?></h3>
+        <h3 class = "h3-heading"><?php echo __('pages/ceremonies/preparation.content.sections.in_ceremony.title') ?></h3>
     </div>
 
     <div class = "row">
@@ -35,7 +35,7 @@
 
 
     <div class = "container  background-text-light-okr">
-        <h3 class = "font-size-60"><?php echo __('pages/ceremonies/preparation.content.sections.after_ceremony.title') ?></h3>
+        <h3 class = "h3-heading"><?php echo __('pages/ceremonies/preparation.content.sections.after_ceremony.title') ?></h3>
     </div>
 
     <div class = "row">

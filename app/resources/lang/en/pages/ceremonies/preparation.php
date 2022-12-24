@@ -7,10 +7,11 @@ return [
             'before_ceremony'=> [
                 'title' => 'Before the ceremony.',
                 'journal' => [
-                    'par'=> 'Bring a journal or recorder because you will likely experience greater awareness of your life, gain new ones
-                     observations and you may want to capture them. In the first part of the journey, you will fully immerse yourself in
-                     experience, but during the later stages or the morning after your iboga journey it will be gradual
-                     easier recording of observations. Immerse yourself in your experiences and write about them if you can to retain as much as possible.',
+                    'par' => 'Bring a journal or voice recorder as you will likely experience increased awareness about your life, gain new
+    insights and may wish to capture these. In the first part of the journey you will be fully immersed in the
+    experience, however during the later stages or the morning after your iboga journey it will be progressively
+    easier to record insights. Soak in your experience and write about it if you can, to retain as much as possible.',
+
                 ],
                 'body' => [
                     'title' => 'Body',
@@ -20,12 +21,12 @@ return [
                              we will work with you in this process.',
                          2 => 'Eat as clean as possible. Sugars and processed foods are best avoided.',
                          3 => 'Colon Hydrotherapy allows medicine to go deeper into your body',
-                        4 => '2. Practice Meditation
-                                                Remember to breathe! If the iboga experience feels overwhelming, slow down and focus on your breath.
-                                Experienced meditators will have an easier time maintaining calmness and balance, even during difficult
-                                                times in the journey. If you have past experience with Vipassana meditation, you will be ahead of the game.
-                                The iboga experience is like a long meditation where the lines of reality and the dream may shift for
-                                    you in a positive way',
+                        4 => 'Practice Meditation
+                            Remember to breathe! If the iboga experience feels overwhelming, slow down and focus on your breath.
+                            Experienced meditators will have an easier time maintaining calmness and balance, even during difficult
+                            times in the journey. If you have past experience with Vipassana meditation, you will be ahead of the game.
+                            The iboga experience is like a long meditation where the lines of reality and the dream may shift for
+                            you in a positive way.',
                         5 => 'At least a week before your trip to Iboga, we recommend that you start preparing your body,
                              mind and spirit. Medicine works best with the clearest channel, so the more work we do
                              the less "noise" and toxins that medicine needs to wade through. The more time you give, the better.'
@@ -39,41 +40,38 @@ return [
                             0 => 'Set your intention for your treatment stay - clarify your goals and prepare questions to answer
                                      you will ask medicine. See below for more information on how to do this.',
                             1 => 'Part of your retreat package is a one-on-one preparatory call with me. I\'ll give you an idea about
-                                     what you can expect, let\'s see how you do
-                                     I will help you prepare your questions and set your intention.',
-                                 2 => 'You are giving yourself an incredible gift. Consider feeling grateful, excited, and empowered. Show off now. Go ahead, I\'ll wait'
+                                 what you can expect, let\'s see how you do
+                                 I will help you prepare your questions and set your intention.',
+                             2 => 'You are giving yourself an incredible gift. Consider feeling grateful, excited, and empowered. Show off now. Go ahead, I\'ll wait'
                              ],
                     ],
                     'no_distractions'=> [
                         'title'=> 'No Distractions',
                         'pars' =>[
-                            0 => 'Iboga retreats should be a calm, introspective time. To allow for maximum healing, this
+                            0 => 'No Distractions — Iboga retreats should be a calm, introspective time. To allow for maximum healing, this
                                 means limiting or removing distractions. Save travel excursions and adventures for before or after your retreat.
                                 After a journey, the insights flow freely. The only way to listen to your soul and observe the depths of healing
                                 is to embrace the stillness. Sometimes people have the most powerful realizations the day after their ceremony.
                                 It is important not to use computers, phones, books, or other distractions after a journey. Our lives are so busy.
-                                Make the choice to “unplug,” and slow down. You’ll receive much more from Iboga this way.',
+                                Make the choice to “unplug,” and slow down. You’ll receive much more from Iboga this way',
                             1 => 'Committing to this spiritual journey and setting our intentions is the beginning. But as our journey approaches,
-                                the mind, sensing imminent demise of its destructive ways, will play tricks and cause us to doubt.',
+                                    the mind, sensing imminent demise of its destructive ways, will play tricks and cause us to doubt.',
                             2 => 'When these doubtful thoughts come, simply acknowledge them and let them pass. Be aware of the thoughts without
-                                reading into them, or attaching to them. It is okay that they exist. Thoughts will always exist, negative
-                                and positive. It is up to us to decide how much power to give them. ',
-                            3 => 'Deep healing is not comfortable and it is not easy, but it works. Healing at the root happens when we surrender.
-                                It happens when we confront our fears. By confronting our shadows, we break through to our greatest possible light!',
+                                    reading into them, or attaching to them. It is okay that they exist. Thoughts will always exist, negative
+                                    and positive. It is up to us to decide how much power to give them',
+                            3 => 'eep healing is not comfortable and it is not easy, but it works. Healing at the root happens when we surrender.
+                            It happens when we confront our fears. By confronting our shadows, we break through to our greatest possible light!',
                             4 => 'When considering Iboga as a teacher, we must take the first step and ask ourselves, ‘Am I ready?’',
-                            5 => 'This means that we are willing to look deep inside our soul, to commit to taking back ownership of our
-                                minds and our lives, that we are ready to seek truth and break free from what is holding us back.',
-                        ],
-                        6 => 'Set Your Intention
-                            Meditation and intention are essential to guiding your journey! This is a deep soujourn into your inner
-                            psyche and having questions prepared will help to drive the journey and visions. Practice guided imagery
-                            of surrendering and letting go of who you are for the purpose of being psychologically and spiritually
-                            cleansed and even reborn. Be flexible with expectations about the experience because it is vastly
-                            different for all people. Iboga causes dreamlike visions but not for everyone. Although there is
-                            little to no medical risk, the experience can induce a sense of fear and a virtual or simulated near
-                            death experience. Psychologically surrendering versus holding on can minimize fear during the experience.
-                ',
-
+                            5 => 'To znamená, že jsme ochotni nahlédnout hluboko do své duše, zavázat se, že převezmeme zpět své vlastnictví
+                                mysl a naše životy, že jsme připraveni hledat pravdu a osvobodit se od toho, co nás brzdí.',
+                            6 => 'Meditation and intention are essential to guiding your journey! This is a deep soujourn into your inner
+                                psyche and having questions prepared will help to drive the journey and visions. Practice guided imagery
+                                of surrendering and letting go of who you are for the purpose of being psychologically and spiritually
+                                cleansed and even reborn. Be flexible with expectations about the experience because it is vastly
+                                different for all people. Iboga causes dreamlike visions but not for everyone. Although there is
+                                little to no medical risk, the experience can induce a sense of fear and a virtual or simulated near
+                                death experience. Psychologically surrendering versus holding on can minimize fear during the experience.',
+                        ]
                     ]
 
                 ],
@@ -103,7 +101,7 @@ return [
                 ],
                 'start_process' => [
                     'title' => 'Start the Process',
-                    'pars' => 'The changes often begin the moment we make the commitment to work with this medicine. Up to
+                    'par' => 'The changes often begin the moment we make the commitment to work with this medicine. Up to
                         months in advance most notice that life begins to shift. In order to get the most of your experience
                         we suggest some preparation in advance:',
 
@@ -117,10 +115,10 @@ return [
                            6 => 'Help to understand your programming and the subconscious mind',
                     ],
                     'connect_intent' => [
-                        'title' => 'Connect with your intentions~',
+                        'title' => 'Connect with your intentions',
                         'par' => 'Get very clear on what it is you are looking to heal. Doing the workbook and with a preparation coach, therapist or
-                                healer can also assist in moving and clarifying a lot to begin to move some of the energy in advance to
-                                receive even more from the medicine during the retreat.'
+                            healer can also assist in moving and clarifying a lot to begin to move some of the energy in advance to
+                            receive even more from the medicine during the retreat.'
                     ],
                     'focus_on_you' => [
                         'title' => 'Focus On You',
@@ -180,16 +178,9 @@ return [
                 ]
             ],
             'in_ceremony' => [
-                'title'=> 'Při Obřadu',
+                'title'=> 'In ceremony',
                 'items' => [
-//                    0 => 'Odevzdejte se, buďte ochotni být otevření tomu, jak se proces vyvíjí',
-//                    1 => 'Pochopte, že cokoliv očekáváme, bude úplně jiné',
-//                    2 => 'Buďte otevření vstupu do stavu naprosté zranitelnosti',
-//                    3 => 'Buďte ochotni podívat se na nepříjemné stránky svého života (to jim pomůže projít a vyléčit se)',
-//                    4 => 'Otevřete své srdce a svou mysl',
-//                    5 => 'Pochopte, že důvěra v medicínu a v nás zvyšuje proces hojení na každé úrovni',
-//                    6 => 'Odhodlání k obřadu je příležitostí k řešení všeho, co nám způsobilo utrpení. Zatímco
-//                            minulost nelze změnit, volba uzavřít s ní mír zůstává v naší kontrole, síla nikoli mimo nás!',
+
                         0 => 'Surrender, be willing to be open to how the process unfolds',
                         1 => 'Understand that whatever we expect will be completely different',
                         2 => 'Be open to entering a state of complete vulnerability',

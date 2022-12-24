@@ -1,19 +1,16 @@
 <div class = "row">
     <div class = "col-xl-12">
-        <h3  class = "font-just-me font-size-60 color-iscz-red">Příprava otázek pro Ibogu</h3>
+        <h3  class = "font-just-me font-size-60 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.title'); ?></h3>
         <p>
-            Otázky? Co?
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.pars.0'); ?>
         </p>
 
         <p>
-            Ano! Jakmile během obřadu požijete dostatek medicíny, můžete se Ibogy zeptat naprosto na cokoliv.
-            Iboga vás spojuje s vaší duší, vaší pravdou – kde jsou všechny odpovědi.
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.pars.1'); ?>
         </p>
 
         <p>
-            Jakmile dojde k tomuto spojení, meditační praxe doma posílí oba váš vztah
-            s Ibogou a se svou Duší, abychom vás podpořili, abyste mohli pravidelně naslouchat své intuici,
-            důvěřuj si a odpověz na všechny své otázky – vždy.
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.pars.2'); ?>
         </p>
     </div>
 </div>
@@ -21,59 +18,57 @@
 <div class = "row">
     <div class = "col-xl-6">
 
-        <h4  class = "font-just-me font-size-60 color-iscz-red">Prvni Krok</h4>
-        <h4  class = "font-just-me font-size-40 color-iscz-red">Přehled života</h4>
+        <h4  class = "font-just-me font-size-60 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.first_step.title'); ?></h4>
+        <h4  class = "font-just-me font-size-40 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.first_step.subtitle'); ?></h4>
 
         <p>
-            Při přípravě otázek doporučujeme vytáhnout notebook a nakreslit čáru uprostřed stránky.
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.first_step.pars.0'); ?>
         </p>
 
         <p>
-            Na levou stranu si zapište všechny věci, které se vám na vašem životě aktuálně nelíbí.
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.first_step.pars.1'); ?>
         </p>
 
         <p>
-            Na pravou stranu řádku, přímo naproti každé, napište, jak chcete, aby vypadala.
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.first_step.pars.2'); ?>
         </p>
 
         <p>
-            Například, pokud jsou ve vašem romantickém vztahu problémy. Na pravou stranu napište, můj partner a já bojujeme.
-            Přímo přes napište, co chcete, aby to bylo, například já a můj partner jsme ve zdravém vztahu.
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.first_step.pars.3'); ?>
         </p>
 
         <p>
-            Zde můžete vytvářet své otázky. Například,
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.first_step.pars.4'); ?>
         </p>
 
         <p>
-            Jak mohu mít zdravý vztah?</p>
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.first_step.pars.5'); ?>
+        </p>
     </div>
 
     <div class = "col-xl-6">
 
-        <h3 class = "font-just-me font-size-60 color-iscz-red">Druhy Krok</h3>
-        <h4  class = "font-just-me font-size-40 color-iscz-red">Dělejte věci jinak</h4>
+        <h3 class = "font-just-me font-size-60 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.second_step.title'); ?></h3>
+        <h4  class = "font-just-me font-size-40 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.second_step.subtitle'); ?></h4>
 
         <p>
-            Nyní, když jste vyléčili starou ránu, je čas vytvořit si nový návyk, abyste mohli začít vytvářet nové
-            Výsledek. Zeptejte se medicíny, jak můžete dělat věci jinak.
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.second_step.pars.0'); ?>
         </p>
 
         <p>
-            Jak to mohu změnit?
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.second_step.pars.1'); ?>
         </p>
 
         <p>
-            Jak mohu lépe komunikovat se svým partnerem?
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.second_step.pars.2'); ?>
         </p>
 
         <p>
-            Jak říká Moughenda staňte se kapitánem své vlastní lodi! A podle Cobyho Kozlowského, když se změníte
-            kurz lodi o jeden stupeň, skončíte ve zcela nové destinaci.
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.second_step.pars.3'); ?>
         </p>
 
         <p>
-            Nejprve si ale musíte uvědomit, že máte pod kontrolou, abyste mohli činit nová rozhodnutí – a to je potenciál Ibogy.
+            <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.second_step.pars.4'); ?>
         </p>
     </div>
 </div>

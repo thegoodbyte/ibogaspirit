@@ -1,45 +1,30 @@
 <section>
     <div class = "row">
         <div class = "col-xl-6">
-            <h3  class = "font-just-me font-size-60 color-iscz-red">Tělo</h3>
+            <h2  class = "h2-heading"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.title'); ?></h2>
             <p>
-                Měli byste se zdržet alkoholu, drog a většiny léků po dobu minimálně 4 dnů.
+                <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.pars.0'); ?>
             </p>
 
             <p>
-                Některé léky vyžadují abstinenci až 30 dnů. Žádný strach, dejte nám vědět, co se děje, a my s
-                vámi budeme v tomto procesu spolupracovat.
+                <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.pars.1'); ?>
             </p>
 
             <p>
-                Jezte co nejčistěji. Cukrům a průmyslově zpracovaným potravinám je lepší se vyhnout.
+                <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.pars.2'); ?>
             </p>
 
             <p>
-                Colon Hydroterapie umožňuje, aby se medicína dostala hlouběji do vašeho těla
+                <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.pars.3'); ?>
             </p>
 
 
             <p>
-                <!--
-                2. Practice Meditation
-                Remember to breathe! If the iboga experience feels overwhelming, slow down and focus on your breath.
-                Experienced meditators will have an easier time maintaining calmness and balance, even during difficult
-                times in the journey. If you have past experience with Vipassana meditation, you will be ahead of the game.
-                The iboga experience is like a long meditation where the lines of reality and the dream may shift for
-                you in a positive way. -->
-                Nezapomeňte dýchat! Pokud je zážitek z ibogy ohromující, zpomalte a soustřeďte se na svůj dech.
-                Zkušení meditující snáze udrží klid a rovnováhu, a to i v obtížných situacích
-                časy na cestě. Pokud máte minulou zkušenost s meditací Vipassana, budete napřed.
-                Zážitek ibogy je jako dlouhá meditace, kde se mohou posouvat linie reality a snu
-                ty v pozitivním slova smyslu.
-
+                <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.pars.4'); ?>
             </p>
 
             <p>
-                Nejméně týden před cestou na Ibogu vám doporučujeme začít s přípravou těla,
-                mysli a ducha. Medicína funguje nejlépe s nejčistším kanálem, takže čím více práce uděláme
-                tím méně „hluku“ a toxinů, které medicína potřebuje prorazit. Čím více času si dáte, tím lépe.
+                <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.pars.5'); ?>
             </p>
         </div>
     </div>
