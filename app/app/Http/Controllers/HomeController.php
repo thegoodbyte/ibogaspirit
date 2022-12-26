@@ -21,7 +21,8 @@ class HomeController extends Controller
     public function index() {
 
         return View::make('pages.home.index', [
-            'pageTitle' => __('seo/seo.test'),
+            //  echo __('pages/homepage.content.what_iboga_does.pars.2');
+            'pageTitle' => __('seo/homepage.seo.title'),
             'metaDesc' => 'S Ibogou můžeš vyléčit celoživotní trauma během jedné noci, pokud jsi připraven přinést pravdu do své mysli. Iboga ceremonie v africké tradici Bwiti',
             'metaKws' => 'Iboga pobyt, Iboga terapie, Iboga zkušenosti, Iboga Bwiti léčení, iboga terapie, šamanské léčení, alternativní léčení'
         ]);
