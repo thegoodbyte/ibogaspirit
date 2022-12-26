@@ -13,13 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [\App\Http\Controllers\HomeController::class, "index"]);
-
-
-
-Route::controller(\App\Http\Controllers\IbogaController::class)->group(function() {
-    Route::get('/{en}/iboga-bwiti-retraeats-czech-republic-europe', 'index');
-});
 
 // czech
 
@@ -30,6 +23,7 @@ Route::controller(\App\Http\Controllers\IbogaController::class)->group(function(
 /**
  * kept for old SEAO links
  */
+
     Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_old_cz');
     Route::get('/iboga/co-je-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_old_cz');
 //    Route::get('/iboga/co-je-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_de');
@@ -54,6 +48,7 @@ Route::controller(\App\Http\Controllers\IbogaController::class)->group(function(
 /**
  * seo cZ Links
  */
+Route::get('/', [\App\Http\Controllers\HomeController::class, "index"])->name('home_cz');
 Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_cz');
 Route::get('/iboga/co-je-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_cz');
 //    Route::get('/iboga/co-je-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_de');
@@ -80,8 +75,9 @@ Route::get('/cookies',  [\App\Http\Controllers\HomeController::class, 'cookies']
     //         ENGLISH
     // =====================================================================================================
 Route::prefix('en')->group(function() {
-    $applocale = 'en';
-    session(['applocale' => 'en']);
+//    $applocale = 'en';
+//    session(['applocale' => 'en']);
+    Route::get('/', [\App\Http\Controllers\HomeController::class, "index"])->name('home_en');
     Route::get('/iboga-europe-czech-republic', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_en');
     Route::get('/iboga-europe-czech-republic/what-is-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_en');
     Route::get('/iboga-europe-czech-republic/how-iboga-plant-medicine-can-help-you-heal', [\App\Http\Controllers\IbogaController::class, "how_iboga_can_help"])->name('iboga-how-can-help_en');

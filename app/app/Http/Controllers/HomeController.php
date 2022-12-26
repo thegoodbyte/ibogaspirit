@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\Facades\Input;
-
+use Illuminate\Support\Facades\Route;
 
 use App\Notifications\ContactFormMessage;
 use App\Http\Requests\ContactFormRequest;
@@ -21,9 +21,19 @@ class HomeController extends Controller
 
     public function index() {
 
-        if (empty(session('applocale'))) {
-            session(['applocale' => 'cz']);
+        $route = Route::currentRouteName();
+
+        $allowedLocales = ['cz', 'en'];
+
+        $split = explode("_", $route);
+        if (!empty($split[1]) && in_array($split[1], $allowedLocales)) {
+            session(['applocale' => $split[1]]);
+        } else {
+            if (empty(session('applocale'))) {
+                session(['applocale' => 'cz']);
+            }
         }
+
         $applocale = session('applocale');
 
 
