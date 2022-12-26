@@ -1,0 +1,192 @@
+
+#home-zijte-stastne {
+    color: #fff;
+    font-family: "Lato", Sans-serif;
+    background-color: #381401;
+    padding-top: 20px;
+
+    h2 {
+        font-weight: 900;
+        font-size: 50px;
+        color: #fff;
+    }
+
+
+    .container-fluid {
+        background-color: #000;
+
+        div.stastne-half-col-bg-left {
+            div.row {
+                position: relative;
+                align-content: end;
+                justify-content: right;
+            }
+        }
+        .stastne-half-col-bg-right {
+            background-color: #54595F;
+        }
+
+        .container-fluid div div.row {
+            .col  {
+                max-width: 500px;
+
+            }
+
+        }
+    }
+
+    /*#home-zijte-stastne .container-fluid .stastne-half-col-bg-left {*/
+    /*    background-color: #000;*/
+    /*}*/
+
+
+
+
+
+    #home-stastne-left-col {
+        min-height: 475px;
+
+        .row-show-more-button {
+            bottom: 30px;
+        }
+    }
+
+    .menu-iboga-container {
+        width: 73%;
+        margin-top: 20px;
+    }
+
+    .menu-iboga-container {
+        a {
+            text-transform: uppercase;
+            font-family: "Lato", Sans-serif;
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 2em;
+            letter-spacing: 0px;
+            text-decoration:  none;
+            color: #fff;
+            border-bottom: 1px solid #fff;
+            display: block;
+
+            &:hover {
+                    background-color: #8C4C18;
+                    color: #fff !important;
+            }
+        }
+
+    }
+}
+
+
+
+#home-kdo-jsme {
+    background-color: #EBEBEB;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 62px 0px 70px 0px;
+    overflow: hidden;
+
+    &:hover {
+        background-color: rgba(151, 83, 40, 0.55);
+    }
+
+    h2 {
+        color: #242426;
+        font-family: "Lato", Sans-serif;
+        font-size: 50px;
+        font-weight: 900;
+        text-transform: uppercase;
+        line-height: 1em;
+        letter-spacing: 0px;
+    }
+    .box-kdo-jsme {
+        min-height: 604px;
+        position: relative;
+
+        img {
+            object-fit: contain;
+        }
+
+        .button-show-more{
+            display: block;
+            align-items: center;
+            /*position: absolute;*/
+            /*bottom: -20px;*/
+            /*overflow: hidden;*/
+            text-align: center;
+        }
+    }
+
+    .who-we-are-col-1 {
+        .box-kdo-jsme {
+            background-color: rgba(151, 83, 40, 0.05);
+            padding: 10px;
+        }
+
+        .box-kdo-jsme img {
+            border: 6px solid #fff;
+        }
+    }
+    .who-we-are-col-2 {
+        .box-kdo-jsme {
+            background-color: rgba(151, 83, 40, 0.13);
+            padding: 10px;
+
+            h2{
+                color: rgba(79, 41, 0, .92);
+            }
+        }
+    }
+
+    .who-we-are-col-3 {
+        .box-kdo-jsme {
+            background-color: rgba(151, 83, 40, 0.22);
+            padding: 10px;
+
+            background-color: rgba(151, 83, 40, 0.22);
+            padding: 10px;
+
+            img{
+                border: 6px solid #fff;
+            }
+            h2{
+                color: rgba(79, 41, 0, .85);
+            }
+        }
+    }
+}
+
+#home-parallax {
+    background-image: url('/images/iboga/bwiti/bwiti-all-1200w.jpg');
+    background-position:top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 600px;
+
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 135px 0px 110px 0px;
+    -widgets-spacing: 20px;
+
+    h2 {
+        color: #FFFFFF;
+        font-family: "Lato", Sans-serif;
+        font-weight: 900;
+        text-transform: uppercase;
+        line-height: 1em;
+        letter-spacing: 2px;
+        padding-left: 5px;
+    }
+
+    p {
+        color: #FFFFFF;
+        font-family: "Lato", Sans-serif;
+    }
+}
+
+
+
+
+
+
+
+

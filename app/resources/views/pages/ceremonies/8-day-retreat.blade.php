@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('content')
 
-
+<section id = "ceremonies-retreat">
     <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
 
 
@@ -223,7 +223,7 @@
             </div>
         </div>
 -->
-
+</section>
     @include('pages.ceremonies.retreat-days.retreat-day-1')
     @include('pages.ceremonies.retreat-days.retreat-day-2')
     @include('pages.ceremonies.retreat-days.retreat-day-3')

@@ -21,7 +21,7 @@ class HomeController extends Controller
     public function index() {
 
         return View::make('pages.home.index', [
-            'pageTitle' => 'Iboga terapie ceremnie - alternativní léčení depreseú, úzkosti, traumat, rozšíření vědomí - České republika',
+            'pageTitle' => __('seo/homepage.seo.title'),
             'metaDesc' => 'S Ibogou můžeš vyléčit celoživotní trauma během jedné noci, pokud jsi připraven přinést pravdu do své mysli. Iboga ceremonie v africké tradici Bwiti',
             'metaKws' => 'Iboga pobyt, Iboga terapie, Iboga zkušenosti, Iboga Bwiti léčení, iboga terapie, šamanské léčení, alternativní léčení'
         ]);

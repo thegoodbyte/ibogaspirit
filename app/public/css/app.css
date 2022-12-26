@@ -265,25 +265,7 @@ blockquote cite {
 }
 
 
-#eight-day-retreat-includes-box div.item p{
-    text-align: center;
-    align-items: center;
-    margin-top: 35px;
-}
-#eight-day-retreat-includes-box div.item img{
-    margin: auto;
-    display: flex;
-}
 
-#eight-day-retreat-includes-box div.item {
-    display: block;
-    margin-bottom: 20px;
-    padding: 10px;
-}
-
-#eight-day-retreat-includes-box div.item:hover {
-    background-color: rgb(166, 191, 136);
-}
 
 
 /*@font-face {*/
@@ -291,23 +273,9 @@ blockquote cite {
 /*    src: url('/fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf');*/
 /*}*/
 /**/
-#retreat-day3-row {
-    background-image: url("/images/obrady/forrest.jpg");
-    min-height: 400px;
-    background-attachment: fixed;
-}
 
-#retreat-day3-row  p {
-    background-color: rgba(255, 255, 255, 0.7);
-}
 
-#retreat-day3-row  blockquote {
-    background-color: #fff;
-}
 
-#retreat-day3-row  .font-just-me {
-    color: #fff;
-}
 
 
 #iboga-bwiti-tradice-top-image {
@@ -385,9 +353,7 @@ blockquote cite {
     margin-bottom: 3px;
 }
 
-.pobyt-day-box {
-    background: radial-gradient(ellipse 100% 7% at 50% 100%, rgba(55, 55, 55, 0.5) 200px, rgba(55, 55, 55, 0.1) 360px, white 380px);
-}
+
 
 #onas-nganga-img-box {
     display: block;
@@ -505,11 +471,7 @@ ul.lh-150 li {
        visibility: visible;
    }
 }
-#pobyty-list-overview {
-    list-style: none;
-    margin-left: 0px;
-    padding-left: 0px;
-}
+
 
 /*.font-s-blossom {*/
 /*    font-family: Samble;*/
@@ -585,76 +547,6 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     margin-top: 1em;
 }
 
-#home-kdo-jsme h2 {
-    color: #242426;
-    font-family: "Lato", Sans-serif;
-    font-size: 50px;
-    font-weight: 900;
-    text-transform: uppercase;
-    line-height: 1em;
-    letter-spacing: 0px;
-}
-#home-kdo-jsme {
-    background-color: #EBEBEB;
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
-    padding: 62px 0px 70px 0px;
-    overflow: hidden;
-}
-
-.box-kdo-jsme:hover {
-    background-color: rgba(151, 83, 40, 0.55);
-}
-
-#home-kdo-jsme .box-kdo-jsme {
-    min-height: 604px;
-    position: relative;
-}
-#home-kdo-jsme .box-kdo-jsme img {
-    object-fit: contain;
-}
-#home-kdo-jsme .who-we-are-col-1 .box-kdo-jsme{
-    background-color: rgba(151, 83, 40, 0.05);
-    padding: 10px;
-}
-
-#home-kdo-jsme .who-we-are-col-1 .box-kdo-jsme h2{
-    color: rgb(79, 41, 0);
-}
-
-
-
-#home-kdo-jsme .who-we-are-col-1 .box-kdo-jsme img {
-    border: 6px solid #fff;
-}
-#home-kdo-jsme .who-we-are-col-2 .box-kdo-jsme{
-    background-color: rgba(151, 83, 40, 0.13);
-    padding: 10px;
-}
-#home-kdo-jsme .who-we-are-col-2 .box-kdo-jsme h2{
-    color: rgba(79, 41, 0, .92);
-}
-
-#home-kdo-jsme .who-we-are-col-3 .box-kdo-jsme {
-     background-color: rgba(151, 83, 40, 0.22);
-     padding: 10px;
- }
-
-#home-kdo-jsme .who-we-are-col-3  img{
-    border: 6px solid #fff;
-}
-
-#home-kdo-jsme .who-we-are-col-3 .box-kdo-jsme h2{
-    color: rgba(79, 41, 0, .85);
-}
-
-#home-kdo-jsme .box-kdo-jsme .button-show-more{
-    display: block;
-    align-items: center;
-    /*position: absolute;*/
-    /*bottom: -20px;*/
-    /*overflow: hidden;*/
-    text-align: center;
-}
 
 .row-kdo-jsme {
     max-width: 1200px;
@@ -677,31 +569,7 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     position: absolute;
 }
 
-#home-parallax {
-    background-image: url('/images/iboga/bwiti/bwiti-all-1200w.jpg');
-    background-position:top;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    height: 600px;
 
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
-    padding: 135px 0px 110px 0px;
-    -widgets-spacing: 20px;
-}
-
-    #home-parallax h2 {
-        color: #FFFFFF;
-        font-family: "Lato", Sans-serif;
-        font-weight: 900;
-        text-transform: uppercase;
-        line-height: 1em;
-        letter-spacing: 2px;
-    }
-
-#home-parallax p {
-    color: #FFFFFF;
-    font-family: "Lato", Sans-serif;
-}
 
 
 .page-header-bg {
@@ -747,13 +615,13 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
 }
 
 #home-zijte-stastne-pic {
-    min-height: 400px;
+    min-height: 475px;
     width: 100%;
     display:block;
     /*background-image: url('/images/home/poznejte/happy_1200.jpeg');*/
     background-image: url('/images/headers/live-happily-bg-1200.jpg');
     background-repeat: no-repeat;
-    height: 100vh;
+    /*height: 100vh;*/
     padding-left: 30px;
 }
 
@@ -1080,10 +948,6 @@ footer a:hover {
 
     }
 
-    #home-parallax h2 {
-        padding-left: 5px;
-
-    }
     section.home-section-ziot-je-dar h1 {
         font-size: 38px;
         margin-top: 0px;
@@ -1254,72 +1118,29 @@ footer a:hover {
 }
 
 
-/*  HOME */
-#home-zijte-stastne  {
-    color: #fff;
-    font-family: "Lato", Sans-serif;
-    background-color: #381401;
-    padding-top: 20px;
-}
 
-#home-zijte-stastne .container-fluid {
-    background-color: #000;
-}
-
-/*#home-zijte-stastne .container-fluid .stastne-half-col-bg-left {*/
-/*    background-color: #000;*/
+/*.menu-iboga-container {*/
+/*    width: 73%;*/
+/*    margin-top: 20px;*/
 /*}*/
 
-#home-zijte-stastne .container-fluid div.stastne-half-col-bg-left div.row {
-    position: relative;
-    align-content: end;
-    justify-content: right;
-}
+/*.menu-iboga-container a {*/
+/*    text-transform: uppercase;*/
+/*    font-family: "Lato", Sans-serif;*/
+/*    font-size: 20px;*/
+/*    font-weight: 700;*/
+/*    line-height: 2em;*/
+/*    letter-spacing: 0px;*/
+/*    text-decoration:  none;*/
+/*    color: #fff;*/
+/*    border-bottom: 1px solid #fff;*/
+/*    display: block;*/
+/*}*/
 
-#home-zijte-stastne .container-fluid .stastne-half-col-bg-right {
-    background-color: #54595F;
-}
-
-#home-zijte-stastne .container-fluid div div.row .col  {
-    max-width: 500px;
-}
-
-#home-stastne-left-col {
-    min-height: 475px;
-}
-
-#home-stastne-left-col .row-show-more-button {
-    bottom: 30px;
-}
-
-#home-zijte-stastne  h2 {
-    font-weight: 900;
-    font-size: 50px;
-    color: #fff;
-}
-
-.menu-iboga-container {
-    width: 73%;
-    margin-top: 20px;
-}
-
-.menu-iboga-container a {
-    text-transform: uppercase;
-    font-family: "Lato", Sans-serif;
-    font-size: 20px;
-    font-weight: 700;
-    line-height: 2em;
-    letter-spacing: 0px;
-    text-decoration:  none;
-    color: #fff;
-    border-bottom: 1px solid #fff;
-    display: block;
-}
-
-.menu-iboga-container a:hover {
-    background-color: #A07A5A;
-    color: #fff;
-}
+/*.menu-iboga-container a:hover {*/
+/*    background-color: #A07A5A;*/
+/*    color: #fff;*/
+/*}*/
 
 
 
