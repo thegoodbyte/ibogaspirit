@@ -14,7 +14,7 @@ return [
          ],
         'ceremonies' => [
             'title' => 'Ceremonie',
-            'your_first_ceremony'   => 'Váše první Iboga ceremonie',
+            'your_first_ceremony'   => 'Vaše první Iboga ceremonie',
             'preparation'           => 'Příprava a Průbežná péče',
             'eight_day_retreat'     => "Osmidenní léčebny pobyt",
             'medical_guidelines'    => 'Lékařské směrnice',

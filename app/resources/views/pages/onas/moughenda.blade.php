@@ -42,7 +42,7 @@
             <p><?php echo __('pages/about-us/moughenda.content.pars.2'); ?>
             </p>
 
-            <blockquote><?php echo __('pages/about-us/moughenda.content.quotes.2.quote'); ?><cite><?php echo __('pages/about-us/moughenda.content.quotes.2.cite'); ?>/cite></blockquote>
+            <blockquote><?php echo __('pages/about-us/moughenda.content.quotes.2.quote'); ?><cite><?php echo __('pages/about-us/moughenda.content.quotes.2.cite'); ?></cite></blockquote>
 
             <p><?php echo __('pages/about-us/moughenda.content.pars.3'); ?></p>
 

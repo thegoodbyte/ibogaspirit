@@ -39,30 +39,47 @@ class HomeController extends Controller
 
     public function nganga() {
 
+        if (empty(session('applocale'))) {
+            session(['applocale' => 'cz']);
+        }
+        $applocale = session('applocale');
 
         return View::make('pages.onas.nganga', [
             'pageTitle' => 'Zkušený Bwiti léčitel a facilitátor Ibogy vyškolený v Gabonu v Africe poskytující bezpečné Bwiti ceremonie povodňových dávek v České republice',
             'metaDesc' => 'Zkušený Bwiti léčitel a facilitátor Ibogy vyškolený v Gabonu v Africe poskytující bezpečné Bwiti ceremonie povodňových dávek v České republice',
-            'metaKws' => 'Iboga Bwiti léčitel, Iboga terapie, Iboga zkušenosti, Iboga léčení, iboga terapie, šamanské léčení, alternativní léčení'
+            'metaKws' => 'Iboga Bwiti léčitel, Iboga terapie, Iboga zkušenosti, Iboga léčení, iboga terapie, šamanské léčení, alternativní léčení',
+            'applocale' => $applocale
         ]);
     }
 
 
 
     public function moughenda() {
+        if (empty(session('applocale'))) {
+            session(['applocale' => 'cz']);
+        }
+        $applocale = session('applocale');
+
         return View::make('pages.onas.moughenda', [
         'pageTitle' => 'Iboga šaman Moughenda Mikala - Bwiti učitel a léčitel',
             'metaDesc' => 'Iboga šaman Moughenda Mikala - Bwiti učitel a léčitel',
-            'metaKws' => 'Iboga šaman Moughenda Mikala - Bwiti učitel, léčitell, Iboga terapie, Iboga zkušenosti, Iboga léčení, iboga terapie, šamanské léčení, alternativní léčení'
+            'metaKws' => 'Iboga šaman Moughenda Mikala - Bwiti učitel, léčitell, Iboga terapie, Iboga zkušenosti, Iboga léčení, iboga terapie, šamanské léčení, alternativní léčení',
+        'applocale' => $applocale
         ]);
 
     }
 
     public function kontakt() {
+        if (empty(session('applocale'))) {
+            session(['applocale' => 'cz']);
+        }
+        $applocale = session('applocale');
+
         return View::make('pages.onas.kontakt', [
             'pageTitle' => 'Kontaktuje zkušeneho Bwiti léčitele a facilitátora Ibogy vyškoleneho v africkem Gabon',
             'metaDesc' => 'Domluvte si schůzku ještě dnes a prodiskutujte, jak vám medicína Iboga může pomoci  vás vyléčit a rozšířit vědomí',
-            'metaKws' => 'Iboga terapie, Iboga zkušenosti, Iboga léčení, iboga terapie, šamanské léčení, alternativní léčení'
+            'metaKws' => 'Iboga terapie, Iboga zkušenosti, Iboga léčení, iboga terapie, šamanské léčení, alternativní léčení',
+            'applocale' => $applocale
         ]);
 
     }
