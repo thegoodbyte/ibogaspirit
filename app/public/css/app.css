@@ -3,12 +3,17 @@
     --dark-green: rgba(79, 129, 15, 1);
     --okr: rgba(177, 153, 70, 1);
     --okr-light: rgb(229 225 208);
+    --okr-light2: #f5f2e4;
     --beige: rgba(188, 183, 170, 0.5);
     --beige-light: rgba(229 222 204, 1);
     --okr2: rgba(225, 145, 77, 1);
     --iscz-brown: #813007;
     --iscz-brown2: #89590a;
     --iscz-orange: #DF7015;
+    --iscz-light-green : #e3ffe7;
+
+    --iscz-light-green2 : #e1f0e3;
+    --iscz-light-yellow : #fff5d9;
 }
 
 a {
@@ -342,6 +347,18 @@ blockquote cite {
 
 .background-text-light-okr {
     background-color: var(--okr-light);
+}
+
+.background-text-light-okr2 {
+    background-color: var(--okr-light2);
+}
+
+.background-text-light-green {
+    background-color: var(--iscz-light-green2);
+}
+
+.background-text-light-yellow {
+    background-color: var(--iscz-light-yellow);
 }
 
 .background-text-light-blue {

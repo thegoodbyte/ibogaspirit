@@ -4,8 +4,7 @@
     <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
 
     <div class = "row">
-        <h1 class = "font-just-me font-size-80 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.title') ?>
-            </h1>
+        <h1 class = "font-just-me h1-heading color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.title') ?></h1>
     </div>
 
 
@@ -34,18 +33,27 @@
     </div>
 
 
-    <div class = "container  background-text-light-okr">
+    <div class = "container background-text-light-okr2">
         <h3 class = "h3-heading"><?php echo __('pages/ceremonies/preparation.content.sections.after_ceremony.title') ?></h3>
-    </div>
-
-    <div class = "row">
 
 
         @include('pages.ceremonies.preparation.after-ceremony.after-ceremony-discovery-day')
 
         @include('pages.ceremonies.preparation.after-ceremony.after-ceremony-after')
 
-</div>
+    </div>
+
+    <div class = "row mt-5">
+        <div class = "class-xl-12">
+            <p>
+                <?php echo __('pages/ceremonies/preparation.content.sections.after_ceremony.sections.note.par'); ?>
+            </p>
+
+        </div>
+    </div>
+
+    <div class = "row">
+    </div>
 {{--    <div class = "row">--}}
 {{--        <div class = "col-xl-12">--}}
 {{--        <h3 class  = "font-just-me">Učte se od šamanských poskytovatelů</h3>--}}

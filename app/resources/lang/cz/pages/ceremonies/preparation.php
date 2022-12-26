@@ -34,6 +34,36 @@ return [
                         5 => 'Nejméně týden před cestou na Ibogu vám doporučujeme začít s přípravou těla,
                             mysli a ducha. Medicína funguje nejlépe s nejčistším kanálem, takže čím více práce uděláme
                             tím méně „hluku“ a toxinů, které medicína potřebuje prorazit. Čím více času si dáte, tím lépe.'
+                    ],
+                    'healthy_foods' => [
+                        'title' => 'Zzdravá jídla',
+                        'par' => 'Jezte zdravá jídla -  Iboga je silná na fyzické tělo, takže půst nebo výhradně odšťavňování není
+                        doporučeno (i když je skvělé přidat do svého jídelníčku šťávy). Nejlepší jsou organické a minimálně zpracované potraviny'
+                    ],
+                    'diet' => [
+                        'title' => 'Dieta',
+                        'par' => 'Diet Before & After Iboga~ There is no “Iboga Diet” per-se but the cleaner we eat, the less we need
+                            to detox before the medicine can work it’s full magic. There is also a very strong correlation
+                            between the body/mind/soul connections. When we are conscious and mindful about what we put in our
+                            bodies, we tend to be more mindful about our thoughts, environments and the company we choose to keep.
+                            We find that many people after having a deep internal shift will also implement changes in their diet and vice versa.
+                            The more prep we can do in advance to “tune in” and clean up aspects of our lives, the deeper
+                            the medicine can go more quickly.',
+                        'items' => [
+                                0 => 'Maso na pastvě a divoké maso/mořské plody (pokud již nejsou vegetariánské nebo veganské)',
+                                1 => 'Vydatná výživná rostlinná strava',
+                                2 => 'Hodně ovoce a zeleniny',
+                                3 => 'Mletá jídla, jako je kořenová zelenina, vývar z kostí, polévky/dušená masa (zejména po ústupu)',
+                                4 => 'Minimální až žádný cukr',
+                                5 => 'Odstraňte veškerý alkohol 7-14 dní předem (pokud není uvedeno déle)',
+                                6 => 'Snižte množství kofeinu (ne více než 1 šálek denně, abyste se vyhnuli bolestem hlavy z kofeinu v den ceremonie)',
+                                7 => 'Odstraňte sodu a další sladké nápoje',
+                                8 => 'Pijte hodně filtrované vody (1 galon denně +)',
+                                9 => 'Odstraňte vysoce zpracované potraviny, zejména s konzervačními látkami a umělými barvivy/příchutěmi',
+                                10 => 'Léky a doplňky~ Při práci s Ibogou se doporučuje pozastavit většinu léků. Buď
+                                    jsou kontraindikovány nebo je medicína jednoduše vyplaví. Mluvte s námi upřímně před vámi
+                                kniha o všem, co právě berete. Je to pro vaši bezpečnost, nemůžeme to dostatečně zdůraznit.',
+                        ]
                     ]
                 ],
                 'mind' => [

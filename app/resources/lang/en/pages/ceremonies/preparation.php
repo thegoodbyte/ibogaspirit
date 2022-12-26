@@ -8,9 +8,9 @@ return [
                 'title' => 'Before the ceremony.',
                 'journal' => [
                     'par' => 'Bring a journal or voice recorder as you will likely experience increased awareness about your life, gain new
-    insights and may wish to capture these. In the first part of the journey you will be fully immersed in the
-    experience, however during the later stages or the morning after your iboga journey it will be progressively
-    easier to record insights. Soak in your experience and write about it if you can, to retain as much as possible.',
+                        insights and may wish to capture these. In the first part of the journey you will be fully immersed in the
+                        experience, however during the later stages or the morning after your iboga journey it will be progressively
+                        easier to record insights. Soak in your experience and write about it if you can, to retain as much as possible.',
 
                 ],
                 'body' => [
@@ -21,7 +21,7 @@ return [
                              we will work with you in this process.',
                          2 => 'Eat as clean as possible. Sugars and processed foods are best avoided.',
                          3 => 'Colon Hydrotherapy allows medicine to go deeper into your body',
-                        4 => 'Practice Meditation
+                        4 => 'Practice Meditation<br />
                             Remember to breathe! If the iboga experience feels overwhelming, slow down and focus on your breath.
                             Experienced meditators will have an easier time maintaining calmness and balance, even during difficult
                             times in the journey. If you have past experience with Vipassana meditation, you will be ahead of the game.
@@ -30,6 +30,36 @@ return [
                         5 => 'At least a week before your trip to Iboga, we recommend that you start preparing your body,
                              mind and spirit. Medicine works best with the clearest channel, so the more work we do
                              the less "noise" and toxins that medicine needs to wade through. The more time you give, the better.'
+                    ],
+                    'healthy_foods' => [
+                        'title' => 'Healthy foods',
+                        'par' => 'Eat healthy, vibrant foods~ Iboga is a strong on the physical body so fasting or juicing exclusively is not
+                        recommended (though it is great to add juices to your eating schedule). Organic and minimally processed foods are best.'
+                    ],
+                    'diet' => [
+                        'title' => 'Diet',
+                        'par' => 'Dieta před a po Iboze: Neexistuje žádná „Iboga dieta“, ale čím čistěji jíme, tím méně potřebujeme
+                            detoxikovat dříve, než medicína začne fungovat, je to úplná magie. Existuje také velmi silná korelace
+                            mezi spojením těla/mysli/duše. Když jsme si vědomi a uvědomujeme si, co do toho vkládáme
+                            těla, máme tendenci být více všímaví ke svým myšlenkám, prostředí a společnosti, kterou se rozhodneme udržovat.
+                            Zjistili jsme, že mnoho lidí po hlubokém vnitřním posunu také zavede změny ve své stravě a naopak.
+                            Čím více se můžeme předem připravit na „naladění“ a vyčištění aspektů našich životů, tím hlouběji
+                            medicína může jít rychleji.',
+                        'items' => [
+                            0 => 'Pastured & wild meats/seafood (unless already vegetarian or vegan)',
+                            1 => 'Hearty nourishing plant-based foods',
+                            2 => 'Lots of fruits and vegetables',
+                            3 => 'Grounding foods such as root vegetables, bone broth, soups/stews (especially after the retreat)',
+                            4 => 'Minimal to no sugar',
+                            5 => 'Remove any alcohol 7-14 days before (unless instructed for longer)',
+                            6 => 'Reduce caffeine (no more than 1 cup per day so as to avoid caffeine headaches the day of ceremony)',
+                            7 => 'Eliminate soda and other sugary beverages',
+                            8 => 'Drink a lot of filtered water (1 gallon per day +)',
+                            9 => 'Eliminate highly processed foods, especially with preservatives and artificial colors/flavors',
+                            10 => 'Medications &amp; Supplements: It is recommended to pause most medications when working with Iboga. Either
+                            they are contraindicated or will simply be flushed out by the medicine. Speak with us honestly before you
+                            book about anything that you are currently taking. This is for your safety, we cannot stress this enough.',
+                        ]
                     ]
                 ],
                 'mind' => [
@@ -156,7 +186,7 @@ return [
                              ]
                         ],
                         'second_step' => [
-                            'title' => 'Types of Step',
+                            'title' => 'Second Step',
                             'subtitle' => 'Do things differently',
 
                             'pars' => [
@@ -211,7 +241,7 @@ return [
 
             ],
             'after_ceremony' => [
-                'title' => 'Po Obřadu..',
+                'title' => 'After the ceremony',
                 'sections'=>[
                     'discovery_day' => [
                         'title' => 'Discovery Day',
@@ -226,14 +256,15 @@ return [
                                 '
                     ],
                     'stay_positive'=> [
+                        'title' => 'Stay positive',
                         'pars' => [
                             0 => 'Stay Positive — Trust the process. As you learn about yourself and shed old patterns, it is important to
-                                consciously choose positivity. It is common to experience ups and downs during a retreat, while your body
-                                and mind are defragmenting and reprogramming, and that is a beautiful thing. Just be a witness to the shifts.
-                                How you feel on day three will be drastically different than how you feel on day eight. Embark on this
-                                integration with purpose, and deflect any negative thoughts by refocusing on positive ones. Go with the
-                                flow and be patient with yourself. Negative thoughts can only grow when we give attention to them.
-                                Otherwise they are powerless.',
+                                    consciously choose positivity. It is common to experience ups and downs during a retreat, while your body
+                                    and mind are defragmenting and reprogramming, and that is a beautiful thing. Just be a witness to the shifts.
+                                    How you feel on day three will be drastically different than how you feel on day eight. Embark on this
+                                    integration with purpose, and deflect any negative thoughts by refocusing on positive ones. Go with the
+                                    flow and be patient with yourself. Negative thoughts can only grow when we give attention to them.
+                                    Otherwise they are powerless',
                             1 => 'How you feel on day three will be very different from how you feel on day eight. Get into this one
                                  integration with purpose and deflect any negative thoughts by refocusing on positive thoughts. Go with
                                  with the wave of change and be patient with yourself. Negative thoughts can only grow if we pay attention to them.
@@ -249,13 +280,15 @@ return [
                                 for 3-6 months, you may see even more profound shifts in your life than the actual ceremony itself. Many
                                 report not even having a desire to drink, as the candida or emotional attachment tends to be completely
                                 eliminated by the medicine, reducing any cravings for sugar and carbohydrates.',
-                            5 => 'NOTE: If you plan on taking doing other ceremonial plant medicines, give at least a month in between for
+                        ]
+                    ],
+                    'note' => [
+                        'par'=> 'NOTE: If you plan on taking doing other ceremonial plant medicines, give at least a month in between for
                                 recovery and integration of your experience. This powerful plant spirit is still providing healing months
                                 after the ceremony and other medicines can interfere with the process. Many people report high levels of
                                 sensitivity to other psychoactive medicines post ceremony. Use caution specifically with recreational
                                 use of psychoactive medicines.',
                         ]
-                    ]
                 ]
                 ]
         ]

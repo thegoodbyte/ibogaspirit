@@ -15,10 +15,10 @@
     </div>
 </div>
 
-<div class = "row">
+<div class = "row background-text-light-okr">
     <div class = "col-xl-6">
 
-        <h4  class = "font-just-me font-size-60 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.first_step.title'); ?></h4>
+        <h3  class = "h3-heading"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.first_step.title'); ?></h4>
         <h4  class = "font-just-me font-size-40 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.first_step.subtitle'); ?></h4>
 
         <p>
@@ -48,7 +48,7 @@
 
     <div class = "col-xl-6">
 
-        <h3 class = "font-just-me font-size-60 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.second_step.title'); ?></h3>
+        <h3 class = "h3-heading"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.second_step.title'); ?></h3>
         <h4  class = "font-just-me font-size-40 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.questions.steps.second_step.subtitle'); ?></h4>
 
         <p>
