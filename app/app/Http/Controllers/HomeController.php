@@ -21,7 +21,7 @@ class HomeController extends Controller
     public function index() {
 
         return View::make('pages.home.index', [
-            'pageTitle' => 'Iboga terapie ceremnie - alternativní léčení depreseú, úzkosti, traumat, rozšíření vědomí - České republika',
+            'pageTitle' => __('seo/seo.test'),
             'metaDesc' => 'S Ibogou můžeš vyléčit celoživotní trauma během jedné noci, pokud jsi připraven přinést pravdu do své mysli. Iboga ceremonie v africké tradici Bwiti',
             'metaKws' => 'Iboga pobyt, Iboga terapie, Iboga zkušenosti, Iboga Bwiti léčení, iboga terapie, šamanské léčení, alternativní léčení'
         ]);
@@ -48,7 +48,7 @@ class HomeController extends Controller
 
 
         return View::make('pages.onas.kontakt', [
-            'pageTitle' => 'Kontaktuje zkušeneho Bwiti léčitele a facilitátora Ibogy vyškoleneho v africkem Gabon',
+            'pageTitle' => 'Kontaktuje zkušeného Bwiti Iboga léčitele vyškoleného v africkém Gabonu',
             'metaDesc' => 'Domluvte si schůzku ještě dnes a prodiskutujte, jak vám medicína Iboga může pomoci  vás vyléčit a rozšířit vědomí',
             'metaKws' => 'Iboga terapie, Iboga zkušenosti, Iboga léčení, iboga terapie, šamanské léčení, alternativní léčení'
         ]);
