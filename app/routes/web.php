@@ -126,25 +126,27 @@ Route::prefix('en')->group(function() {
 // ======================================================================================================
 //         P O L I S H
 // =====================================================================================================
-    Route::get('/pl/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_pl');
-    Route::get('/pl/iboga/co-je-iboga',[\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_pl');
-    Route::get('/pl/iboga/jak-vam-iboga-muze-pomoci',[\App\Http\Controllers\IbogaController::class,  "how_iboga_can_help"])->name('iboga-how-can-help_pl');
-    Route::get('/pl/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"])->name('iboga-iboga-iboga-vs-aya_pl');
-    Route::get('/pl/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"])->name('iboga-gabon_pl');
-    Route::get('/pl/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"])->name('iboga-depresion_pl');
-    Route::get('/pl/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_pl');
+Route::prefix('pl')->group(function() {
+    Route::get('/', [\App\Http\Controllers\HomeController::class, "index_pl"])->name('home_pl');
+    Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_pl');
+    Route::get('/iboga/co-je-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_pl');
+    Route::get('/iboga/jak-vam-iboga-muze-pomoci', [\App\Http\Controllers\IbogaController::class, "how_iboga_can_help"])->name('iboga-how-can-help_pl');
+    Route::get('/iboga/iboga-vs-ayahuasca', [\App\Http\Controllers\IbogaController::class, "iboga_vs_ayahuasca"])->name('iboga-iboga-vs-aya_pl');
+    Route::get('/iboga/gabon', [\App\Http\Controllers\IbogaController::class, "gabon"])->name('iboga-gabon_pl');
+    Route::get('/iboga/deprese', [\App\Http\Controllers\IbogaController::class, "deprese"])->name('iboga-depresion_pl');
+    Route::get('/iboga/bwiti-tradice', [\App\Http\Controllers\IbogaController::class, 'bwiti_tradice'])->name('iboga-bwiti-tradition_pl');
 
-    Route::get('/pl/ceremonie/priprava',  [\App\Http\Controllers\CeremoniesController::class, "preparation"])->name('ceremonies-prep_pl');
-    Route::get('/pl/ceremonie/lekarske-smernice',  [\App\Http\Controllers\CeremoniesController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_pl');
-    Route::get('/pl/ceremonie/osmi-denni-iboga-wellness-pobyt', [ \App\Http\Controllers\CeremoniesController::class, "eight_day_retreat"])->name('ceremonies-retreat_pl');
-    Route::get('/pl/ceremonie/prvni-ceremonial-a-co-ocekavat', [ \App\Http\Controllers\CeremoniesController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_pl');
-    Route::get('/pl/ceremonie/terminy-a-ceny', [\App\Http\Controllers\CeremoniesController::class, "dates"])->name('ceremonies-dates_pl');
+    Route::get('/ceremonie/priprava', [\App\Http\Controllers\CeremoniesController::class, "preparation"])->name('ceremonies-prep_pl');
+    Route::get('/ceremonie/lekarske-smernice', [\App\Http\Controllers\CeremoniesController::class, "medical_guidelines"])->name('ceremonies-medical-guidelines_pl');
+    Route::get('/ceremonie/osmi-denni-iboga-wellness-pobyt', [\App\Http\Controllers\CeremoniesController::class, "eight_day_retreat"])->name('ceremonies-retreat_pl');
+    Route::get('/ceremonie/prvni-ceremonial-a-co-ocekavat', [\App\Http\Controllers\CeremoniesController::class, "your_first_ceremony"])->name('ceremonies-first-ceremony_pl');
+    Route::get('/ceremonie/terminy-a-ceny', [\App\Http\Controllers\CeremoniesController::class, "dates"])->name('ceremonies-dates_pl');
 
-    Route::get('/pl/onas-iboga-polska/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_pl');
-    Route::get('/pl/onas-iboga-polska/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_pl');
-    Route::get('/pl/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_pl');
+    Route::get('/onas-iboga-polska/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_pl');
+    Route::get('/onas-iboga-polska/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_pl');
+    Route::get('/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_pl');
 //    Route::post('/pl/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_pl');
-
+});
 // ======================================================================================================
 //         GERMAN
 // =====================================================================================================

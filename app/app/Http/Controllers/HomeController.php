@@ -43,9 +43,15 @@ class HomeController extends Controller
         } else {
             return $this->index();
         }
+    }
 
-//        session(['applocale' => 'en']);
-//        return $this->index();
+    public function index_pl() {
+
+        if (session('applocale') != 'pl') {
+            return $this->setLanguage('pl');
+        } else {
+            return $this->index();
+        }
     }
 
     public function nganga() {
