@@ -21,12 +21,17 @@ class IbogaController extends Controller
     }
 
     public function how_iboga_can_help() {
+        if (empty(session('applocale'))) {
+            session(['applocale' => 'cz']);
+        }
+        $applocale = session('applocale');
 
         return View::make('pages.iboga.jak_vam_iboga_muze_pomoci', [
             'pageTitle' => 'Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky, Alternativní léčení Česko',
             'metaDesc' => 'Iboga může vyléčit deprese, úzkosti, traumata, sebevražedné myšlenky, Alternativní léčení, Iboga terapie Česko',
             'metaKws' => 'iboga, deprese, úzkost, PTSD, sebevražda, rostlinná medicína, traumata, negativní mysl, iboga terapie',
-            'applocale' => session('applocale') ?? 'cz'
+            'applocale' => $applocale,
+            'routeNameGeneric' => $this->genericRoute
 
 
         ]);

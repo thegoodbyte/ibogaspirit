@@ -21,18 +21,7 @@ class HomeController extends Controller
 
     public function index() {
 
-        $route = Route::currentRouteName();
 
-        $allowedLocales = ['cz', 'en'];
-
-        $split = explode("_", $route);
-        if (!empty($split[1]) && in_array($split[1], $allowedLocales)) {
-            session(['applocale' => $split[1]]);
-        } else {
-            if (empty(session('applocale'))) {
-                session(['applocale' => 'cz']);
-            }
-        }
 
         $applocale = session('applocale');
 
@@ -41,7 +30,8 @@ class HomeController extends Controller
             'pageTitle' => 'Iboga terapie ceremnie - alternativní léčení depreseú, úzkosti, traumat, rozšíření vědomí - České republika',
             'metaDesc' => 'S Ibogou můžeš vyléčit celoživotní trauma během jedné noci, pokud jsi připraven přinést pravdu do své mysli. Iboga ceremonie v africké tradici Bwiti',
             'metaKws' => 'Iboga pobyt, Iboga terapie, Iboga zkušenosti, Iboga Bwiti léčení, iboga terapie, šamanské léčení, alternativní léčení',
-            'applocale' => $applocale
+            'applocale' => $applocale,
+            'routeNameGeneric' => $this->genericRoute
         ]);
 
 
@@ -112,7 +102,7 @@ class HomeController extends Controller
 
     public function setLanguage($lang) {
         session(['applocale' => $lang]);
-        return back();
+        return redirect()->route('home_' . $lang);
     }
 
 
