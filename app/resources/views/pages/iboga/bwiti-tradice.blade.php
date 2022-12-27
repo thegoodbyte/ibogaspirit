@@ -23,18 +23,24 @@
 
     <div class = "col-xl-10">
         <p>
+            <!--
             Bwiti and the Iboga plant’s symbiotic relationship goes back thousands of years to when the
             Iboga plant was first discovered. Iboga became a sacrament of the Bwiti, with nearly every aspect of
             their tradition and their ceremonies given to them by the spirit of Iboga itself. Iboga is such an
             important part of their lives, that it is used as the initiation into the tradition and is consumed regularly at ceremonies.
+            -->
+            Symbiotický vztah mezi Bwiti a rostlinou Iboga sahá tisíce let do doby, kdy
+            jako první byla objevena rostlina Iboga. Iboga se stala svátostí Bwiti téměř ve všech aspektech
+            jejich tradice a jejich ceremonie, které jim dal duch samotné Ibogy. Iboga je taková
+            důležitou součástí jejich života, že se používá jako zasvěcení do tradice a pravidelně se konzumuje při ceremoniích.
         </p>
         <p>
 
             Bwiti není náboženství, ale tradiční duchovní cesta, která vás přivede k hlubokému spojení s vaší duší,
-            učí vás ovládat sebe sama a být přítomen ve své vlastní zkušenosti.
+            učí vás ovládat sama sebe  a být přítomen ve své vlastní zkušenosti.
             Umožňuje vám odhalit všechny pravdy o sobě, které vám mohou bránit žít život, jaký chcete.
             K cestě dovnitř používáme posvátnou rostlinnou medicínu IBOGA. Je to svátost tradice, „jemný obr“
-            učitel rostlin s vrozenou moudrostí, aby vás přivedl k pravdě o tom, kdo jste.
+            učitel rostlin s vrozenou moudrostí, který vás přivede k pravdě o tom, kdo skutečně jste.
         </p>
     </div>
 

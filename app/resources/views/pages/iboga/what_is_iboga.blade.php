@@ -57,7 +57,7 @@
 
                 Je to za posvátnou svátost těch, kteří praktikují tradici známou jako Bwiti. Iboga se používá v
                 různých obřadních kontextech, jako jsou zasvěcení, duchovní léčení, fyzické léčení a pro pomoc těm, kteří
-                trpí emocionálními a duševními stavy Iboga je tak vysoce ceněna, že byla vládou Gabonu prohlášena za národní poklad.
+                trpí emocionálními a duševními stavy. Iboga je tak vysoce ceněna, že byla vládou Gabonu prohlášena za národní poklad.
 
             </p>
             <strong>Svaté dřevo</strong>
@@ -65,8 +65,8 @@
                 každého kmene nebo komunity je hlavní šaman, který je zodpovědný za vedení lékařských obřadů iniciace a léčení.</p
 
             <strong>Nganga</strong>
-            <p class="text-justify">Zakladatel Iboga Spirit.cz Martin Halla  byl vycvičen a iniciován gabonským šamanem Bwiti 10.
-                generace, který byl také prvním Afričanem, který přinesl úplný kořen Iboga na západní polokouli.</p>
+            <p class="text-justify">Byl jsem vycvičen a iniciován gabonským šamanem Bwiti 10.
+                generace MOughendou Mikalou, který byl také prvním Afričanem, který přinesl úplný kořen Iboga na západní polokouli.</p>
         </div>
 
 

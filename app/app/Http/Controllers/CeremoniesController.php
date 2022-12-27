@@ -14,10 +14,16 @@ class CeremoniesController extends Controller
     public function preparation() {
         return View::make('pages.ceremonies.preparation',
             [
-                'pageTitle' => 'Iboga zkušenosti - příprava na vaši první Iboga terapii v našem týdenním pobytu ',
-                'metaDesc' => 'Osmidenní pobyt s dvěma povodňovými ceremoniemi Ibogy poskytované v autentické africké tradici Bwiti',
-                'metaKws' => 'Iboga pobyt, Iboga terapie, Iboga zkušenosti, Iboga Bwiti léčení, iboga terapie, šamanské léčení, alternativní léčení'
-            ]);
+                'pageTitle' => __('seo/ceremonies/preparation.seo.title'),
+                'metaDesc' => __('seo/ceremonies/preparation.seo.metaDesc'),
+                'metaKws' => __('seo/ceremonies/preparation.seo.metaKws')
+            ]
+//            [
+//                'pageTitle' => 'Iboga zkušenosti - příprava na vaši první Iboga terapii v našem týdenním pobytu ',
+//                'metaDesc' => 'Osmidenní pobyt s dvěma povodňovými ceremoniemi Ibogy poskytované v autentické africké tradici Bwiti',
+//                'metaKws' => 'Iboga pobyt, Iboga terapie, Iboga zkušenosti, Iboga Bwiti léčení, iboga terapie, šamanské léčení, alternativní léčení'
+//            ]
+    );
     }
 
 
@@ -41,10 +47,16 @@ class CeremoniesController extends Controller
 
         return View::make('pages.ceremonies.pobyt',
             [
-                'pageTitle' => 'Iboga zkušenosti - příprava na vaši první Iboga terapii v našem týdenním pobytu ',
-                'metaDesc' => 'Osmidenní pobyt s dvěmy povodňovymi ceremoniemi Ibogy poskytované v autentické africké tradici Bwiti',
-                'metaKws' => 'Iboga pobyt, Iboga terapie, Iboga zkušenosti, Iboga Bwiti léčení, iboga terapie, šamanské léčení, alternativní léčení'
-            ]);
+                'pageTitle' => __('seo/ceremonies/your-first-ceremony.seo.title'),
+                'metaDesc' => __('seo/ceremonies/your-first-ceremony.seo.metaDesc'),
+                'metaKws' => __('seo/ceremonies/your-first-ceremony.seo.metaKws')
+            ]
+//            [
+//                'pageTitle' => 'Iboga zkušenosti - příprava na vaši první Iboga terapii v našem týdenním pobytu ',
+//                'metaDesc' => 'Osmidenní pobyt s dvěmy povodňovymi ceremoniemi Ibogy poskytované v autentické africké tradici Bwiti',
+//                'metaKws' => 'Iboga pobyt, Iboga terapie, Iboga zkušenosti, Iboga Bwiti léčení, iboga terapie, šamanské léčení, alternativní léčení'
+//            ]
+    );
     }
 
     public function eight_day_retreat() {
@@ -59,18 +71,27 @@ class CeremoniesController extends Controller
     public function your_first_ceremony() {
         return View::make('pages.ceremonies.your-first-ceremony',
             [
-                'pageTitle' => 'Iboga zkušenosti - příprava na vaši první Iboga terapii v našem týdenním pobytu ',
-                'metaDesc' => 'Iboga zkušenosti - příprava na osmidenní pobyt s dvěma povodňovými ceremoniemi Ibogy poskytované v autentické africké tradici Bwiti',
-                'metaKws' => 'Iboga terapie a ceremonie,  Iboga zkušenosti, Iboga Bwiti léčení,  příprava , šamanské léčení, alternativní léčení'
-            ]);
+                'pageTitle' => __('seo/ceremonies/your-first-ceremony.seo.title'),
+                'metaDesc' => __('seo/ceremonies/your-first-ceremony.seo.metaDesc'),
+                'metaKws' => __('seo/ceremonies/your-first-ceremony.seo.metaKws')
+            ]
+//            [
+//                'pageTitle' => 'Iboga zkušenosti - příprava na vaši první Iboga terapii v našem týdenním pobytu ',
+//                'metaDesc' => 'Iboga zkušenosti - příprava na osmidenní pobyt s dvěma povodňovými ceremoniemi Ibogy poskytované v autentické africké tradici Bwiti',
+//                'metaKws' => 'Iboga terapie a ceremonie,  Iboga zkušenosti, Iboga Bwiti léčení,  příprava , šamanské léčení, alternativní léčení'
+//            ]
+    );
     }
 
     public function dates() {
-        return View::make('pages.ceremonies.dates', [
-            'pageTitle' => 'Termíny našich týdenních Iboga terapií pobytů s dvěma ceremoniemi Ibogy v České republice, Jídlo a ubytování v ceně',
-            'metaDesc' => 'Iboga povodňové dávky ceremonie poskytované v autentické africké tradici bwiti',
-            'metaKws' => 'termíny,iboga ceny, povodňové dávky ceremonie, bwiti tradice, bwiti healing, Iboga healing, iboga terapie, šamanské léčení, alternativní léčení'
-            ]);
+        return View::make('pages.ceremonies.dates',
+            [
+                'pageTitle' => __('seo/ceremonies/dates.seo.title'),
+                'metaDesc' => __('seo/ceremonies/dates.seo.metaDesc'),
+                'metaKws' => __('seo/ceremonies/dates.seo.metaKws')
+            ]
+
+    );
     }
 
 
