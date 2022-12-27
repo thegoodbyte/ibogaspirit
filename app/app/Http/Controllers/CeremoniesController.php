@@ -24,10 +24,16 @@ class CeremoniesController extends Controller
     public function medical_guidelines() {
         return View::make('pages.ceremonies.medical_guidelines',
             [
-                'pageTitle' => 'Lékařský průvodce',
-                'metaDesc' => 'Lékařské směrnice a bezpeči Iboga povodňových dávek. Iboga ceremonie poskytované v autentické africké tradici Bwiti',
-                'metaKws' => 'Lékařské směrnice, Iboga bezpečí, Iboga bezpečnost, bwiti tradice, bwiti healing, Iboga healing, iboga terapie, šamanské léčení, alternativní léčení'
-            ]);
+                'pageTitle' => __('seo/ceremonies/medical-guidelines.seo.title'),
+                'metaDesc' => __('seo/ceremonies/medical-guidelines.seo.metaDesc'),
+                'metaKws' => __('seo/ceremonies/medical-guidelines.seo.metaKws')
+            ]
+//            [
+//                'pageTitle' => 'Lékařský průvodce',
+//                'metaDesc' => 'Lékařské směrnice a bezpeči Iboga povodňových dávek. Iboga ceremonie poskytované v autentické africké tradici Bwiti',
+//                'metaKws' => 'Lékařské směrnice, Iboga bezpečí, Iboga bezpečnost, bwiti tradice, bwiti healing, Iboga healing, iboga terapie, šamanské léčení, alternativní léčení'
+//            ]
+    );
     }
 
 
@@ -44,9 +50,9 @@ class CeremoniesController extends Controller
     public function eight_day_retreat() {
         return View::make('pages.ceremonies.8-day-retreat',
             [
-                'pageTitle' => 'Osmidenní pobyt s dvěmy povodňovými ceremoniemi Ibogy poskytované v autentické africké tradici Bwiti',
-                'metaDesc' => 'Iboga povodňové dávky ceremonie poskytované v autentické africké tradici Bwiti',
-                'metaKws' => 'Iboga pobyt, Iboga terapie, Iboga zkušenosti, Iboga Bwiti léčení, iboga terapie, šamanské léčení, alternativní léčení'
+                'pageTitle' => __('seo/ceremonies/retreat.seo.title'),
+                'metaDesc' => __('seo/ceremonies/retreat.seo.metaDesc'),
+                'metaKws' => __('seo/ceremonies/retreat.seo.metaKws')
             ]);
     }
 

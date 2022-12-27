@@ -27,11 +27,13 @@ class IbogaController extends Controller
 
     public function iboga_vs_ayahuasca() {
 
-        return View::make('pages.iboga.iboga_vs_ayahuasca',[
-            'pageTitle' => 'Rozdíl mezi Ibogou a Ayahuaskou. Iboga terapie  Česká Republika. ',
-            'metaDesc' => 'Iboga i Ayahuasca jsou učitelské rostliny, které zapalují trvalé, hluboké duchovní transformace a rozšíření vědomí. Zatímco Ayahuasca vás posílá ven, Iboga vás přivádí dovnitř',
-            'metaKws' => ''
-            ]);
+        return View::make('pages.iboga.iboga_vs_ayahuasca',
+            [
+            'pageTitle' => __('seo/iboga/iboga-vs-ayahusca.seo.title'),
+            'metaDesc' => __('seo/iboga/iboga-vs-ayahusca.seo.metaDesc'),
+            'metaKws' => __('seo/iboga/iboga-vs-ayahusca.seo.metaKws')
+            ]
+        );
 
     }
 

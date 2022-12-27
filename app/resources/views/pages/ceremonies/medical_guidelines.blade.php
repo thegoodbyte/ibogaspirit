@@ -18,7 +18,7 @@
 
             <h1 class = "h1-heading font-just-me color-iscz-green">Bezpečí Ibogy</h1>
             <p>
-                Iboga je neuvěřitelně bezpečný medicína, pokud má uživatel zdravé srdce a neužívá žádné navykove látky.
+                Iboga je neuvěřitelně bezpečná medicína, pokud má uživatel zdravé srdce a neužívá žádné navykove látky.
             </p>
 
             <p>
