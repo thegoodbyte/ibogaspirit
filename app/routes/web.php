@@ -78,7 +78,7 @@ Route::prefix('en')->group(function() {
 //    $applocale = 'en';
 //    session(['applocale' => 'en']);
     Session::put('applocale', 'en');
-    Route::get('/', [\App\Http\Controllers\HomeController::class, "index"])->name('home_en');
+    Route::get('/', [\App\Http\Controllers\HomeController::class, "index_en"])->name('home_en');
     Route::get('/iboga-europe-czech-republic', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_en');
     Route::get('/iboga-europe-czech-republic/what-is-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_en');
     Route::get('/iboga-europe-czech-republic/how-iboga-plant-medicine-can-help-you-heal', [\App\Http\Controllers\IbogaController::class, "how_iboga_can_help"])->name('iboga-how-can-help_en');

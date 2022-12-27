@@ -34,7 +34,18 @@ class HomeController extends Controller
             'routeNameGeneric' => $this->genericRoute
         ]);
 
+    }
 
+    public function index_en() {
+
+        if (session('applocale') != 'en') {
+            return $this->setLanguage('en');
+        } else {
+            return $this->index();
+        }
+
+//        session(['applocale' => 'en']);
+//        return $this->index();
     }
 
     public function nganga() {
