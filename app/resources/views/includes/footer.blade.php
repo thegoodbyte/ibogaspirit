@@ -53,7 +53,7 @@
                         <li><strong><a href = "tel:8334264229"><img src = "/images/icons/phone-round-white-20w.png"> &nbsp;833 IBOGACZ</a> <br />(833-426-4229)</strong></li>
                         <li>Mobil</li>
                         <li><a href = "tel:+420234717595">+420 234-717-595</a></li>
-                        
+
                     </ul>
                 </div>
 
