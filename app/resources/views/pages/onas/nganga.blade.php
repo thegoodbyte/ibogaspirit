@@ -1,14 +1,14 @@
-@extends('layouts.default', ['pageTitle' => 'Tak co treba skupine 15 lidi v Cechach tohle leto?'])
+@extends('layouts.default')
 @section('content')
 
     <div class = "row">
-        <h2 class = "font-just-me font-size-60 text-center color-iscz-red">Nganga - Duchovní léčitel</h2>
+        <h1 class = "font-just-me h1-heading text-center color-iscz-red">Nganga - Duchovní léčitel</h1>
     </div>
 
 
     <div class = "row">
         <div class = "col-xl-5">
-            <img src  = "/images/home/onas/martin.jpg" alt   = "Iboga Bwiti Facilitator - Obrady a seance Ceska Republika"/>
+            <img src  = "/images/home/onas/martin.jpg" alt   = "<?php echo __('seo/about/nganga.seo.images.martin_outfit'); ?>"/>
         </div>
 
         <div class = "col-xl-7">
@@ -95,7 +95,7 @@
         <div class = "col-xl-7">
 
             <div class = "row">
-                <img src  = "/images/home/onas/moughenda-and-martin.jpg" alt = "S šamanem Moughendou před Bwiti kaplí v Gabou Afrika"/>
+                <img src  = "/images/home/onas/moughenda-and-martin.jpg" alt = "<?php echo __('seo/about/nganga.seo.images.martin_with_moughenda'); ?>"/>
                 <p class = "font-just-me color-iscz-red">S šamanem Moughendou před Bwiti kapli v Moughena village v Gabonu v Africe</p>
             </div>
 
@@ -103,7 +103,7 @@
 
 
             <p>
-                Momentálně nejvíce působím v Mexickém Kankůnu v centru "Bwiti Life" (<a href = "http://www.bwitilife.com">http://www.bwitilife.com</a>)
+                Momentálně nejvíce působím v Mexickém Kankůnu v centru "Bwiti Life" (<a href = "http://www.bwitilife.com" target = "_blank" title = "Léčebné centrum Iboga Bwiti v Mexiku">http://www.bwitilife.com</a>)
                 u svého Bwiti bratra a Ibogy facilitátora Michaela Cassidyho.
             </p>
 
@@ -115,7 +115,7 @@
             <p>Kdykoli mě prosím kontaktujte a napište mi, i jen s jakoukoliv otázkou.
             Bude mi potěšením se s vámi setkat a pomoci vám, jak jen budu moci!</p>
 
-            <p><img src = "/images/home/onas/my-signture.png"></p>
+            <p><img src = "/images/home/onas/my-signture.png" alt = "<?php echo __('seo/about/nganga.seo.images.signature'); ?>"></p>
         </div>
     </div>
 

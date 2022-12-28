@@ -239,12 +239,12 @@
 
 
             <p>
-                Tento lék neléčí pouze tělo; může léčit duši – zvláště když se koná v tradičním obřadu se silnými úmysly.
-                Provozuji tradicni MIssoko Bwiti obrady
+                Tato medicína neléčí pouze tělo; může léčit duši – zvláště když se koná v tradičním obřadu se silnými úmysly.
+                Provozuji tradiční MIssoko Bwiti ceremonie va světě - a nyní i v Čechách
             </p>
 
             <p>
-                Iboga je známá léčbou závislosti,ale to je jen začátek toho, co může nabídnout.
+                Iboga je známá léčbou závislosti, ale to je jen začátek toho, co může nabídnout.
             </p>
             <p>Je to medicína duchovního zasvěcení a vizionářské kreativity.“</p>
 

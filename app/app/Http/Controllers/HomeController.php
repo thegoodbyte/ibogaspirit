@@ -44,7 +44,7 @@ class HomeController extends Controller
                 'metaKws' => __('seo/about.nganga.seo.metaKws')
             ]
 //            [
-//            'pageTitle' => 'Zkušený Bwiti léčitel a facilitátor Ibogy vyškolený v Gabonu v Africe poskytující bezpečné Bwiti ceremonie povodňových dávek v České republice',
+//            'pageTitle' => '',
 //            'metaDesc' => 'Zkušený Bwiti léčitel a facilitátor Ibogy vyškolený v Gabonu v Africe poskytující bezpečné Bwiti ceremonie povodňových dávek v České republice',
 //            'metaKws' => 'Iboga Bwiti léčitel, Iboga terapie, Iboga zkušenosti, Iboga léčení, iboga terapie, šamanské léčení, alternativní léčení'
 //        ]

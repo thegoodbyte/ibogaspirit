@@ -19,14 +19,15 @@
 
     <nav class="menu-toggle">
         <ul class="nav__menu">
-            <li class = "menu-item"><a href="/" title = "Iboga rostlinná medicína léčí sebevražedné myšlenky, deprese, úzkosti, traumata. Alternativní holistické léčení">HOME</a></li>
+            <li class = "menu-item"><a href="/"
+                                       title = "<?php echo __('seo/menu-top.seo.menu.home'); ?>">HOME</a></li>
 
             <li class = "dropdown2 menu-item">
                 <a href="#">IBOGA</a>
                 <ul>
+                    <li><a href="/iboga/co-je-iboga" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata a sebevražedné myšlenky. Alternativní holistické léčení">Co je Iboga?</a></li>
                     <li><a href="/iboga/jak-vam-iboga-muze-pomoci" title = "Iboga rostlinná medicína léčí  deprese, úzkosti, traumata a sebevražedné myšlenky,. Alternativní holistické léčení">Jak vám Iboga může pomoci</a></li>
                     <li><a href="/iboga/bwiti-tradice" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata a sebevražedné myšlenky. Alternativní holistické léčení">Bwiti Tradice</a></li>
-                    <li><a href="/iboga/co-je-iboga" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata a sebevražedné myšlenky. Alternativní holistické léčení">Co je Iboga?</a></li>
                     <li><a href="/iboga/iboga-vs-ayahuasca" title = "Iboga rostlinná medicína léčí  deprese, úzkosti a sebevražedné myšlenky, traumata. Alternativní holistické léčení">Iboga vs Ayahuasca</a></li>
                     <li><a href="/iboga/gabon" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata a sebevražedné myšlenky. Alternativní holistické léčení">Gabon - Afrika</a></li>
                 </ul>
