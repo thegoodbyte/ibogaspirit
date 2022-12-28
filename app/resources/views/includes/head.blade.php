@@ -3,10 +3,12 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
 
-<title>{{ $pageTitle ?? 'Iboga ceremonie Česká Republika.Alternativní léčba deprese, úzkosti, traumatu, Česko Čechy' }}</title>
 
+<title>{{ $pageTitle ?? 'Iboga obřady a ceremonie Česká Republika.Alternativní léčba deprese, úzkosti, předchozího traumatu, Cesko' }}</title>
 <link rel="stylesheet" href="/css/app.css">
-<link rel="stylesheet" href="/css/cookie-consent.css">
+<!-- FROM SASS -->
+<link rel="stylesheet" href="/css/homepage.css">
+<link rel="stylesheet" href="/css/ceremonies/retreat.css">
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -18,14 +20,16 @@
 
 
 
+
 {{--<link rel='dns-prefetch' href='http://fonts.googleapis.com' />--}}
 
+{{--@include('includes.removed-old-wp-css-and-js')--}}
 
 <link rel="apple-touch-icon" href="/images/favicon_io/favicon.ico" />
 
 
-<link rel="stylesheet"  href="/css/menu.css" type="text/css" media="all">
 
+<link rel="stylesheet"  href="/css/menu.css" type="text/css" media="all">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
 
@@ -46,3 +50,5 @@
 
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+
+
