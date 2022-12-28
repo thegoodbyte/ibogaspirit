@@ -50,32 +50,32 @@
         <div class = "col-xl-12">
             <h2 class = "h2-heading font-just-me color-iscz-red"><?php echo __('pages/iboga/what_is_iboga.content.sections.why_we_use_iboga.title'); ?></h2>
             <p class="text-justify">
-                <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_1'); ?>
+                <?php echo __('pages/iboga/what_is_iboga.content.sections.why_we_use_iboga.par_1'); ?>
             </p>
 
             <p class="text-justify">
-                <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_2'); ?>
+                <?php echo __('pages/iboga/what_is_iboga.content.sections.why_we_use_iboga.par_2'); ?>
 
             </p>
 
             <p class="text-justify">
-                <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_3'); ?>
+                <?php echo __('pages/iboga/what_is_iboga.content.sections.why_we_use_iboga.par_3'); ?>
             </p>
 
             <p class="text-justify">
-                <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_4'); ?>
+                <?php echo __('pages/iboga/what_is_iboga.content.sections.why_we_use_iboga.par_4'); ?>
             </p>
 
             <p class="text-justify">
-                <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_5'); ?>
+                <?php echo __('pages/iboga/what_is_iboga.content.sections.why_we_use_iboga.par_5'); ?>
             </p>
 
             <p class="text-justify">
-                <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_6'); ?>
+                <?php echo __('pages/iboga/what_is_iboga.content.sections.why_we_use_iboga.par_6'); ?>
             </p>
 
             <p class="text-justify">
-                <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_7'); ?>
+                <?php echo __('pages/iboga/what_is_iboga.content.sections.why_we_use_iboga.par_7'); ?>
             </p>
         </div>
     </div>
@@ -99,7 +99,6 @@
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_3'); ?>
             </p>
 
-
             <p class="text-justify">
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_4'); ?>
             </p>
@@ -108,15 +107,9 @@
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_5'); ?>
             </p>
 
-
             <p class="text-justify">
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_6'); ?>
             </p>
-
-            <p class="text-justify">Tento detox také čistí mysl od systémů přesvědčení a negativních myšlenkových vzorců,
-                které nám neslouží. To také pomůže medicíně se vypořádat  s fyzickými aspekty těchto uložených emocí a mnoho
-                lidí zaznamená velké zlepšení v jejich celkové pohodě.</p>
-
 
             <p class="text-justify">
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_7'); ?>
@@ -127,11 +120,34 @@
 
             <p class="text-justify">
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.how_plant_medicine_works.par_9'); ?>
-
             </p>
 
         </div>
     </div>
+
+
+
+    <div class = "row"v>
+
+        <div class = "col-xl-12">
+            <p>
+                <?php echo __('pages/iboga/what_is_iboga.content.sections.what_iboga_is_not.pars.0'); ?>
+            </p>
+
+            <p>
+                <?php echo __('pages/iboga/what_is_iboga.content.sections.what_iboga_is_not.pars.1'); ?>
+            </p>
+
+            <p>
+                <?php echo __('pages/iboga/what_is_iboga.content.sections.what_iboga_is_not.pars.2'); ?>
+            </p>
+
+            <p>
+                <?php echo __('pages/iboga/what_is_iboga.content.sections.ibogaine.par'); ?>
+            </p>
+        </div>
+    </div>
+
 
     <div class = "row"v>
 
@@ -143,23 +159,11 @@
             </p>
 
             <p>
--->
-
-                <?php echo __('pages/iboga/what_is_iboga.content.sections.ibogaine.par'); ?>
-            </p>
-
-            <p>
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.conclusion.par_2'); ?>
-
             </p>
 
-
             <p>
-                <!-- [LANG-ENGLISH]
-            .
-            -->
                 <?php echo __('pages/iboga/what_is_iboga.content.sections.conclusion.par_3'); ?>
-
             </p>
         </div>
     </div>

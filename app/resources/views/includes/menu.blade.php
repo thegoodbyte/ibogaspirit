@@ -30,9 +30,9 @@
             <li class = "dropdown2 menu-item">
                 <a href="#"><?php echo __('menu.menu_ceremonies.iboga.title'); ?></a>
                 <ul>
+                    <li><a href="{{ route('iboga-what-is_' . $applocale) }}" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky. Alternativní holistické léčení"><?php echo __('menu.menu_ceremonies.iboga.what_is_iboga'); ?></a></li>
                     <li><a href="{{ route('iboga-how-can-help_' . $applocale)  }}"  title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky. Alternativní holistické léčení"><?php echo __('menu.menu_ceremonies.iboga.how_iboga_can_help_you'); ?></a></li>
                     <li><a href="{{ route('iboga-bwiti-tradition_' . $applocale) }}" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky. Alternativní holistické léčení"><?php echo __('menu.menu_ceremonies.iboga.bwiti_tradition'); ?></a></li>
-                    <li><a href="{{ route('iboga-what-is_' . $applocale) }}" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky. Alternativní holistické léčení"><?php echo __('menu.menu_ceremonies.iboga.what_is_iboga'); ?></a></li>
                     <li><a href="{{ route('iboga-iboga-vs-aya_' . $applocale) }}" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky. Alternativní holistické léčení"><?php echo __('menu.menu_ceremonies.iboga.iboga_vs_ayahuasca'); ?></a></li>
                     <li><a href="{{ route('iboga-gabon_' . $applocale) }}" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky. Alternativní holistické léčení"><?php echo __('menu.menu_ceremonies.iboga.gabon_africa'); ?></a></li>
 

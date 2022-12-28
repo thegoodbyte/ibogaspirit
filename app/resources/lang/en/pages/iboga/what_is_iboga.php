@@ -33,7 +33,7 @@ return [
                  suffer from emotional and mental conditions Iboga is so highly valued that it has been declared a national treasure by the government of Gabon.'
             ],
             'holly_wood' => [
-                'title' => 'Holy woodo',
+                'title' => 'Holy wood',
                 'par_1' => 'In Gabon, Iboga is considered sacred, sometimes referred to as "holy wood". By the pillar
                  each tribe or community has a chief shaman who is responsible for conducting medical ceremonies of initiation and healing.',
             ],
@@ -42,63 +42,82 @@ return [
                 'par_1' => 'I was trained and initiated by the Gabonese Bwiti Shaman of  10.
                  generation - Moughenda Mikala. Moughenda is  also the first African to bring the complete Iboga root to the Western Hemisphere.',
             ],
+            // https://awakenyoursoul.co/iboga-costa-rica/
             'why_we_use_iboga' => [
                 'title' => 'WHY DO WE USE IBOGA?',
-                'par_1' => 'The purpose of Iboga is to detoxify the mind, body and spirit, to heal at the deepest physical,
-                 emotional, mental and spiritual levels.',
-                'par_2' => 'At some point in our lives, most of us have been hurt on some level.
-                 For many the wounds are deep, for others they may have been as simple as making fun of them
-                 at school, underestimated trauma.',
-                'par_3' => 'Although we may have been affected in ways we never fully understood, the memories
-                 are stored in our subconscious minds and occasionally resurface and affect us without our knowledge.',
-                'par_4' => 'Naše rány mohly být zneužíváním v emocionální, mentální, sexuální nebo fyzické
-                formě nebo těžkým zármutkem či ztrátou. Možná jsme byli zapojeni do traumatického incidentu nebo
-                jsme byli jeho svědky. Mohou nás ovlivnit jako děti, mládež, dospělé nebo v různých obdobích našeho života.',
-                'par_5' => 'Postupem času se tyto zkušenosti otisknou do našeho podvědomí a vytvoří podmínky
-                a programování, které nám pomohou vyrovnat se s životem. V určitém bodě cesty nás tyto bezpečnostní
-                mechanismy již neudržují v bezpečí, ale vytvářejí opačný efekt a blokují nás před naší pravdou a radostí.',
-                'par_6' => 'Tyto blokády se projevují jako strach, nejistota, deprese, úzkost, odpojení od
-                sebe a zdroje, vysilující emoce, děsivé vzpomínky nebo pocity neustálého strachu. V podstatě byla
-                naše mysl unesena a my se stáváme vězněm a naše myšlenky přebírají kontrolu nad našimi životy.',
-                'par_7' => 'S myslí běžící show vstupujeme do začarovaného, ​​opakujícího se cyklu
-                sebeomezujících myšlenek, které mohou vyústit v nezdravé chování a nepříjemné pocity nebo emoce.
-                Iboga svým přímým a rozhodným způsobem odhaluje to, na co jsme jednoduše zapomněli: že nejsme naše
-                mysl a že si zasloužíme milovat sami sebe.',
+
+                'par_1' => 'Iboga’s purpose is to detoxify the mind, body and spirit, healing at the deepest physical,
+                    emotional, mental and spiritual levels..',
+
+                'par_2' => 'At some point in our lives, most of us have been wounded on some level. For many the wounds run
+                    deep, for others they may have been as simple as being made fun of in school, an underestimated trauma.',
+
+                'par_3' => 'While they may have affected us in ways we never fully understood, memories are stored in
+                    our subconscious minds, at times resurfacing and impacting us without our conscious knowledge..',
+
+                'par_4' => 'Our wounds may have been abuse in emotional, mental, sexual or physical form, or severe grief or
+                    loss. We may have been involved in, or witnessed, a traumatic incident. They may have affected us as children,
+                    youth, adults, or at multiple times periods throughout our lives.',
+
+                'par_5' => 'Over time, these experiences imprint into our subconscious mind, creating conditioning and
+                    programming to help us cope with life. At some point along the way these safety mechanisms no
+                     longer keep us safe, but create the opposite effect, blocking us from our truth and joy.',
+
+                'par_6' => 'These blockages manifest as fear, insecurity, depression, anxiety, disconnection to self
+                    and source, debilitating emotions, frightening memories, or feelings of continual worry.
+                    In essence our mind has been hijacked and we become the prisoner, and our thoughts taking control
+                    of our lives.',
+
+                'par_7' => 'With the mind in charge, we enter a vicious, repetitive cycle of self-limiting thoughts,
+                    which can result in unhealthy behaviors and uncomfortable feelings or emotions. In its direct,
+                    decisive fashion, Iboga reveals what we have simply forgotten: that we are not our mind, and that we
+                    deserve to love ourselves',
             ],
             'how_plant_medicine_works' => [
                 'title' => 'JAK FUNGUJE ROSTLINNÁ MEDICÍNA?',
-                'par_1' => 'Iboga je známý jako největší lovec pravdy v nás. Když objevíme svou pravdu a uvidíme,
-                jak naše životy fungují na dysfunkční úrovni – nemůžeme „nevidět“, spínač byl přepnut. Už není pohodlné
-                žít ve stejných vzorcích, které se kdysi cítily tak ‚bezpečně‘, a destruktivní chování se desetkrát zvětšilo.
-                Jakmile si to uvědomíme, jsme požehnáni odpovědností vytvářet změny.',
-                'par_2' => 'Iboga má moudrost hledat kořeny našich traumat. Iboga, mistrovský učitel, nám poskytne
-                náhled na to, jaký by byl život, kdybychom pokračovali po cestě bez vědomí našeho pravého já. Odhaluje,',
-                'par_3' => 'Tento lék umožňuje opětovné spojení s naší duší a uvádí nás do našeho nejčistšího stavu,
-                než jsme byli zraněni. Moudrost rostliny posílí naše vědomí, aby nám pomohla získat jasnost o našich vášních,
-                inspiracích, kreativitě a účelu. Spojením nás s naší duší dostáváme příležitost pocítit hlubokou vděčnost
-                za dar života samotného.',
-                'par_4' => 'Iboga nám otevírá náš větší potenciál a výrazně rozšiřuje mysl. Osvětluje způsoby,
-                jak můžeme léčit a transformovat své životy, abychom vytvořili hojnost a pohodu.',
-                'par_5' => 'Na fyzické úrovni Iboga detoxikuje tělo od toxinů, chemikálií, emočních blokád a může
-                také pomáhat s viry a parazity. Mnoho věcí, se kterými se medicína setká a které nepomáhají našemu
-                blahobytu, bude očištěno.',
-                'par_6' => 'Tento detox také čistí mysl od systémů přesvědčení a negativních myšlenkových vzorců,
-                které nám neslouží. To také pomůže léku vypořádat se s fyzickými aspekty těchto uložených emocí a mnoho
-                lidí zaznamená velké zlepšení v jejich celkové pohodě.',
-                'par_7' => 'Iboga nás učí znovu získat kontrolu nad našimi myšlenkami a využít mysl ve svůj
-                prospěch tím, že odhalíme jasné pochopení, že máme sílu projevit vše, po čem toužíme. Ukazuje nám,
-                že mysl je pouze nástroj, ale my nejsme svou myslí.',
-                'par_8' => 'Ukáže nám, abychom nežili v minulosti: v naší depresi. Ani v budoucnosti: v naší
-                úzkosti. Iboga nás učí, jak žít přítomným okamžikem, stát se svým vlastním svědkem a být přítomen nyní.
-                Tento lék má sílu začít přetvářet způsob, jakým přemýšlíme a jak přistupujeme nebo jak žijeme.',
-                'par_9' => 'Je důležité poznamenat: že i když se jedná o silný lék na mnoha úrovních,
-                nedělá práci za nás. Musíme reagovat na učení a implementovat nové chování a vytvářet nové vzorce myšlení.
-                Iboga wellness pobyt je jen začátek cesty. Lék nám pomůže vést cestu, ale my se musíme rozhodnout, že po cestě
-                budeme chodit každý den, abychom vytvořili nové drážky. Kliknutím sem zobrazíte další informac7 o tom, co
-                lze od integračního procesu očekávat.',
+                'par_1' => 'Iboga is known to be the greatest hunter for the truth inside of us. When we discover our
+                truth, and we have seen how our lives are operating at a dysfunctional level- we cannot “unsee”,
+                the switch has been flipped. It is no longer comfortable living in the same patterns that once
+                felt so ‘safe,’ and destructive behaviors are magnified tenfold. Once we become aware, we are
+                blessed with the responsibility to create change.',
+
+                'par_2' => 'Iboga has the wisdom to seek out the root of our traumas. A master teacher,
+                Iboga will give us insights on what life would be like if we continued down a path lacking awareness of our
+                true self. It reveals how wondrous life can be when we cleanse old patterns and begin to treat our lives
+                with value, respect and love.',
+
+                'par_3' => 'This medicine allows for a reconnection to our soul and aligns us to our purest state,
+                before we were wounded. The wisdom of the plant will heighten our awareness to help us gain clarity
+                 about our passions, inspirations, creativity and purpose. By connecting us to our soul we receive
+                  this opportunity to feel profound gratitude for the gift of life itself.',
+
+                'par_4' => 'Iboga opens us to our greater potential and greatly expand the mind. It illuminates
+                the ways we can heal and transform our lives to create abundance and well-being.',
+
+                'par_5' => 'On a physical level, Iboga detoxes the body of toxins, chemicals, emotional blockages
+                    and can also assist with viruses and parasites. Many things the medicine encounters which do not
+                    aid in our well being will be cleansed.',
+
+                'par_6' => 'This detox also cleanses the mind of belief systems and negative thought patterns that do
+                    not serve us. This will also aid the medicine to address the physical aspects of these stored emotions
+                    and many people notice a great improvement in their entire well being.',
+
+                'par_7' => 'Iboga teaches us to regain control of our thoughts, and use the mind to our advantage by
+                    unmasking a clear understanding that we have the power to manifest anything we desire. It shows us
+                    that the mind is simply a tool, but we are not our mind.',
+
+                'par_8' => 'It will show us not to live in the past: in our depression. Nor in the future: in our anxiety.
+                    Iboga helps teach us how to live in the moment, to become our own witness and to be present now.
+                    This medicine has the power to begin to transform the way that we think and how we approach or lives',
+
+                'par_9' => 'It is important to note: that while this is a powerful medicine on many levels,
+                it does not DO the work for us. We must respond to the teachings and implement new behaviors and create
+                new thought patters. The Iboga retreat is just the beginning of the journey. The medicine will help
+                guide the way but we must decide to walk the path every day to create new grooves. Click here for
+                more on what to expect from the integration process.',
             ],
             // TODO: add to the page !!!
-            'what_iboga_isnt' => [
+            'what_iboga_is_not' => [
                 'pars' => [
                     0 => 'Iboga is not Ibogaine. In reality, Ibogaine refers to Ibogaine HCL, which is a fully extracted alkaloid,
                     basically a prescription drug. Ibogaine is famous for its effectiveness in treating drug addiction, particularly opiate addiction.
@@ -123,9 +142,10 @@ return [
             'conclusion' => [
                 'title' => 'Conclusion',
                 'par_1' => 'For this reason, IBOGA is known to be one of the most powerful medicinal plants for treating addictions.
-            IBOGA gives profound insights, gives clarity to one\'s life and to the truth of oneself. IBOGA will keep
-            working with you in terms of insights for months after your retreat, as you reintegrate into your daily life.
-            IBOGA can promote: Self-actualization, empower self-growth, improve relationships, and reduce emotional suffering.',
+                    IBOGA gives profound insights, gives clarity to one\'s life and to the truth of oneself. IBOGA will keep
+                    working with you in terms of insights for months after your retreat, as you reintegrate into your daily life.
+                    IBOGA can promote: Self-actualization, empower self-growth, improve relationships, and reduce emotional suffering.',
+
                 'par_2' => 'Recently, the use of Iboga has spread beyond the African continent and is used for treatment and healing in various
           environments around the world. Since it spread to the West, it is now gaining more attention due to its derivative
           of the alkaloid Ibogaine, which is primarily used to successfully and permanently break addictive patterns of behavior.

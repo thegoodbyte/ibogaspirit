@@ -70,48 +70,58 @@ return [
                 jak naše životy fungují na dysfunkční úrovni – nemůžeme „nevidět“, spínač byl přepnut. Už není pohodlné
                 žít ve stejných vzorcích, které se kdysi cítily tak ‚bezpečně‘, a destruktivní chování se desetkrát zvětšilo.
                 Jakmile si to uvědomíme, jsme požehnáni odpovědností vytvářet změny.',
-                'par_2' => 'Iboga má moudrost hledat kořeny našich traumat. Iboga, mistrovský učitel, nám poskytne
-                náhled na to, jaký by byl život, kdybychom pokračovali po cestě bez vědomí našeho pravého já. Odhaluje,',
-                'par_3' => 'Tento lék umožňuje opětovné spojení s naší duší a uvádí nás do našeho nejčistšího stavu,
+
+                'par_2' => 'Iboga má moudrost hledat kořeny našich traumat. Iboga, mistrovský učitel,
+                nám poskytne náhled na to, jaký by byl život, kdybychom pokračovali po cestě bez vědomí
+                našeho pravého já. Odhaluje, jak úžasný může být život, když očistíme staré vzorce a začneme se svými
+                životy zacházet s hodnotou, respektem a láskou.',
+
+                'par_3' => 'Tato medicína umožňuje opětovné spojení s naší duší a uvádí nás do našeho nejčistšího stavu,
                 než jsme byli zraněni. Moudrost rostliny posílí naše vědomí, aby nám pomohla získat jasnost o našich vášních,
                 inspiracích, kreativitě a účelu. Spojením nás s naší duší dostáváme příležitost pocítit hlubokou vděčnost
                 za dar života samotného.',
+
                 'par_4' => 'Iboga nám otevírá náš větší potenciál a výrazně rozšiřuje mysl. Osvětluje způsoby,
                 jak můžeme léčit a transformovat své životy, abychom vytvořili hojnost a pohodu.',
+
                 'par_5' => 'Na fyzické úrovni Iboga detoxikuje tělo od toxinů, chemikálií, emočních blokád a může
                 také pomáhat s viry a parazity. Mnoho věcí, se kterými se medicína setká a které nepomáhají našemu
                 blahobytu, bude očištěno.',
+
                 'par_6' => 'Tento detox také čistí mysl od systémů přesvědčení a negativních myšlenkových vzorců,
                 které nám neslouží. To také pomůže léku vypořádat se s fyzickými aspekty těchto uložených emocí a mnoho
                 lidí zaznamená velké zlepšení v jejich celkové pohodě.',
+
                 'par_7' => 'Iboga nás učí znovu získat kontrolu nad našimi myšlenkami a využít mysl ve svůj
                 prospěch tím, že odhalíme jasné pochopení, že máme sílu projevit vše, po čem toužíme. Ukazuje nám,
                 že mysl je pouze nástroj, ale my nejsme svou myslí.',
-                'par_8' => 'Ukáže nám, abychom nežili v minulosti: v naší depresi. Ani v budoucnosti: v naší
+
+                'par_8' => 'Ukazuje nám, abychom nežili v minulosti: v naší depresi. Ani v budoucnosti: v naší
                 úzkosti. Iboga nás učí, jak žít přítomným okamžikem, stát se svým vlastním svědkem a být přítomen nyní.
-                Tento lék má sílu začít přetvářet způsob, jakým přemýšlíme a jak přistupujeme nebo jak žijeme.',
+                Tento lék má sílu začít přetvářet způsob, jakým přemýšlíme a jak přistupujeme k našim vlastním životům.',
+
                 'par_9' => 'Je důležité poznamenat: že i když se jedná o silný lék na mnoha úrovních,
                 nedělá práci za nás. Musíme reagovat na učení a implementovat nové chování a vytvářet nové vzorce myšlení.
-                Iboga wellness pobyt je jen začátek cesty. Lék nám pomůže vést cestu, ale my se musíme rozhodnout, že po cestě
+                Iboga wellness pobyt je jen začátek cesty. Medicína nám pomůže vést cestu, ale my se musíme rozhodnout, že po cestě
                 budeme chodit každý den, abychom vytvořili nové drážky. Kliknutím sem zobrazíte další informac7 o tom, co
                 lze od integračního procesu očekávat.',
             ],
             // TODO: add to the page !!!
-            'what_iboga_isnt' => [
+            'what_iboga_is_not' => [
                 'pars' => [
-                    0 => 'Iboga is not Ibogaine. In reality, Ibogaine refers to Ibogaine HCL, which is a fully extracted alkaloid,
-                    basically a prescription drug. Ibogaine is famous for its effectiveness in treating drug addiction, particularly opiate addiction.
-                    A person who consumes Ibogaine can prevent opiate withdrawal completely, detox physically, and begin healing
-                    the things that made them an addict in the first place.',
+                    0 => 'Iboga není Ibogaine. Ve skutečnosti se ibogain týká ibogainu HCL, což je plně extrahovaný alkaloid,
+                     v podstatě lék na předpis. Ibogain je známý svou účinností při léčbě drogové závislosti, zejména závislosti na opiátech.
+                     Osoba, která konzumuje Ibogain, může zcela zabránit abstinenčnímu syndromu od opiátů, fyzicky se detoxikovat a začít se uzdravovat
+                     věci, které z nich udělaly na prvním místě závislé.',
 
-                    1 => 'Ibogaine is found in Iboga but is just one of the active alkaloids. Iboga also contains other alkaloids
-                    that are effective for healing. Ibogaine HCL also lacks the spirit of Iboga, so it is only beneficial for
-                    physical healing and detox, not spiritual healing. ',
+                    1 => 'Ibogain se nachází v Iboze, ale je pouze jedním z aktivních alkaloidů. Iboga obsahuje i další alkaloidy
+                     které jsou účinné pro léčení. Ibogaine HCL také postrádá ducha Iboga, takže je prospěšný pouze pro
+                     fyzické léčení a detox, nikoli pro duchovní léčení.',
 
-                    2 => 'There are also many differences between Iboga and other plant medicines, entheogens, or psychedelics.
-                    The experience is entirely different. It is often compared with Ayahuasca since it is the most popular plant
-                    medicine in our time, but they are very different. We will expand upon the experience below, but essentially
-                    Iboga roots you deeply back into yourself while other psychedelics/entheogens take you outward on a visionary journey to heal.'
+                    2 => 'Existuje také mnoho rozdílů mezi Ibogou a jinými rostlinnými léky, entheogeny nebo psychedeliky.
+                     Zkušenost je úplně jiná. Často je srovnávána s Ayahuascou, protože je to nejoblíbenější rostlina
+                     medicíny v naší době, ale jsou velmi odlišné. Níže uvedené zkušenosti rozšíříme, ale v podstatě
+                     Iboga vás zakořenuje hluboko do sebe, zatímco ostatní psychedelika/entheogeny vás vezmou ven na vizionářskou cestu k uzdravení.'
                 ]
             ],
             'ibogaine' => [
