@@ -1,6 +1,16 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
+/***/ "./resources/js/app.js":
+/*!*****************************!*\
+  !*** ./resources/js/app.js ***!
+  \*****************************/
+/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
+
+__webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
+
+/***/ }),
+
 /***/ "./resources/js/bootstrap.js":
 /*!***********************************!*\
   !*** ./resources/js/bootstrap.js ***!
@@ -19320,6 +19330,16 @@ var __WEBPACK_AMD_DEFINE_RESULT__;/**
 
 /***/ }),
 
+/***/ "./resources/css/app2.css":
+/*!********************************!*\
+  !*** ./resources/css/app2.css ***!
+  \********************************/
+/***/ (() => {
+
+throw new Error("Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):\nModuleBuildError: Module build failed (from ./node_modules/postcss-loader/dist/cjs.js):\nTypeError: Cannot read properties of undefined (reading 'config')\n    at getTailwindConfig (/Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/tailwindcss/lib/lib/setupTrackingContext.js:84:63)\n    at /Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/tailwindcss/lib/lib/setupTrackingContext.js:96:92\n    at /Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/tailwindcss/lib/processTailwindFeatures.js:46:11\n    at plugins (/Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/tailwindcss/lib/index.js:38:63)\n    at LazyResult.runOnRoot (/Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/postcss/lib/lazy-result.js:339:16)\n    at LazyResult.runAsync (/Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/postcss/lib/lazy-result.js:393:26)\n    at LazyResult.async (/Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/postcss/lib/lazy-result.js:221:30)\n    at LazyResult.then (/Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/postcss/lib/lazy-result.js:206:17)\n    at processResult (/Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/webpack/lib/NormalModule.js:758:19)\n    at /Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/webpack/lib/NormalModule.js:860:5\n    at /Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/loader-runner/lib/LoaderRunner.js:400:11\n    at /Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/loader-runner/lib/LoaderRunner.js:252:18\n    at context.callback (/Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/loader-runner/lib/LoaderRunner.js:124:13)\n    at Object.loader (/Users/martinhalla/websites/ibogaspirit.cz/laravel/app/node_modules/postcss-loader/dist/index.js:142:7)");
+
+/***/ }),
+
 /***/ "./node_modules/axios/dist/browser/axios.cjs":
 /*!***************************************************!*\
   !*** ./node_modules/axios/dist/browser/axios.cjs ***!
@@ -22460,14 +22480,12 @@ module.exports = axios;
 /******/ 	})();
 /******/ 	
 /************************************************************************/
-var __webpack_exports__ = {};
-// This entry need to be wrapped in an IIFE because it need to be isolated against other modules in the chunk.
-(() => {
-/*!*****************************!*\
-  !*** ./resources/js/app.js ***!
-  \*****************************/
-__webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
-})();
-
+/******/ 	
+/******/ 	// startup
+/******/ 	// Load entry module and return exports
+/******/ 	__webpack_require__("./resources/js/app.js");
+/******/ 	// This entry module doesn't tell about it's top-level declarations so it can't be inlined
+/******/ 	var __webpack_exports__ = __webpack_require__("./resources/css/app2.css");
+/******/ 	
 /******/ })()
 ;
