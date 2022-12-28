@@ -4,7 +4,7 @@
     <div class = "row" id = "img-box-top-med-guidelines">
         <h1 class = "font-just-me font-size-80">Lékařské Směrnice</h1>
 
-        <blockquote>Iboga je neuvěřitelně bezpečný medicína, pokud má uživatel zdravé srdce a neužívá žádné návykové látky</blockquote>
+        <blockquote>Iboga je neuvěřitelně bezpečná medicína, pokud má uživatel zdravé srdce a neužívá žádné návykové látky</blockquote>
     </div>
 
 
@@ -18,7 +18,7 @@
 
             <h1 class = "h1-heading font-just-me color-iscz-green">Bezpečí Ibogy</h1>
             <p>
-                Iboga je neuvěřitelně bezpečný medicína, pokud má uživatel zdravé srdce a neužívá žádné navykove látky.
+                Iboga je neuvěřitelně bezpečná medicína, pokud má uživatel zdravé srdce a neužívá žádné navykove látky.
             </p>
 
             <p>

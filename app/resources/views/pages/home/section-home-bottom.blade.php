@@ -12,7 +12,8 @@
                         Iboga (Tabernathe Iboga) je vytrvalý keř pocházející z rovníkové středozápadní Afriky. Kořenová kůra byla používána
                     </p>
                     <div class="container text-center">
-                        <a href = "/iboga/co-je-iboga"><img src = "/images/home/iboga-bark.jpg"  width = "90%" /></a>
+                        <a href = "/iboga/co-je-iboga"><img src = "/images/home/iboga-bark.jpg"
+                                                            alt = "<?php echo __('seo/homepage.seo.content.sections.who_we_are.what_is_iboga.image'); ?>" width = "90%" /></a>
                     </div>
                     <p class = "">
 
@@ -42,7 +43,10 @@
                             Vítejte - jmenuji se Martin a jsem Nganga - spirituálni léčitel a tradiční Bwiti Iboga facilitátor a poskytovatel.
                         </p>
                         <div class = "container text-center">
-                            <img src = "/images/home/onas/martin-circle.png" width = "80%"/>
+                            <img
+                                src = "/images/home/onas/martin-circle.png"
+                                alt = "<?php echo __('seo/homepage.seo.content.sections.who_we_are.who_i_am.image'); ?>"
+                                width = "80%"/>
                         </div>
 
                         <p class = "">
@@ -83,7 +87,10 @@
 
                 <div class="container">
                     <a href = "/obrady/terminy-a-ceny">
-                        <img src = "/images/promotions/cz/2023/06/banner-cs-june-upava-v2.jpg" width = "340"/>
+                        <img
+                            src = "/images/promotions/cz/2023/06/banner-cs-june-upava-v2.jpg"
+                            alt = "<?php echo __('seo/homepage.seo.content.sections.who_we_are.dates.0.image'); ?>"
+                            width = "340"/>
                     </a>
                     <strong>16 - 23 června 2023.</strong><br />
                     Svoboda nad Upou, Královéhradecký kraj

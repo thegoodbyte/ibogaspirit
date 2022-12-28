@@ -13,7 +13,9 @@ a
                           /images/home/slider/fire_circle-600w.jpg 600px,
                           /images/home/slider/fire_circle-900w.jpg 900px"
                 sizes = "(max-width: 400px) 400px, (min-width: 401px and max-width: 600px) 600px, (min-width: 601px and max-width: 900px) 900px, (min-width: 901px) 1200px,  "
-                src="/images/home/slider/fire_circle-1200.jpg" alt="Iboga Bwiti obrady Ceska Republika Cechy" class="d-block w-100"
+                src="/images/home/slider/fire_circle-1200.jpg"
+                alt="<?php echo __('seo/homepage.seo.content.slider.slide1.image'); ?>"
+                class="d-block w-100"
             />
 
                 <div class="carousel-caption text-start">
@@ -32,12 +34,13 @@ a
                         /images/home/slider/slide-pobyt-2-600w.jpeg 600px,
                         /images/home/slider/slide-pobyt-2-900w.jpeg 900px"
                 sizes = "(max-width: 400px) 400px, (min-width: 401px and max-width: 600px) 600px, (min-width: 601px and max-width: 900px) 900px, (min-width: 901px) 1200px"
-                src="/images/home/slider/slide-pobyt-2.jpeg" alt="Iboga retreats Czech Republic" class="d-block w-100">
+                src="/images/home/slider/slide-pobyt-2.jpeg"
+                alt="<?php echo __('seo/homepage.seo.content.slider.slide2.image'); ?>"
+                class="d-block w-100">
 
 
                 <div class="carousel-caption">
-                    <h1>EXKLUZIVNÍ &nbsp;8 DENNÍ POBYT PRO ZMĚNU ŽIVOTA
-                    </h1>
+                    <h1>EXKLUZIVNÍ &nbsp;8 DENNÍ POBYT PRO ZMĚNU ŽIVOTA</h1>
                     <p><a href = "/ceremonies/osmi-denni-iboga-wellness-pobyt">Týdenní pobyt</a> s dvěma psycho-spirituálními obřady Ibogy, duchovní sprchou, naukou Bwiti a mnohem vice...</p>
                 </div>
 
@@ -54,7 +57,9 @@ a
                 (min-width: 401px and max-width: 600px) 600px,
                 (min-width: 601px and max-width: 900px) 900px,
                 (min-width: 901px) 1200px"
-                src="/images/home/slider/sebepoznani.jpg" alt="New York" class="d-block w-100">
+                src="/images/home/slider/sebepoznani.jpg"
+                alt="<?php echo __('seo/homepage.seo.content.slider.slide3.image'); ?>"
+                class="d-block w-100">
 
 
                 <div class="carousel-caption text-end">

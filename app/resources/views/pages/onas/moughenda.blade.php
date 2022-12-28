@@ -2,11 +2,14 @@
 @section('content')
 
     <div class = "row">
-        <img src = "/images/home/onas/moughenda-after-ceremony.jpeg" />
+        <img
+            src = "/images/home/onas/moughenda-after-ceremony.jpeg"
+            alt = "<?php echo __('seo/about/moughenda.seo.images.moughenda.outside'); ?>"
+        />
     </div>
 
     <div class = "row text-center">
-        <h2 class = "font-just-me font-size-100 color-iscz-red"> Moughenda</h2>
+        <h1 class = "font-just-me font-size-100 color-iscz-red"> Moughenda</h1>
          <h4 class = "font-just-me font-size-40">
              Šaman/Nima 10. generace, učitel Bwiti</h4>
     </div>
@@ -40,13 +43,15 @@
             </p>
         </div>
         <div class = "col-xl-6">
-            <img src = "/images/home/onas/moughenda.jpeg"/>
+            <img
+                src = "/images/home/onas/moughenda.jpeg"
+                alt = "<?php echo __('seo/about/moughenda.seo.images.moughenda.makeup'); ?>"/>
         </div>
     </div>
 
     <div class = "row">
         <div class = "col-xl-3 col-xs-6">
-            <img src = "/images/home/onas/moughenda-civil.jpeg" />
+            <img src = "/images/home/onas/moughenda-civil.jpeg" alt = "<?php echo __('seo/about/moughenda.seo.images.moughenda.civil'); ?>"/>
         </div>
 
         <div class = "col-xl-9 col-xs-6">
@@ -57,9 +62,9 @@
             </p>
 
             <blockquote>Neni to o tom, co si myslíte že to je, není to o tom čemu věříte,
-                že to je, je  to o tom, co to skutečně je <cite>Moughenda</cite></blockquote>
+                že to je, je  to o tom, co to skutečně je. <cite>Moughenda</cite></blockquote>
 
-            <p>Úzce spolupracuji s Moughendou jako sse svym Bwiti učitelem a mentorem.</p>
+            <p>Úzce spolupracuji s Moughendou jako se svým Bwiti učitelem a mentorem.</p>
 
         </div>
     </div>

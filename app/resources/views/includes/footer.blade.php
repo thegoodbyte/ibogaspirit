@@ -23,7 +23,7 @@
                     <ul>
                         <li>Ceremonie</li>
                         <li><hr /></li>
-                        <li><a href="{{ route('ceremonies-first-ceremony_cz') }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Váše první Iboga ceremonie / Otázky</a></li>
+                        <li><a href="{{ route('ceremonies-first-ceremony_cz') }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Vaše první Iboga ceremonie / Otázky</a></li>
                         <li><a href="{{ route('ceremonies-preparation_cz') }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Příprava a Průběžná péče</a></li>
                         <li><a href="{{ route('ceremonies-retreat_cz') }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Osmidenní léčebný pobyt</a></li>
                         <li><a href="{{ route('ceremonies-medical-guidelines_cz') }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek">Lékařské směrnice</a></li>
@@ -47,10 +47,9 @@
 
                         <li><a href="/kontakt">Kontakt</a></li>
                         <li><hr /></li>
-                        <!--
-                        <li>Call us toll free:</li>
+                        <li>Volejte zdarma:</li>
                         <li><a href = "tel:+18334264229">+1 833 IBOGACZ</a>  +1 (833-426-4229)</li>
-                        -->
+                        <li>Mobil</li>
                         <li><a href = "tel:+420234717595">+420 234-717-595</a></li>
 
                     </ul>
