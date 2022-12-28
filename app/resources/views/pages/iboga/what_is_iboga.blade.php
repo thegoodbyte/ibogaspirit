@@ -39,6 +39,7 @@
 
             <strong><?php echo __('pages/iboga/what_is_iboga.content.sections.nganga.title'); ?></strong>
             <p class="text-justify"><?php echo __('pages/iboga/what_is_iboga.content.sections.nganga.par_1'); ?></p>
+
         </div>
 
 

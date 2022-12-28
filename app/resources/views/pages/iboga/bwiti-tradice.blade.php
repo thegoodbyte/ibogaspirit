@@ -24,11 +24,10 @@
 
     <div class = "col-xl-10">
         <p>
-        <?php echo __('pages/iboga/bwiti_tradition.content.section_traditional_path.par_1'); ?>
+            <?php echo __('pages/iboga/bwiti_tradition.content.section_traditional_path.par_1'); ?>
         </p>
         <p>
             <?php echo __('pages/iboga/bwiti_tradition.content.section_traditional_path.par_2'); ?>
-
         </p>
     </div>
 

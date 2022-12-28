@@ -16,7 +16,8 @@
 
                     </p>
                     <div class="container text-center">
-                        <a href = "/iboga/co-je-iboga"><img src = "/images/home/iboga-bark.jpg"  width = "90%" /></a>
+                        <a href = "/iboga/co-je-iboga"><img src = "/images/home/iboga-bark.jpg"
+                                                            alt = "<?php echo __('seo/homepage.seo.content.sections.who_we_are.what_is_iboga.image'); ?>" width = "90%" /></a>
                     </div>
 
                     <p class = " text-uppercase">
@@ -43,7 +44,10 @@
                             <?php echo __('pages/homepage.content.section_bottom_about.col_2.par.top'); ?>
                         </p>
                         <div class = "container text-center">
-                            <img src = "/images/home/onas/martin-circle.png" width = "80%"/>
+                            <img
+                                src = "/images/home/onas/martin-circle.png"
+                                alt = "<?php echo __('seo/homepage.seo.content.sections.who_we_are.who_i_am.image'); ?>"
+                                width = "80%"/>
                         </div>
 
                         <p class = "">
@@ -77,7 +81,10 @@
                 <div class="container">
                     <strong class = "text-uppercase align-content-center font-lato font-size-30"><?php echo __('pages/homepage.content.section_bottom_about.col_3.country'); ?></strong>
                     <a href = "/obrady/terminy-a-ceny">
-                        <img src = "/images/promotions/cz/2023/06/banner-cs-june-upava-v2.jpg" width = "340"/>
+                        <img
+                            src = "/images/promotions/cz/2023/06/banner-cs-june-upava-v2.jpg"
+                            alt = "<?php echo __('seo/homepage.seo.content.sections.who_we_are.dates.0.image'); ?>"
+                            width = "340"/>
                     </a>
                     <strong><?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.0.date'); ?></strong><br />
                     <?php echo __('pages/homepage.content.section_bottom_about.col_3.terms.0.place'); ?><br /><br />

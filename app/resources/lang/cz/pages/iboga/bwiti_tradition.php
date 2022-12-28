@@ -10,14 +10,14 @@ return [
         'section_traditional_path' => [
             'title' => 'Bwiti - Traditional spiritual path',
             'par_1' => 'Symbiotický vztah mezi Bwiti a rostlinou Iboga sahá tisíce let do doby, kdy
-            Jako první byla objevena rostlina Iboga. Iboga se stala svátostí Bwiti téměř ve všech aspektech
-            jejich tradice a jejich obřady, které jim dal duch samotné Ibogy. Iboga je taková
-            důležitou součástí jejich života, že se používá jako zasvěcení do tradice a pravidelně se konzumuje při obřadech.',
+                Jako první byla objevena rostlina Iboga. Iboga se stala svátostí Bwiti téměř ve všech aspektech
+                jejich tradice a jejich obřady, které jim dal duch samotné Ibogy. Iboga je taková
+                důležitou součástí jejich života, že se používá jako zasvěcení do tradice a pravidelně se konzumuje při obřadech.',
             'par_2' => 'Bwiti není náboženství, ale tradiční duchovní cesta, která vás přivede k hlubokému spojení s vaší duší,
-            učí vás ovládat sebe sama a být přítomen ve své vlastní zkušenosti.
-            Umožňuje vám odhalit všechny pravdy o sobě, které vám mohou bránit žít život, jaký chcete.
-            K cestě dovnitř používáme posvátnou rostlinnou medicínu IBOGA. Je to svátost tradice, „jemný obr“
-            učitel rostlin s vrozenou moudrostí, aby vás přivedl k pravdě o tom, kdo jste.'
+                učí vás ovládat sebe sama a být přítomen ve své vlastní zkušenosti.
+                Umožňuje vám odhalit všechny pravdy o sobě, které vám mohou bránit žít život, jaký chcete.
+                K cestě dovnitř používáme posvátnou rostlinnou medicínu IBOGA. Je to svátost tradice, „jemný obr“
+                učitel rostlin s vrozenou moudrostí, aby vás přivedl k pravdě o tom, kdo jste.'
         ],
         'section_missoko_bwiti' => [
             'title' => 'Missoko Bwiti Tradice',

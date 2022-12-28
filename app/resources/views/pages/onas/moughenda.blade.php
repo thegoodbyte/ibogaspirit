@@ -2,11 +2,16 @@
 @section('content')
 
     <div class = "row">
-        <img src = "/images/home/onas/moughenda-after-ceremony.jpeg" />
+        <img
+            src = "/images/home/onas/moughenda-after-ceremony.jpeg"
+            alt = "<?php echo __('seo/about/moughenda.seo.images.moughenda.outside'); ?>"
+        />
     </div>
 
     <div class = "row text-center">
+
         <h2 class = "font-just-me font-size-100 color-iscz-red"> <?php echo __('pages/about-us/moughenda.content.title'); ?></h2>
+
          <h4 class = "font-just-me font-size-40">
              <?php echo __('pages/about-us/moughenda.content.subtitle'); ?></h4>
     </div>
@@ -29,13 +34,15 @@
             </p>
         </div>
         <div class = "col-xl-6">
-            <img src = "/images/home/onas/moughenda.jpeg"/>
+            <img
+                src = "/images/home/onas/moughenda.jpeg"
+                alt = "<?php echo __('seo/about/moughenda.seo.images.moughenda.makeup'); ?>"/>
         </div>
     </div>
 
     <div class = "row">
         <div class = "col-xl-3 col-xs-6">
-            <img src = "/images/home/onas/moughenda-civil.jpeg" />
+            <img src = "/images/home/onas/moughenda-civil.jpeg" alt = "<?php echo __('seo/about/moughenda.seo.images.moughenda.civil'); ?>"/>
         </div>
 
         <div class = "col-xl-9 coxs-6">
@@ -46,18 +53,13 @@
 
             <p><?php echo __('pages/about-us/moughenda.content.pars.3'); ?></p>
 
+
         </div>
     </div>
-
-
 
 
             <!--
                 <blockquote class="blockquote">To me, living as a true shaman is the best thing that ever happened to me.</blockquote>
             -->
-
-
-
-
 
 @stop

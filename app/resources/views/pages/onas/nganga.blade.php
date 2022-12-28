@@ -1,4 +1,4 @@
-@extends('layouts.default', ['pageTitle' => 'Tak co treba skupine 15 lidi v Cechach tohle leto?'])
+@extends('layouts.default')
 @section('content')
 
     <div class = "row">
@@ -8,7 +8,7 @@
 
     <div class = "row">
         <div class = "col-xl-5">
-            <img src  = "/images/home/onas/martin.jpg" alt   = "Iboga Bwiti Facilitator - Obrady a seance Ceska Republika"/>
+            <img src  = "/images/home/onas/martin.jpg" alt   = "<?php echo __('seo/about/nganga.seo.images.martin_outfit'); ?>"/>
         </div>
 
         <div class = "col-xl-7">
@@ -77,11 +77,9 @@
                 <p class = "font-just-me color-iscz-red font-size-25"><?php echo __('pages/about-us/nganga.content.pic_desc'); ?></p>
             </div>
 
-
-
-
             <p>
                 <?php echo __('pages/about-us/nganga.content.par_8'); ?>
+
             </p>
 
             <p>
@@ -90,7 +88,7 @@
 
             <p><?php echo __('pages/about-us/nganga.content.par_10'); ?></p>
 
-            <p><img src = "/images/home/onas/my-signture.png"></p>
+            <p><img src = "/images/home/onas/my-signture.png" alt = "<?php echo __('seo/about/nganga.seo.images.signature'); ?>"></p>
         </div>
     </div>
 

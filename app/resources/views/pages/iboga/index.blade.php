@@ -17,18 +17,30 @@
     <div class = "row">
         <div class = "col-xl-6">
             <strong>Iboga</strong>
-            <p class="text-justify">Malý keř, který divoce roste po celém Gabonu a Kamerunu, Tabernanthe Iboga obvykle dorůstá do výšky sedmi stop. Za optimálních podmínek může rostlina dospět v malý strom vysoký až 30 stop. Tento strom se zářivě zelenými listy vytváří shluky drobných bílých a žlutých květů a oranžově zbarvené, oválné ovoce Iboga.</p>M
+            <p class="text-justify">Malý keř, který divoce roste po celém Gabonu a Kamerunu, Tabernanthe Iboga obvykle
+                dorůstá do výšky sedmi stop. Za optimálních podmínek může rostlina dospět v malý strom vysoký až 30 stop.
+                Tento strom se zářivě zelenými listy vytváří shluky drobných bílých a žlutých květů a oranžově zbarvené,
+                oválné ovoce Iboga.</p>M
 
             <strong>Iboga kořeny</strong>
-            <p class="text-justify">Ale jeho kořeny jsou tím, co nejlépe definuje jeho ducha. Kůra kořene ibogy obsahuje alkaloidy, které jsou seškrabávány, rozdrceny a požívány, obsahují enteogenní vlastnosti, které se po staletí používají k duchovnímu studiu – počínaje kulturami Pygmejů a Bwiti v Africe a v poslední době pomáhají léčit nemocný západní svět.</p
+            <p class="text-justify">Ale jeho kořeny jsou tím, co nejlépe definuje jeho ducha. Kůra kořene ibogy obsahuje
+                alkaloidy, které jsou seškrabávány, rozdrceny a požívány, obsahují enteogenní vlastnosti, které se po
+                staletí používají k duchovnímu studiu – počínaje kulturami Pygmejů a Bwiti v Africe a v poslední době pomáhají
+                léčit nemocný západní svět.</p
 
                 <strong>Bwiti</strong>
-            <p class="text-justify">Říká se, že lesní lidé neboli Pygmejové ze středozápadní Afriky poprvé přinesli poznatky o této rostlině ostatním. Tato ústní učení se nakonec zformovala do praxe a kultury Bwiti – duchovní tradice založené na používání a učení Ibogy. Po stovky let Bwiti používali Ibogu v léčebných obřadech a duchovních rituálech pro sebeobjevování, osobní rozvoj, fyzické léčení a pro zvládnutí umění žít.</p
+            <p class="text-justify">Říká se, že lesní lidé neboli Pygmejové ze středozápadní Afriky poprvé přinesli
+                poznatky o této rostlině ostatním. Tato ústní učení se nakonec zformovala do praxe a kultury Bwiti –
+                duchovní tradice založené na používání a učení Ibogy. Po stovky let Bwiti používali Ibogu v léčebných
+                obřadech a duchovních rituálech pro sebeobjevování, osobní rozvoj, fyzické léčení a pro zvládnutí umění žít.</p
             <strong>Svaté dřevo</strong>
-            <p class="text-justify">V Gabonu je Iboga považována za posvátnou, někdy označovanou jako „svaté dřevo“. U sloupu každého kmene nebo komunity je hlavní šaman, který je zodpovědný za vedení lékařských obřadů iniciace a léčení.</p
+            <p class="text-justify">V Gabonu je Iboga považována za posvátnou, někdy označovanou jako „svaté dřevo“.
+                U sloupu každého kmene nebo komunity je hlavní šaman, který je zodpovědný za vedení lékařských obřadů iniciace a léčení.</p
 
                 <strong>Nganga</strong>
-            <p class="text-justify">Zakladatel Iboga Spirit.cz Martin Halla  byl vycvičen a iniciován gabonským šamanem Bwiti 10. generace, který byl také prvním Afričanem, který přinesl úplný kořen Iboga na západní polokouli.</p>
+            <p class="text-justify">Zakladatel Iboga Spirit.cz Martin Halla  byl vycvičen a iniciován gabonským
+                šamanem Bwiti 10. generace, který byl také prvním Afričanem, který přinesl úplný kořen Iboga na
+                západní polokouli.</p>
         </div>
     </div>
 
@@ -36,19 +48,32 @@
         <div class = "col-xl-6"></div>
         <div class = "col-xl-6">
             <h2>PROČ POUŽÍVÁME IBOGU?</h2>
-            <p class="text-justify">Účelem Ibogy je detoxikovat mysl, tělo a ducha, léčit na nejhlubších fyzických, emocionálních, mentálních a duchovních úrovních.</p>
+            <p class="text-justify">Účelem Ibogy je detoxikovat mysl, tělo a ducha, léčit na nejhlubších fyzických,
+                emocionálních, mentálních a duchovních úrovních.</p>
 
-            <p class="text-justify">V určitém okamžiku našeho života byla většina z nás na určité úrovni zraněna. Pro mnohé jsou rány hluboké, pro jiné mohly být tak jednoduché, jako kdyby si z nich dělali legraci ve škole, podceňované trauma.</p>
+            <p class="text-justify">V určitém okamžiku našeho života byla většina z nás na určité úrovni zraněna.
+                Pro mnohé jsou rány hluboké, pro jiné mohly být tak jednoduché, jako kdyby si z nich dělali legraci ve
+                škole, podceňované trauma.</p>
 
-            <p class="text-justify">I když nás možná ovlivnily způsoby, kterým jsme nikdy plně neporozuměli, vzpomínky jsou uloženy v našich podvědomých myslích a občas se na nás znovu vynoří a ovlivňují nás bez našeho vědomí.</p>
+            <p class="text-justify">I když nás možná ovlivnily způsoby, kterým jsme nikdy plně neporozuměli, vzpomínky
+                jsou uloženy v našich podvědomých myslích a občas se na nás znovu vynoří a ovlivňují nás bez našeho vědomí.</p>
 
-            <p class="text-justify">Naše rány mohly být zneužíváním v emocionální, mentální, sexuální nebo fyzické formě nebo těžkým zármutkem či ztrátou. Možná jsme byli zapojeni do traumatického incidentu nebo jsme byli jeho svědky. Mohou nás ovlivnit jako děti, mládež, dospělé nebo v různých obdobích našeho života.</p>
+            <p class="text-justify">Naše rány mohly být zneužíváním v emocionální, mentální, sexuální nebo fyzické formě
+                nebo těžkým zármutkem či ztrátou. Možná jsme byli zapojeni do traumatického incidentu nebo jsme byli jeho
+                svědky. Mohou nás ovlivnit jako děti, mládež, dospělé nebo v různých obdobích našeho života.</p>
 
-            <p class="text-justify">Postupem času se tyto zkušenosti otisknou do našeho podvědomí a vytvoří podmínky a programování, které nám pomohou vyrovnat se s životem. V určitém bodě cesty nás tyto bezpečnostní mechanismy již neudržují v bezpečí, ale vytvářejí opačný efekt a blokují nás před naší pravdou a radostí.</p>
+            <p class="text-justify">Postupem času se tyto zkušenosti otisknou do našeho podvědomí a vytvoří podmínky a
+                programování, které nám pomohou vyrovnat se s životem. V určitém bodě cesty nás tyto bezpečnostní
+                mechanismy již neudržují v bezpečí, ale vytvářejí opačný efekt a blokují nás před naší pravdou a radostí.</p>
 
-            <p class="text-justify">Tyto blokády se projevují jako strach, nejistota, deprese, úzkost, odpojení od sebe a zdroje, vysilující emoce, děsivé vzpomínky nebo pocity neustálého strachu. V podstatě byla naše mysl unesena a my se stáváme vězněm a naše myšlenky přebírají kontrolu nad našimi životy.</p>
+            <p class="text-justify">Tyto blokády se projevují jako strach, nejistota, deprese, úzkost, odpojení od sebe a
+                zdroje, vysilující emoce, děsivé vzpomínky nebo pocity neustálého strachu. V podstatě byla naše mysl
+                unesena a my se stáváme vězněm a naše myšlenky přebírají kontrolu nad našimi životy.</p>
 
-            <p class="text-justify">S myslí běžící show vstupujeme do začarovaného, ​​opakujícího se cyklu sebeomezujících myšlenek, které mohou vyústit v nezdravé chování a nepříjemné pocity nebo emoce. Iboga svým přímým a rozhodným způsobem odhaluje to, na co jsme jednoduše zapomněli: že nejsme naše mysl a že si zasloužíme milovat sami sebe.</p>
+            <p class="text-justify">S myslí běžící show vstupujeme do začarovaného, ​​opakujícího se cyklu sebeomezujících
+                myšlenek, které mohou vyústit v nezdravé chování a nepříjemné pocity nebo emoce. Iboga svým přímým a
+                rozhodným způsobem odhaluje to, na co jsme jednoduše zapomněli: že nejsme naše mysl a že si zasloužíme
+                milovat sami sebe.</p>
         </div>
     </div>
 

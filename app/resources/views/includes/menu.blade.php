@@ -24,13 +24,12 @@
     <nav class="menu-toggle">
         <ul class="nav__menu">
 
-            <li class = "menu-item"><a href="/" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky. Alternativní holistické léčení">HOME {{  $applocale }}</a></li>
-
+            <li class = "menu-item"><a href="/"
+                                       title = "<?php echo __('seo/menu-top.seo.menu.home'); ?>">HOME</a></li>
 
             <li class = "dropdown2 menu-item">
                 <a href="#"><?php echo __('menu.menu_ceremonies.iboga.title'); ?></a>
                 <ul>
-
                     <li><a href="{{ route('iboga-how-can-help_' . $applocale)  }}"  title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky. Alternativní holistické léčení"><?php echo __('menu.menu_ceremonies.iboga.how_iboga_can_help_you'); ?></a></li>
                     <li><a href="{{ route('iboga-bwiti-tradition_' . $applocale) }}" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky. Alternativní holistické léčení"><?php echo __('menu.menu_ceremonies.iboga.bwiti_tradition'); ?></a></li>
                     <li><a href="{{ route('iboga-what-is_' . $applocale) }}" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky. Alternativní holistické léčení"><?php echo __('menu.menu_ceremonies.iboga.what_is_iboga'); ?></a></li>

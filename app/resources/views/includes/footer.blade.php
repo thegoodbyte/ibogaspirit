@@ -22,11 +22,10 @@
 
                 <div class = "col-xl-2">
                     <ul>
-
                         <li><?php echo __('menu.menu_ceremonies.ceremonies.title'); ?></li>
-                        <li><hr />{{ $applocale }}</li>
+                        <li><hr /></li>
                         <li><a href="{{ route('ceremonies-first-ceremony_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.ceremonies.your_first_ceremony'); ?></a></li>
-                        <li><a href="{{ route('ceremonies-prep_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.ceremonies.preparation'); ?><</a></li>
+                        <li><a href="{{ route('ceremonies-prep_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.ceremonies.preparation'); ?></a></li>
                         <li><a href="{{ route('ceremonies-retreat_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.ceremonies.eight_day_retreat'); ?></a></li>
                         <li><a href="{{ route('ceremonies-medical-guidelines_' .  $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.ceremonies.medical_guidelines'); ?></a></li>
                         <li><a href="{{ route('ceremonies-dates_' .  $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.ceremonies.dates'); ?></a></li>
@@ -50,13 +49,11 @@
 
                         <li><a href="{{ route('ceremonies-first-ceremony_cz') }}"><?php echo __('menu.menu_ceremonies.contact'); ?></a></li>
                         <li><hr /></li>
-                        <!--
-                        <li>Call us toll free:</li>
-                        <li><a href = "tel:+18334264229">+1 833 IBOGACZ</a>  +1 (833-426-4229)</li>
-                        -->
-                        <li><a href = "tel:+420234717595">+420 234-717-595</a></li>
+                        <li>Volejte zdarma:</li>
                         <li><strong><a href = "tel:8334264229"><img src = "/images/icons/phone-round-white-20w.png"> &nbsp;833 IBOGACZ</a> <br />(833-426-4229)</strong></li>
-
+                        <li>Mobil</li>
+                        <li><a href = "tel:+420234717595">+420 234-717-595</a></li>
+                        
                     </ul>
                 </div>
 

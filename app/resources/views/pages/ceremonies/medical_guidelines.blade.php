@@ -3,11 +3,9 @@
 <div class = "container-fluid" id = "medical-quidelines-container">
     <div class = "row" id = "img-box-top-med-guidelines">
         <h1 class = "font-just-me font-size-80"><?php echo __('pages/ceremonies/medical-guidelines.content.title'); ?></h1>
-
-
         <blockquote><?php echo __('pages/ceremonies/medical-guidelines.content.quote'); ?></blockquote>
-
     </div>
+
 
 
     <!-- ----- SECTION --------------------- -->
@@ -16,7 +14,6 @@
 
             <h2 class = "font-size-60 font-just-me"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.safety.title'); ?></h2>
             <p>
-
                 <?php echo __('pages/ceremonies/medical-guidelines.content.sections.safety.pars.0'); ?>
 
             </p>
