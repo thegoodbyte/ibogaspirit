@@ -12,6 +12,12 @@ const mix = require('laravel-mix');
  */
 
 mix.js('resources/js/app.js', 'public/js')
-    .postCss('resources/css/app.css', 'public/css', [
-        //
+    .postCss('resources/css/app2.css', 'public/css', [
+        require("tailwindcss"),
     ]);
+
+mix.sass('resources/sass/homepage.scss', 'public/css');
+mix.sass('resources/sass/ceremonies/retreat.scss', 'public/css/ceremonies');
+
+
+
