@@ -22,7 +22,7 @@ return [
                     'what_is_iboga' => [
                         'image' => 'Iboga Tabernanthe africký keř s kořeny k léčbě mysli, těla a duše, duchovnímu růstu studiu'
                     ],
-                    'what_i_am' => [
+                    'who_i_am' => [
                         'image' => 'Zkušený Bwiti Iboga léčitel vyškolený v Gabonu v Africe - Iboga terapie Česká republika Čechy ČR'
                     ],
                     'dates' => [
