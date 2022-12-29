@@ -38,13 +38,13 @@ return [
                     ],
                     'diet' => [
                         'title' => 'Diet',
-                        'par' => 'Dieta před a po Iboze: Neexistuje žádná „Iboga dieta“, ale čím čistěji jíme, tím méně potřebujeme
-                            detoxikovat dříve, než medicína začne fungovat, je to úplná magie. Existuje také velmi silná korelace
-                            mezi spojením těla/mysli/duše. Když jsme si vědomi a uvědomujeme si, co do toho vkládáme
-                            těla, máme tendenci být více všímaví ke svým myšlenkám, prostředí a společnosti, kterou se rozhodneme udržovat.
-                            Zjistili jsme, že mnoho lidí po hlubokém vnitřním posunu také zavede změny ve své stravě a naopak.
-                            Čím více se můžeme předem připravit na „naladění“ a vyčištění aspektů našich životů, tím hlouběji
-                            medicína může jít rychleji.',
+                        'par' => 'Pre- and Post-Iboga Diet: There is no "Iboga Diet", but the cleaner we eat, the less we need
+                             to detox before the medicine takes effect. It is complete magic. There is also a very strong correlation
+                             between the body/mind/soul connection. When we are aware and conscious of what we are putting into our
+                             body, we tend to be more mindful of our thoughts, the environment, and the company we choose to keep.
+                             We have found that many people who also implement changes in their diet after a deep inner shift and vice versa.
+                             The more we can prepare in advance to "attune" and clear aspects of our lives, the more deeply
+                             medicine can go faster',
                         'items' => [
                             0 => 'Pastured & wild meats/seafood (unless already vegetarian or vegan)',
                             1 => 'Hearty nourishing plant-based foods',
@@ -69,10 +69,12 @@ return [
                         'pars' => [
                             0 => 'Set your intention for your treatment stay - clarify your goals and prepare questions to answer
                                      you will ask medicine. See below for more information on how to do this.',
+
                             1 => 'Part of your retreat package is a one-on-one preparatory call with me. I\'ll give you an idea about
                                  what you can expect, let\'s see how you do
                                  I will help you prepare your questions and set your intention.',
-                             2 => 'You are giving yourself an incredible gift. Consider feeling grateful, excited, and empowered. Show off now. Go ahead, I\'ll wait'
+
+                            2 => 'You are giving yourself an incredible gift. Consider feeling grateful, excited, and empowered. Show off now. Go ahead, I\'ll wait'
                              ],
                     ],
                     'no_distractions'=> [
@@ -84,16 +86,22 @@ return [
                                 is to embrace the stillness. Sometimes people have the most powerful realizations the day after their ceremony.
                                 It is important not to use computers, phones, books, or other distractions after a journey. Our lives are so busy.
                                 Make the choice to “unplug,” and slow down. You’ll receive much more from Iboga this way',
+
                             1 => 'Committing to this spiritual journey and setting our intentions is the beginning. But as our journey approaches,
                                     the mind, sensing imminent demise of its destructive ways, will play tricks and cause us to doubt.',
+
                             2 => 'When these doubtful thoughts come, simply acknowledge them and let them pass. Be aware of the thoughts without
                                     reading into them, or attaching to them. It is okay that they exist. Thoughts will always exist, negative
                                     and positive. It is up to us to decide how much power to give them',
-                            3 => 'eep healing is not comfortable and it is not easy, but it works. Healing at the root happens when we surrender.
+
+                            3 => 'Deep healing is not comfortable and it is not easy, but it works. Healing at the root happens when we surrender.
                             It happens when we confront our fears. By confronting our shadows, we break through to our greatest possible light!',
+
                             4 => 'When considering Iboga as a teacher, we must take the first step and ask ourselves, ‘Am I ready?’',
+
                             5 => 'To znamená, že jsme ochotni nahlédnout hluboko do své duše, zavázat se, že převezmeme zpět své vlastnictví
                                 mysl a naše životy, že jsme připraveni hledat pravdu a osvobodit se od toho, co nás brzdí.',
+
                             6 => 'Meditation and intention are essential to guiding your journey! This is a deep soujourn into your inner
                                 psyche and having questions prepared will help to drive the journey and visions. Practice guided imagery
                                 of surrendering and letting go of who you are for the purpose of being psychologically and spiritually
@@ -110,12 +118,16 @@ return [
                     'pars' => [
                         0 => 'Once you decide to participate in the Iboga ceremony, the Iboga spirit will begin to work with you.
                          If you need financial help, ask Iboga for it and Iboga will help you make it happen.',
+
                         1 => 'Meditation is a powerful tool to start strengthening the muscle that quiets your mind and turns you around
                          inward, connecting you to your soul. Doing this in advance will prepare you for the ceremony
                          the best thing you can do is quiet your mind and follow the music.',
+
                         2 => 'Trust your soul if you feel an intuitive call for a cure.',
+
                                 3 => 'When considering Iboga as a teacher, we must take the first step and ask ourselves, ‘Am I ready?’',
-                                4 => 'This means that we are willing to look deep inside our soul, to commit to taking back ownership of our minds and our
+
+                        4 => 'This means that we are willing to look deep inside our soul, to commit to taking back ownership of our minds and our
                         lives, that we are ready to seek truth and break free from what is holding us back.',
 
                     ],
@@ -225,7 +237,8 @@ return [
                 'par' => 'Wear loose, comfortable clothing during your journey. You can experience
                      your body temperature changes, so wearing layers is helpful. Extra blankets are always available.
                      Don\'t hesitate to ask for help if you need anything, be it with your thoughts or physical needs.',
-                 'dont_force_anything' => [
+
+                'dont_force_anything' => [
                     'title'=> 'Do not force anything',
                     'pars' => [
                         0 => 'Don’t Force It — After taking Iboga, it is common to experience discomfort at first. This is just how the
@@ -265,15 +278,19 @@ return [
                                     integration with purpose, and deflect any negative thoughts by refocusing on positive ones. Go with the
                                     flow and be patient with yourself. Negative thoughts can only grow when we give attention to them.
                                     Otherwise they are powerless',
+
                             1 => 'How you feel on day three will be very different from how you feel on day eight. Get into this one
                                  integration with purpose and deflect any negative thoughts by refocusing on positive thoughts. Go with
                                  with the wave of change and be patient with yourself. Negative thoughts can only grow if we pay attention to them.
                                  Otherwise, they have power over us..',
+
                             2 => 'When you arrive home have a trusted friend, coach, counselor or spiritual advisor to process the experience with.
                                 This sacrament can open up your psychological and energetic field so it is advantageous to surround yourself
                                 with people who are loving and at a empathetic in the days following. For example, avoid large crowds.',
+
                             3 => 'Some people report difficulty sleeping the nights following and melatonin supplementation (~3mg at bedtime) or
                                     GABA can be beneficial in this regard.',
+
                             4 => 'It’s important to note that iboga stays in your system for at least several weeks, so avoiding alcohol
                                 and stimulants will prolong the benefits of this work. It is best to avoid alcohol at least one month
                                 post, so you can fully integrate your experience. If you maximize the purification benefits, stay away

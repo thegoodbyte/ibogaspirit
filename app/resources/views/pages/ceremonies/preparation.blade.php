@@ -19,6 +19,8 @@
 
 
     @include('pages.ceremonies.preparation.before-ceremony.before-ceremony-mind')
+
+
     @include('pages.ceremonies.preparation.before-ceremony.before-ceremony-soul')
     @include('pages.ceremonies.preparation.before-ceremony.before-ceremony-start-the-process')
     @include('pages.ceremonies.preparation.before-ceremony.preparing-questions')

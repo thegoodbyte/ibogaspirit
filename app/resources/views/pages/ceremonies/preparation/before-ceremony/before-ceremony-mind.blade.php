@@ -3,6 +3,10 @@
     <div class = "row">
         <div class = "col-xl-12">
             <h2 class = "h2-heading"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.mind.title'); ?></h2>
+
+            <div class = "row" id = "ceremonies-preparation-mind-img-box">
+            <!-- image of woman with 3rd eye -->
+            </div>
             <h3 class = "font-just-me font-size-30 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.mind.mind_setup.title'); ?></h3>
             <p><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.mind.mind_setup.pars.0'); ?>
             </p>

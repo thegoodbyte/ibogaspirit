@@ -36,45 +36,46 @@
         </div>
 
         <div class = "col-xl-6 col-xs-12">
-            <img src = "/images/obrady/pages/preparation/third-eye-600w.jpg" width = "580" />
+            <img src = "/images/obrady/pages/preparation/third-eye-600w.jpg" width = "580" alt = ""/>
         </div>
     </div>
 </section>
 
 
 <section class = "prep-generic">
-    <div class = "row">
+    <div class = "row" style = "background-color: #f2ebe4;">
 
         <div class = "col-xl-12">
-            <h3 class  = "font-just-me font-size-40 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.par'); ?></h3>
+            <h3 class  = "font-just-me font-size-40 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.title'); ?></h3>
 
             <p>
                 <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.par'); ?>
             </p>
         </div>
 
-        <div class = "col-xl-6">
-            <ul>
-
-                <li>Maso na pastvě a divoké maso/mořské plody (pokud již nejsou vegetariánské nebo veganské)</li>
-                <li>Vydatná výživná rostlinná strava</li>
-                <li>Hodně ovoce a zeleniny</li>
-                <li>Mletá jídla, jako je kořenová zelenina, vývar z kostí, polévky/dušená masa (zejména po ústupu)</li>
-                <li>Minimální až žádný cukr</li>
-                <li>Odstraňte veškerý alkohol 7-14 dní předem (pokud není uvedeno déle)</li>
-                <li>Snižte množství kofeinu (ne více než 1 šálek denně, abyste se vyhnuli bolestem hlavy z kofeinu v den obřadu)</li>
-                <li>Odstraňte sodu a další sladké nápoje</li>
-                <li>Pijte hodně filtrované vody (1 galon denně +)</li>
-                <li>Odstraňte vysoce zpracované potraviny, zejména s konzervačními látkami a umělými barvivy/příchutěmi</li>
-                <li>Léky a doplňky~ Při práci s Ibogou se doporučuje pozastavit většinu léků. Buď
-                jsou kontraindikovány nebo je medicína jednoduše vyplaví. Mluvte s námi upřímně před vámi</li>
-                kniha o všem, co právě berete. Je to pro vaši bezpečnost, nemůžeme to dostatečně zdůraznit.</li>
-            </ul>
+        <div class = "col-xl-6 col-xs-12">
+            <img src = "/images/obrady/pages/preparation/diet-healhy-food-600w.jpg" alt = "Iboga ceremony preparation"/>
         </div>
 
         <div class = "col-xl-6 col-xs-12">
-            <img src = "" />
+            <ul>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.items.0'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.items.1'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.items.2'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.items.3'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.items.4'); ?></li>
+
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.items.5'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.items.6'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.items.7'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.items.8'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.items.9'); ?></li>
+
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.diet.items.10'); ?></li>
+            </ul>
         </div>
+
+
 
     </div>
 
@@ -86,7 +87,7 @@
                 Physical Exercise~ If you have a normal routine 3-5 times a week continue this and perhaps add some extra
                 time in nature if your practice is indoors. If you are not particularly active consider adding the following activities: -->
 
-                Fyzické cvičení~ Pokud máte normální rutinu 3-5krát týdně, pokračujte v tom a možná přidejte něco navíc
+                Fyzické cvičení~ Pokud máte normální rutinu 3-5 krát týdně, pokračujte v tom a možná přidejte něco navíc
                 čas v přírodě, pokud je vaše praxe uvnitř. Pokud nejste zrovna aktivní, zvažte přidání následujících aktivit:
             </p>
         </div>

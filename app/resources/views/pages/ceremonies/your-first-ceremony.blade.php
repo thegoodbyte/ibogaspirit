@@ -132,28 +132,28 @@
     <div class = "row">
         <div class = "col-xl-6 col-xs-12">
             <p>
-                <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.0.q');?></div>
+                <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.0.q');?></div>
                 <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.0.a');?></div>
             </p>
         </div>
 
         <div class = "col-xl-6 col-xs-12">
             <p>
-            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.1.q');?></div>
+            <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.1.q');?></div>
             <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.1.a');?></div>
             </p>
         </div>
         <!-- 2-3-->
         <div class = "col-xl-6 col-xs-12">
             <p>
-            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.2.q');?></div>
+            <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.2.q');?></div>
             <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.2.a');?></div>
             </p>
         </div>
 
 {{--        <div class = "col-xl-6 col-xs-12">--}}
 {{--            <p>--}}
-{{--            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.3.q');?></div>--}}
+{{--            <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.3.q');?></div>--}}
 {{--            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.3.a');?></div>--}}
 {{--            </p>--}}
 {{--        </div>--}}
@@ -161,14 +161,14 @@
         <!-- 4 - 5 -->
 {{--        <div class = "col-xl-6 col-xs-12">--}}
 {{--            <p>--}}
-{{--            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.4.q');?></div>--}}
+{{--            <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.4.q');?></div>--}}
 {{--            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.4.a');?></div>--}}
 {{--            </p>--}}
 {{--        </div>--}}
 
         <div class = "col-xl-6 col-xs-12">
             <p>
-            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.5.q');?></div>
+            <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.5.q');?></div>
             <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.5.a');?></div>
             </p>
         </div>
@@ -176,14 +176,14 @@
         <!-- 6 - 7 -->
         <div class = "col-xl-6 col-xs-12">
             <p>
-            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.6.q');?></div>
+            <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.6.q');?></div>
             <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.6.a');?></div>
             </p>
         </div>
 
         <div class = "col-xl-6 col-xs-12">
             <p>
-            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.7.q');?></div>
+            <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.7.q');?></div>
             <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.7.a');?></div>
             </p>
         </div>
@@ -191,29 +191,29 @@
         <!-- 8 - 9 -->
         <div class = "col-xl-6 col-xs-12">
             <p>
-            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.8.q');?></div>
+            <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.8.q');?></div>
             <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.8.a');?></div>
             </p>
         </div>
 
         <div class = "col-xl-6 col-xs-12">
-            <p>
-            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.9.q');?></div>
-            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.9.a');?></div>
+            <p class = "faq-question-block">
+                <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.9.q');?></div>
+                <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.9.a');?></div>
             </p>
         </div>
 
         <!-- 10  - 11 -->
         <div class = "col-xl-6 col-xs-12">
             <p>
-            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.10.q');?></div>
+            <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.10.q');?></div>
             <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.10.a');?></div>
             </p>
         </div>
 
         <div class = "col-xl-6 col-xs-12">
             <p>
-            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.11.q');?></div>
+            <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.11.q');?></div>
             <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.11.a');?></div>
             </p>
         </div>
@@ -221,14 +221,14 @@
 {{--        <!-- 12 - 13 -->--}}
 {{--        <div class = "col-xl-6 col-xs-12">--}}
 {{--            <p>--}}
-{{--            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.12.q');?></div>--}}
+{{--            <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.12.q');?></div>--}}
 {{--            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.12.a');?></div>--}}
 {{--            </p>--}}
 {{--        </div>--}}
 
 {{--        <div class = "col-xl-6 col-xs-12">--}}
 {{--            <p>--}}
-{{--            <div class = "font-just-me-small faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.13.q');?></div>--}}
+{{--            <div class = "faq-question"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.13.q');?></div>--}}
 {{--            <div class = "fax-answer"><?php echo __('pages/ceremonies/your-first-ceremony.content.sections.faq.questions.13.a');?></div>--}}
 {{--            </p>--}}
 {{--        </div>--}}

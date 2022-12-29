@@ -177,80 +177,94 @@ return [
                 'title' => 'Duration.',
                 'subtitle' => 'Iboga vs Ayahuasca',
                 'pars' => [
-                    'iboga' => 'Iboga: Obřady Iboga trvají 8-12 hodin a její účinky trvají 12-36 hodin. Způsobuje ataxii,
-                    která ztěžuje pohyb a můžete se také očistit. I když to není nutné, může to být nezbytnou součástí holistického
-                    léčebného procesu, který vede k vyčištění toho, co jste drželi ve svém těle. Na Iboze se s největší
-                    pravděpodobností nevyspíte až následující večer, a proto je den po obřadu ibogy většinou stráven jako „den zpracování“.
-                    Den zpracování je den po obřadu, kdy dochází k hluboké introspekci a vhledům. Tento zážitek ze zpracování může být
-                    často poučnější než samotný obřad.',
+                    'iboga' => 'Iboga: Iboga ceremonies last 8-12 hours and its effects last 12-36 hours. Causes ataxia,
+                     which makes it difficult to move and you can also clean yourself. Although not necessary, it can be a necessary part of a holistic
+                     a healing process that leads to the clearing of what you have been holding in your body. On Iboza with the largest
+                     chances are you won\'t sleep until the following evening, which is why the day after the iboga ceremony is usually spent as a "processing day".
+                     Processing Day is the day after the ceremony when deep introspection and insights occur. This processing experience can be
+                     often more instructive than the ceremony itself.',
 
-                    'aya' => 'Ayahuasca: Průměrná doba trvání ayahuascového sezení je 4-6 hodin. Nastartování trvá 20-60 minut a
-                    jeho nejsilnější účinky mohou trvat 3-6 hodin. Často dochází k katarzní očistě energie, jako je průjem,
-                    zvracení, zívání a pláč. Nastává poměrně rychlá doba zotavení, protože po skončení obřadu můžete spát a s
-                    největší pravděpodobností se zotavíte do snídaně. Následující den je obvykle naplněn pocitem láskyplného, hřejivého dosvitu.'
+                    'aya' => 'Ayahuasca: The average duration of an ayahuasca session is 4-6 hours. It takes 20-60 minutes to start up and
+                     its strongest effects can last 3-6 hours. There is often a cathartic cleansing of energy, such as diarrhea,
+                     vomiting, yawning and crying. There is a relatively quick recovery time, because after the ceremony you can sleep and s
+                     you will most likely recover by breakfast. The following day is usually filled with a feeling of loving, warm afterglow.'
                 ],
             ],
             'ceremonies_count' => [
-                'title' => 'Počet požadovaných obřadů: Iboga vs Ayahuasca',
+                'title' => 'Number of Ceremonies Required: Iboga vs Ayahuasca',
                 'pars' => [
-                    'aya' => 'Ayahuasca: Ayahuasca obvykle vyžaduje častější obřady, v rozmezí desítek až stovekkrát, aby bylo možné
-                    zažít trvalé uzdravení. I když je jeho učení hluboké, může někdy rychle vyblednout, a proto vyžaduje důslednou údržbu.
-                    Jeho účinky obvykle trvají 1-2 měsíce.',
-                    'iboga' => 'Iboga: Iboga vyžaduje méně obřadů, aby bylo možné zažít dlouhotrvající léčení. Obvykle 1-3krát.
-                    Má totiž skvělé a trvalé účinky, které jsou udržitelné po dobu 2 měsíců až 1 roku. Účinky Ibogy
-                    závisí na vašem výběru poskytovatele a vašem chování po ústupu. Renomovaná centra pro retreat iboga
-                    mají personál a vybavení potřebné k zajištění toho, aby účastníci dostali vše, co potřebují, aby mohli
-                    integrovat to, co se naučili, jak postupují v životě kupředu.'
+                    'aya' => 'Ayahuasca: Ayahuasca usually requires more frequent ceremonies, ranging from tens to hundreds of times, in order to
+                     experience permanent healing. Although its learning is deep, it can sometimes fade quickly and thus requires consistent maintenance.
+                     Its effects usually last 1-2 months.',
+
+                    'iboga' => 'Iboga: Iboga requires fewer ceremonies to experience long-lasting healing. Usually 1-3 times.
+                     It has excellent and lasting effects that are sustainable for 2 months to 1 year. Effects of Iboga
+                     it depends on your choice of provider and your behavior after the retreat. Renowned iboga retreat centers
+                     they have the staff and equipment needed to ensure that participants get everything they need to be able to
+                     integrate what they have learned as they move forward in life.'
                 ]
 
             ],
             'body_effects' => [
-                'title' => 'Účinky na lidské tělo',
+                'title' => 'Effects on the human body',
                 'aya' => [
-                    'title' => 'Účinky Ayahuascy na lidské tělo',
-                    'par'  => 'Účinky na mozek a tělo Nedávný přehled literatury odhaluje, že Ayahuasca aktivuje sigma-1 receptory (Sig1R) (1).
-                    Spouštění těchto receptorů je spojeno se snížením zánětu a oxidačního stresu v mozku.
+                    'title' => 'Effects of Ayahuasca on the Human Body',
+                    'par'  => 'Effects on the Brain and Body A recent review of the literature reveals that Ayahuasca activates sigma-1 receptors (Sig1R) (1).
+                     The activation of these receptors is associated with a reduction in inflammation and oxidative stress in the brain.
 
-                    DMT se zdá být hlavním aktivátorem Sig1R a také zvyšuje přežití neuronů tím, že mozkové buňky jsou odolnější vůči hypoxii (2).
+                     DMT appears to be a major activator of Sig1R and also increases neuronal survival by making brain cells more resistant to hypoxia (2).
 
-                    Kromě toho může účinek DMT na receptory stimulovat tvorbu nových neuronů a zlepšit mentální výkonnost testovaných zvířat (3)
+                     In addition, the effect of DMT on the receptors can stimulate the formation of new neurons and improve the mental performance of test animals (3)
 
-                    Bylo také zjištěno, že beta-karbolin vyvolává proliferaci nových mozkových buněk (4). Podle přehledu aktuálně
-                    dostupných preklinických studií zvyšuje IMAO hladiny mozkového neurotrofického faktoru (BDNF) (5).
+                     Beta-carboline has also been found to induce the proliferation of new brain cells (4). According to the overview currently
+                     In available preclinical studies, MAOIs increase brain-derived neurotrophic factor (BDNF) levels (5).
 
 
-                    Je známo, že BDNF zvyšuje přežití mozkových buněk a stimuluje schopnost růstu nových neuronů.
-                    Kromě toho beta-karbolin zlepšil paměť/učení v několika zvířecích modelech.
+                     BDNF is known to increase the survival of brain cells and stimulate the ability of new neurons to grow.
+                     In addition, beta-carboline improved memory/learning in several animal models.
 
-                    Kromě účinku na mozek může Ayahuasca také modulovat hladiny stresového hormonu kortizolu v těle (6).
-                    To je považováno za jednu z výhod čaje pro pacienty s depresí.'
+                     In addition to its effect on the brain, Ayahuasca can also modulate levels of the stress hormone cortisol in the body (6).
+                     This is considered to be one of the benefits of tea for depression patients.'
                 ],
                 'iboga' => [
                     'title' => 'Účinky Ibogy na mozek a tělo',
-                    'par'=> 'Ibogain ovlivňuje více neurotransmiterů v mozku. Například zvyšuje hladiny dopaminu a serotoninu blokováním jejich transportérů (11, 12).
-                    Tyto účinky přispívají ke zmírnění chování při hledání drog a příznaků deprese. Kromě toho ibogain také inhibuje N-acetylcholinové receptory v mozku (13).
-                    Alkaloid může aktivovat více neurotrofních růstových faktorů v mozku, jako je BDNF. Především upreguluje neurotrofický faktor odvozený z gliových buněk (GDNF), který stimuluje neurální remodelaci, a podobně jako BDNF zvyšuje přežití mozkových buněk (14).
-                    GDNF může stimulovat tvorbu nových dopaminergních neuronů, které mohou mít potenciál při léčbě neurodegenerativních stavů, jako je Parkinsonova choroba.
-                    Ibogain také aktivuje Sig1R, díky čemuž jsou neurony odolnější vůči stresu a zánětu (15).
-                    Kromě jeho přínosů pro zdraví mozku předběžné studie naznačují, že ibogain má antimikrobiální účinky proti bakteriím, virům a plísním (16, 17, 18).
-                    Zejména má antifungální aktivitu proti kmenům Candida albicans. Bylo zjištěno, že ibogain významně snižuje úmrtnost infikovaných zvířat (19).'
+                    'par'=> 'Ibogaine affects multiple neurotransmitters in the brain. For example, it increases
+                    dopamine and serotonin levels by blocking their transporters (11, 12).
+                     These effects contribute to the alleviation of drug-seeking behavior and depressive symptoms.
+                     In addition, ibogaine also inhibits N-acetylcholine receptors in the brain (13).
+                     The alkaloid can activate multiple neurotrophic growth factors in the brain, such as BDNF. In
+                     particular, it upregulates glial cell-derived neurotrophic factor (GDNF), which stimulates
+                     neural remodeling, and, like BDNF, increases brain cell survival (14).
+                     GDNF can stimulate the formation of new dopaminergic neurons, which may have potential in the
+                     treatment of neurodegenerative conditions such as Parkinson\'s disease.
+                     Ibogaine also activates Sig1R, making neurons more resistant to stress and inflammation (15).
+                     In addition to its benefits for brain health, preliminary studies suggest that ibogaine has
+                     antimicrobial effects against bacteria, viruses, and fungi (16, 17, 18).
+                     In particular, it has antifungal activity against strains of Candida albicans. Ibogaine has
+                     been found to significantly reduce mortality in infected animals (19).'
                 ]
             ],
             'medical_potential' => [
-                'title' => 'Potenciální lékařské využití a léčebné účinky',
-                'aya' => 'Ayahuasca se zdá být docela účinná při zmírňování příznaků deprese. Kromě účinků na kortizol mají alkaloidy v čaji
-                silné serotoninergní účinky, u kterých bylo zjištěno, že snižují příznaky deprese o 82 % ve studiích na lidech. (7).
-                Randomizovaná studie s 29 pacienty s depresí uvedla, že i jedna dávka Ayahuascy stačila ke zmírnění příznaků onemocnění. (8).
-                Předpokládá se také, že čaj má potenciál zlepšit příznaky PTSD u postižených (9). Přehled literatury uvádí, že 4 studie na lidech a
-                několik studií na zvířatech také uváděly anti-návykové vlastnosti ayahuascy (10). Tyto účinky jsou pravděpodobně kombinací inhibice
-                MAO a serotoninergních účinků DMT.',
-                'iboga' => 'Ibogain se úspěšně používá při zmírňování závislostí a chování při vyhledávání drog na opioidy (heroin, morfin, oxykodon), kokain, amfetaminy, alkohol a nikotin.
-                Jedna z největších studií s pacienty se závislostí zkoumá účinek terapie ibogainem na 88 účastnících. Alkaloid pomohl 30 % účastníků zcela odstranit závislost a 54 % abstinovalo déle než rok (20).
-                Pacienti se závislostí jsou běžně postiženi problémy duševního zdraví, jako je deprese, úzkost a PTSD. Studie uvádějí, že příznaky deprese jsou také významně sníženy nebo odstraněny po léčbě ibogainem (21, 22).
-                Jedna ze studií s pacienty s PTSD uvedla, že alkaloid také zmírnil příznaky úzkosti, kognitivní poruchy a sebevražedné myšlenky u všech 51 účastníků (23).'
+                'title' => 'Potential medical uses and therapeutic effects',
+
+                'aya' => 'Ayahuasca seems to be quite effective in alleviating the symptoms of depression. In addition to their effects on cortisol, the alkaloids in tea have
+                 powerful serotonergic effects that have been found to reduce symptoms of depression by 82% in human studies. (7).
+                 A randomized study of 29 patients with depression reported that even a single dose of Ayahuasca was enough to alleviate the symptoms of the disease. (8).
+                 The tea is also thought to have the potential to improve PTSD symptoms in sufferers (9). A review of the literature states that 4 human studies a
+                 several animal studies have also reported anti-addictive properties of ayahuasca (10). These effects are probably a combination of inhibition
+                 MAO and serotoninergic effects of DMT.',
+
+                'iboga' => 'Ibogaine has been used successfully in reducing addiction and drug-seeking behavior
+                 opioids (heroin, morphine, oxycodone), cocaine, amphetamines, alcohol and nicotine.
+                 One of the largest studies of addiction patients examines the effect of ibogaine therapy on 88 participants.
+                 The alkaloid helped 30% of participants completely break their addiction, and 54% remained abstinent for more than a year (20).
+                 Addiction patients are commonly affected by mental health issues such as depression, anxiety and PTSD.
+                 Studies report that symptoms of depression are also significantly reduced or eliminated after treatment with ibogaine (21, 22).
+                 One of the studies with PTSD patients reported that the alkaloid also reduced symptoms of anxiety, cognitive
+                 disorders and suicidal thoughts in all 51 participants (23).'
             ],
             'references' => [
-                'title' => 'Odkazy'
+                'title' => 'References'
             ]
         ]
     ]
