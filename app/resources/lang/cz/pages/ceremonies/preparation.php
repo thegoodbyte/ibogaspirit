@@ -15,7 +15,7 @@ return [
                 'body' => [
                     'pars' => [
                         0 =>'Měli byste se zdržet alkoholu, drog a většiny léků po dobu minimálně 14 dnů',
-                        1 => 'Některé léky/léky vyžadují abstinenci až 30 dnů. Žádný strach, dejte nám vědět, co se děje, a my s
+                        1 => 'Některé léky vyžadují abstinenci až 30 dnů. Žádný strach, dejte nám vědět, co se děje, a my s
                             vámi budeme v tomto procesu spolupracovat.',
                         2 => 'Jezte co nejčistěji. Cukrům a průmyslově zpracovaným potravinám je lepší se vyhnout.',
                         3 => 'Colon Hydroterapie umožňuje, aby se medicína dostala hlouběji do vašeho těla',

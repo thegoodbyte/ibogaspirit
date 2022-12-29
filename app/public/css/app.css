@@ -275,6 +275,15 @@ blockquote cite {
     margin-top: 1em;
 }
 
+/*** EIGHT DAY RETREAT *******************/
+
+
+
+#eight-day-retreat-includes-box {
+    display: flex;
+    background-color: #e6f5ea;
+}
+
 
 #eight-day-retreat-includes-box div.item p{
     text-align: center;
@@ -294,6 +303,7 @@ blockquote cite {
 
 #eight-day-retreat-includes-box div.item:hover {
     background-color: rgb(166, 191, 136);
+    color: #fff;
 }
 
 

@@ -89,7 +89,7 @@ return [
                 blahobytu, bude očištěno.',
 
                 'par_6' => 'Tento detox také čistí mysl od systémů přesvědčení a negativních myšlenkových vzorců,
-                které nám neslouží. To také pomůže léku vypořádat se s fyzickými aspekty těchto uložených emocí a mnoho
+                které nám neslouží. To také pomůže medicine vypořádat se s fyzickými aspekty těchto uložených emocí a mnoho
                 lidí zaznamená velké zlepšení v jejich celkové pohodě.',
 
                 'par_7' => 'Iboga nás učí znovu získat kontrolu nad našimi myšlenkami a využít mysl ve svůj
@@ -98,9 +98,9 @@ return [
 
                 'par_8' => 'Ukazuje nám, abychom nežili v minulosti: v naší depresi. Ani v budoucnosti: v naší
                 úzkosti. Iboga nás učí, jak žít přítomným okamžikem, stát se svým vlastním svědkem a být přítomen nyní.
-                Tento lék má sílu začít přetvářet způsob, jakým přemýšlíme a jak přistupujeme k našim vlastním životům.',
+                Tato medicína má sílu začít přetvářet způsob, jakým přemýšlíme a jak přistupujeme k našim vlastním životům.',
 
-                'par_9' => 'Je důležité poznamenat: že i když se jedná o silný lék na mnoha úrovních,
+                'par_9' => 'Je důležité poznamenat: že i když se jedná o silný medicínu na mnoha úrovních,
                 nedělá práci za nás. Musíme reagovat na učení a implementovat nové chování a vytvářet nové vzorce myšlení.
                 Iboga wellness pobyt je jen začátek cesty. Medicína nám pomůže vést cestu, ale my se musíme rozhodnout, že po cestě
                 budeme chodit každý den, abychom vytvořili nové drážky. Kliknutím sem zobrazíte další informac7 o tom, co
@@ -118,7 +118,7 @@ return [
                      které jsou účinné pro léčení. Ibogaine HCL také postrádá ducha Iboga, takže je prospěšný pouze pro
                      fyzické léčení a detox, nikoli pro duchovní léčení.',
 
-                    2 => 'Existuje také mnoho rozdílů mezi Ibogou a jinými rostlinnými léky, entheogeny nebo psychedeliky.
+                    2 => 'Existuje také mnoho rozdílů mezi Ibogou a jinými rostlinnými medicínami, entheogeny nebo psychedeliky.
                      Zkušenost je úplně jiná. Často je srovnávána s Ayahuascou, protože je to nejoblíbenější rostlina
                      medicíny v naší době, ale jsou velmi odlišné. Níže uvedené zkušenosti rozšíříme, ale v podstatě
                      Iboga vás zakořenuje hluboko do sebe, zatímco ostatní psychedelika/entheogeny vás vezmou ven na vizionářskou cestu k uzdravení.'

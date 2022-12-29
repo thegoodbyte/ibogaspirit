@@ -7,7 +7,7 @@
 
     <div class = "row text-center">
         <!-- Osmi-denní léčebný Pobyt IBOGY -->
-        <h1 class = "font-just-me color-iscz-red"><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.title'); ?></h1>
+        <h1 class = "h1-heading font-just-me color-iscz-red"><?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.title'); ?></h1>
         <p>
             <?php echo __('pages/ceremonies/8-day-ceremony-schedule.content.pars.0'); ?>
         </p>
