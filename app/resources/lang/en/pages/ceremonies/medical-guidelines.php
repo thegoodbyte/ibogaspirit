@@ -53,7 +53,7 @@ Most medications can reduce Iboga\'s healing potential or alter its effects.,',
                      back off if you are taking any psychiatric medications. We recommend that you talk to your doctor and see all your options
                      discontinue all psychiatric medications for at least two months.',
                      2 => 'Iboga can be very dangerous when combined with psychiatric drugs.<br />
-                         PLEASE CONTACT US IF YOU HAVE ANY QUESTIONS OR QUESTIONS ABOUT THIS!!!',
+                         PLEASE <a href = "/contact">CONTACT US</a> IF YOU HAVE ANY QUESTIONS OR QUESTIONS ABOUT THIS!!!',
                      3 => 'It is important to know that Iboga has the potential to cleanse and detoxify the body and mind,
                          so no diets or detoxes are necessary.'
                  ],

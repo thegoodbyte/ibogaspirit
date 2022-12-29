@@ -42,7 +42,7 @@ return [
         'par_8'=> 'Momentálně nejvíce působím v Mexickém Kankůnu v centru "Bwiti Life" (<a href = "http://www.bwitilife.com" target = "_blank" title = "Léčebné centrum Iboga Bwiti v Mexiku">http://www.bwitilife.com</a>)
                 u svého Bwiti bratra a Ibogy facilitátora Michaela Cassidyho.',
         'par_9'=> 'Veškerý pobyt a Iboga ceremonie jsem schopný poskytnout v rodné češtině, angličtině či polštině.
-                Ceremonie mohu též poskytnout v němčině s pomocí svého Bwiti bratra, kamaráda a Ibogy facilitátora - Nicka Sunshilda.',
+                Ceremonie mohu též poskytnout v němčině s pomocí svého Bwiti bratra, kamaráda a Ibogy facilitátora - Nicka Sunchilda.',
         'par_10'=> 'Kdykoli mě prosím kontaktujte a napište mi, i jen s jakoukoliv otázkou. Bude mi potěšením se s vámi setkat a pomoci vám, jak jen budu moci!',
         'pic_desc' => 'S šamanem Moughendou před Bwiti kapli v Moughenda village v Gabonu v Africe'
 

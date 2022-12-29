@@ -53,7 +53,7 @@ return [
                     ustupte, pokud užíváte nějaké psychiatrické léky. Doporučujeme, abyste si promluvili se svým lékařem a viděli všechny možnosti
                     vysadit všechny psychiatrické léky na minimálně dva měsíce.',
                     2 => 'Iboga může být velmi nebezpečná, pokud je kombinována s psychiatrickými léky.<br />
-                        PROSÍM, KONTAKTUJTE NÁS, POKUD MÁTE V TOMTO DOTAZY NEBO OTÁZKY!!!',
+                        PROSÍM, <a href = "/contact">KONTAKTUJTE NÁS</a>, POKUD MÁTE V TOMTO DOTAZY NEBO OTÁZKY!!!',
                     3 => 'Je důležité vědět, že Iboga má potenciál očistit a detoxikovat tělo i mysl,
                         takže nejsou nutné žádné diety, ani detox.'
                 ],
