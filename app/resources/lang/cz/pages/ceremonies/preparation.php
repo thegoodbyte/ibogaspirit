@@ -13,6 +13,7 @@ return [
                     snadnější zaznamenávání postřehů. Ponořte se do svých zkušeností a pokud můžete, napište o nich, abyste si toho uchovali co nejvíce.',
                 ],
                 'body' => [
+                    'title' => 'Tělo',
                     'pars' => [
                         0 =>'Měli byste se zdržet alkoholu, drog a většiny léků po dobu minimálně 14 dnů',
                         1 => 'Některé léky vyžadují abstinenci až 30 dnů. Žádný strach, dejte nám vědět, co se děje, a my s
@@ -42,13 +43,13 @@ return [
                     ],
                     'diet' => [
                         'title' => 'Dieta',
-                        'par' => 'Diet Before & After Iboga~ There is no “Iboga Diet” per-se but the cleaner we eat, the less we need
-                            to detox before the medicine can work it’s full magic. There is also a very strong correlation
-                            between the body/mind/soul connections. When we are conscious and mindful about what we put in our
-                            bodies, we tend to be more mindful about our thoughts, environments and the company we choose to keep.
-                            We find that many people after having a deep internal shift will also implement changes in their diet and vice versa.
-                            The more prep we can do in advance to “tune in” and clean up aspects of our lives, the deeper
-                            the medicine can go more quickly.',
+                        'par' => 'Dieta před a po iboze. Neexistuje žádná „Iboga Dieta“, ale čím čistší jíme, tím méně potřebujeme
+                             detoxikovat dříve, než medicína začne fungovat, je to úplná magie. Existuje také velmi silná korelace
+                             mezi spojením těla/mysli/duše. Když jsme si vědomi a uvědomujeme si, co do toho vkládáme
+                             těla, máme tendenci být více všímaví ke svým myšlenkám, prostředí a společnosti, kterou se rozhodneme udržovat.
+                             Zjistili jsme, že mnoho lidí po hlubokém vnitřním posunu také zavede změny ve své stravě a naopak.
+                             Čím více se můžeme předem připravit na „naladění“ a vyčištění aspektů našich životů, tím hlouběji
+                             lék může jít rychleji',
                         'items' => [
                                 0 => 'Maso na pastvě a divoké maso/mořské plody (pokud již nejsou vegetariánské nebo veganské)',
                                 1 => 'Vydatná výživná rostlinná strava',
@@ -68,7 +69,14 @@ return [
                     'physical_exercise' => [
                         'title' => 'Fyzická cvičení',
                         'par' => 'Fyzické cvičení~ Pokud máte normální rutinu 3-5 krát týdně, pokračujte v tom a možná přidejte něco navíc
-                        čas v přírodě, pokud je vaše praxe uvnitř. Pokud nejste zrovna aktivní, zvažte přidání následujících aktivit:'
+                        čas v přírodě, pokud je vaše praxe uvnitř. Pokud nejste zrovna aktivní, zvažte přidání následujících aktivit:',
+                        'items' => [
+
+                                'Procházky v přírodě, třeba s domácím mazlíčkem',
+                                'Jemná jóga, qi gong, tai chi',
+                                'Plavání, jízda na kole',
+
+                        ]
                     ]
                 ],
                 'mind' => [
@@ -182,22 +190,10 @@ return [
                     ],
                     'find_time_for_yourself' => [
                         'title' => 'Najdete čas pro sebe',
-                        'par' => '<!-- [ENGLISH]
-                        Walks in nature, perhaps with a pet
-                        Gentle yoga, qi gong, tai chi
-                        Swimming, bike rides
-                        Detox Your Brain~ Reduce/eliminate your television, computer and social media time. We store a lot of
-                        programming in our subconscious from these sources and the clearer we are- the less Iboga has to move through
-                        before getting to the heart of what we are looking to receive from the medicine.
-
-                        -->
-
-                        Procházky v přírodě, třeba s domácím mazlíčkem<br />
-                        Jemná jóga, qi gong, tai chi<br />
-                        Plavání, vyjížďky na kole<br />
-                        Detoxujte svůj mozek~ Snižte/eliminujte čas strávený u televize, počítače a sociálních sítí. Skladujeme hodně
+                        'par' => '
+                        <strong>Detoxujte svůj mozek</strong> Snižte/eliminujte čas strávený u televize, počítače a sociálních sítí. Skladujeme hodně
                         programování v našem podvědomí z těchto zdrojů a čím jasnější jsme – tím méně toho Iboga musí projít
-                        než se dostaneme k jádru toho, co od léku očekáváme.<br />'
+                        než se dostaneme k jádru toho, co od medicíny očekáváme.<br />'
                     ]
                 ],
                 'start_process' => [
@@ -208,7 +204,7 @@ return [
 
                         Změny často začínají ve chvíli, kdy se zavážeme pracovat s touto medicínou. Už
                         měsíc předem si většina lidi všimne, že se život začíná posouvat.
-                        doporučujeme urcitou přípravu předem abyste ze svých zkušeností získali maximum:',
+                        Doporučuji určitou přípravu předem, abyste ze svých zkušeností získali maximum:',
 
                     'items' => [
                       'en'  => '  <!-- [ENGLISH]
@@ -231,30 +227,17 @@ return [
                     ],
                     'connect_intent' => [
                         'title' => 'Spojte se se svými záměry',
-                        'par' => '<!-- [ENGLISH]
-                                Connect with your intentions~
-                                Get very clear on what it is you are looking to heal. Doing the workbook and with a preparation coach, therapist or
-                                healer can also assist in moving and clarifying a lot to begin to move some of the energy in advance to
-                                receive even more from the medicine during the retreat.
-
-                                -->
-
-                                Ujasněte si, co chcete léčit. Dělat sešit a s přípravným trenérem, terapeutem popř
-                                léčitel může také pomoci při přesunu a vyjasnění, aby mohl začít přesunovat část energie předem
-                                dostávat ještě více z léku během ústupu.'
+                        'par' => 'Ujasněte si, co chcete léčit. Udělejte si sešit a setkejte se s přípravným trenérem, terapeutem popř
+                                léčitelem ktery vam může také pomoci při transformaci a vyjasnění, Muzete tak začít přeměnovat část energie předem
+                                a tim ziskat ještě více z Ibogy medicíny při samotném pobytu.'
                     ],
                     'focus_on_you' => [
                         'title' => 'Zaměřte se na sebe',
-                        'par' => '<!-- [ENGLISH]
-                                Focus On You — If you have been contemplating on whether or not to go on a retreat with a loved one,
-                                or a group of friends, you must focus on you — not them — during your retreat. Simply put, the process
-                                is yours, and loved ones can be more of a distraction than a comfort. Focusing on someone else will
-                                prevent you from receiving Iboga’s insights. Talk to our Director of Guest Services if you would like
-                                to travel with a loved one or group. -->
+                        'par' => '
                                 – Pokud jste přemýšleli o tom, zda jít na retreat s milovanou osobou či nikoli,
                                 nebo skupina přátel, musíte se během svého retreatu soustředit na vás – ne na ně. Jednoduše řečeno, proces
-                                je vaše a blízcí mohou být více rozptýlením než útěchou. Zaměření na někoho jiného bude
-                                zabránit vám v přijímání statistik Ibogy. Pokud chcete, obraťte se na našeho ředitele služeb pro hosty
+                                je vaše a blízcí mohou být více rozptýlením než útěchou. Zaměření se na někoho jiného vam muze
+                                zabránit v přijímání statistik Ibogy. Pokud chcete, obraťte se na našeho ředitele služeb pro hosty
                                 cestovat s milovanou osobou obou nebo skupinou.'
                     ],
                     'ultimately' => [
@@ -278,9 +261,9 @@ return [
                         1=> 'Ano! Jakmile během obřadu požijete dostatek léků, můžete se Ibogy zeptat naprosto na cokoliv.
                             Iboga vás spojuje s vaší duší, vaší pravdou – kde jsou všechny odpovědi.',
 
-                        2 => 'Jakmile dojde k tomuto spojení, meditační praxe doma posílí oba váš vztah
-                                    s Ibogou a se svou Duší, abychom vás podpořili, abyste mohli pravidelně naslouchat své intuici,
-                                    důvěřuj si a odpověz na všechny své otázky – vždy.'
+                        2 => 'Jakmile dojde k tomuto spojení, meditační praxe doma posílí  váš vztah
+                                    s Ibogou a i s vaší Duší, Aby jste podpořili pravidelné nasloucháni své vlastni intuici,
+                                    důvěřujte si a odpovězte na všechny své otázky – vždy.'
                     ],
                     'steps' => [
                         'first_step' => [
@@ -288,14 +271,14 @@ return [
                             'subtitle' => 'Přehled života',
                             'pars' => [
 
-                                0 => 'Při přípravě otázek doporučujeme vytáhnout notebook a nakreslit čáru uprostřed stránky.',
+                                0 => 'Při přípravě otázek doporučujeme mit sešit a nakreslit čáru uprostřed stránky.',
 
                                 1 => 'Na levou stranu si zapište všechny věci, které se vám na vašem životě aktuálně nelíbí.',
 
-                                2 => 'Na pravou stranu řádku, přímo naproti každé, napište, jak chcete, aby vypadala.',
+                                2 => 'Na pravou stranu řádku, přímo naproti každé situaci, napište, jak chcete, aby vypadala.',
 
-                                3 => 'Například, pokud jsou ve vašem romantickém vztahu problémy. Na pravou stranu napište, můj partner a já bojujeme.
-                                Přímo přes napište, co chcete, aby to bylo, například já a můj partner jsme ve zdravém vztahu.',
+                                3 => 'Například, pokud jsou ve vašem romantickém vztahu problémy. Na levou stranu napište, "můj partner a já bojujeme".
+                                Přímo naproti napravo napište, jak chcete, aby to bylo, Například "já a můj partner jsme ve zdravém vztahu."',
 
                                 4 => 'Zde můžete vytvářet své otázky. Například,',
 
@@ -308,7 +291,7 @@ return [
 
                             'pars' => [
                                 0 => 'Nyní, když jste vyléčili starou ránu, je čas vytvořit si nový návyk, abyste mohli začít vytvářet nové
-                                        Výsledek. Zeptejte se medicíny, jak můžete dělat věci jinak.',
+                                        výsledky. Zeptejte se Ibogymedicíny, jak můžete dělat věci jinak.',
 
                                 1 => 'Jak to mohu změnit?',
 
@@ -345,7 +328,7 @@ return [
                     'pars' => [
                         0 => 'Nenuťte to – Po užití Ibogy je běžné, že budete zpočátku pociťovat nepohodlí. Takto se právě
                             energie Ibogy funguje – musíte ji cítit, abyste ji vyléčili. Nejjednodušší způsob, jak překonat jakékoli nepohodlí
-                            je uvolnit se, soustředit se na svůj dech a odevzdat se. Lék přesně ví, co se má stát
+                            je uvolnit se, soustředit se na svůj dech a odevzdat se.Iboga medicína přesně ví, co se má stát
                             abychom se uzdravili.',
                         1 => 'Vzpomeňte si, proč vás Iboga zavolala, a sedněte si v této důvěře. Očekávání, jak chcete své
                             cesta jít je neplodná. Žádní dva lidé nikdy nezažijí Ibogu stejným způsobem. Vaše cesta je vaše
@@ -379,37 +362,19 @@ return [
                                 integrace s účelem a odvrátit jakékoli negativní myšlenky tím, že se znovu zaměříte na pozitivní myšlenky. Jděte s
                                 s vlnou zmeny a budte trpěliví sám se sebou. Negativní myšlenky mohou růst pouze tehdy, když jim věnujeme pozornost.
                                 Jinak nad nami namaji moc..',
-                            2 => '<!-- [ENGLISH]
-                                When you arrive home have a trusted friend, coach, counselor or spiritual advisor to process the experience with.
+                            2 => 'When you arrive home,  have a trusted friend, coach, counselor or spiritual advisor to process the experience with.
                                 This sacrament can open up your psychological and energetic field so it is advantageous to surround yourself
-                                with people who are loving and at a empathetic in the days following. For example, avoid large crowds. -->
-
-                                    Když se vrátíte domů, mějte důvěryhodného přítele, kouče, poradce nebo duchovního poradce, se kterým budete zkušenost zpracovávat.
-                                    Tato svátost může otevřít vaše psychologické a energetické pole, takže je výhodné obklopit se
-                                    s lidmi, kteří jsou milující a empatičtí v následujících dnech. Vyhněte se například velkým davům lidí.',
-                            3 => '<!-- [ENGLISH]
-                                Some people report difficulty sleeping the nights following and melatonin supplementation (~3mg at bedtime) or
-                                    GABA can be beneficial in this regard.
-                                    -->
-                                    Někteří lidé uvádějí potíže se spánkem následující noci a suplementaci melatoninu (~3 mg před spaním) nebo
+                                with people who are loving and at a empathetic in the days following. For example, avoid large crowds. ',
+                            3 => 'Někteří lidé uvádějí potíže se spánkem následující noci a suplementaci melatoninu (~3 mg před spaním) nebo
                                     GABA může být v tomto ohledu prospěšná.',
-                            4 => 'It’s important to note that iboga stays in your system for at least several weeks, so avoiding alcohol
-                                and stimulants will prolong the benefits of this work. It is best to avoid alcohol at least one month
-                                post, so you can fully integrate your experience. If you maximize the purification benefits, stay away
-                                for 3-6 months, you may see even more profound shifts in your life than the actual ceremony itself. Many
-                                report not even having a desire to drink, as the candida or emotional attachment tends to be completely
-                                eliminated by the medicine, reducing any cravings for sugar and carbohydrates. -->
+                            4 => '
                                 Je důležité si uvědomit, že iboga zůstává ve vašem systému alespoň několik týdnů, takže se vyhněte alkoholu
                                 a stimulanty prodlouží výhody této práce. Alkoholu je dobré se alespoň jeden měsíc vyhýbat
                                 příspěvek, takže můžete plně integrovat své zkušenosti. Pokud maximalizujete výhody čištění, držte se dál
                                 po dobu 3-6 měsíců můžete ve svém životě zaznamenat ještě hlubší změny než samotný obřad. Mnoho
                                 hlásí, že ani nemá touhu pít, protože candida nebo citová vazba bývají úplné
                                 eliminován lékem, čímž se snižuje jakákoli chuť na cukr a sacharidy.',
-                            5 => '<!-- [ENGLISH] NOTE: If you plan on taking doing other ceremonial plant medicines, give at least a month in between for
-                                recovery and integration of your experience. This powerful plant spirit is still providing healing months
-                                after the ceremony and other medicines can interfere with the process. Many people report high levels of
-                                sensitivity to other psychoactive medicines post ceremony. Use caution specifically with recreational
-                                use of psychoactive medicines. -->
+                            5 => '<!-- [ENGLISH]  -->
                                 POZNÁMKA: Pokud máte v plánu užívat jiné obřadní rostlinné léky, dejte na to alespoň měsíc
                                 obnovení a integrace vašich zkušeností. Tento mocný rostlinný duch stále poskytuje léčivé měsíce
                                 po obřadu a jiné léky mohou proces narušovat. Mnoho lidí uvádí vysokou úroveň

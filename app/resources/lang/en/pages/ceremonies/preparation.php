@@ -64,7 +64,12 @@ return [
                     'physical_exercise' => [
                         'title' => 'Physical activities',
                         'par' => 'Physical Exercise~ If you have a normal routine 3-5 times a week continue this and perhaps add some extra
-                time in nature if your practice is indoors. If you are not particularly active consider adding the following activities:'
+                        time in nature if your practice is indoors. If you are not particularly active consider adding the following activities:',
+                        'items' => [
+                            'Walks in nature, perhaps with a pet',
+                            'Gentle yoga, qi gong, tai chi',
+                            'Swimming, bike rides',
+                        ]
                     ]
                 ],
                 'mind' => [
@@ -164,16 +169,15 @@ return [
                     'connect_intent' => [
                         'title' => 'Connect with your intentions',
                         'par' => 'Get very clear on what it is you are looking to heal. Doing the workbook and with a preparation coach, therapist or
-                            healer can also assist in moving and clarifying a lot to begin to move some of the energy in advance to
-                            receive even more from the medicine during the retreat.'
+                                healer can also assist in moving and clarifying a lot to begin to move some of the energy in advance to
+                                receive even more from the medicine during the retreat.'
                     ],
                     'focus_on_you' => [
                         'title' => 'Focus On You',
-                        'par' => 'If you have been contemplating on whether or not to go on a retreat with a loved one,
+                        'par' => 'Focus On You — If you have been contemplating on whether or not to go on a retreat with a loved one,
                                 or a group of friends, you must focus on you — not them — during your retreat. Simply put, the process
                                 is yours, and loved ones can be more of a distraction than a comfort. Focusing on someone else will
-                                prevent you from receiving Iboga’s insights. Talk to our Director of Guest Services if you would like
-                                to travel with a loved one or group'
+                                prevent you from receiving Iboga’s insights..'
                     ],
                     'ultimately' => [
                         'title' => 'Ultimately you are looking to:',
@@ -197,7 +201,7 @@ return [
                              Iboga connects you to your soul, your truth - where all the answers are.',
 
                         2 => 'Once this connection occurs, a meditation practice at home will strengthen both of your relationships
-                                     with Iboga and with your Soul to support you to listen to your intuition regularly,
+                                     with Iboga and with your Soul. To support listening to your intuition regularly,
                                      trust yourself and answer all your questions - always.'
                     ],
                     'steps' => [
@@ -307,14 +311,14 @@ return [
                                 with people who are loving and at a empathetic in the days following. For example, avoid large crowds.',
 
                             3 => 'Some people report difficulty sleeping the nights following and melatonin supplementation (~3mg at bedtime) or
-                                    GABA can be beneficial in this regard.',
+                                    GABA can be beneficial in this regard',
 
                             4 => 'It’s important to note that iboga stays in your system for at least several weeks, so avoiding alcohol
                                 and stimulants will prolong the benefits of this work. It is best to avoid alcohol at least one month
                                 post, so you can fully integrate your experience. If you maximize the purification benefits, stay away
                                 for 3-6 months, you may see even more profound shifts in your life than the actual ceremony itself. Many
                                 report not even having a desire to drink, as the candida or emotional attachment tends to be completely
-                                eliminated by the medicine, reducing any cravings for sugar and carbohydrates.',
+                                eliminated by the medicine, reducing any cravings for sugar and carbohydrates. ',
                         ]
                     ],
                     'note' => [

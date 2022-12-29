@@ -32,7 +32,9 @@
 
 
         <div class = "col-xl-6 col-xs-12">
-            <img src = "/images/obrady/pages/preparation/soul-590w.jpg" alt = "" />
+            <img
+                srcset = "/images/obrady/pages/preparation/soul-390w.jpg 400w"
+                src = "/images/obrady/pages/preparation/soul-590w.jpg" alt = "" />
         </div>
     </div>
 
