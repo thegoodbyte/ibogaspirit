@@ -3,170 +3,178 @@
 return [
     'content' => [
         'title' =>  'Iboga vs Ayahuasca',
-        'par' => 'Zatímco obě silné a vysoce prospěšné enteogenní rostliny, Iboga a Ayahuasca mají velmi odlišné vlastnosti. Ayahuasca má ženského ducha; proto je považována za matku Ayahuascu, babičku nebo Ayu. Iboga je na druhé straně mužský i ženský duch a je často považována za dědečka nebo kmotra. Iboga a Ayahuasca mají odlišné způsoby, jak předávat svá poselství, učení a účinky. Zatímco Ayahuasca vás posílá ven, Iboga vás přivádí dovnitř.
-                Symbolika Ibogy jako kořen nemůže být dokonalejší, protože je to nejuzemňovací látka na světě, která vás spojuje zpět se sebou samým, se zemí a realitou. Ayahuasca je ve svých poselstvích tajemnější a využívá symboliku,
-                aby vyjádřila svůj smysl. Bez ohledu na jejich individuální přístup mají tyto dvě starověké léčivé a duchovní rostliny lidstvu co nabídnout.',
+        'par' => 'While both powerful and highly beneficial entheogenic plants, Iboga and Ayahuasca have very different properties.
+             Ayahuasca has a female spirit; therefore, she is considered the mother of Ayahuasca, grandmother or Aya.
+             Iboga, on the other hand, is both a male and female spirit and is often considered a grandfather or godfather.
+             Iboga and Ayahuasca have different ways of delivering their messages, teachings and effects. While Ayahuasca you
+             sends out, Iboga brings you in.<br />
+                 The symbolism of Iboga as a root could not be more perfect as it is the most grounding substance in the world that grounds you
+                 it connects back to self, earth and reality. Ayahuasca is more mysterious in its messages and uses symbolism,
+                 to express its meaning. Regardless of their individual approach, these two ancient healing and
+                 spiritual plants have something to offer humanity.',
         'sections' => [
             'what_is_entheo' => [
-                'title' => 'Co jsou enteogenní rostlinná léčiva?',
-                'par' => 'Enteogenní rostlinná léčiva se týkají použití přirozeně se vyskytujících látek rostlinného původu s vlastnostmi měnícími mysl.
-                Tyto mysl měnící (psychoaktivní) vlastnosti jsou charakterizovány změnami ve vnímání, vědomí, náladě,
-                poznání a chování. Enteogenní rostliny zahrnují houby Iboga, Ayahuasca, Kaktusy a Psilocybin.
-                Slouží duchovním a léčebným účelům po tisíce let a zůstávají relevantní dodnes. Rostoucí množství
-                vědecké práce na těchto rostlinách ukazuje, že je lze využít k léčbě mnoha fyzických a
-                emocionálních zdravotních problémů. Různé klinické studie a neoficiální zprávy naznačují, že entheogeny
-                mohou pomoci rozbít cyklus emocionálních a psychologických stavů, včetně deprese, úzkosti a závislosti.'
+                'title' => 'What are entheogenic plant medicines?',
+                'par' => 'Entheogenic plant medicines refer to the use of naturally occurring plant-derived substances with mind-altering properties.
+                 These mind-altering (psychoactive) properties are characterized by changes in perception, consciousness, mood,
+                 cognition and behavior. Entheogenic plants include Iboga mushrooms, Ayahuasca, Cacti and Psilocybin.
+                 They have served spiritual and healing purposes for thousands of years and remain relevant today. A growing amount
+                 scientific work on these plants shows that they can be used to treat many physical and
+                 emotional health problems. Various clinical studies and anecdotal reports suggest that entheogens
+                 they can help break the cycle of emotional and psychological conditions, including depression, anxiety and addiction.'
             ],
             'what_is_aya' => [
-                'title' => 'Co je Ayahuasca?',
-                'par' => 'Rostliny používané při výrobě ayahuascy',
+                'title' => 'What is Ayahuasca?',
+                'par' => 'Plants used in the production of ayahuasca',
                 'plants_used' => [
                     0 => [
                         'title' => 'Banisteriopsis Caapi:',
-                        'par' => 'Také známý jako caapi, yage nebo ayahuasca, Banisteriopsis caapi je dřevitá liána a jediná rostlina,
-                která je přítomna v každém nálevu Ayahuasca. Jinými slovy, ayahuasca nemůže být bez Banisteriopsis caapi.
-                Caapi samo o sobě nemusí mít nutně psychoaktivní vlastnosti – místo toho má prvky, díky kterým se jiné
-                rostliny s psychedelickými vlastnostmi stávají orálně aktivními. Jeden z jejích hlavních alkaloidů,
-                harmala, působí jako inhibitory monoaminooxidázy (MAOI). MAOI obsahují antidepresivní účinky k
-                neutralizaci monoaminooxidázy v žaludku, čímž umožňuje DMT (hlavní psychoaktivní složka ayahuascy)
-                projít žaludkem do krevního řečiště, do mozku.'
+                        'par' => 'Also known as caapi, yage or ayahuasca, Banisteriopsis caapi is a woody vine and the only plant that
+                 which is present in every Ayahuasca infusion. In other words, ayahuasca cannot be without Banisteriopsis caapi.
+                 Caapi itself does not necessarily have psychoactive properties—instead, it has elements that make it different
+                 plants with psychedelic properties become orally active. One of its main alkaloids,
+                 harmala, act as monoamine oxidase inhibitors (MAOIs). MAOIs have antidepressant effects k
+                 neutralization of monoamine oxidase in the stomach, thereby allowing DMT (the main psychoactive component of ayahuasca)
+                 pass through the stomach into the bloodstream, to the brain.'
                     ],
                     1 => [
                         'title' => 'Psychotria Viridis:',
-                        'par' => 'Také nazývaná chacruna, amiruca nebo samiruka, Psychotria Viridis obsahuje vysoké množství
-                dimethyltryptaminu (DMT). Některé studie naznačují, že endogenní DMT je přítomen v lidském mozku,
-                ale přítomnost MAO brání tomu, aby na nás měl psychologický účinek. Když se však smísí s caapi,
-                DMT prolomí bariéru, pronikne do mozku a váže se na serotoninové receptory, aby vytvořil účinky měnící mysl.'
+                        'par' => 'Also called chacruna, amiruca or samiruka, Psychotria Viridis contains high amounts
+                 dimethyltryptamine (DMT). Some studies suggest that endogenous DMT is present in the human brain,
+                 but the presence of MAO prevents it from having a psychological effect on us. However, when mixed with caapi,
+                 DMT breaks the barrier, penetrates the brain and binds to serotonin receptors to produce mind-altering effects.'
                     ],
                     2 => [
                         'title' => 'Justicia Pectoralis:',
-                        'par' => 'Také známá jako tilo, masha-hari a piri piri. Hlavní sloučeninou Justicia pectoralis je kumarin,
-                který má antikoagulační účinek a dokáže zbavit tělo kyseliny močové. Díky tomu je účinnou možností
-                pro léčbu některých poruch krevního oběhu a dny.'
+                        'par' => 'Also known as tilo, masha-hari and piri piri. The main compound of Justicia pectoralis is coumarin,
+                 which has an anticoagulant effect and can rid the body of uric acid. This makes it an effective option
+                 for the treatment of certain circulatory disorders and gout.'
                     ],
                     3 => [
                         'title' => 'Brugmansia nebo Datura:',
-                        'par' => 'Také známé jako toé nebo maikoa, Brugmansia nebo Datura jsou silné deliranty, které mohou pomoci
-                snížit nevolnost, kinetózu a žaludeční křeče. Jeho hlavním účelem je, aby obřad ayahuasca byl
-                pro lidi snadno zvládnutelný.'
+                        'par' => 'Also known as toé or maikoa, Brugmansia or Datura are powerful deliratives that can help
+                 reduce nausea, motion sickness and stomach cramps. Its main purpose is for the ayahuasca ceremony to be
+                 easily manageable for humans.'
                     ],
                     4 => [
                         'title' => 'Nicotiana Rustica:',
-                        'par' => 'Nicotiana rustica nebo mapacho nebo rapé je obřadní tabák s vyšším obsahem nikotinu než běžná cigareta.
-                Pomáhá stimulovat krevní oběh, zvyšuje vaši pozornost a pozornost během obřadu. Hlavním účelem je zajistit,
-                abyste byli citliví na psychologické účinky ayahuascy.'
+                        'par' => 'Nicotiana rustica or mapacho or rapé is a ceremonial tobacco with a higher nicotine content than a regular cigarette.
+                 It helps to stimulate blood circulation, increases your focus and attention during the ceremony. The main purpose is to ensure
+                 to be sensitive to the psychological effects of ayahuasca.'
                     ],
                 ]
             ],
             'aya_origins' => [
-                'title' =>'Původ Ayahuascy',
-                'par' => 'Ayahuasca pochází z Jižní Ameriky z povodí Amazonky, protože jsou prvním kmenem, který tento nápoj připravil.
-                    Historie tohoto starověkého piva má různé úhly pohledu. Někteří autoři věří, že existuje asi 5 000 let,
-                    zatímco někteří tvrdí, že je asi 1 000 let staré. Bez ohledu na debatu panuje všeobecná shoda,
-                    že ayahuasca je prastará droga a pochází z horní amazonské pánve.',
+                'title' =>'The origin of Ayahuasca',
+                'par' => 'Ayahuasca comes from South America from the Amazon basin, as they are the first tribe to prepare this drink.
+                     The history of this ancient beer has different points of view. Some authors believe it has existed for about 5,000 years,
+                     while some claim it to be about 1,000 years old. Regardless of the debate, the general consensus is that
+                     that ayahuasca is an ancient drug and originates from the upper Amazon basin.',
 
             ],
             'aya_popularity' => [
-                'title' => 'Popularita Ayahuascy',
-                'par'   => 'Globální popularita Ayahuascy začala v roce 1970, kdy Dennis a Terence McKenna cestovali
-                    do kolumbijské Amazonie hledat rostlinu obsahující DMT zvanou oo-koo-he. Místo toho
-                    oba bratři našli Psilocybe Cubensis (kouzelné houby) a provedli „experiment v La Chorrera,
-                    který zahrnoval „vybudování hyperdimenzionálního vozidla ze 4D transformace mé vlastní DNA propletené
-                    DNA houby,“ uvádí. Dennisi. O svém zážitku z La Chorrera napsali dvě knihy. A poté se Dennis zaměřil
-                    na výzkum ayahuascy a oo-koo-he a spolupracoval s farmaceutickými společnostmi. Jeho výsledky výzkumu,
-                    místní a mezinárodní mluvení a knihy pomohly popularizovat ayahuascu po celém světě.',
+                'title' => 'Popularity of Ayahuasca',
+                'par'   => 'The global popularity of Ayahuasca began in 1970 when Dennis and Terence McKenna traveled
+                     to the Colombian Amazon to search for a DMT-containing plant called oo-koo-he. Instead
+                     the two brothers found Psilocybe Cubensis (magic mushrooms) and conducted an "experiment at La Chorrera,
+                     which involved “building a hyperdimensional vehicle from a 4D transformation of my own DNA interlaced
+                     Fungus DNA,” he states. Dennis. They wrote two books about their experience at La Chorrera. And then Dennis focused
+                     on ayahuasca and oo-koo-he research and collaborated with pharmaceutical companies. His research results,
+                     local and international speaking engagements and books have helped popularize ayahuasca around the world.',
 
             ],
             'what_is_iboga' => [
-                'title' => 'Co je Iboga?',
-                'par' => 'Iboga nebo rostlina Tabernanthe iboga je malý vytrvalý keř pocházející z některých západoafrických
-                zemí a používaný pro léčebné, rituální a ceremoniální účely. Má malé zelené listy, žlutobílé nebo
-                růžové květy a oranžové oválné nebo kulaté plody. Jeho průměrná výška je 4 metry, i když ve velmi
-                příznivém prostředí může nakonec dorůst až 10 metrů. Ve stonkové kůře, kořenu, listech a kořenové kůře
-                má asi 20 přirozeně se vyskytujících alkaloidů. Nejvyšší koncentraci alkaloidů má kořenová kůra.'
+                'title' => 'What is Iboga?',
+                'par' => 'Iboga or Tabernanthe iboga plant is a small perennial shrub native to some West African
+                 countries and used for medicinal, ritual and ceremonial purposes. It has small green leaves, yellow-white or
+                 pink flowers and orange oval or round fruits. Its average height is 4 meters, although in the very
+                 in a favorable environment it can eventually grow up to 10 meters. In stem bark, root, leaves and root bark
+                 has about 20 naturally occurring alkaloids. The root bark has the highest concentration of alkaloids.'
             ],
             'iboga_origins' => [
-                'title' => 'Původ Ibogy',
-                'par' => ' Iboga je původní ve střední západní Africe, zejména v Gabonu, Kamerunu a Kongu. To bylo používáno
-                Bwiti jako jejich hlavní svátost po tisíce let. Bwiti je duchovní tradice, která začala Babongem (také známým jako Bongo Pygmejové)
-                a nyní se praktikuje v mnoha zemích západní Afriky. Bwiti považují Ibogu za svátost, protože jim pomáhá naplnit
-                různé duchovní a léčebné potřeby. Iboga mimo jiné pomáhá s patologickými problémy, stabilizuje jejich komunitu a uvádí do dospělosti,
-                to vše při podpoře duchovního růstu. Jako jejich hlavní svátost se Iboga konzumuje ve velkém množství při takzvaném „zasvěcení“.'
+                'title' => 'Origin of Iboga',
+                'par' => ' Iboga is native to central West Africa, particularly Gabon, Cameroon and the Congo. It was used
+                 Bwiti as their main sacrament for thousands of years. Bwiti is a spiritual tradition that began with Babong (also known as Bongo Pygmies)
+                 and is now practiced in many West African countries. The Bwiti consider Iboga a sacrament because it helps them fulfill
+                 various spiritual and healing needs. Among other things, Iboga helps with pathological problems, stabilizes their community and brings them to adulthood,
+                 all while promoting spiritual growth. As their main sacrament, Iboga is consumed in large quantities during what is known as "consecration".'
             ],
             'iboga_popularity' => [
-                'title' => 'Popularita Ibogy:',
-                'par' => 'Ve srovnání s jinými rostlinnými psychedeliky zůstává Iboga dodnes velkou neznámou. Jeho první použití
-                na západě se datuje do roku 1900 poté, co se francouzští průzkumníci dozvěděli o jeho výhodách od
-                kmene Bwiti a přinesli jej do Evropy. Z toho francouzská společnost vyvinula lék s krátkou životností,
-                který nazývali „lamberene“, který byl nakonec ukončen. V poslední době ji vědci začali studovat a
-                její lékařské přínosy. Výsledkem je, že jeho hlavní chemický derivát, Ibogain, roste v mnoha západních
-                zemích na popularitě jako účinná léčba drogové závislosti, nálady a úzkostných poruch. Samotná Iboga (zdroj)
-                však zůstává pro mnoho lidí obecně neznámá. Kromě ibogainu, voacangin, tabernanthin, coronaridin, ibogamin a
-                harmalin jsou některé další alkaloidy z Iboga, které zůstávají nevyužity pro léčebné výhody.',
+                'title' => 'The popularity of Iboga:',
+                'par' => 'Compared to other herbal psychedelics, Iboga remains largely unknown to this day. Its first use
+                 in the west it dates back to 1900 after French explorers learned of its benefits from
+                 the Bwiti tribe and brought it to Europe. From this, a French company developed a short-lived drug,
+                 which they called "lamberene", which was eventually discontinued. Recently, scientists have begun to study it and
+                 its medical benefits. As a result, its main chemical derivative, Ibogaine, is growing in many Western countries
+                 countries in popularity as an effective treatment for drug addiction, mood and anxiety disorders. Iboga itself (source)
+                 however, it remains generally unknown to many people. In addition to ibogaine, voacangin, tabernanthin, coronaridin, ibogamine and
+                 harmaline are some other alkaloids from Iboga that remain untapped for medicinal benefits.',
 
             ],
             'comparison_aya_iboga' => [
-                'title' => 'Srovnání Ibogy s Ayahuaskou',
-                'par' => 'Iboga i Ayahuasca jsou hlavní učitelské rostliny, které zapalují trvalé, hluboké duchovní transformace.
-                Vstupují do těla s jediným cílem uzdravit a probudit, což vede k holistickému uzdravení těla a mysli. Mimo to jsou však VELMI odlišné.'
+                'title' => 'Comparison of Iboga and Ayahuasca',
+                'par' => 'Both Iboga and Ayahuasca are master teaching plants that ignite lasting, deep spiritual transformations.
+                 They enter the body with the sole purpose of healing and awakening, resulting in holistic healing of the body and mind. Outside of that, however, they are VERY different.'
             ],
             'diet_reqs' => [
-                'title' => 'Dietní požadavky',
-                'iboga' => 'Iboga: Iboga je ve svých dietních požadavcích tolerantnější než ayahuasca. Před obřadem ibogy nemusíte držet konkrétní dietu.
-                Jen se musíte ujistit, že v obřadní dny nejíte po 15:00. Některým dietám a lékům se musíte vyhnout,
-                chcete-li drogu maximálně využít a předejít nepříjemnému zážitku. Potraviny, kterým se při obřadu
-                ibogy vyhnout, jsou ty, které jsou spojeny s inhibitorem enzymového systému cytochromu P450 2D6 (CYP2D6),
-                který může blokovat některé jaterní enzymy. Patří mezi ně grapefruit a pomelo. Tyto druhy potravin
-                zastavují rozklad ibogy a zvyšují koncentraci v krvi na nebezpečnou úroveň. Měli byste se také vyhnout
-                tonické vodě a hořkým citronovým nápojům kvůli obsahu chininu, který přispívá k hořké chuti a také inhibuje CYP2D6.
-                Mezi léky, kterým je třeba se vyhnout, patří antidepresiva, zejména SSRI, antiarytmika, kanabidiol
-                (CBD), antacida, antipsychotika, antibiotika, antimykotika, anti-HIV, chinin, opioidy a metadon, betablokátory a
-                diuretika. Také se musíte alespoň 3 až 7 dní před obřadem ibogy vyhnout alkoholu.',
-                'aya' => 'Ayahuasca: Ayahuasca má dlouhý seznam potravin, léků a dalších činností, kterým se musíte vyhnout. Ve skutečnosti
-                mnoho zkušených šamanů věří, že nejlepší je začít odstraňovat tyto potraviny a léky ze svého jídelníčku již 2-4 týdny
-                před obřadem ayahuascy'
+                'title' => 'Dietary requirements',
+                'iboga' => [
+                    'pars' => [
+                        0 => '<strong>Iboga:</strong> Iboga is more tolerant in its dietary requirements than ayahuasca.
+                        You don\'t need to follow a specific diet before an iboga ceremony.
+                         You just have to make sure you don\'t eat after 3pm on the ceremony days.',
+                        1 => 'Some foods to avoid on the day of an Iboga ceremony are those associated with the inhibitor
+                            of Cytochrome P450 2D6 (CYP2D6) enzyme system – which can block some liver enzymes.',
+                        2 => 'These include grapefruit and pomelo. These types of food
+                         they stop the breakdown of iboga and increase the concentration in the blood to dangerous levels. ',
+                        3 => 'You should also avoid
+                         tonic water and bitter lemon drinks due to quinine content, which contributes to the bitter taste and also inhibits CYP2D6.',
+                        4 => 'Medications to avoid include antidepressants, especially SSRIs, antiarrhythmics, cannabidiol
+                         (CBD), antacids, antipsychotics, antibiotics, antifungals, anti-HIV, quinine, opioids and methadone, beta blockers and
+                         diuretics. You must also avoid alcohol for at least 3 to 7 days before the iboga ceremony.'
+                    ]
+                ],
+                 'aya' => '<strong>Ayahuasca:</strong> Ayahuasca has a long list of foods, drugs and other activities to avoid. Actually
+                 many experienced shamans believe that it is best to start removing these foods and drugs from your diet as early as 2-4 weeks
+                 before the ayahuasca ceremony: red meat,
+                           Pork,
+                           ripening cheeses,
+                           Yoghurt,
+                           Alcohol,
+                           Fermented foods such as soy sauce, fermented tofu and sauerkraut,
+                           aspartame,
+                           Nutritional supplements such as protein powders,
+                           Peanuts (in large quantities),
+                           Chocolate (in large quantities), Spicy foods, Refined sugar (i.e. sweets and junk food), Dairy, Caffeine, Oils'
             ],
             'food_reqs' => [
-                'title' => 'Jídlo, Léky a Drogy',
+                'title' => 'Food, Medicines and Drugs',
                 'food_to_avoid' => [
-                    'title'=> 'Jídlo, kterému je třeba se vyhnout',
-                    'par_1' => 'Červené maso<br />
-                Vepřové maso<br />
-                zralé sýry<br />
-                Jogurt<br />
-                Alkohol<br />
-                Fermentované potraviny, jako je sójová omáčka, fermentované tofu a kysané zelí<br />
-                Aspartam<br />
-                Výživové doplňky, jako jsou proteinové prášky<br />
-                Arašídy (ve velkém množství)<br />
-                Čokoláda (ve velkém množství)<br />'
-                ],
-                'par_2' => 'Kořeněná jídla<br />
-                Rafinovaný cukr (tj. sladkosti a nezdravé jídlo)<br />
-                Mléčné výrobky<br />
-                Kofein<br />
-                Oleje<br />'
+                    'title'=> 'Food to avoid',
+                    'par_1' => '<ul><li>Grapefruit</li><li>Pomelo</li><li>Avoid tonic water</li><li>Bitter lemon drinks due to their quinine content</li></ul>',
+                    'par_2' => 'It is also a good idea to abstain from alcohol for at least 3-7 days before a ceremony.'
+                    ]
             ],
             'meds_to_avoid' => [
                 'title' => 'Léky, kterým je třeba se vyhnout, patří:',
-                'par' => '– Antidepresiva jako SSRI<br />
-                – inhibitory MAO<br />
-                – Barbituráty<br />
-                – Léky na spaní<br />
-                – Alfa- a beta-blokátory<br />'
+                'par' => '<ul><li>Antidepressants such as SSRI</li>
+                 <li>MAO inhibitors</li>
+                 <li>Barbiturates</li>
+                 <li>Medications for sleeping</li>
+                 <li>Alpha- and beta-blockers</li></ul>'
             ],
             'drugs_to_avoid' => [
                 'title' => 'Musíte se také vyhnout pouličním drogám, jako jsou:',
-                'par' => 'Kokain<br />
-                – Amfetaminy<br />
-                – Opiáty<br />
-                – Psilocybin<br />
-                – LSD<br />
-                – Marihuana<br />
-                – MDMA</p>'
+                'par' => '<ul><li>Cocaine</li>
+                     <li>Amphetamines</li>
+                     <li>Opiates</li>
+                     <li>Psilocybin</li>
+                     <li>LSD</li>
+                     <li>Marijuana</li>
+                     <li>MDMA</li></ul>'
             ],
             'duration' => [
-                'title' => 'Délka trvání.',
+                'title' => 'Duration.',
                 'subtitle' => 'Iboga vs Ayahuasca',
                 'pars' => [
                     'iboga' => 'Iboga: Obřady Iboga trvají 8-12 hodin a její účinky trvají 12-36 hodin. Způsobuje ataxii,
@@ -175,6 +183,7 @@ return [
                     pravděpodobností nevyspíte až následující večer, a proto je den po obřadu ibogy většinou stráven jako „den zpracování“.
                     Den zpracování je den po obřadu, kdy dochází k hluboké introspekci a vhledům. Tento zážitek ze zpracování může být
                     často poučnější než samotný obřad.',
+
                     'aya' => 'Ayahuasca: Průměrná doba trvání ayahuascového sezení je 4-6 hodin. Nastartování trvá 20-60 minut a
                     jeho nejsilnější účinky mohou trvat 3-6 hodin. Často dochází k katarzní očistě energie, jako je průjem,
                     zvracení, zívání a pláč. Nastává poměrně rychlá doba zotavení, protože po skončení obřadu můžete spát a s

@@ -82,7 +82,7 @@
 
     <div class = "row">
 
-        <div class = "col-xl-12">section_mid_image_and_bellow
+        <div class = "col-xl-12">
             <blockquote><?php echo __('pages/iboga/how_iboga_can_help.content.section_mid_image_and_bellow.quote_bellow'); ?></blockquote>
 
             <p>
@@ -213,7 +213,7 @@
     <div class = "row">
         <div class = "col-xl-12">
 
-            <p class = "pt-5"><?php echo __('pages/iboga/how_iboga_can_help.content.section_feedback.par'); ?></p>
+            <h4 class = "pt-5"><?php echo __('pages/iboga/how_iboga_can_help.content.section_feedback.par'); ?></h4>
             <blockquote class = "small-bq color-iscz-green feedback-green">
 
                 <?php echo __('pages/iboga/how_iboga_can_help.content.section_feedback.body'); ?>

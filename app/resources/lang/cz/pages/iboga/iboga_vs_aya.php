@@ -112,69 +112,73 @@ return [
             ],
             'diet_reqs' => [
                 'title' => 'Dietní požadavky',
-                'iboga' => 'Iboga: Iboga je ve svých dietních požadavcích tolerantnější než ayahuasca. Před obřadem ibogy nemusíte držet konkrétní dietu.
-                Jen se musíte ujistit, že v obřadní dny nejíte po 15:00. Některým dietám a lékům se musíte vyhnout,
-                chcete-li drogu maximálně využít a předejít nepříjemnému zážitku. Potraviny, kterým se při obřadu
-                ibogy vyhnout, jsou ty, které jsou spojeny s inhibitorem enzymového systému cytochromu P450 2D6 (CYP2D6),
-                který může blokovat některé jaterní enzymy. Patří mezi ně grapefruit a pomelo. Tyto druhy potravin
-                zastavují rozklad ibogy a zvyšují koncentraci v krvi na nebezpečnou úroveň. Měli byste se také vyhnout
-                tonické vodě a hořkým citronovým nápojům kvůli obsahu chininu, který přispívá k hořké chuti a také inhibuje CYP2D6.
-                Mezi léky, kterým je třeba se vyhnout, patří antidepresiva, zejména SSRI, antiarytmika, kanabidiol
-                (CBD), antacida, antipsychotika, antibiotika, antimykotika, anti-HIV, chinin, opioidy a metadon, betablokátory a
-                diuretika. Také se musíte alespoň 3 až 7 dní před obřadem ibogy vyhnout alkoholu.',
+                'iboga' => [
+                    'pars' => [
+                        0 => '<strong>Iboga:</strong> Iboga is more tolerant in its dietary requirements than ayahuasca.
+                        You don\'t need to follow a specific diet before an iboga ceremony.
+                         You just have to make sure you don\'t eat after 3pm on the ceremony days.',
+                        1 => 'Some foods to avoid on the day of an Iboga ceremony are those associated with the inhibitor
+                            of Cytochrome P450 2D6 (CYP2D6) enzyme system – which can block some liver enzymes.',
+                        2 => 'These include grapefruit and pomelo. These types of food
+                         they stop the breakdown of iboga and increase the concentration in the blood to dangerous levels. ',
+                        3 => 'You should also avoid
+                         tonic water and bitter lemon drinks due to quinine content, which contributes to the bitter taste and also inhibits CYP2D6.',
+                        4 => 'Medications to avoid include antidepressants, especially SSRIs, antiarrhythmics, cannabidiol
+                         (CBD), antacids, antipsychotics, antibiotics, antifungals, anti-HIV, quinine, opioids and methadone, beta blockers and
+                         diuretics. You must also avoid alcohol for at least 3 to 7 days before the iboga ceremony.'
+                    ]
+                ],
+
                 'aya' => 'Ayahuasca: Ayahuasca má dlouhý seznam potravin, léků a dalších činností, kterým se musíte vyhnout. Ve skutečnosti
                 mnoho zkušených šamanů věří, že nejlepší je začít odstraňovat tyto potraviny a léky ze svého jídelníčku již 2-4 týdny
-                před obřadem ayahuascy'
+                před obřadem ayahuascy: Červené maso,
+                          Vepřové maso,
+                          Zrající sýry,
+                          Jogurt,
+                          Alkohol,
+                          Fermentované potraviny, jako je sójová omáčka, fermentované tofu a kysané zelí,
+                          Aspartam,
+                          Výživové doplňky, jako jsou proteinové prášky,
+                          Arašídy (ve velkém množství),
+                          Čokoláda (ve velkém množství), Kořeněná jídla, Rafinovaný cukr (tj. sladkosti a nezdravé jídlo), mléčné výrobky, Kofein, Oleje'
             ],
             'food_reqs' => [
-                'title' => 'Jídlo, Léky a Drogy',
+                'title' => 'IBOBA: Jídlo, Léky a Drogy',
                 'food_to_avoid' => [
                     'title'=> 'Jídlo, kterému je třeba se vyhnout',
-                    'par_1' => 'Červené maso<br />
-                Vepřové maso<br />
-                zralé sýry<br />
-                Jogurt<br />
-                Alkohol<br />
-                Fermentované potraviny, jako je sójová omáčka, fermentované tofu a kysané zelí<br />
-                Aspartam<br />
-                Výživové doplňky, jako jsou proteinové prášky<br />
-                Arašídy (ve velkém množství)<br />
-                Čokoláda (ve velkém množství)<br />'
+                    'par_1' => '<ul><li>Grapefruit</li><li>Pomelo</li><li>Avoid tonic water</li><li>Bitter lemon drinks due to their quinine content</li></ul>',
+                    'par_2' => 'It is also a good idea to abstain from alcohol for at least 3-7 days before a ceremony.'
                 ],
-                'par_2' => 'Kořeněná jídla<br />
-                Rafinovaný cukr (tj. sladkosti a nezdravé jídlo)<br />
-                Mléčné výrobky<br />
-                Kofein<br />
-                Oleje<br />'
             ],
             'meds_to_avoid' => [
                 'title' => 'Léky, kterým je třeba se vyhnout, patří:',
-                'par' => '– Antidepresiva jako SSRI<br />
-                – inhibitory MAO<br />
-                – Barbituráty<br />
-                – Léky na spaní<br />
-                – Alfa- a beta-blokátory<br />'
+                'par' => '<ul><li>Antidepresiva jako SSRI</li>
+                <li>inhibitory MAO</li>
+                <li>Barbituráty</li>
+                <li>Léky na spaní</li>
+                <li>Alfa- a beta-blokátory</li></ul>'
             ],
             'drugs_to_avoid' => [
                 'title' => 'Musíte se také vyhnout pouličním drogám, jako jsou:',
-                'par' => 'Kokain<br />
-                – Amfetaminy<br />
-                – Opiáty<br />
-                – Psilocybin<br />
-                – LSD<br />
-                – Marihuana<br />
-                – MDMA</p>'
+                'par' => '<ul><li>Kokain</li>
+                    <li>Amfetaminy</li>
+                    <li>Opiáty</li>
+                    <li>Psilocybin</li>
+                    <li>LSD</li>
+                    <li>Marihuana</li>
+                    <li>MDMA</li></ul>'
             ],
             'duration' => [
                 'title' => 'Délka trvání.',
                 'subtitle' => 'Iboga vs Ayahuasca',
                 'pars' => [
-                    'iboga' => 'Iboga: Obřady Iboga trvají 8-12 hodin a její účinky trvají 12-36 hodin. Způsobuje ataxii,
+                    'iboga' => 'Iboga: Ceremonie Ibogy trvají 8-12 hodin a její účinky trvají 12-36 hodin. Způsobuje ataxii,
                     která ztěžuje pohyb a můžete se také očistit. I když to není nutné, může to být nezbytnou součástí holistického
                     léčebného procesu, který vede k vyčištění toho, co jste drželi ve svém těle. Na Iboze se s největší
                     pravděpodobností nevyspíte až následující večer, a proto je den po obřadu ibogy většinou stráven jako „den zpracování“.
                     Den zpracování je den po obřadu, kdy dochází k hluboké introspekci a vhledům. Tento zážitek ze zpracování může být
                     často poučnější než samotný obřad.',
+
                     'aya' => 'Ayahuasca: Průměrná doba trvání ayahuascového sezení je 4-6 hodin. Nastartování trvá 20-60 minut a
                     jeho nejsilnější účinky mohou trvat 3-6 hodin. Často dochází k katarzní očistě energie, jako je průjem,
                     zvracení, zívání a pláč. Nastává poměrně rychlá doba zotavení, protože po skončení obřadu můžete spát a s
