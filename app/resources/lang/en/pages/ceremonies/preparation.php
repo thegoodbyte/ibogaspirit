@@ -60,6 +60,11 @@ return [
                             they are contraindicated or will simply be flushed out by the medicine. Speak with us honestly before you
                             book about anything that you are currently taking. This is for your safety, we cannot stress this enough.',
                         ]
+                    ],
+                    'physical_exercise' => [
+                        'title' => 'Physical activities',
+                        'par' => 'Physical Exercise~ If you have a normal routine 3-5 times a week continue this and perhaps add some extra
+                time in nature if your practice is indoors. If you are not particularly active consider adding the following activities:'
                     ]
                 ],
                 'mind' => [
@@ -169,6 +174,19 @@ return [
                                 is yours, and loved ones can be more of a distraction than a comfort. Focusing on someone else will
                                 prevent you from receiving Iboga’s insights. Talk to our Director of Guest Services if you would like
                                 to travel with a loved one or group'
+                    ],
+                    'ultimately' => [
+                        'title' => 'Ultimately you are looking to:',
+                        'items' => [
+                            0 => 'Surrender, be willing to be open to how the process unfolds',
+                            1 => 'Understand that whatever we expect will be completely different',
+                            2 => 'Be open to entering a state of complete vulnerability',
+                            3 => 'Be willing to look at uncomfortable aspects of your life (this helps them pass and heal)',
+                            4 => 'Open your heart and your mind',
+                            5 => 'Understand that trust in the medicine and in us increases the healing process on every level',
+                            6 => 'Committing to ceremony is an opportunity to address everything that has caused us suffering.',
+                            7 => 'While the past cannot be changed, the choice to make peace with it remains in our control, the power is not outside of us!'
+                        ]
                     ]
                 ],
                 'questions' => [

@@ -54,7 +54,20 @@
         </div>
 
         <div class = "col-xl-6 col-xs-12">
-            <img src = "/images/obrady/pages/preparation/diet-healhy-food-600w.jpg" alt = "Iboga ceremony preparation"/>
+            <img
+                srcset = "/images/home/slider/diet-healhy-food-400w.jpg 400px,
+                          /images/home/slider/diet-healhy-food-600w.jpg 600px,
+                          /images/home/slider/diet-healhy-food-600w.jpg 900px
+                          /images/home/slider/diet-healhy-food-600w.jpg 900px"
+                sizes = "(max-width: 400px) 400px,
+                (min-width: 401px and max-width: 600px) 600px,
+                (min-width: 601px and max-width: 900px) 900px,
+                (min-width: 901px) 1200px "
+
+                src = "/images/obrady/pages/preparation/diet-healhy-food-600w.jpg"
+                alt = "Iboga ceremony preparation"
+
+            />
         </div>
 
         <div class = "col-xl-6 col-xs-12">
@@ -81,14 +94,14 @@
 
     <div class = "row">
         <div class = "col-xl-12">
-            <h3 class  = "font-just-me font-size-40 color-iscz-red">Fyzická cvičení</h3>
+            <h3 class  = "font-just-me font-size-40 color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.physical_exercise.title'); ?></h3>
             <p>
+                <?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.body.physical_exercise.par'); ?>
                 <!--
                 Physical Exercise~ If you have a normal routine 3-5 times a week continue this and perhaps add some extra
                 time in nature if your practice is indoors. If you are not particularly active consider adding the following activities: -->
 
-                Fyzické cvičení~ Pokud máte normální rutinu 3-5 krát týdně, pokračujte v tom a možná přidejte něco navíc
-                čas v přírodě, pokud je vaše praxe uvnitř. Pokud nejste zrovna aktivní, zvažte přidání následujících aktivit:
+
             </p>
         </div>
     </div>

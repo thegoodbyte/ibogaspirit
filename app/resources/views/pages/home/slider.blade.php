@@ -11,7 +11,11 @@
                 srcset = "/images/home/slider/fire_circle-400w.jpg 400px,
                           /images/home/slider/fire_circle-600w.jpg 600px,
                           /images/home/slider/fire_circle-900w.jpg 900px"
-                sizes = "(max-width: 400px) 400px, (min-width: 401px and max-width: 600px) 600px, (min-width: 601px and max-width: 900px) 900px, (min-width: 901px) 1200px,  "
+                sizes = "(max-width: 400px) 400px,
+                (min-width: 401px and max-width: 600px) 600px,
+                (min-width: 601px and max-width: 900px) 900px,
+                (min-width: 901px) 1200px "
+
                 src="/images/home/slider/fire_circle-1200.jpg"
                 alt="<?php echo __('seo/homepage.seo.content.slider.slide1.image'); ?>"
                 class="d-block w-100"

@@ -44,5 +44,22 @@
             </p>
         </div>
 
+        <div class = "col-xl-12">
+
+            <h3 class  = "font-just-me  h3-heading color-iscz-green"><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.start_process.ultimately.title'); ?></h3>
+            <ul>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.start_process.ultimately.items.0'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.start_process.ultimately.items.1'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.start_process.ultimately.items.2'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.start_process.ultimately.items.3'); ?></li>
+
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.start_process.ultimately.items.4'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.start_process.ultimately.items.5'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.start_process.ultimately.items.6'); ?></li>
+                <li><?php echo __('pages/ceremonies/preparation.content.sections.before_ceremony.start_process.ultimately.items.7'); ?></li>
+
+            </ul>
+        </div>
+
     </div>
 </section>
