@@ -2,10 +2,10 @@
 
 return [
     'content' => [
-        'title' => 'Příprava na obřad Ibogy',
+        'title' => 'Příprava na ceremonii Ibogy',
         'sections' => [
             'before_ceremony'=> [
-                'title' => 'Před obřadem.',
+                'title' => 'Před ceremonií',
                 'journal' => [
                     'par'=> 'Přineste si deník nebo diktafon, protože pravděpodobně zažijete větší povědomí o svém životě, získáte nové
                     postřehy a možná je budete chtít zachytit. V první části cesty se plně ponoříte do
@@ -308,7 +308,7 @@ return [
                 ]
             ],
             'in_ceremony' => [
-                'title'=> 'Při Obřadu',
+                'title'=> 'Při ceremonii',
                 'items' => [
                     0 => 'Odevzdejte se, buďte ochotni být otevření tomu, jak se proces vyvíjí',
                     1 => 'Pochopte, že cokoliv očekáváme, bude úplně jiné',
@@ -339,10 +339,10 @@ return [
 
             ],
             'after_ceremony' => [
-                'title' => 'Po Obřadu..',
+                'title' => 'Po Ceremonii..',
                 'sections'=>[
                     'discovery_day' => [
-                        'title' => 'Den Objevu',
+                        'title' => 'Den Objevů',
                         'par' => 'Po obřadu strávíte další den odpočinkem ve svém pokoji. Poskytovatelé budou
                             neustále přicházet a odcházet a kontrolovat vás. Pokud nemůžete spát, nebojte se. Je běžné, že ne
                             usnout až později večer. Discovery Day je určen pro relaxaci a klid – dva klíčové
