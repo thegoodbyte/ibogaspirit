@@ -366,6 +366,10 @@ blockquote cite {
     padding: 5px 5px;
 }
 
+.footer-links a:hover {
+    color: #ff933f !important;
+}
+
 .footer-links {
     margin-top: 10px;
 }
@@ -623,7 +627,7 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
 
 
 
-#home-kdo-jsme .who-we-are-col-1 .box-kdo-jsme img {
+#home-kdo-jsme .who-we-are-col-1 .box-kdo-jsme img.photo {
     border: 6px solid #fff;
 }
 #home-kdo-jsme .who-we-are-col-2 .box-kdo-jsme{
@@ -639,9 +643,6 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
      padding: 10px;
  }
 
-#home-kdo-jsme .who-we-are-col-3  img{
-    border: 6px solid #fff;
-}
 
 #home-kdo-jsme .who-we-are-col-3 .box-kdo-jsme h2{
     color: rgba(79, 41, 0, .85);
@@ -650,10 +651,11 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
 #home-kdo-jsme .box-kdo-jsme .button-show-more{
     display: block;
     align-items: center;
-    /*position: absolute;*/
-    /*bottom: -20px;*/
+    position: absolute;
+    width: 100%;
     /*overflow: hidden;*/
     text-align: center;
+    bottom: 10px;
 }
 
 .row-kdo-jsme {
@@ -968,7 +970,8 @@ XS
 }
 
 footer {
-    background-color: black;
+    background: rgb(37,0,0);
+    background: linear-gradient(90deg, rgba(37,0,0,1) 24%, rgba(115,62,27,1) 71%, rgba(172,123,89,1) 99%);
 }
 
 footer a{
