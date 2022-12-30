@@ -40,8 +40,13 @@
                 srcset = "/images/obrady/pages/preparation/third-eye-400w.jpg 400w,
                           /images/obrady/pages/preparation/third-eye-600w.jpg 600w,
                           /images/obrady/pages/preparation/third-eye-600w.jpg 900w"
+                sizes = "(max-width: 400px) 400w,
+                (min-width: 401px and max-width: 600px) 600w,
+                (min-width: 601px and max-width: 900px) 900w,
+                (min-width: 901px) 1200w "
 
                 src = "/images/obrady/pages/preparation/third-eye-600w.jpg"
+                width  = "590"
                 alt = ""/>
         </div>
     </div>

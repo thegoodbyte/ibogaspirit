@@ -103,6 +103,11 @@ a:hover {
 }
 
 
+.site-header {
+    background: rgb(242,242,242);
+    background: linear-gradient(90deg, rgba(242,242,242,1) 21%, rgba(171,92,15,1) 65%, rgba(62,0,0,1) 100%);
+}
+
 /* retreats */
 .retreat-info {
     display: block;
@@ -391,6 +396,7 @@ blockquote cite {
     max-width: 1200px;
     margin: auto;
     text-align: right;
+    background-color: #fff;
 }
 
 .header-bottom-row .languages a{
@@ -1024,7 +1030,8 @@ XS
 }
 
 footer {
-    background-color: black;
+    background: rgb(40,23,1);
+    background: linear-gradient(96deg, rgba(40,23,1,1) 15%, rgba(131,49,10,1) 63%, rgba(176,118,4,1) 100%);
 }
 
 footer a{
