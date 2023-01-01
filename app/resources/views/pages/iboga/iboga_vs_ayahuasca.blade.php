@@ -1,9 +1,10 @@
 @extends('layouts.default')
 @section('content')
+
 <div class = "row page-header-bg" id = "iboga-vs-aya-page-header"></div>
 
     <div class = "row">
-    <h1 class = "font-just-me color-iscz-red h1-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.title'); ?></h1>
+    <h1 class = "font-just-me color-iscz-green h1-heading text-center"><?php echo __('pages/iboga/iboga_vs_aya.content.title'); ?></h1>
     </div>
 
     <div class = "row">
@@ -124,13 +125,36 @@
 -->
 
     <div class = "row background-text-light-okr2">
-        <div class = "col-xl-12">
-            <h2 class  = "font-just-me h2-heading color-iscz-red"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_aya.title'); ?></h2>
+        <div class = "col-xl-12 text-center">
+            <h2 class  = "font-just-me h2-heading color-iscz-green"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_aya.title'); ?></h2>
+
+        </div>
+
+        <div class = "col-xl-6">
+            <h3 class  = "h4-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.aya_origins.title'); ?></h3>
+            <p>
+                <?php echo __('pages/iboga/iboga_vs_aya.content.sections.aya_origins.par'); ?></p>
+
+            <div class = "row">
+                <img
+                    srcset="/images/iboga/pages/iboga-vs-aya/aya-vs-iboga-aya-img-600w.jpeg 1200w,
+                    /images/iboga/pages/iboga-vs-aya/aya-vs-iboga-aya-img-600w.jpeg 600w,
+                    /images/iboga/pages/iboga-vs-aya/aya-vs-iboga-aya-img-400w.jpeg 400w"
+                    sizes = "(max-width: 400px) 400px"
+                    src="/images/iboga/pages/iboga-vs-aya/aya-vs-iboga-aya-img-600w.jpeg"
+                    alt = "Iboga vs Ayahuasca - Iboga terapie ceremonie"
+                >
+            </div>
+            <h3 class  = "h4-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.aya_popularity.title'); ?></h3>
+            <p>
+                <?php echo __('pages/iboga/iboga_vs_aya.content.sections.aya_popularity.par'); ?></p>
+
+        </div>
+
+        <div class = "col-xl-6">
             <p>
                 <?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_aya.par'); ?>
             </p>
-        </div>
-        <div class = "col-xl-6">
             <p>
 
                 <strong><?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_aya.plants_used.0.title'); ?></strong><br/>
@@ -141,10 +165,6 @@
                 <strong><?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_aya.plants_used.1.title'); ?></strong><br />
                 <?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_aya.plants_used.0.par'); ?>
             </p>
-        </div>
-
-        <div class = "col-xl-6">
-
 
             <p>
                 <strong><?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_aya.plants_used.2.title'); ?></strong><br />
@@ -163,12 +183,6 @@
         </div>
 
         <div class = "col-xl-12">
-            <h3 class  = "h4-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.aya_origins.title'); ?></h3>
-                <p>
-                    <?php echo __('pages/iboga/iboga_vs_aya.content.sections.aya_origins.par'); ?></p>
-            <h3 class  = "h4-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.aya_popularity.title'); ?></h3>
-            <p>
-                <?php echo __('pages/iboga/iboga_vs_aya.content.sections.aya_popularity.par'); ?></p>
 
         </div>
     </div>
@@ -176,9 +190,9 @@
 <div class = "row mt-5">
 </div>
 
-    <div class = "row background-text-light-green">
+    <div class = "row background-text-light-green text-center">
         <div class = "col-xl-12">
-            <h2 class = "h2-heading font-just-me color-iscz-red"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_iboga.title'); ?></h2>
+            <h2 class = "h2-heading font-just-me color-iscz-green"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_iboga.title'); ?></h2>
         </div>
 
 
@@ -190,25 +204,44 @@
             <p>
                 <?php echo __('pages/iboga/iboga_vs_aya.content.sections.what_is_iboga.par'); ?>
             </p>
-            <h2 class = "h4-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.iboga_origins.title'); ?></h2>
+
 
         </div>
 
         <div class = "col-xl-12">
+            <h2 class = "h4-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.iboga_origins.title'); ?></h2>
             <p>
                 <?php echo __('pages/iboga/iboga_vs_aya.content.sections.iboga_origins.par'); ?>
             </p>
 
-            <h3  class = "h4-heading">
-                <?php echo __('pages/iboga/iboga_vs_aya.content.sections.iboga_popularity.title'); ?></h3>
-            <p>       <?php echo __('pages/iboga/iboga_vs_aya.content.sections.iboga_popularity.par'); ?>
-            </p>
+
+        </div>
+
+        <div class = "row">
+            <div class = "col-xl-6 col-xs-12">
+
+                <h3  class = "h4-heading">
+                    <?php echo __('pages/iboga/iboga_vs_aya.content.sections.iboga_popularity.title'); ?></h3>
+                <p>       <?php echo __('pages/iboga/iboga_vs_aya.content.sections.iboga_popularity.par'); ?>
+                </p>
+            </div>
+
+            <div class = "col-xl-6 col-xs-12">
+                <img
+                    srcset="/images/iboga/pages/iboga-vs-aya/iboga-roots-hands-600w.jpg 1200w,
+                    /images/iboga/pages/iboga-vs-aya/iboga-roots-hands-600w.jpg 600w,
+                    /images/iboga/pages/iboga-vs-aya/iboga-roots-hands-400w.jpg 400w"
+                    sizes = "(max-width: 400px) 400px"
+                    src="/images/iboga/pages/iboga-vs-aya/iboga-roots-hands-600w.jpg"
+                    alt = "Iboga vs Ayahuasca - Iboga terapie ceremonie"
+                >
+            </div>
         </div>
     </div>
 
-    <div class = "row">
+    <div class = "row mt-2">
         <div class = "col-xl-12">
-        <h2 class = "font-just-me color-iscz-red h2-heading text-center mb-5"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.comparison_aya_iboga.title'); ?></h2>
+        <h2 class = "font-just-me color-iscz-okr2 h2-heading text-center mb-5"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.comparison_aya_iboga.title'); ?></h2>
             <p>
                 <?php echo __('pages/iboga/iboga_vs_aya.content.sections.comparison_aya_iboga.par'); ?></p>
 
@@ -256,87 +289,95 @@
         </div>
     </div>
 
-    <div class = "container background-text-light-okr">
-        <div class = "row background-text-light-okr">
-            <h2 class = "font-just-me h2-heading color-iscz-orange text-center"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.food_reqs.title'); ?></h2>
-        </div>
-        <div class = "row">
-            <div class = "col-xl-6">
 
-                <h2  class  = "font-just-me color-iscz-red h2-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.food_reqs.food_to_avoid.title'); ?></h2>
-                <p>
-                    <?php echo __('pages/iboga/iboga_vs_aya.content.sections.food_reqs.food_to_avoid.par_1'); ?>
-                </p>
-
-                <p>
-                    <?php echo __('pages/iboga/iboga_vs_aya.content.sections.food_reqs.food_to_avoid.par_2'); ?>
-                </p>
+    <section id = "iboga-vs-aya-food-reqs">
+        <div class = "container background-text-light-okr">
+            <div class = "row background-text-light-okr">
+                <h2 class = "font-just-me h2-heading color-iscz-orange text-center"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.food_reqs.title'); ?></h2>
             </div>
+            <div class = "row">
+                <div class = "col-xl-6">
 
-            <div class = "col-xl-6">
-                <h3 class = "font-just-me color-iscz-red h3-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.meds_to_avoid.title'); ?></h3>
-                <p>
-                    <?php echo __('pages/iboga/iboga_vs_aya.content.sections.meds_to_avoid.par'); ?>
-                </p>
+                    <h2  class  = "font-just-me color-iscz-okr2 h2-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.food_reqs.food_to_avoid.title'); ?></h2>
+                    <p>
+                        <?php echo __('pages/iboga/iboga_vs_aya.content.sections.food_reqs.food_to_avoid.par_1'); ?>
+                    </p>
+
+                    <p>
+                        <?php echo __('pages/iboga/iboga_vs_aya.content.sections.food_reqs.food_to_avoid.par_2'); ?>
+                    </p>
+                </div>
+
+                <div class = "col-xl-6">
+                    <h3 class = "font-just-me color-iscz-okr2 h3-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.meds_to_avoid.title'); ?></h3>
+                    <p>
+                        <?php echo __('pages/iboga/iboga_vs_aya.content.sections.meds_to_avoid.par'); ?>
+                    </p>
 
 
-                <h3 class = "font-just-me color-iscz-red h3-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.drugs_to_avoid.title'); ?></h3>
-                <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.drugs_to_avoid.par'); ?></p>
+                    <h3 class = "font-just-me color-iscz-okr2 h3-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.drugs_to_avoid.title'); ?></h3>
+                    <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.drugs_to_avoid.par'); ?></p>
 
+                </div>
             </div>
         </div>
-    </div>
+    </section>
 
 
-    <div class = "row">
-        <div class = "col-xl-12">
-            <h2 class = "text-center h2-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.duration.title'); ?></h2>
-            <h2  class  = "font-just-me color-iscz-red h2-heading">
-                <?php echo __('pages/iboga/iboga_vs_aya.content.sections.duration.subtitle'); ?>
-            </h2>
+    <section id = "iboga-vs-aya-duration">
+        <div class = "row mt-5">
+            <div class = "col-xl-12">
+                <h2 class = "text-center h2-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.duration.title'); ?></h2>
+                <h2  class  = "font-just-me color-iscz-red h2-heading">
+                    <?php echo __('pages/iboga/iboga_vs_aya.content.sections.duration.subtitle'); ?>
+                </h2>
 
 
-            <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.duration.pars.iboga'); ?></p>
-            <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.duration.pars.aya'); ?></p>
+                <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.duration.pars.iboga'); ?></p>
+                <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.duration.pars.aya'); ?></p>
 
-            <h3 class = "font-just-me color-iscz-red"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.ceremonies_count.title'); ?></h3>
-            <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.ceremonies_count.pars.iboga'); ?></p>
-            <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.ceremonies_count.pars.aya'); ?></p>
-
-
-        </div>
-    </div>
-
-    <div class = "container background-text-light-blue">
-        <div class = "row">
-            <h2 class = "font-just-me color-iscz-green text-center h2-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.body_effects.title'); ?></h2>
-        </div>
-
-
-        <div class = "row">
-            <div class = "col-xl-6">
-                <h3 class  = "font-just-me color-iscz-red">
-                    <?php echo __('pages/iboga/iboga_vs_aya.content.sections.body_effects.aya.title'); ?>
-                </h3>
-
-                <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.body_effects.aya.par'); ?></p>
-
-                <img src = "/images/iboga/iboga-vs-aya-aya-body.jpeg" alt = "Iboga vs Ayahuasca"/>
+                <h3 class = "font-just-me color-iscz-red"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.ceremonies_count.title'); ?></h3>
+                <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.ceremonies_count.pars.iboga'); ?></p>
+                <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.ceremonies_count.pars.aya'); ?></p>
 
 
             </div>
+        </div>
+    </section>
 
-            <div class = "col-xl-6">
-                <img src = "/images/iboga/iboga-vs-aya-effects-body.jpg"  alt = "Iboga vs Ayahuasca"/>
-                <h3 class  = "font-just-me color-iscz-red">
-                    <?php echo __('pages/iboga/iboga_vs_aya.content.sections.body_effects.iboga.title'); ?>
-                </h3>
+    <section id = "iboga-vs-aya-body-effects">
+        <div class = "container background-text-light-blue">
+            <div class = "row">
+                <h2 class = "font-just-me color-iscz-green text-center h2-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.body_effects.title'); ?></h2>
+            </div>
 
-                <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.body_effects.aya.par'); ?></p>
 
+            <div class = "row">
+                <div class = "col-xl-6">
+                    <h3 class  = "font-just-me color-iscz-red">
+                        <?php echo __('pages/iboga/iboga_vs_aya.content.sections.body_effects.aya.title'); ?>
+                    </h3>
+
+                    <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.body_effects.aya.par'); ?></p>
+
+                    <img src = "/images/iboga/iboga-vs-aya-aya-body.jpeg" alt = "Iboga vs Ayahuasca"/>
+
+
+                </div>
+
+                <div class = "col-xl-6">
+                    <img src = "/images/iboga/iboga-vs-aya-effects-body.jpg"  alt = "Iboga vs Ayahuasca"/>
+                    <h3 class  = "font-just-me color-iscz-red">
+                        <?php echo __('pages/iboga/iboga_vs_aya.content.sections.body_effects.iboga.title'); ?>
+                    </h3>
+
+                    <p><?php echo __('pages/iboga/iboga_vs_aya.content.sections.body_effects.aya.par'); ?></p>
+
+                </div>
             </div>
         </div>
-    </div>
+    </section>
+
 
     <div class = "row">
         <h2 class = "font-just-me color-iscz-green text-center h2-heading"><?php echo __('pages/iboga/iboga_vs_aya.content.sections.medical_potential.title'); ?></h2>

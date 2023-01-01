@@ -361,29 +361,33 @@ return [
                             1 => 'To, jak se cítíte ve třetí den, se bude výrazně lišit od toho, jak se budete cítíte v osmý den. Pusťte se do této
                                 integrace s účelem a odvrátit jakékoli negativní myšlenky tím, že se znovu zaměříte na pozitivní myšlenky. Jděte s
                                 s vlnou zmeny a budte trpěliví sám se sebou. Negativní myšlenky mohou růst pouze tehdy, když jim věnujeme pozornost.
-                                Jinak nad nami namaji moc..',
-                            2 => 'When you arrive home,  have a trusted friend, coach, counselor or spiritual advisor to process the experience with.
-                                This sacrament can open up your psychological and energetic field so it is advantageous to surround yourself
-                                with people who are loving and at a empathetic in the days following. For example, avoid large crowds. ',
-                            3 => 'Někteří lidé uvádějí potíže se spánkem následující noci a suplementaci melatoninu (~3 mg před spaním) nebo
+                                Jinak nad námi namají moc..',
+                            2 => 'Když dorazíte domů, mějte důvěryhodného přítele, kouče, poradce nebo duchovního poradce, se kterým budete zkušenost zpracovávat.
+                                 Tato svátost může otevřít vaše psychologické a energetické pole, takže je výhodné se v následujících dnech obklopit
+                                  lidmi, kteří jsou milující a empatičtí. Vyhněte se například velkým davům lidí.',
+
+                            3 => 'Někteří lidé uvádějí že měli potíže se spánkem následující noci. Suplementace melatoninu (~3 mg před spaním) nebo
                                     GABA může být v tomto ohledu prospěšná.',
                             4 => '
-                                Je důležité si uvědomit, že iboga zůstává ve vašem systému alespoň několik týdnů, takže se vyhněte alkoholu
-                                a stimulanty prodlouží výhody této práce. Alkoholu je dobré se alespoň jeden měsíc vyhýbat
-                                příspěvek, takže můžete plně integrovat své zkušenosti. Pokud maximalizujete výhody čištění, držte se dál
-                                po dobu 3-6 měsíců můžete ve svém životě zaznamenat ještě hlubší změny než samotný obřad. Mnoho
-                                hlásí, že ani nemá touhu pít, protože candida nebo citová vazba bývají úplné
-                                eliminován lékem, čímž se snižuje jakákoli chuť na cukr a sacharidy.',
-                            5 => '<!-- [ENGLISH]  -->
-                                POZNÁMKA: Pokud máte v plánu užívat jiné obřadní rostlinné léky, dejte na to alespoň měsíc
-                                obnovení a integrace vašich zkušeností. Tento mocný rostlinný duch stále poskytuje léčivé měsíce
-                                po obřadu a jiné léky mohou proces narušovat. Mnoho lidí uvádí vysokou úroveň
-                                citlivost na jiné psychoaktivní léky po obřadu. Buďte opatrní zejména u rekreačních
-                                užívání psychoaktivních léků.',
+                                Je důležité si uvědomit, že Iboga zůstává ve vašem systému  několik dalšícho týdnů. Vyhněte se proto alkoholu
+                                a stimulantům  - prodlouží to výhody vaší práce s Ibogou. Alkoholu je dobré se vyhýbat alespoň jeden měsíc po ceremoniích
+                                (doporučuji co nejdéle) čímž  můžete plně integrovat své zkušenosti. Jestli chcete z vašeho očištění vytěžit co nejvíce, držte se dál
+                                po dobu 3-6 měsíců = zaznamenáte ve svém životě ještě hlubší změny než během samotných ceremonii. Mnoho lidí
+                                uvádí, že ani nemají touhu pít, protože candida nebo citová vazba bývají úplné
+                                eliminovány Iboga medicinou, Snižuje se jakákoliv chuť na cukr a sacharidy.'
                         ]
+                    ],
+                    'note' => [
+                        'par'=> 'POZNÁMKA: Moje doporučení je nedělat žádnou jinou rostlinnou medicínu po léčbě Ibogou.
+                                Pokud máte v plánu užívat jiné  rostlinné mediciny, dejte si alespoň pár měsíců
+                                na obnovení a integraci vašich zkušeností z Ibogy. Tento mocný rostlinný duch vám bude dále poskytovat léčivé měsíce
+                                po ceremonii Ibogy. Užívání jinych medicín může tento proces narušit. Mnoho lidí uvádí vysokou úroveň
+                                citlivosti na jiné psychoaktivní léky po ceremonii ibogy. Buďte opatrní zejména u
+                                užívání rekreačních psychoaktivních rostlin.',
                     ]
-                ]
-                ]
+                ],
+
+            ]
         ]
     ]
 ];

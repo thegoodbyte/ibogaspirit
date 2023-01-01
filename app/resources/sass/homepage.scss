@@ -1,9 +1,22 @@
+#home-zijte-stastne-pic {
+    min-height: 400px;
+    width: 100%;
+    display:block;
+    /*background-image: url('/images/home/poznejte/happy_1200.jpeg');*/
+    background-image: url('/images/headers/live-happily-bg-1200.jpg');
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding-left: 30px;
+}
+
 
 #home-zijte-stastne {
     color: #fff;
     font-family: "Lato", Sans-serif;
     background-color: #381401;
     padding-top: 20px;
+
+
 
     h2 {
         font-weight: 900;
@@ -19,6 +32,7 @@
                 position: relative;
                 align-content: end;
                 justify-content: right;
+
             }
         }
         .stastne-half-col-bg-right {
@@ -33,14 +47,9 @@
 
         }
     }
-
-    /*#home-zijte-stastne .container-fluid .stastne-half-col-bg-left {*/
+        /*#home-zijte-stastne .container-fluid .stastne-half-col-bg-left {*/
     /*    background-color: #000;*/
     /*}*/
-
-
-
-
 
     #home-stastne-left-col {
         min-height: 475px;
@@ -86,7 +95,7 @@
     overflow: hidden;
 
     &:hover {
-        background-color: rgba(151, 83, 40, 0.55);
+        //background-color: rgba(151, 83, 40, 0.55);
     }
 
     h2 {

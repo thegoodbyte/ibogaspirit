@@ -8,13 +8,13 @@
 
                 <div class = "col-xl-2">
                     <ul>
-                        <li>Iboga</li>
+                        <li><?php echo __('menu.menu_ceremonies.ceremonies.title'); ?>/li>
                         <li><hr /></li>
-                        <li><a href="/iboga/jak-vam-iboga-muze-pomoci" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.iboga.how_iboga_can_help_you'); ?></a></li>
-                        <li><a href="/iboga/bwiti-tradice" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.iboga.bwiti_tradition'); ?></a></li>
-                        <li><a href="/iboga/co-je-iboga?e" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.iboga.what_is_iboga'); ?></a></li>
-                        <li><a href="/iboga/iboga-vs-ayahuasca" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.iboga.iboga_vs_ayahuasca'); ?></a></li>
-                        <li><a href="/iboga/gabon" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.iboga.gabon_africa'); ?></a></li>
+                        <li><a href="{{ route('iboga-what-is_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.iboga.what_is_iboga'); ?></a></li>
+                        <li><a href="{{ route('iboga-bwiti-tradition_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.iboga.bwiti_tradition'); ?></a></li>
+                        <li><a href="{{ route('iboga-how-can-help_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.iboga.how_iboga_can_help_you'); ?></a></li>
+                        <li><a href="{{ route('iboga-iboga-vs-aya_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.iboga.iboga_vs_ayahuasca'); ?></a></li>
+                        <li><a href="{{ route('iboga-gabon_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.iboga.gabon_africa'); ?></a></li>
 
                     </ul>
 

@@ -7,7 +7,15 @@
 <title>{{ $pageTitle ?? 'Iboga obřady a ceremonie Česká Republika.Alternativní léčba deprese, úzkosti, předchozího traumatu, Cesko' }}</title>
 <link rel="stylesheet" href="/css/app.css">
 <!-- FROM SASS -->
+<link rel="stylesheet" href="/css/generic.css">
 <link rel="stylesheet" href="/css/homepage.css">
+<link rel="stylesheet" href="/css/cookie-consent.css">
+<link rel="stylesheet" href="/css/carousel.css">
+<link rel="stylesheet" href="/css/menu.css">
+
+<link rel="stylesheet" href="/css/iboga/bwiti-tradition.css">
+<link rel="stylesheet" href="/css/iboga/how-iboga-can-help-you.css">
+
 <link rel="stylesheet" href="/css/ceremonies/retreat.css">
 
 
@@ -50,5 +58,7 @@
 
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+
+<script src="/js/cookies.js"></script>
 
 

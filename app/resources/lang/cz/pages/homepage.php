@@ -18,6 +18,24 @@ return  [
                 'par' => 'Tydenni pobyt s dvema psycho-spiritualnimi Iboga obrady, fuchovni sprchou, Bwiti ucenim a mnohem vice...'
             ]
         ],
+        'index' => [
+            'pars' => [
+                0 => 'Pokud jste až doteď žili nešťastný život a už vás omrzelo to, jak se věci mají, je tu možnost změnit svůj život díky této
+                úžasné rostlinné medicíně z Afriky - <a href = "/iboga/co-je-iboga">Iboga</a>. Dokáže doslova přes noc
+                vyřešit všechny vaše problémy – úzkost, deprese, PTSD,
+                sebevražedné myšlenky, celoživotní traumata, dokonce i najít příčinu vašeho fyzického onemocnění.',
+
+                1 => 'Poskytuji <a href = "{{ route(\'ceremonies-retreat_cz\') }}">týdenní Iboga pobyty</a> v
+                České republice se dvěma  Iboga ceremoniemi nabízené a prováděné v dlouholeté
+                tisícileté a originální africké tradici <a href = "/iboga/bwiti-tradice">Missoko Bwiti</a>.',
+
+                2 => 'Asi si říkáte – Afrika? není to kontinent velkých nemocí? Je to vůbec bezpečné?
+                Můžu vás ujistit, že Afrika je úžasný kontinent  plný života a lásky – koneckonců právě z Afriky život pochází. Bwiti
+                lidé spolupracují s Ibogou již po tisíce let a rozvinuli
+                léčebnou tradici, kde je bezpečnost na prvním místě. Toto je ta tradice, kterou praktikuji.',
+            ],
+            'par_quote' => 'S Ibogou můžete vyléčit celoživotní trauma během jedné noci, pokud jste připraveni přinést pravdu do své mysli'
+        ],
         'section_2_iboga' =>[
             'title' => 'IBOGA MEDICÍNA A BWITI UČENÍ',
             'par' => 'Šamanské léčení a učení k léčbě jakékoliv mentální, duševní nebo fyzické nemoci. Vydejte se na cestu sebepoznání

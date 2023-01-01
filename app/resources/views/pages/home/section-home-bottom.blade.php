@@ -31,7 +31,7 @@
 
 
                 <div class = "button-show-more">
-                    <a href = "{{ route('iboga-what-is_' . $applocale) }}"><img src = "/images/buttons/button_more{{ $applocale }}.png" /></a>
+                    <a href = "{{ route('iboga-what-is_' . $applocale) }}"><img src = "/images/buttons/button_more-{{ $applocale }}.png" /></a>
                 </div>
             </div>
         </div>

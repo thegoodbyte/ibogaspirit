@@ -72,7 +72,7 @@ class IbogaController extends Controller
 
         $applocale = session('applocale');
 
-        return View::make('pages.iboga.bwiti-tradice',
+        return View::make('pages.iboga.bwiti-tradition',
             [
                 'pageTitle' => __('seo/iboga/bwiti-tradition.seo.title'),
                 'metaDesc' => __('seo/iboga/bwiti-tradition.seo.metaDesc'),

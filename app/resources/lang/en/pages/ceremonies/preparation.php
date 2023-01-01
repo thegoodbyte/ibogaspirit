@@ -322,14 +322,16 @@ return [
                         ]
                     ],
                     'note' => [
-                        'par'=> 'NOTE: If you plan on taking doing other ceremonial plant medicines, give at least a month in between for
+                        'par'=> 'NOTE: My recommendation is not to do any other plant medicines after Iboga treatment. If you plan on taking doing other
+                            ceremonial plant medicines, give at least a month in between for
                                 recovery and integration of your experience. This powerful plant spirit is still providing healing months
                                 after the ceremony and other medicines can interfere with the process. Many people report high levels of
                                 sensitivity to other psychoactive medicines post ceremony. Use caution specifically with recreational
                                 use of psychoactive medicines.',
-                        ]
+                    ]
+
                 ]
-                ]
+            ]
         ]
     ]
 ];

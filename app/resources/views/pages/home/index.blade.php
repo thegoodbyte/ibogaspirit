@@ -28,25 +28,28 @@
 I can assure you that Africa is an amazing land full of life and love - afterall it is where life comes africa. Bwiti people have been working with
 Iboga for thousands of years and developed a healing tradition where safety is the number one priority.this is the tradition I practice
                 -->
-                Pokud jste až doteď žili nešťastný život a už vás omrzelo to, jak se věci mají, je tu možnost změnit svůj život díky této
-                úžasné rostlinné medicíně z Afriky - <a href = "/iboga/co-je-iboga">Iboga</a>. Dokáže doslova přes noc vyřešit všechny vaše problémy – úzkost, deprese, PTSD,
-                sebevražedné myšlenky, celoživotní traumata, dokonce i najít příčinu vašeho fyzického onemocnění.
 
-    Poskytuji <a href = "{{ route('ceremonies-retreat_cz') }}">týdenní Iboga pobyty</a> v České republice se dvěma  Iboga ceremoniemi nabízené a prováděné v dlouholeté
-    tisícileté a originální africké tradici <a href = "/iboga/bwiti-tradice">Missoko Bwiti</a>.
+
+            <p>
+                <?php echo __('pages/homepage.content.index.pars.0'); ?>
+            </p>
+
+
+            <p>
+                <?php echo __('pages/homepage.content.index.pars.1'); ?>
+            </p>
 
             </p>
+
+
             <p>
-                Asi si říkáte – Afrika? není to kontinent velkých nemocí? Je to vůbec bezpečné?
-                Můžu vás ujistit, že Afrika je úžasný kontinent  plný života a lásky – koneckonců právě z Afriky život pochází. Bwiti
-                lidé spolupracují s Ibogou již po tisíce let a rozvinuli
-                léčebnou tradici, kde je bezpečnost na prvním místě. Toto je ta tradice, kterou praktikuji.
+                <?php echo __('pages/homepage.content.index.pars.2'); ?>
             </p>
         </div>
 
         <div class = "col-xl-12 col-xs-12">
 {{--            <h1 class = "font-just-me color-iscz-red h1-heading">With Iboga, you can heal a lifetime trauma in one night if you are ready to bring the truth to your mind</h1>--}}
-            <h1 class = "font-just-me  font-signature">S Ibogou můžete vyléčit celoživotní trauma během jedné noci, pokud jste připraveni přinést pravdu do své mysli</h1>
+            <h1 class = "font-just-me  font-signature"><?php echo __('pages/homepage.content.index.par_quote'); ?></h1>
         </div>
 
 

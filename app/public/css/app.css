@@ -2,6 +2,7 @@
     --dark-red: #b81300;
     --dark-green: rgba(79, 129, 15, 1);
     --okr: rgba(177, 153, 70, 1);
+    --okr2: #c46b04;
     --okr-light: rgb(229 225 208);
     --okr-light2: #f5f2e4;
     --beige: rgba(188, 183, 170, 0.5);
@@ -21,7 +22,8 @@ a {
 }
 
 img {
-    /*object-fit: contain;*/
+    object-fit: cover;
+    max-width: 100%;
 }
 
 img.img-no-fit {
@@ -33,15 +35,15 @@ a:hover {
 }
 
 .h1-heading {
-    font-size: 80px;
+    font-size: 50px;
 }
 
 .h2-heading {
-    font-size: 60px;
+    font-size: 36px;
 }
 
 .h3-heading {
-    font-size: 40px;
+    font-size: 28px;
 }
 
 @font-face {
@@ -98,6 +100,13 @@ a:hover {
     color: var(--iscz-orange);
 }
 
+.color-iscz-okr {
+     color: var(--okr);
+ }
+
+.color-iscz-okr2 {
+    color: var(--okr2);
+}
 .iboga-helps-block {
 
 }
@@ -178,6 +187,12 @@ blockquote .small-bq {
     font-size:24px;
 }
 
+
+
+
+
+
+/****************************** HOW IBOGA CAN HELP UYOU ***************************************/
 #img-box-iboga-helps {
     display: block;
     width: 100%;
@@ -280,9 +295,15 @@ blockquote cite {
     margin-top: 1em;
 }
 
+
+
+
+
+
+
+
+
 /*** EIGHT DAY RETREAT *******************/
-
-
 
 #eight-day-retreat-includes-box {
     display: flex;
@@ -336,29 +357,12 @@ blockquote cite {
 }
 
 
-#iboga-bwiti-tradice-top-image {
-    display: block;
-    min-height: 600px;
-    background-image: url("/images/iboga/bwiti/bwiti-scotty-1200.jpg");
-    background-repeat: no-repeat;
-    width: 1200px;
-    margin-left: 0px;
-}
 
-#iboga-bwiti-tradice-top-image h2{
-    color: #fff;
-    margin-left: 20px;
-}
+/********* Bwiti traadition *************************************/
 
-#iboga-bwiti-tradice-top-image .text-box{
-    color: #fff;
-    margin-left:20px;
-    margin-top: 20px;
-}
 
-#iboga-bwiti-tradice-top-image .text-box  h3{
-    color: #fff;
-}
+
+
 
 .background-text-light-grey {
      background-color: #F4F4F4;
@@ -386,11 +390,8 @@ blockquote cite {
 
 
 
-.bwiti-tradice-h3 {
-    font-style: normal;
-    font-size: 40px;
-}
 
+/*************************************** HEADER ************************************/
 .header-bottom-row {
 
     max-width: 1200px;
@@ -422,6 +423,11 @@ blockquote cite {
 }
 
 
+
+
+
+
+/*************** FOOTER ***********************/
 .footer-links a, .footer-links li{
     color: #fff;
     font-size: 14px;
@@ -451,9 +457,35 @@ blockquote cite {
     margin-bottom: 3px;
 }
 
+
+
+
+
+
+/************************* retreat ****************************/
 .pobyt-day-box {
     background: radial-gradient(ellipse 100% 7% at 50% 100%, rgba(55, 55, 55, 0.5) 200px, rgba(55, 55, 55, 0.1) 360px, white 380px);
 }
+.retreats-img-box {
+    display:   block;
+    background: red;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*************** ABOUT US **********************************/
 
 #onas-nganga-img-box {
     display: block;
@@ -462,7 +494,9 @@ blockquote cite {
 }
 
 
-/*** MEDICAL GUIDELINES ***/
+
+
+/************************** MEDICAL GUIDELINES ************************************/
 .med-guidelines-box-reqs h3 {
     color: var(--iscz-brown2)
 }
@@ -471,7 +505,6 @@ blockquote cite {
     background-color: red;
     color: #fff;
 }
-
 
 #medical-guidelines-img-box {
     display: block;
@@ -526,6 +559,9 @@ section.medical-guidelines-psychological .bg-img p {
     font-weight: 500;
 }
 
+
+
+
 .h-class-warning {
     color: #fff !important;
     background-color: red;
@@ -554,12 +590,13 @@ section.medical-guidelines-psychological .bg-img p {
     background-position: bottom;
 }
 
-.retreats-img-box {
-    display:   block;
-    background: red;
-    width: 100vw;
-    height: 100vh;
-}
+
+
+
+
+
+
+
 
 ul.lh-150 li {
     line-height: 140%;
@@ -617,6 +654,13 @@ ul.lh-150 li {
     color: var(--dark-red);
 }
 
+
+
+
+
+
+
+/***************************** RETREATS *******************************/
 #pobyty-list-overview  li {
     line-height: 200%;
 }
@@ -637,7 +681,7 @@ ul.lh-150 li {
 }
 
 
-/* ================== */
+/* ******************* HOMEPAGE BOTTOM ************************ */
 
 section.home-section-ziot-je-dar {
     background-color: #EBEBEB;;
@@ -724,6 +768,9 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     max-width: 1200px;
 }
 
+
+
+
 .site-content {
     max-width: 1200px;
     margin: auto;
@@ -780,6 +827,13 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     background-repeat: no-repeat;
 }
 
+
+
+
+
+
+
+/**************************** IBOGA vs AYA **********************************/
 #iboga-vs-aya-page-header {
     background-image: url('/images/iboga/iboga-banner-1200.jpg');
 }
@@ -797,6 +851,10 @@ section.home-section-zivot-je-dar h1,  section.home-section-zivot-je-dar h2{
     background-position: top;
     background-attachment: fixed;
     background-repeat: no-repeat;
+}
+
+#iboga-vs-aya-food-reqs {
+    color: #702903;
 }
 
 
@@ -1119,27 +1177,7 @@ footer a:hover {
         text-align: center;
     }
 
-    #iboga-bwiti-tradice-top-image {
-        display: block;
-        min-height: 483px;
-        background-image: url("/images/iboga/bwiti/bwiti-scotty-400w.jpg");
-        background-repeat: no-repeat;
-        width: 100vw;
-    }
-    #iboga-bwiti-tradice-top-image h1{
-        color: #fff;
-        margin-left: 10px;
-        font-size: 45px;
-    }
-    #iboga-bwiti-tradice-top-image .text-box{
-        color: #fff;
-        margin-left:20px;
-        margin-top: 200px;
-    }
 
-    #iboga-bwiti-tradice-top-image .text-box  h3{
-        color: #fff;
-    }
 
     #home-parallax {
         background-image: url('/images/iboga/bwiti/bwiti-all-400w.jpg');
@@ -1328,8 +1366,12 @@ footer a:hover {
 }
 
 
-/**
-preparation *************************************************************
+
+
+
+
+
+/********************************** preparation *************************************************************
  */
 .faq-question {
     font-size: 18px;
@@ -1350,48 +1392,19 @@ preparation *************************************************************
 
 
 /*  HOME */
-#home-zijte-stastne  {
-    color: #fff;
-    font-family: "Lato", Sans-serif;
-    background-color: #381401;
-    padding-top: 20px;
-}
 
-#home-zijte-stastne .container-fluid {
-    background-color: #000;
-}
 
 /*#home-zijte-stastne .container-fluid .stastne-half-col-bg-left {*/
 /*    background-color: #000;*/
 /*}*/
 
-#home-zijte-stastne .container-fluid div.stastne-half-col-bg-left div.row {
-    position: relative;
-    align-content: end;
-    justify-content: right;
-}
 
-#home-zijte-stastne .container-fluid .stastne-half-col-bg-right {
-    background-color: #54595F;
-}
 
-#home-zijte-stastne .container-fluid div div.row .col  {
-    max-width: 500px;
-}
 
 #home-stastne-left-col {
     min-height: 475px;
 }
 
-#home-stastne-left-col .row-show-more-button {
-    bottom: 30px;
-}
-
-#home-zijte-stastne  h2 {
-    font-weight: 900;
-    font-size: 50px;
-    color: #fff;
-}
 
 .menu-iboga-container {
     width: 73%;

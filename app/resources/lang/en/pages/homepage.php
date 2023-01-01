@@ -17,6 +17,24 @@ return  [
                 'par' => 'Find out who you are. Reconnect with your soul and love yourself again.'
             ]
         ],
+        'index' => [
+            'pars' => [
+                0 => 'If you have been living an unhappy life until now and you are tired of the way things are, there is an opportunity to change your life with this
+                 amazing plant medicine from Africa - <a href = "/iboga/what-is-iboga">Iboga</a>. He can literally overnight
+                 solve all your problems - anxiety, depression, PTSD,
+                 suicidal thoughts, lifelong traumas, even finding the cause of your physical illness.',
+
+                1 => 'I provide <a href = "{{ route(\'ceremonies-retreat_cz\') }}">week long Iboga retreats</a> in
+                  Czech Republic, inlcuding two Iboga ceremonies offered and performed in the long-standing
+                 the thousand-year-old and original African tradition <a href = "/iboga/bwiti-tradice">Missoko Bwiti</a>.',
+
+                2 => 'You are probably thinking - Africa? isn\'t it the continent of great diseases? Is it even safe?
+                 I can assure you that Africa is a wonderful continent full of life and love - after all, Africa is where life comes from. Bwiti
+                 people have been working with Iboga for thousands of years and have developed
+                 a healing tradition where safety comes first. This is the tradition I practice.',
+            ],
+            'par_quote' => 'With Iboga, you can heal a lifetime of trauma overnight if you are prepared to bring the truth into your mind'
+        ],
         'section_2_iboga' =>[
             'title' => 'IBOGA MEDICINE AND BWITI TEACHINGS',
             'par' => 'IBOGA MEDICINE TEACHES US HOW TO ENJOY LIFE TO THE FULLEST. HE CAN HEAL ANY PSYCHIC TRAUMA BY BRINGING US
@@ -29,6 +47,7 @@ return  [
                 0 => 'Shamanic healing and teachings to cure any mental, spiritual or physical illness. Embark on a journey of self-discovery
                  and free yourself from the shackles of the ego and mind. Comfort your soul and live a happy life. One week stay with two Iboga ceremonies can make a difference
                  in your life for the better. No more unhappy sad or confused you - just a new and beautiful life ahead of you.Enjoying your life to the fullest.',
+
                 1 => 'Iboga is a deeply grounding medicine that uses the truth to heal. Its goal is to bring you back to
                 your original true self and reconnect you to your soul. It does this by first clearing out (detoxing)
                 anything it can that doesn’t belong physically and mentally. This is often experienced as random thoughts,
