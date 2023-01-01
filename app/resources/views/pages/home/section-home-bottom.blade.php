@@ -16,8 +16,11 @@
 
                     </p>
                     <div class="container text-center">
-                        <a href = "/iboga/co-je-iboga"><img src = "/images/home/iboga-bark.jpg"
-                                                            alt = "<?php echo __('seo/homepage.seo.content.sections.who_we_are.what_is_iboga.image'); ?>" width = "90%" /></a>
+                        <a href = "/iboga/co-je-iboga">
+                            <img
+                                src = "/images/home/iboga-bark.jpg"
+                                class = "photo"
+                                alt = "<?php echo __('seo/homepage.seo.content.sections.who_we_are.what_is_iboga.image'); ?>" width = "90%" /></a>
                     </div>
 
                     <p class = " text-uppercase">
@@ -46,6 +49,7 @@
                         <div class = "container text-center">
                             <img
                                 src = "/images/home/onas/martin-circle.png"
+                                class = "photo"
                                 alt = "<?php echo __('seo/homepage.seo.content.sections.who_we_are.who_i_am.image'); ?>"
                                 width = "80%"/>
                         </div>
@@ -83,6 +87,7 @@
                     <a href = "/obrady/terminy-a-ceny">
                         <img
                             src = "/images/promotions/cz/2023/06/banner-cs-june-upava-v2.jpg"
+                            class = "photo"
                             alt = "<?php echo __('seo/homepage.seo.content.sections.who_we_are.dates.0.image'); ?>"
                             width = "340"/>
                     </a>

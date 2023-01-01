@@ -11,6 +11,14 @@
         gtag('config', 'G-B7YRN4155S');
     </script>
 
+    <!-- Google Tag Manager added 12/30/22 -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-K9RW4TW');</script>
+    <!-- End Google Tag Manager -->
+
     <!--
     SMart Look analytics
     -->
@@ -71,5 +79,20 @@
 
 
 @include('includes.scripts')
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9RW4TW"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!--Mouseflow-->
+<script type="text/javascript">
+    window._mfq = window._mfq || [];
+    (function() {
+        var mf = document.createElement("script");
+        mf.type = "text/javascript"; mf.defer = true;
+        mf.src = "//cdn.mouseflow.com/projects/859f69f6-e3c4-432d-9dcb-8b9df6fad29d.js";
+        document.getElementsByTagName("head")[0].appendChild(mf);
+    })();
+</script>
 </body>
 </html>
