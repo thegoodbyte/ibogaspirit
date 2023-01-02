@@ -47,6 +47,7 @@
                 <?php echo __('pages/iboga/bwiti_tradition.content.section_missoko_bwiti.par_1'); ?> <br />
             </p>
             <div class = "row">
+                <!--img-mobile-change-->
                 <img src = "/images/iboga/bwiti-temple-1200.jpg" />
             </div>
             <p>

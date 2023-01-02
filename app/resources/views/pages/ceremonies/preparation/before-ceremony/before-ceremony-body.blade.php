@@ -66,17 +66,17 @@
 
         <div class = "col-xl-6 col-xs-12">
             <img
-                srcset = "/images/home/slider/diet-healhy-food-400w.jpg 400w,
-                          /images/home/slider/diet-healhy-food-600w.jpg 600w,
-                          /images/home/slider/diet-healhy-food-600w.jpg 900w,
-                          /images/home/slider/diet-healhy-food-600w.jpg 900w,
-                          /images/home/slider/diet-healhy-food-600w.jpg 1200w"
+                srcset = "/images/obrady/pages/preparation/diet-healthy-food-400w.jpg 400w,
+                          /images/obrady/pages/preparation/diet-healthy-food-600w.jpg 600w,
+                          /images/obrady/pages/preparation/diet-healthy-food-600w.jpg 900w,
+                          /images/obrady/pages/preparation/diet-healthy-food-600w.jpg 900w,
+                          /images/obrady/pages/preparation/diet-healthy-food-600w.jpg 1200w"
                 sizes = "(max-width: 400px) 400w,
                 (min-width: 401px and max-width: 600px) 600w,
                 (min-width: 601px and max-width: 900px) 900w,
                 (min-width: 901px) 1200w "
 
-                src = "/images/obrady/pages/preparation/diet-healhy-food-600w.jpg"
+                src = "/images/obrady/pages/preparation/diet-healthy-food-600w.jpg"
                 alt = "Iboga ceremony preparation"
 
             />

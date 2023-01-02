@@ -59,7 +59,7 @@ class HomeController extends Controller
         }
         $applocale = session('applocale');
 
-        return View::make('pages.onas.nganga',
+        return View::make('pages.aboutus.nganga',
             [
                 'pageTitle' => __('seo/about/nganga.seo.title'),
                 'metaDesc' => __('seo/about/nganga.seo.metaDesc'),
@@ -76,7 +76,7 @@ class HomeController extends Controller
 
         $applocale = session('applocale');
 
-        return View::make('pages.onas.moughenda',
+        return View::make('pages.aboutus.moughenda',
             [
                 'pageTitle' => __('seo/about/moughenda.seo.title'),
                 'metaDesc' => __('seo/about/moughenda.seo.metaDesc'),
@@ -86,14 +86,14 @@ class HomeController extends Controller
         );
     }
 
-    public function kontakt() {
+    public function contact() {
         if (empty(session('applocale'))) {
             session(['applocale' => 'cz']);
         }
         $applocale = session('applocale');
 
 
-        return View::make('pages.onas.kontakt',
+        return View::make('pages.aboutus.contact',
             [
                 'pageTitle' => __('seo/contact.seo.title'),
                 'metaDesc' => __('seo/contact.seo.metaDesc'),

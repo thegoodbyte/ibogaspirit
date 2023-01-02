@@ -5,7 +5,7 @@
 
 
     <div class = "row">
-        <h1 class = "h1-heading font-just-me color-iscz-red">IBOGA RETREATS IN AFRICA</h1>
+        <h1 class = "h1-heading font-just-me color-iscz-red text-center">IBOGA RETREATS IN AFRICA</h1>
 
         <p>Our Iboga retreat in Africa dive deeper into the Bwiti tradition and the healing of this powerful visionary
             medicine. Visitors will embark on a once-in-a-lifetime

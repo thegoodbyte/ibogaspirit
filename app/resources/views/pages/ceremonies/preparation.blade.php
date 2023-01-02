@@ -4,7 +4,7 @@
     <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
 
     <div class = "row">
-        <h1 class = "font-just-me h1-heading color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.title') ?></h1>
+        <h1 class = "font-just-me text-center h1-heading color-iscz-red"><?php echo __('pages/ceremonies/preparation.content.title') ?></h1>
     </div>
 
 

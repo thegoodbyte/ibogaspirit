@@ -16,7 +16,7 @@
             <div>
 
 
-                <form class="form-horizontal row background-text-light-grey" method="POST" action="{{ route('contactus') }}">
+                <form class="form-horizontal row background-text-light-grey" method="POST" action="{{ route('contact-post') }}">
                     {{ csrf_field() }}
                     <div class="form-group{{ $errors->has('fullname') ? ' has-error' : '' }}">
                         <label for="fullname" class="col-md-4 control-label"><?php echo __('pages/contact.content.form.labels.full_name');?></label>

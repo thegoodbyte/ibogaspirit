@@ -281,6 +281,7 @@
         </div>
 
         <div class = "col-xl-6">
+            <!--img-mobile-change-->
             <img src = "/images/iboga/diet.jpeg"  alt = "Iboga vs Ayahuasca"/>
         </div>
 

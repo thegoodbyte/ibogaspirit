@@ -41,7 +41,7 @@ use Illuminate\Support\Facades\Route;
 
     Route::get('/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_old_cz');
     Route::get('/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_old_cz');
-    Route::get('/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_old_cz');
+    Route::get('/kontakt', [\App\Http\Controllers\HomeController::class, "contact"])->name('contact_old_cz');
     Route::post('/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_old_cz');
 
 
@@ -66,8 +66,8 @@ Route::get('/iboga-ritualni-ceremonie/terminy-a-ceny', [\App\Http\Controllers\Ce
 
 Route::get('/onas-iboga-terapie-cesko/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_cz');
 Route::get('/onas-iboga-terapie-cesko/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_cz');
-Route::get('/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_cz');
-Route::post('/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post');
+Route::get('/kontakt', [\App\Http\Controllers\HomeController::class, "contact"])->name('contact_cz');
+Route::post('/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contact-post');
 Route::get('/set-language/{lang}',  [\App\Http\Controllers\HomeController::class, 'setLanguage'])->name('set.language');
 Route::get('/cookies',  [\App\Http\Controllers\HomeController::class, 'cookies'])->name('cookies');
 
@@ -98,7 +98,7 @@ Route::prefix('en')->group(function() {
 
     Route::get('/about-us-iboga-czech-republic/nganga-traditional-bwiti-spiritual-healer', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_en');
     Route::get('/about-us-iboga-czech-republic/bwiti-shaman-moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_en');
-    Route::get('/contact-iboga-healing-europe-healer', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_en');
+    Route::get('/contact-iboga-facilitator-europe-healer', [\App\Http\Controllers\HomeController::class, "contact"])->name('contact_en');
 //    Route::post('/contactus', [\App\Http\Controllers\HomeController::class, 'mailContactForm'])->name('contactus')->name('contact-post_en');
 });
 // ======================================================================================================
@@ -120,7 +120,7 @@ Route::prefix('en')->group(function() {
 
     Route::get('/es/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_es');
     Route::get('/es/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_es');
-    Route::get('/es/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_es');
+    Route::get('/es/kontakt', [\App\Http\Controllers\HomeController::class, "contact"])->name('contact_es');
 //    Route::post('/es/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_es');
 
 // ======================================================================================================
@@ -144,7 +144,7 @@ Route::prefix('pl')->group(function() {
 
     Route::get('/onas-iboga-polska/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_pl');
     Route::get('/onas-iboga-polska/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_pl');
-    Route::get('/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_pl');
+    Route::get('/kontakt', [\App\Http\Controllers\HomeController::class, "contact"])->name('contact_pl');
 //    Route::post('/pl/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_pl');
 });
 // ======================================================================================================
@@ -166,7 +166,7 @@ Route::get('/de/iboga-schamanische-heilungszeremonien-europa/termine-und-preise-
 
 Route::get('/de/uber-uns-iboga-deutschland/nganga-iboga-spirituelle-heilerin-deutschland', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_de');
 Route::get('/de/uber-uns-iboga-deutschland/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_de');
-Route::get('/de/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_de');
+Route::get('/de/kontakt', [\App\Http\Controllers\HomeController::class, "contact"])->name('contact_de');
 //Route::post('/de/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_de');
 
 // ======================================================================================================
@@ -188,7 +188,7 @@ Route::get('/fr/zeremonien/terminy-a-ceny', [\App\Http\Controllers\CeremoniesCon
 
 Route::get('/fr/onas/nganga', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_fr');
 Route::get('/fr/onas/moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_fr');
-Route::get('/fr/kontakt', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_fr');
+Route::get('/fr/kontakt', [\App\Http\Controllers\HomeController::class, "contact"])->name('contact_fr');
 //Route::post('/fr/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_fr');
 
 
@@ -211,7 +211,7 @@ Route::get('/it/cerimonie-di-guarigione-sciamanica-iboga-europa-repubblica-ceca/
 
 Route::get('/it/chi-siamo/nganga-iboga-guaritore-spirituale', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_it');
 Route::get('/it/chi-siamo/bwiti-sciamano-guaritore-e-insegnante-moughenda', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_it');
-Route::get('/it/contattare-european-iboga-healer', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_it');
+Route::get('/it/contattare-european-iboga-healer', [\App\Http\Controllers\HomeController::class, "contact"])->name('contact_it');
 //Route::post('/it/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_it');
 
 // ======================================================================================================
@@ -234,5 +234,5 @@ Route::get('/ru/церемонии/срок-службы', [\App\Http\Controller
 
 Route::get('/ru/о-нас/Нганга-духовный-целитель-растение-медицина', [\App\Http\Controllers\HomeController::class, "nganga"])->name('about-nganga_ru');
 Route::get('/ru/о-на/бвити-шаман-мохенда', [\App\Http\Controllers\HomeController::class, "moughenda"])->name('about-moughenda_ru');
-Route::get('/ru/контакт', [\App\Http\Controllers\HomeController::class, "kontakt"])->name('contact_ru');
+Route::get('/ru/контакт', [\App\Http\Controllers\HomeController::class, "contact"])->name('contact_ru');
 //Route::post('/ru/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contactus')->name('contact-post_ru');

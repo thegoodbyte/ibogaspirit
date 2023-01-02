@@ -379,9 +379,9 @@ return [
                     ],
                     'note' => [
                         'par'=> 'POZNÁMKA: Moje doporučení je nedělat žádnou jinou rostlinnou medicínu po léčbě Ibogou.
-                                Pokud máte v plánu užívat jiné  rostlinné mediciny, dejte si alespoň pár měsíců
+                                Pokud máte v plánu užívat jiné  rostlinné medicíny, dejte si alespoň pár měsíců
                                 na obnovení a integraci vašich zkušeností z Ibogy. Tento mocný rostlinný duch vám bude dále poskytovat léčivé měsíce
-                                po ceremonii Ibogy. Užívání jinych medicín může tento proces narušit. Mnoho lidí uvádí vysokou úroveň
+                                po vaší ceremonii Ibogy. Užívání jiných rostlinných medicín může tento proces narušit. Mnoho lidí také uvádí vysokou úroveň
                                 citlivosti na jiné psychoaktivní léky po ceremonii ibogy. Buďte opatrní zejména u
                                 užívání rekreačních psychoaktivních rostlin.',
                     ]

@@ -2,7 +2,7 @@
 @section('content')
 <div class = "container-fluid" id = "medical-quidelines-container">
     <div class = "row" id = "img-box-top-med-guidelines">
-        <h1 class = "font-just-me font-size-80"><?php echo __('pages/ceremonies/medical-guidelines.content.title'); ?></h1>
+        <h1 class = "font-just-me h1-heading color-iscz-green text-center"><?php echo __('pages/ceremonies/medical-guidelines.content.title'); ?></h1>
         <blockquote><?php echo __('pages/ceremonies/medical-guidelines.content.quote'); ?></blockquote>
     </div>
 
@@ -134,7 +134,7 @@
             <div class = "row">
                 <div class = "col-xl-12">
                     <p><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.pars.0'); ?></p>
-                    <h3 class = "font-just-me font-size-40"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.detox_warning'); ?></h3>
+                    <h3 class = "h3-heading color-iscz-red"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.detox_warning'); ?></h3>
                     <p>
                         <?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.pars.1'); ?>
                     </p>
@@ -152,16 +152,16 @@
                         <h3 class = "font-just-me font-size-30"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.list_title'); ?></h3>
                         <ul>
                             <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.0'); ?></li>
-                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.1'); ?><</li>
-                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.2'); ?><</li>
-                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.3'); ?><</li>
-                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.4'); ?><</li>
-                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.5'); ?><</li>
-                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.6'); ?><</li>
-                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.7'); ?><</li>
-                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.8'); ?><</li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.1'); ?></li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.2'); ?></li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.3'); ?></li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.4'); ?></li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.5'); ?></li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.6'); ?></li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.7'); ?></li>
+                            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.items.8'); ?></li>
                         </ul>
-                        <h3 style = "color:darkred;"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.abstinence_period'); ?><</h3>
+                        <h3 style = "color:darkred;"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.drugs.drugs_to_avoid.abstinence_period'); ?></h3>
                     </div>
 
                     <div class = "col-xl-6">
@@ -175,9 +175,9 @@
 
 
     <!-- ---------------- SECTION Psychological --------------------------------->
-    <section class = "medical-guidelines-psychological">
+    <section class = "medical-guidelines-psychological mt-5">
         <div class = "row">
-            <h3 class = "font-just-me font-size-60"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.psychology.title'); ?></h3>
+            <h2 class = "font-just-me h2-heading color-iscz-green text-center"><?php echo __('pages/ceremonies/medical-guidelines.content.sections.psychology.title'); ?></h2>
             <p>
                 <?php echo __('pages/ceremonies/medical-guidelines.content.sections.psychology.pars.0'); ?>
             </p>
@@ -196,7 +196,7 @@
                 src = "/images/medical-guidelines/medical-psychological-narrow.jpeg" />
         </div>
 
-        <div class = "row background-text-light-grey" >
+        <div class = "row background-text-light-grey">
             <div class = "col-xl-6">
                 <p>
                     <?php echo __('pages/ceremonies/medical-guidelines.content.sections.psychology.pars.1'); ?>
@@ -227,14 +227,10 @@
 
 <section>
     <div class = "row">
-        <p>
-            <!--
-        Who Should Not Take Iboga
-        Iboga use can be dangerous if you have the following conditions:
-            -->
-            <h5><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.title'); ?></h5>
-            <?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.par'); ?>
-        </p>
+
+        <div class = "col-xl-12">
+
+        </div>
             <!--
         Seizures/ Epilepsy
         Cardiac issues (arrhythmias, abnormal heart rate, bradycardia, prolonged QT interval, embolism, history of
@@ -244,27 +240,54 @@
         Pregnancy
         Please let your facilitator know if you:
             -->
-        <ul>
-            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.0'); ?></li>
-            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.1'); ?></li>
-            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.2'); ?></li>
-            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.3'); ?></li>
-            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.4'); ?></li>
-            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.5'); ?></li>
-            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.6'); ?></li>
 
-            <!--
-            Are currently on SSRI or MAOI medications
-            have history of mania (as this sacrament can precipitate manic symptoms)
-            have active panic attacks
-            have neurological or cardiac/heart conditions
-            -->
 
-            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.7'); ?></li>
-            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.8'); ?></li>
-            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.9'); ?></li>
-            <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.10'); ?></li>
-        </ul>
+        <div class = "col-xl-6 col-xs-12">
+            <p>
+                    <!--
+                Who Should Not Take Iboga
+                Iboga use can be dangerous if you have the following conditions:
+                    -->
+                <h5><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.title'); ?></h5>
+                <?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.par'); ?>
+            </p>
+            <ul>
+                <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.0'); ?></li>
+                <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.1'); ?></li>
+                <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.2'); ?></li>
+                <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.3'); ?></li>
+                <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.4'); ?></li>
+                <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.5'); ?></li>
+                <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.6'); ?></li>
+
+                <!--
+                Are currently on SSRI or MAOI medications
+                have history of mania (as this sacrament can precipitate manic symptoms)
+                have active panic attacks
+                have neurological or cardiac/heart conditions
+                -->
+
+                <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.7'); ?></li>
+                <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.8'); ?></li>
+                <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.9'); ?></li>
+                <li><?php echo __('pages/ceremonies/medical-guidelines.content.sections.who_should_not.items.10'); ?></li>
+            </ul>
+        </div>
+
+        <div class = "col-xl-6 col-xs-12">
+            <img
+                srcset = "/images/medical-guidelines/doctor-hand-stop-400w.jpg 400px,
+                          /images//medical-guidelines/doctor-hand-stop-600w.jpg 600px,
+                          /images//medical-guidelines/doctor-hand-stop-600w.jpg 900px"
+                sizes = "(max-width: 400px) 400px,
+                (min-width: 401px and max-width: 600px) 600px,
+                (min-width: 601px and max-width: 900px) 900px,
+                (min-width: 901px) 1200px "
+
+                src="/images/medical-guidelines/doctor-hand-stop-600w.jpg"
+                alt=""
+            />
+        </div>
 
     </div>
 </section>
