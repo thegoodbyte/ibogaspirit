@@ -9,7 +9,7 @@
 <!-- FROM SASS -->
 <link rel="stylesheet" href="/css/generic.css">
 <link rel="stylesheet" href="/css/homepage.css">
-<link rel="stylesheet" href="/css/cookie-consent.css">
+
 <link rel="stylesheet" href="/css/carousel.css">
 <link rel="stylesheet" href="/css/menu.css">
 
@@ -38,10 +38,13 @@
 
 
 <link rel="stylesheet"  href="/css/menu.css" type="text/css" media="all">
+<link rel="stylesheet"  href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@v2.8.9/dist/cookieconsent.css" type="text/css" media="all">
+
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
 
 <link href="/css/carousel.css" rel="stylesheet">
+
 
 <script
     src="https://code.jquery.com/jquery-3.6.1.min.js"

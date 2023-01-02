@@ -12,7 +12,7 @@ return  [
     'content' => [
         'slider' => [
             'slide_1' => [
-                'title' => 'TRADIČNÍ IBOGA OBŘADY V AFRICKÉ TRADICI MISSOKO BWITI',
+                'title' => 'TRADIČNÍ IBOGA CEREMONIE V AFRICKÉ TRADICI MISSOKO BWITI',
                 'par' => 'Poskytuji tradiční <a href = "' . $links['iboga-bwiti-tradition'] . '">Bwiti</a> léčebné obřady Ibogy, jak mě učil v
                         Gabonu <a href = "' . $links['about-moughenda'] . '">šaman Moughenda 10. generace'
             ],
@@ -33,7 +33,7 @@ return  [
                 vyřešit všechny tvoje problémy – úzkost, deprese, PTSD,
                 sebevražedné myšlenky, celoživotní traumata, dokonce i najít příčinu tvého fyzického onemocnění.',
 
-                1 => 'Poskytuji <a href = "{{ route(\'ceremonies-retreat_cz\') }}">týdenní Bwiti Iboga pobyty</a> v
+                1 => 'Poskytuji <a href = "' . $links['ceremonies-retreat'] . '">týdenní Bwiti Iboga pobyty</a> v
                 České republice se dvěma  Iboga ceremoniemi, Bwiti moudrost nabízené a prováděné v
                 tisícileté a originální africké tradici <a href = "' . $links['iboga-bwiti-tradition'] . '">Missoko Bwiti</a>.',
 
@@ -42,16 +42,11 @@ return  [
                 lidé spolupracují s Ibogou již po tisíce let a rozvinuli
                 léčebnou tradici, kde je bezpečnost na prvním místě. Toto je ta tradice, kterou praktikuji.',
             ],
-            'par_quote' => 'S Ibogou můžete vyléčit celoživotní trauma během jedné noci, pokud jste připraveni přinést pravdu do své mysli'
+            'par_quote' => 'S Ibogou můžeš vyléčit celoživotní trauma během jedné noci, pokud jseš připraven přinést pravdu do své mysli'
         ],
         'section_2_iboga' =>[
             'title' => 'IBOGA MEDICÍNA A BWITI UČENÍ',
-            'par' => 'Šamanské léčení a učení k léčbě jakékoliv mentální, duševní nebo fyzické nemoci. Vydejte se na cestu sebepoznání
-            a osvoboďte se z pout ega a mysli. Utěšte svou duši a žijte šťastný život. Jeden týdenní pobyt s dvěma obřady Ibogy může změnit
-            tvůj život k lepšímu. Už žádné nešťastné smutné nebo popletené ty - jen nový a krásný život před tebou, A užívání si ho naplno.<br />
-            <!-- IBOGA MEDICÍNA  MŮŽE VYLÉČIT KAŽDÉ DUŠEVNÍ TRAUMA
-            TÍM ŽE NÁS PŘIVEDE KE KOŘENŮM PROBLÉMU A UKÁŽE NÁM, JAK SE S NÍM SMÍŘIT A ZÁROVEŇ NÁS VYLÉČÍ.
-            JE TO SKUTEČNÝ ZÁZRAK – ZNOVUROZENÍ -->'
+            'par' => 'Iboga medicína and Bwiti učení jdou spolu ruka v ruce. '
         ],
         // TOD): add to do page
         'what_iboga_does' => [

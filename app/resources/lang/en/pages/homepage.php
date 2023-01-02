@@ -1,4 +1,12 @@
 <?php
+$locale = session('applocale') ?? 'cz';
+$links = [
+    'iboga-bwiti-tradition' => route('iboga-bwiti-tradition_' . $locale),
+    'iboga-what-is' => route('iboga-what-is_' . $locale),
+    'ceremonies-retreat' => route('ceremonies-retreat_' . $locale),
+    'about-moughenda' => route('about-moughenda_' . $locale),
+];
+
 
 return  [
     'content' => [
@@ -20,13 +28,13 @@ return  [
         'index' => [
             'pars' => [
                 0 => 'If you have been living an unhappy life until now and you are tired of the way things are, there is an opportunity to change your life with this
-                 amazing plant medicine from Africa - <a href = "/iboga/what-is-iboga">Iboga</a>. He can literally overnight
+                 amazing plant medicine from Africa - <a href = "' . $links['iboga-what-is'] . '">Iboga</a>. He can literally overnight
                  solve all your problems - anxiety, depression, PTSD,
                  suicidal thoughts, lifelong traumas, even finding the cause of your physical illness.',
 
-                1 => 'I provide <a href = "{{ route(\'ceremonies-retreat_cz\') }}">week long Iboga retreats</a> in
+                1 => 'I provide <a href = "' . $links['ceremonies-retreat'] . '">week long Iboga retreats</a> in
                   Czech Republic, inlcuding two Iboga ceremonies offered and performed in the long-standing
-                 the thousand-year-old and original African tradition <a href = "/iboga/bwiti-tradice">Missoko Bwiti</a>.',
+                 the thousand-year-old and original African tradition <a href = "' . $links['iboga-bwiti-tradition'] . '">Missoko Bwiti</a>.',
 
                 2 => 'You are probably thinking - Africa? isn\'t it the continent of great diseases? Is it even safe?
                  I can assure you that Africa is a wonderful continent full of life and love - after all, Africa is where life comes from. Bwiti
@@ -86,7 +94,7 @@ return  [
                 discover the love and peace your sould has for you',
             ],
             'right' => [
-                'title' => 'IBOGA MEDICNE',
+                'title' => 'IBOGA MEDICINE',
                 'list_items' => [
                     0 => 'What is IBOGA medicine',
                     1 => 'How Iboga can help you',
@@ -121,7 +129,7 @@ return  [
                     'bottom' => 'I am a Czech native of Western guilds, living in North America for over 20 years.
                     I studied the safe provision of Iboga medicine and Bwiti teaching and healing in Gabon, Central West Africa,
                     with the 10th generation shaman Moughenda Mikala. I learned a traditional thousand-year-old practice in Missoko Bwiti.
-                    I work internationally ... currently in Cancun, Mexico at <a href = "www.bwitilife.com">Bwitilife.com</a>'
+                    I work internationally ... currently in Cancun, Mexico at <a title = "Iboga Bwiti Center Mexico" target = "_blank" href = "www.bwitilife.com">Bwitilife.com</a>'
                 ]
             ],
             'col_3' => [

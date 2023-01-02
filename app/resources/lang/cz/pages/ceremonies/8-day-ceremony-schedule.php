@@ -38,7 +38,7 @@ return [
                     2 => 'DVĚ CEREMONIE IBOGY, VČETNĚ DETOXU A PSYCHO - DUCHOVNÍ POUTĚ',
                     3 => 'TRADIČNĚ VYŠKOLENÝ POSKYTOVATEL IBOGY ZAČNĚNÝ V TRADICI BWITI',
                     4 => 'INTEGRACE / PORADENSTVÍ INDIVIDUÁLNÍ PODPORY',
-                    5 => 'PŘED A PO IBOGA PYBYTU TELEFONNÍ ROZHOVORY',
+                    5 => 'PŘED A PO IBOGA POBYTU TELEFONNÍ ROZHOVORY',
                     6 => 'KRÁSNÉ UBYTOVÁNÍ SE SOUKROMÝM POKOJEM',
                     7 => 'ZDRAVÁ JÍDLA zahrnujÍcÍ většinu diet.',
                     8 => 'TRADIČNĚ PŘIPRAVOVANÁ A SLAVNOSTNĚ SKLIZENÁ IBOGA',

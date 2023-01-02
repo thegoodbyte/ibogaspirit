@@ -20,7 +20,7 @@ mix.js('resources/js/cookies.js', 'public/js');
 
 mix.sass('resources/sass/homepage.scss', 'public/css');
 mix.sass('resources/sass/generic.scss', 'public/css');
-//mix.sass('resources/sass/cookie-consent.scss', 'public/css');
+
 mix.sass('resources/sass/carousel.scss', 'public/css');
 mix.sass('resources/sass/menu.scss', 'public/css');
 // iboga
