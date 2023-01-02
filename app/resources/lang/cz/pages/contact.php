@@ -2,25 +2,25 @@
 
     return [
         'content' => [
-            'title' => 'Kontakt - napište mi!',
+            'title' => 'Kontakt - napiš mi!',
             'form' => [
                 'labels' => [
                     'full_name' => 'Plné jméno',
                     'email' => 'E-Mail',
                     'message' => 'Zpráva',
-                    'send' => 'send'
+                    'send' => 'Odeslat'
                 ],
                 'error_messages' => [
-                    'full_name' => 'The fullname field is required.',
-                    'email' => 'The email field is required.',
-                    'message' => 'ZThe message field is required.',
+                    'full_name' => 'Napiš prosím celé jméno.',
+                    'email' => 'Napiš prosím platný email.',
+                    'message' => 'Zpráva je povinná',
                 ]
             ],
             'pars' => [
-                'call' => 'Zavolejte mi',
-                'whatsapp' => 'Neváhejte se mnou chatovat přes Whatsapp s jakýmikoli dotazy, které byste mohli mít. Rád na ně odpovím',
-                'appointment' => 'Pokud máte nějaké dotazy nebo jste připraveni si zarezervovat své místo v
-                        některém z nadcházejících pobytů - klikněte na odkaz níže a naplánujte si schůzku.'
+                'call' => 'Zavolej mi',
+                'whatsapp' => 'Neváhej se mnou chatovat přes Whatsapp s jakýmikoli dotazy, které máš. Rád na ně odpovím',
+                'appointment' => 'Pokud máš nějaké dotazy nebo jsi připraven/a si zarezervovat své místo v
+                        některém z nadcházejících pobytů - klikni prosím na odkaz níže a naplánuj si schůzku.'
             ]
         ]
     ];

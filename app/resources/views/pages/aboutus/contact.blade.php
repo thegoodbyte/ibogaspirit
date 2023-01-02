@@ -4,7 +4,7 @@
 
     <div class = "row page-header-bg" id = "iboga-index-page-header"></div>
 
-    <h1 class = "font-just-me color-iscz-red h1-heading text-center"><?php echo __('pages/contact.content.title');?>HH</h1>
+    <h1 class = "font-just-me color-iscz-red h1-heading text-center"><?php echo __('pages/contact.content.title');?></h1>
 
     @if(session('message'))
         <div class='alert alert-success'>
@@ -110,7 +110,9 @@
             <div class = "row mt-5 col-xs-12">
                 <p>
                     <?php echo __('pages/contact.content.pars.appointment');?></p>
-                <a href = "https://calendly.com/ibogaspiritcz/30min"><img src = "/images/misc/book-appt-czech.png" /></a>
+                <a href = "https://calendly.com/ibogaspiritcz/30min">
+                    <img src = "/images/buttons/contact/contact_appt-{{ $applocale }}.png" />
+                </a>
             </div>
         </div>
 
