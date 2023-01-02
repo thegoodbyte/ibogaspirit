@@ -36,10 +36,10 @@
                 <div class = "col-xl-2">
 
                     <ul>
-                        <li><a href="/onas"><?php echo __('menu.menu_ceremonies.about_us.title'); ?></a></li>
+                        <li><a href="{{ route('about-nganga_'   . $applocale) }}"><?php echo __('menu.menu_ceremonies.about_us.title'); ?></a></li>
                         <li><hr /></li>
-                        <li><a href="{{ route('about-nganga_cz') }}"><?php echo __('menu.menu_ceremonies.about_us.nganga'); ?></a></li>
-                        <li><a href="{{ route('about-moughenda_cz') }}"><?php echo __('menu.menu_ceremonies.about_us.moughenda'); ?></a></li>
+                        <li><a href="{{ route('about-nganga_'  . $applocale) }}" title = ""><?php echo __('menu.menu_ceremonies.about_us.nganga'); ?></a></li>
+                        <li><a href="{{ route('about-moughenda_'  . $applocale) }}" title = ""><?php echo __('menu.menu_ceremonies.about_us.moughenda'); ?></a></li>
 
                     </ul>
                 </div>
@@ -47,12 +47,13 @@
                 <div class = "col-xl-2">
                     <ul>
 
-                        <li><a href="{{ route('ceremonies-first-ceremony_cz') }}"><?php echo __('menu.menu_ceremonies.contact'); ?></a></li>
+                        <li><a href="{{ route('ceremonies-first-ceremony_'  . $applocale) }}" title = "iboga retreats europe"><?php echo __('menu.menu_ceremonies.contact'); ?></a></li>
                         <li><hr /></li>
-                        <li>Volejte zdarma:</li>
-                        <li><strong><a href = "tel:8334264229"><img src = "/images/icons/phone-round-white-20w.png"> &nbsp;833 IBOGACZ</a> <br />(833-426-4229)</strong></li>
-                        <li>Mobil</li>
-                        <li><a href = "tel:+420234717595">+420 234-717-595</a></li>
+                        <li><img src = "/images/icons/phone-round-white-20w.png" alt = "iboga retreats europe" /> <?php echo __('menu.texts.footer.call_free'); ?> </li>
+                        <li><a href = "tel:8334264229" title = "iboga retreats europe"> &nbsp;<strong>833 IBOGACZ</strong></a></li>
+                        <li><a href = "tel:8334264229" title = "iboga retreats europe"><strong>(833-426-4229)</strong></a></li>
+                        <li><?php echo __('menu.texts.footer.cell'); ?></li>
+                        <li><a href = "tel:+420234717595" title = "iboga retreats europe">+420 234-717-595</a></li>
 
                     </ul>
                 </div>

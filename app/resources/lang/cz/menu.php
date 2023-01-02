@@ -29,7 +29,8 @@ return [
     ],
     'texts' => [
         'footer' => [
-            'call_free' => 'Volejte zdarma'
+            'call_free' => 'Volejte zdarma',
+            'cel' => 'Mobile: ',
         ]
     ]
 ];

@@ -12,19 +12,17 @@
                         $applocale = session('applocale') ?? 'cz';
                     @endphp
 
-                    @if (session('applocale'))
-                    {{ session('applocale') }}
-                    @endif
+
                         @if (session('applocale') == 'cz' || (empty (session('applocale'))))
-                            <span class = "active">česky</span> |
+                            <span class = "active">česky <img src = "/images/icons/flags/cz.png"/></span> |
                         @else
-                            <a href = "/set-language/cz">česky</a> |
+                            <a href = "/set-language/cz">česky <img src = "/images/icons/flags/cz.png"/></a> |
                         @endif
                     {{-- ====================================================== --}}
                         @if (session('applocale') == 'en')
-                            <span class = "active">english</span> |
+                            <span class = "active">english <img src = "/images/icons/flags/us.png"/></span> |
                         @else
-                            <a href = "/set-language/en">english</a> |
+                            <a href = "/set-language/en">english <img src = "/images/icons/flags/us.png"/></a> |
                         @endif
                     {{-- ====================================================== --}}
 {{--                        @if (session('applocale') == 'de')--}}

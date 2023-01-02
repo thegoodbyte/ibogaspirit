@@ -29,7 +29,8 @@ return [
     ],
     'texts' => [
         'footer' => [
-            'call_free' => 'Call toll free'
+            'call_free' => 'Call Toll Free',
+            'cel' => 'Cell: ',
         ]
     ]
 ];

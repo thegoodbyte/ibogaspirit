@@ -79,9 +79,11 @@ return  [
         'section_get_to_know' => [
             'left' => [
                 'title' => 'GET TO KNOW<br/>YOUR TRUE SELF ...',
-                'par' => 'knowing who you truly are is the most important part of knowing.
-                    Once you know who you are - you can make the right decisions for yourself and enjoy happy and fullfilling life.
-                    Learn more how we can help you to achieve this.',
+                'par' => 'To know who you really are is the real holly grail  of life. You can enjoy your life to the fullest
+                and make the right choices for yourself that lead to happy life. With Iboga medicine and proper Bwiti Ceremony ,
+                You can heal years long sense of guilt, anger, mind confusion or  any mental condition within the first ceremony
+                by meeting your soul and repairing your relationship with yourself. Free yourself from the negativity of your mind and
+                discover the love and peace your sould has for you',
             ],
             'right' => [
                 'title' => 'IBOGA MEDICNE',
