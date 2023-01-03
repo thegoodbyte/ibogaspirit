@@ -130,7 +130,12 @@ if ($applocale == 'cz') $applocale = 'cs';
 <a href="#" id="open_preferences_center">Update cookies preferences</a>
 
 
-
+{{--<script--}}
+{{--    type="text/javascript"--}}
+{{--    src="https://app.termly.io/embed.min.js"--}}
+{{--    data-auto-block="on"--}}
+{{--    data-website-uuid="9626e32b-69dd-4f7d-9322-6eb6ed57d36e"--}}
+{{--></script>--}}
 
 
 </body>

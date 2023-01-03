@@ -14,15 +14,15 @@
 
 
                         @if (session('applocale') == 'cz' || (empty (session('applocale'))))
-                            <span class = "active">česky <img src = "/images/icons/flags/cz.png"/></span> |
+                            <span class = "active">česky <img alt= ""  src = "/images/icons/flags/cz.png"/></span> |
                         @else
-                            <a href = "/set-language/cz">česky <img src = "/images/icons/flags/cz.png"/></a> |
+                            <a href = "/set-language/cz">česky <img  alt= "" src = "/images/icons/flags/cz.png"/></a> |
                         @endif
                     {{-- ====================================================== --}}
                         @if (session('applocale') == 'en')
-                            <span class = "active">english <img src = "/images/icons/flags/us.png"/></span> |
+                            <span class = "active">english <img  alt= "" src = "/images/icons/flags/us.png"/></span> |
                         @else
-                            <a href = "/set-language/en">english <img src = "/images/icons/flags/us.png"/></a> |
+                            <a href = "/set-language/en">english <img  alt= "" src = "/images/icons/flags/us.png"/></a> |
                         @endif
                     {{-- ====================================================== --}}
 {{--                        @if (session('applocale') == 'de')--}}

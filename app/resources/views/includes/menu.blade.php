@@ -4,7 +4,7 @@
             <div>
                 <div class="">
                     <a href="/" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky. Alternativní holistické léčení">
-                        <img src="/images/logo.png" class="" alt="Iboga povodňové dávky ceremonie - Czech Republic" width="305" height="76">
+                        <img src="/images/logo.png" class="" id=  logo"" alt="Iboga povodňové dávky ceremonie - Czech Republic" width="305" height="76">
                     </a>
                 </div>
             </div>
@@ -17,7 +17,7 @@
     </div>
     @php
         $applocale = session('applocale') ?? 'cz';
-
+        echo $applocale;
     @endphp
 
 

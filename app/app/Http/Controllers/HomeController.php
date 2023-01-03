@@ -21,7 +21,7 @@ class HomeController extends Controller
 
     public function index() {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.home.index',
             [
@@ -57,7 +57,7 @@ class HomeController extends Controller
         if (empty(session('applocale'))) {
             session(['applocale' => 'cz']);
         }
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.aboutus.nganga',
             [
@@ -74,7 +74,7 @@ class HomeController extends Controller
 
     public function moughenda() {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.aboutus.moughenda',
             [
@@ -90,7 +90,7 @@ class HomeController extends Controller
         if (empty(session('applocale'))) {
             session(['applocale' => 'cz']);
         }
-        $applocale = session('applocale');
+        $applocale = session('applocale' ?? 'cz');
 
 
         return View::make('pages.aboutus.contact',
@@ -101,7 +101,26 @@ class HomeController extends Controller
                 'applocale' => $applocale
             ]
 
-    );
+        );
+
+    }
+
+    public function privacy_policy() {
+        if (empty(session('applocale'))) {
+            session(['applocale' => 'cz']);
+        }
+        $applocale = session('applocale') ?? 'cz';
+
+
+        return View::make('pages.home.privacy_policy',
+            [
+                'pageTitle' => __('seo/privacy_policy.seo.title'),
+                'metaDesc' => __('seo/privacy_policy.seo.metaDesc'),
+                'metaKws' => __('seo/privacy_policy.seo.metaKws'),
+                'applocale' => $applocale
+            ]
+
+        );
 
     }
 
@@ -122,7 +141,12 @@ class HomeController extends Controller
 
 
     public function setLanguage($lang) {
-        session(['applocale' => $lang]);
+
+        if (in_array($lang, ['cz', 'en'])) {
+            session(['applocale' => $lang]);
+        } else {
+            $lang = session('applocale') ?? 'cz';
+        }
         return redirect()->route('home_' . $lang);
     }
 

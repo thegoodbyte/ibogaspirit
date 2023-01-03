@@ -13,7 +13,7 @@ class CeremoniesController extends Controller
 
     public function preparation() {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.ceremonies.preparation',
             [
@@ -30,7 +30,7 @@ class CeremoniesController extends Controller
 
     public function medical_guidelines() {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.ceremonies.medical_guidelines',
             [
@@ -47,7 +47,7 @@ class CeremoniesController extends Controller
 
     public function vase_prvni_ceremonie() {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.ceremonies.pobyt',
             [
@@ -61,7 +61,7 @@ class CeremoniesController extends Controller
 
     public function eight_day_retreat() {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
 
         return View::make('pages.ceremonies.8-day-retreat',
@@ -75,7 +75,7 @@ class CeremoniesController extends Controller
 
     public function your_first_ceremony() {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.ceremonies.your-first-ceremony',
             [
@@ -89,7 +89,7 @@ class CeremoniesController extends Controller
 
     public function dates() {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.ceremonies.dates',
             [

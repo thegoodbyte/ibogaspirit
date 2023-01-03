@@ -7,7 +7,7 @@ return [
                 Studoval jsem tradiční
                 léčení Ibogou u šamana 10-té generace přímo v Gabonu ve středozápadní Africe. Pocházím ze Západních Čech - z Rokycanska -
                 ale již přes 20 let bydlím v Severní Americe a praktuji převážně v Mexiku.
-                Nyní nabízím Iboga obřady také u nás v Čechách.',
+                Nyní nabízím Iboga ceremonie také u nás v Čechách.',
         'par_2'=> 'Zamiloval jsem se do tradice Bwiti a Ibogy medicíny protože nás učí naši vnitřní pravdu a
                 jak krásný,  jednoduchý a nekomplikovaný  náš život je a může být.
                 Rostlina Iboga je zároveň léčitelem a učitelem.
@@ -26,7 +26,7 @@ return [
                 Hodně jsem na sobě pracoval - autosugesce, ruzné  toltécké šamanské praktiky, kurzy od Tonyho Robinse,
                 zákon přitažlivosti, věstkyně,  každodenní meditace atd. Pomalu jsem pokračoval
                  ale nikam jsem se nedostával.',
-        'par_4'=> 'Po týdenním pobytu (a dvouch obřadech) to bylo, jako bych to byl nový já  - se všemi svými předchozími vlastnostmi, ale tentokrát lepšími..
+        'par_4'=> 'Po týdenním pobytu (a dvouch ceremoniích) to bylo, jako bych to byl nový já  - se všemi svými předchozími vlastnostmi, ale tentokrát lepšími..
                Navíc jsem se cítil a vypadal jako omlazený.
                 Mé srdce bylo znovu otevřené, nejen k tomu milovat druhé , ale také milovat sám sebe.
                 Nemohl jsem uvěřit, že existuje tak úžasné a jednoduché řešení pro různé komplikované problémy a podmínky',

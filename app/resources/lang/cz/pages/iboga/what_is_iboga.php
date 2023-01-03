@@ -140,11 +140,11 @@ return [
                 díky odvozenému alkaloidu Ibogaine, který se používá především k úspěšnému a trvalému přerušení návykových vzorců chování.
 ',
                 'par_3' => 'Je to mocný učitel posvátných rostlin, který se používá v tradičním šamanském prostředí
-                Bwiti psycho-duchovního obřadu. má schopnost léčit mysl, tělo i duši. Jedná se o středoafrický keřový
+                Bwiti psycho-duchovní ceremoii. Má schopnost léčit mysl, tělo i duši. Jedná se o středoafrický keřový
                 kořen obsahující mnoho aktivních alkaloidů. Kořen rostliny se užívá perorálně a lze jej požívat čerstvý,
                 připravit jej na čaj nebo jej lze užívat ve formě prášku. IBOGA má psychoaktivní vlastnosti a jemně
-                stimuluje nervový systém čištěním/leštěním neurotransmitery, které je vrátí do původního výchozího
-                nastavení – zajistí, že budou správně spouštět a vysílat.',
+                stimuluje nervový systém čištěním/leštěním neurotransmiterů. Vrací je do původního výchozího
+                nastavení, a zajistí, že budou správně fungovat.',
             ],
         ]
     ]

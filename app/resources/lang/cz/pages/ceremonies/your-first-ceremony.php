@@ -6,12 +6,12 @@ return [
             'what_to_expect' => [
                 'title' => 'Co očekávat:',
                 'pars' => [
-                    0 => 'Nejlepší je nemit žádná očekávání před příjezdem na náš iboga retreat.',
-                    1 => 'Ne všichni účastníci budou mít vize, nicméně je důležité pochopit, že iboga je zaměřena na hluboké léčení a ne na „zakopávání“.
+                    0 => 'Nejlepší je nemít žádná očekávání před příjezdem na můj Iboga retreat.',
+                    1 => 'Ne všichni účastníci budou mít vize, nicméně je důležité pochopit, že Iboga je zaměřena na hluboké léčení a ne na „zakopávání“.
                     Nemít vize ve svém prvním obřadu je velmi běžné, ale vytrvalost, trpělivost a odhodlání často povedou k vizionářským stavům.
-                    Počáteční práce během retreatu Iboga je zaměřena na očistu a pročištění vašeho fyzického těla a mysli,
+                    Počáteční práce během retreatu Ibogy je zaměřena na očistu a pročištění vašeho fyzického těla a mysli,
                     abyste byli připraveni na další fáze vaší cesty duchovního léčení.',
-                    2 => 'Jedno rozumné očekávání je, že můžete projít silnou fyzickou a emocionální očistou se zvracením a/nebo
+                    2 => 'Jedno rozumné očekávání je, že můžeš projít silnou fyzickou a emocionální očistou se zvracením a/nebo
                     možná průjmem. Někteří lidé mají od svých prvních obřadů nerealisticky velká očekávání. Očekávají,
                     že uvidí dechberoucí vize, což je v této rané fázi vzácné, ale může se stát.'
                 ]
@@ -62,19 +62,19 @@ return [
                         poranění mozku, Parkinsonovy choroby, autoimunitních onemocnění a dalších.'
                 ]
             ],
-            'notes' => [
-                'title' => 'Notes',
-                'pars' => [
-                    0 => 'Furthermore, the main requirement for a successful Iboga experience is a willingness to heal by accepting the truth and
-                         letting go. This is a major indicator of when someone is ready; if so, they will experience a powerful healing',
-                    1 => 'In the Bwiti tradition, Iboga is for everyone and is used in "initiations" or coming-of-age ceremonies that unite
-                         boys and girls with the tradition and community. Initiations help to root them in themselves and ensure a healthy adult life.
-                         They will also have ceremonies again when people have strayed from the healthy path and need to mend their lives or somehow heal themselves.',
-                    2 => 'As true to our tradition, we believe that all people can benefit from the Iboga ceremony. We usually work with people
-                         who need healing from depression, anxiety, ptsd, trauma, addictions, self-hatred, anger, traumatic
-                         brain injury, Parkinson\'s disease, autoimmune diseases and others.'
-                 ]
-             ],
+//            'notes' => [
+//                'title' => 'Notes',
+//                'pars' => [
+//                    0 => 'Furthermore, the main requirement for a successful Iboga experience is a willingness to heal by accepting the truth and
+//                         letting go. This is a major indicator of when someone is ready; if so, they will experience a powerful healing',
+//                    1 => 'In the Bwiti tradition, Iboga is for everyone and is used in "initiations" or coming-of-age ceremonies that unite
+//                         boys and girls with the tradition and community. Initiations help to root them in themselves and ensure a healthy adult life.
+//                         They will also have ceremonies again when people have strayed from the healthy path and need to mend their lives or somehow heal themselves.',
+//                    2 => 'As true to our tradition, we believe that all people can benefit from the Iboga ceremony. We usually work with people
+//                         who need healing from depression, anxiety, ptsd, trauma, addictions, self-hatred, anger, traumatic
+//                         brain injury, Parkinson\'s disease, autoimmune diseases and others.'
+//                 ]
+//             ],
             'faq' => [
                 'title' => 'Časté otázky - F.A.Q.',
                 'questions' => [

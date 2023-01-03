@@ -48,6 +48,7 @@ use Illuminate\Support\Facades\Route;
 /**
  * seo cZ Links
  */
+
 Route::get('/', [\App\Http\Controllers\HomeController::class, "index"])->name('home_cz');
 Route::get('/iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_cz');
 Route::get('/iboga/co-je-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_cz');
@@ -70,14 +71,13 @@ Route::get('/kontakt', [\App\Http\Controllers\HomeController::class, "contact"])
 Route::post('/contactus', [\App\Http\Controllers\HomeController::class ,'mailContactForm'])->name('contact-post');
 Route::get('/set-language/{lang}',  [\App\Http\Controllers\HomeController::class, 'setLanguage'])->name('set.language');
 Route::get('/cookies',  [\App\Http\Controllers\HomeController::class, 'cookies'])->name('cookies');
+Route::get('/privacy-policy',  [\App\Http\Controllers\HomeController::class, 'cookies'])->name('privacy_policy');
 
     // ======================================================================================================
     //         ENGLISH
     // =====================================================================================================
 Route::prefix('en')->group(function() {
-//    $applocale = 'en';
-//    session(['applocale' => 'en']);
-    Session::put('applocale', 'en');
+
     Route::get('/', [\App\Http\Controllers\HomeController::class, "index_en"])->name('home_en');
     Route::get('/iboga-europe-czech-republic', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga_en');
     Route::get('/iboga-europe-czech-republic/what-is-iboga', [\App\Http\Controllers\IbogaController::class, "what_is_iboga"])->name('iboga-what-is_en');

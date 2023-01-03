@@ -105,15 +105,15 @@ return [
                                 Retreaty Ibogy by měly být klidným, introspektivním časem. Aby bylo umožněno maximální uzdravení, toto
                                 znamená omezení nebo odstranění rušivých vlivů. Cestovní výlety a dobrodružství si uložte před nebo po vašem retreatu.
                                 Po cestě plynou poznatky volně. Jediný způsob, jak naslouchat své duši a pozorovat hloubku léčení
-                                je přijmout ticho. Někdy lidé mají nejmocnější realizace den po obřadu.
-                                Po cestě je důležitéwebphpnepoužívat počítače, telefony, knihy ani jiné rušivé prvky. Naše životy jsou tak zaneprázdněné.
-                                Zvolte „odpojit se“ a zpomalte. Tímto způsobem dostanete od Ibogy mnohem více.',
+                                je přijmout ticho. Někdy lidé mají nejmocnější realizace den po ceremoii (během Dne objevů).
+                                Po cestě 9journey0  je důležité nepoužívat počítače, telefony, knihy ani jiné rušivé prvky. Naše životy jsou tak zaneprázdněné.
+                                Zvolte „odpojit se“ a zpomalte. Tímto způsobem získáte od Ibogy mnohem více.',
                             1 => '<!-- [ENGLISH]
                                 Committing to this spiritual journey and setting our intentions is the beginning. But as our journey approaches,
                                 the mind, sensing imminent demise of its destructive ways, will play tricks and cause us to doubt.
 
                                 -->
-                                Odhodlání se na tuto duchovní cestu a stanovení našich záměrů je začátek. Ale jak se naše cesta blíží,
+                                Odhodlání vydat se na tuto duchovní cestu a stanovení našich záměrů je začátek. Ale jak se naše cesta blíží,
                                 mysl, která cítí bezprostřední zánik svých destruktivních způsobů, bude hrát triky a způsobí, že budeme pochybovat.',
                             2 => '<!-- [ENGLISH]
                                 When these doubtful thoughts come, simply acknowledge them and let them pass. Be aware of the thoughts without
@@ -169,15 +169,15 @@ return [
                 'soul' => [
                     'title' => 'Duše',
                     'pars' => [
-                        0 => 'Jakmile se rozhodnete zúčastnit se obřadu Iboga, duch Ibogy s vámi začne spolupracovat.
-                        Pokud potřebujete finanční pomoc, požádejte o ni Ibogu a Iboga vám ji pomůže uskutečnit.',
-                                1 => 'Meditace je mocný nástroj, jak začít posilovat sval, který zklidní vaši mysl a otočí vás
-                        dovnitř, spojuje vás s vaší duší. Když to uděláte předem, připravíte se na obřad
-                        nejlepší, co můžete udělat, je ztišit svou mysl a sledovat hudbu.',
-                                2 => 'Důvěřujte své duši, pokud cítíte intuitivní volání po léku.',
+                        0 => 'Jakmile se rozhodneš zúčastnit se  Iboga ceremonie, duch Ibogy s tebou začne už spolupracovat.
+                        Pokud potřebuješ finanční pomoc, požádej o ni Ibogu a Iboga ti ji pomůže uskutečnit.',
+                                1 => 'Meditace je mocný nástroj, jak začít posilovat sval, který zklidní tvou mysl a otočí tě
+                        dovnitř, Spojí tě zároven s tvojí duší. Když to uděláš předem, připravíš se na ceremoii
+                        nejlepší, co můžete udělat, je ztišit svou mysl a následovat hudbu.',
+                                2 => 'Důvěřuj své duši, pokud cítíš intuitivní volání po medicíně.',
                                 3 => '<!--
                                 When considering Iboga as a teacher, we must take the first step and ask ourselves, ‘Am I ready?’ -->
-                        Když uvažujeme o Ibogu jako o učiteli, musíme udělat první krok a zeptat se sami
+                        Když uvažujeme o Iboze jako o učiteli, musíme udělat první krok a zeptat se sami
                         sebe: ‚Jsem připraven/a?‘',
                                 4 => '<!--
                         This means that we are willing to look deep inside our soul, to commit to taking back ownership of our minds and our
@@ -189,22 +189,22 @@ return [
 
                     ],
                     'find_time_for_yourself' => [
-                        'title' => 'Najdete čas pro sebe',
+                        'title' => 'Najdie čas sám pro sebe',
                         'par' => '
-                        <strong>Detoxujte svůj mozek</strong> Snižte/eliminujte čas strávený u televize, počítače a sociálních sítí. Skladujeme hodně
+                        <strong>Detoxuj svůj mozek</strong> Sniž / eliminuj čas strávený u televize, počítače a na sociálních sítích. Skladujeme hodně
                         programování v našem podvědomí z těchto zdrojů a čím jasnější jsme – tím méně toho Iboga musí projít
                         než se dostaneme k jádru toho, co od medicíny očekáváme.<br />'
                     ]
                 ],
                 'start_process' => [
-                    'title' => 'Začněte Proces',
+                    'title' => 'Začni Proces',
                     'pars' => ' <!-- [ENGLISH]The changes often begin the moment we make the commitment to work with this medicine. Up to
                         months in advance most notice that life begins to shift. In order to get the most of your experience
                         we suggest some preparation in advance:-->
 
                         Změny často začínají ve chvíli, kdy se zavážeme pracovat s touto medicínou. Už
                         měsíc předem si většina lidi všimne, že se život začíná posouvat.
-                        Doporučuji určitou přípravu předem, abyste ze svých zkušeností získali maximum:',
+                        Doporučuji určitou přípravu předem, abys ze svých zkušeností získal/a maximum:',
 
                     'items' => [
                       'en'  => '  <!-- [ENGLISH]
@@ -217,38 +217,37 @@ return [
                             Help to understand your programming and the subconscious mind
                             -->',
 
-                        0 => 'Prohlédněte si aspekty svého života/chování, které jste připraveni uvolnit',
-                        1 => 'Vyjasněte si to, co chcete léčit',
-                        2 => 'Vytvořte si jasné záměry o tom, co chcete o svém životě zjistit',
-                        3 => 'Dejte pokyny k očistě těla a prostředí kolem vás',
-                        4 => 'Připravte se na trvalé životní změny',
-                        5 => 'Přineste předměty uložené v podvědomí do vědomí, aby byly uvolněny',
-                        6 => 'Pomozte pochopit vaše programování a podvědomí',
+                        0 => 'Prohlédni si aspekty svého života/chování, které jsi připraven uvolnit',
+                        1 => 'Vyjasni si to, co chceš vyléčit',
+                        2 => 'Vytvoř si jasné záměry o tom, co chceš o svém životě zjistit',
+                        3 => 'Dej pokyny k očistě těla a prostředí kolem sebe',
+                        4 => 'Připrav se na trvalé životní změny',
+                        5 => 'Přines předměty uložené v podvědomí do vědomí, aby byly uvolněny',
+                        6 => 'Pomoz pochopit svoje naprogramování a svoje podvědomí',
                     ],
                     'connect_intent' => [
-                        'title' => 'Spojte se se svými záměry',
-                        'par' => 'Ujasněte si, co chcete léčit. Udělejte si sešit a setkejte se s přípravným trenérem, terapeutem popř
-                                léčitelem ktery vam může také pomoci při transformaci a vyjasnění, Muzete tak začít přeměnovat část energie předem
-                                a tim ziskat ještě více z Ibogy medicíny při samotném pobytu.'
+                        'title' => 'Spoj se se svými záměry',
+                        'par' => 'Ujasni si, co chceš vyléčit. Udělej si sešit a setkej se například s přípravným trenérem, terapeutem nebo
+                                léčitelem který ti může také pomoci při transformaci a vyjasnění tvych záměrů, Můžeš tak začít přeměnovat části energie předem
+                                a tím ziskat ještě více z Ibogy medicíny při samotném pobytu.'
                     ],
                     'focus_on_you' => [
-                        'title' => 'Zaměřte se na sebe',
+                        'title' => 'Zaměř se na sebe',
                         'par' => '
-                                – Pokud jste přemýšleli o tom, zda jít na retreat s milovanou osobou či nikoli,
-                                nebo skupina přátel, musíte se během svého retreatu soustředit na vás – ne na ně. Jednoduše řečeno, proces
-                                je vaše a blízcí mohou být více rozptýlením než útěchou. Zaměření se na někoho jiného vam muze
-                                zabránit v přijímání statistik Ibogy. Pokud chcete, obraťte se na našeho ředitele služeb pro hosty
-                                cestovat s milovanou osobou obou nebo skupinou.'
+                                – Pokud jsi přemýšlel/a o tom, zda jít na retreat s milovanou osobou či nikoli,
+                                nebo skupinou přátel, musíš se během svého retreatu soustředit na sebe – ne na ně. Jednoduše řečeno, proces
+                                je tvůj a blízcí mohou být více rozptýlením než útěchou. Zaměření se na někoho jiného ti může
+                                zabránit v přijímání benefitů Ibogy. Pokud chceš, napiš mi a probereme detaily.'
                     ],
                     'ultimately' => [
-                        'title' => 'Nakonec hledáte:',
+                        'title' => 'Koneckoncu hledáš:',
                         'items' => [
-                            0 => 'Vzdát se, být ochoten být otevřený tomu, jak se proces vyvíjí',
-                            1 => 'Pochopte, že cokoliv očekáváme, bude úplně jiné',
-                            2 => 'Buďte otevřeni vstupu do stavu úplné zranitelnosti',
-                            3 => 'Buďte ochotni podívat se na nepříjemné stránky svého života (to jim pomůže projít a vyléčit se)',
+                            0 => 'Odevzdání se. Být ochoten být otevřený tomu, jak se celý proces vyvíjí',
+                            1 => 'Pochop, že cokoliv očekáváme, bude úplně jiné',
+                            2 => 'Buď otevřený/á vstupu do stavu úplné zranitelnosti',
+                            3 => 'Buď ochoten podívat se na nepříjemné stránky svého života (to jim pomůže projít a vyléčit se)',
                             4 => 'Otevři své srdce a svou mysl',
-                            5 => 'Pochopte, že důvěra v medicínu a v nás zvyšuje proces hojení na každé úrovni',
+                            5 => 'Pochop, že důvěra v medicínu a v sebe sama zvyšuje proces hojení na každé úrovni',
                             6 => 'Odhodlání k ceremonii je příležitostí řešit vše, co nám způsobilo utrpení.',
                             7 => 'Zatímco minulost nelze změnit, rozhodnutí uzavřít s ní mír zůstává v naší kontrole, síla není mimo nás!'
                         ]
@@ -258,12 +257,12 @@ return [
                     'title' => 'Příprava otázek pro Ibogu',
                     'pars' => [
                         0 =>'Otázky? Co?',
-                        1=> 'Ano! Jakmile během obřadu požijete dostatek léků, můžete se Ibogy zeptat naprosto na cokoliv.
-                            Iboga vás spojuje s vaší duší, vaší pravdou – kde jsou všechny odpovědi.',
+                        1=> 'Ano! Jakmile během ceremonie požiješ dostatek medicíny, můžeš se Ibogy zeptat naprosto na cokoliv.
+                            Iboga tě spojuje s tvojí duší, tvojí pravdou – tam kde jsou všechny odpovědi.',
 
-                        2 => 'Jakmile dojde k tomuto spojení, meditační praxe doma posílí  váš vztah
-                                    s Ibogou a i s vaší Duší, Aby jste podpořili pravidelné nasloucháni své vlastni intuici,
-                                    důvěřujte si a odpovězte na všechny své otázky – vždy.'
+                        2 => 'Jakmile dojde k tomuto spojení, meditační praxe doma posílí  tvůj vztah
+                                    s Ibogou a i s tvojí Duší, Podpořiš tím pravidelné nasloucháni své vlastni intuici,
+                                    Důvěřuj si a odpověz si na všechny své otázky – vždy.'
                     ],
                     'steps' => [
                         'first_step' => [
@@ -271,7 +270,7 @@ return [
                             'subtitle' => 'Přehled života',
                             'pars' => [
 
-                                0 => 'Při přípravě otázek doporučujeme mit sešit a nakreslit čáru uprostřed stránky.',
+                                0 => 'Při přípravě otázek doporučujeme mít sešit a nakreslit čáru uprostřed stránky.',
 
                                 1 => 'Na levou stranu si zapište všechny věci, které se vám na vašem životě aktuálně nelíbí.',
 

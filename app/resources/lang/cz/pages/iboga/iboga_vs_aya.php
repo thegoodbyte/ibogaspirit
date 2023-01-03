@@ -47,13 +47,13 @@ return [
                     3 => [
                         'title' => 'Brugmansia nebo Datura:',
                         'par' => 'Také známé jako toé nebo maikoa, Brugmansia nebo Datura jsou silné deliranty, které mohou pomoci
-                snížit nevolnost, kinetózu a žaludeční křeče. Jeho hlavním účelem je, aby obřad ayahuasca byl
+                snížit nevolnost, kinetózu a žaludeční křeče. Jeho hlavním účelem je, aby Ayahuasca ceremonie byl
                 pro lidi snadno zvládnutelný.'
                     ],
                     4 => [
                         'title' => 'Nicotiana Rustica:',
                         'par' => 'Nicotiana rustica nebo mapacho nebo rapé je obřadní tabák s vyšším obsahem nikotinu než běžná cigareta.
-                Pomáhá stimulovat krevní oběh, zvyšuje vaši pozornost a pozornost během obřadu. Hlavním účelem je zajistit,
+                Pomáhá stimulovat krevní oběh, zvyšuje vaši pozornost a pozornost během ceremonie. Hlavním účelem je zajistit,
                 abyste byli citliví na psychologické účinky ayahuascy.'
                     ],
                 ]
@@ -131,7 +131,7 @@ return [
 
                 'aya' => 'Ayahuasca: Ayahuasca má dlouhý seznam potravin, léků a dalších činností, kterým se musíte vyhnout. Ve skutečnosti
                 mnoho zkušených šamanů věří, že nejlepší je začít odstraňovat tyto potraviny a léky ze svého jídelníčku již 2-4 týdny
-                před obřadem ayahuascy: Červené maso,
+                před ceremonií ayahuascy: Červené maso,
                           Vepřové maso,
                           Zrající sýry,
                           Jogurt,
@@ -175,27 +175,27 @@ return [
                     'iboga' => 'Iboga: Ceremonie Ibogy trvají 8-12 hodin a její účinky trvají 12-36 hodin. Způsobuje ataxii,
                     která ztěžuje pohyb a můžete se také očistit. I když to není nutné, může to být nezbytnou součástí holistického
                     léčebného procesu, který vede k vyčištění toho, co jste drželi ve svém těle. Na Iboze se s největší
-                    pravděpodobností nevyspíte až následující večer, a proto je den po obřadu ibogy většinou stráven jako „den zpracování“.
-                    Den zpracování je den po obřadu, kdy dochází k hluboké introspekci a vhledům. Tento zážitek ze zpracování může být
-                    často poučnější než samotný obřad.',
+                    pravděpodobností nevyspíte až následující večer, a proto je den po ceremoii Ibogy většinou stráven jako „den zpracování“.
+                    Den zpracování je den po ceremoii, kdy dochází k hluboké introspekci a vhledům. Tento zážitek ze zpracování může být
+                    často poučnější než samotná ceremonie.',
 
                     'aya' => 'Ayahuasca: Průměrná doba trvání ayahuascového sezení je 4-6 hodin. Nastartování trvá 20-60 minut a
                     jeho nejsilnější účinky mohou trvat 3-6 hodin. Často dochází k katarzní očistě energie, jako je průjem,
-                    zvracení, zívání a pláč. Nastává poměrně rychlá doba zotavení, protože po skončení obřadu můžete spát a s
+                    zvracení, zívání a pláč. Nastává poměrně rychlá doba zotavení, protože po skončení ceremonie můžete spát a s
                     největší pravděpodobností se zotavíte do snídaně. Následující den je obvykle naplněn pocitem láskyplného, hřejivého dosvitu.'
                 ],
             ],
             'ceremonies_count' => [
-                'title' => 'Počet požadovaných obřadů: Iboga vs Ayahuasca',
+                'title' => 'Počet požadovaných ceremonií: Iboga vs Ayahuasca',
                 'pars' => [
-                    'aya' => 'Ayahuasca: Ayahuasca obvykle vyžaduje častější obřady, v rozmezí desítek až stovekkrát, aby bylo možné
+                    'aya' => 'Ayahuasca: Ayahuasca obvykle vyžaduje častější ceremonie, v rozmezí desítek až stovekkrát, aby bylo možné
                     zažít trvalé uzdravení. I když je jeho učení hluboké, může někdy rychle vyblednout, a proto vyžaduje důslednou údržbu.
                     Jeho účinky obvykle trvají 1-2 měsíce.',
-                    'iboga' => 'Iboga: Iboga vyžaduje méně obřadů, aby bylo možné zažít dlouhotrvající léčení. Obvykle 1-3krát.
+                    'iboga' => 'Iboga: Iboga vyžaduje méně ceremonií pro zažítí dlouhotrvajícího léčení. Obvykle 1-3krát.
                     Má totiž skvělé a trvalé účinky, které jsou udržitelné po dobu 2 měsíců až 1 roku. Účinky Ibogy
-                    závisí na vašem výběru poskytovatele a vašem chování po ústupu. Renomovaná centra pro retreat iboga
-                    mají personál a vybavení potřebné k zajištění toho, aby účastníci dostali vše, co potřebují, aby mohli
-                    integrovat to, co se naučili, jak postupují v životě kupředu.'
+                    závisí na vašem výběru vašeho poskytovatele a vašem vlastním chování po pobytu. Renomovaná centra  a facilitátoři pro pobyt Ibogy
+                    mají personál a vybavení potřebné k zajištění toho, aby účastníci dostali vše, co potřebují, a aby mohli
+                    integrovat to, co poznali.To pomáhá k největšímu rozvoji života kupředu.'
                 ]
 
             ],

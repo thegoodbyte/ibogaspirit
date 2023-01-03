@@ -19,8 +19,8 @@ return [
             ],
             'requirements' => [
                 'title' => 'Požadavky',
-                'par' => 'Momentalně nepracuji s nikým, kdo je fyzicky závislý na nějaké navykove látce.
-                    Každý host musí mít předem udělaný elektrokardiogram (EKG) a jaterní panel abychom ověřili že host nemá
+                'par' => 'Momentalně nepracuji s nikým, kdo je fyzicky závislý na nějaké navykové látce.
+                    Každý host musí mít předem udělaný elektrokardiogram (EKG) a jaterní panel abych ověřil že host nemá
                     žádné problémy s játry nebo závažné zneužívání alkoholu.',
                 'ekg' => [
                     'title' => 'EKG a Jaterní panel',
@@ -33,8 +33,8 @@ return [
                     'title' => 'Zdravotní formulář',
                     'par' => 'Moji hosté jsou povinni vyplnit podrobný zdravotní formulář se základním fyzickým a duševním zdravím,
                     kterému věnujeme velkou pozornost.
-                    Na každých 2,5 hostů mám jednoho facilitátora a jsme velmi šikovní, zvláště během obřadu a dne objevu
-                    (den po obřadu).
+                    Na každých 2,5 hostů mám jednoho facilitátora a jsme velmi šikovní, zvláště během ceremoií a dne objevů
+                    (den po ceremonii).
                     Práce s touto medicínou je zážitek na celý život a přitom velmi bezpečný'
                 ]
             ],
@@ -81,9 +81,9 @@ return [
                     0 => 'Iboga má vynikající výsledky v detoxikaci lidí od narkotik. V současné době však nenabízíme
                     žádnou medikamentózní léčbu ani drogový detox.',
                     1 => 'Pokud trpíte drogovou závislostí, doporučujeme, abyste se před návštěvou našeho wellness pobytu přihlásili do detoxikační kliniky
-                    (před každým obřadem dělám testy na drogy). Níže prosím zkontrolujte léky, kterým je třeba se vyhnout na stránce Iboga.'
+                    (před každou ceremoií provádím testy na drogy). Níže prosím zkontrolujte léky, kterým je třeba se vyhnout při práci s Ibogou.'
                 ],
-                'detox_warning' => 'Nejsme však KLINIKA ANI REHABACE A NENABÍZÍME DROGOVÝ DETOX',
+                'detox_warning' => 'Nejsme však KLINIKA ANI REHABACE A NENABÍZÍM DROGOVÝ DETOX',
 
                 'drugs_to_avoid' => [
                     'title' => 'Léky a drogy  kterým je třeba se vyhnout',
@@ -99,14 +99,14 @@ return [
                         7 => 'Kava',
                         8 => '5-MEO-DMT',
                     ],
-                    'abstinence_period' => 'Musíte mít minimálně 30 dní pauzu od výše uvedených látek',
+                    'abstinence_period' => 'Musíš mít minimálně 30 dní pauzu od výše uvedených látek',
 
                 ],
             ],
             'psychology' => [
                 'title' => 'Psychologická bezpečnost',
                 'pars' => [
-                    0 => 'Pokud trpíte schizofrenií nebo duševní poruchou, přečtěte si prosím:',
+                    0 => 'Pokud trpíš schizofrenií nebo duševní poruchou, přečti si prosím:',
                     1 => 'Je také důležité vzít v úvahu psychologickou bezpečnost. Lidé s poruchami osobnosti nebo s
                     mentálními poruchami v anamnéze (jako je hraniční, schizofrenie atd.) jsou při užívání Ibogy
                     ohroženi. Provádíme vstupní (screeningový) dotazník pro všechny potenciální hosty, který hodnotí přítomnost
@@ -115,13 +115,13 @@ return [
 
             ],
             'notes' => [
-                'title' => 'Důležité poznámky (prosím čtěte):',
+                'title' => 'Důležité poznámky (prosím čti):',
                 'par' => 'Užívání jiných učitelských rostlin nebo drog (např. houby, marihuana, DMT, LSD) je silně nežádoucí; v
                     případě jakýchkoliv dotazů mě prosím kontaktujte.
-                    Poraďte se s námi předem v případě, že máte <strong>astma, tuberkulózu, jakékoli onemocnění srdce nebo jater</strong>,
+                    Poraď se se mnou předem v případě,jestli máš <strong>astma, tuberkulózu, jakékoli onemocnění srdce nebo jater</strong>,
                     těhotenství nebo v případě jakýchkoli jiných zdravotních problémů, které mohou potenciálně narušovat
                     nebo být nebezpečné v kombinaci s Ibogou',
-                'safety_warning' => 'Bezpečnost našich hostů považujeme za prvořadou a zajišťujeme, aby všechna opatření, včetně 24-hodinového dohledu,
+                'safety_warning' => 'Bezpečnost mých hostů považuji za prvořadou a zajišťuji, aby všechna opatření, včetně 24-hodinového dohledu,
                         byla přijata podle potřeby.',
             ],
             'who_should_not' => [

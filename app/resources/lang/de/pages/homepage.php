@@ -34,7 +34,7 @@ return  [
                 zdravější život s lehkostí',
 
                 3 => 'Znamená to, že zkušenost Ibogy je pro každého člověka pokaždé jiná. Proto jedna osoba, která projde obřady
-                vícekrát, bude mít pokaždé jiný zážitek. Stejně tak dva lidé ve stejném obřadu budou mít velmi
+                vícekrát, bude mít pokaždé jiný zážitek. Stejně tak dva lidé ve stejné ceremonii budou mít velmi
                 různé zkušenosti. Je to proto, že Iboga je vysoce inteligentní duch, který dává každému člověku jeho vlastní dokonalost
                 léčebné zkušenosti, aby vyhovovaly jejich specifickým potřebám – způsobem, kterému budou nejlépe rozumět.'
             ]

@@ -25,7 +25,7 @@ class IbogaController extends Controller
             session(['applocale' => 'cz']);
         }
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.iboga.jak_vam_iboga_muze_pomoci',
             [
@@ -40,7 +40,8 @@ class IbogaController extends Controller
 
     public function iboga_vs_ayahuasca() {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
+
         return View::make('pages.iboga.iboga_vs_ayahuasca',
             [
             'pageTitle' => __('seo/iboga/iboga-vs-ayahusca.seo.title'),
@@ -55,7 +56,7 @@ class IbogaController extends Controller
 
     public function deprese() {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.iboga.deprese',
             [
@@ -70,7 +71,7 @@ class IbogaController extends Controller
 
     public function bwiti_tradice() {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.iboga.bwiti-tradition',
             [
@@ -85,7 +86,7 @@ class IbogaController extends Controller
 
     public function gabon() {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.iboga.gabon',
             [
@@ -101,7 +102,7 @@ class IbogaController extends Controller
     public function what_is_iboga()
     {
 
-        $applocale = session('applocale');
+        $applocale = session('applocale') ?? 'cz';
 
         return View::make('pages.iboga.what_is_iboga',
             [
@@ -116,14 +117,14 @@ class IbogaController extends Controller
 
     public function iboga_ibogaine_difference() {
         return View::make('pages.iboga.iboga_ibogaine_difference', [
-            'pageTilte' => 'Iboga ceremonie Česká republika - poznejte své pravé ja, miluj se, Iboga léčí vaše sebevražedné myšlenky, deprese, úzkosti, traumata',
+            'pageTitle' => 'Iboga ceremonie Česká republika - poznej své pravé já, miluj se, Iboga léčí vaše eprese, úzkosti, traumata, sebevražedné myšlenky',
             'applocale' => session('applocale') ?? 'cz'
             ]);
     }
 
     public function history() {
         return View::make('pages.iboga.history', [
-            'pageTilte' => 'Iboga ceremonie Česká republika - poznejte své pravé ja, miluj se, Iboga léčí vaše sebevražedné myšlenky, deprese, úzkosti, traumata',
+            'pageTitle' => 'Iboga ceremonie Česká republika - poznej své pravé ja, miluj se, Iboga léčí vaše sebevražedné myšlenky, deprese, úzkosti, traumata',
             'applocale' => session('applocale') ?? 'cz'
             ]);
     }

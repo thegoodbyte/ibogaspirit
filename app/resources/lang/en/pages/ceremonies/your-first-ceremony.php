@@ -49,6 +49,21 @@ return [
                          how to navigate with Ibog for more details.'
                 ]
             ],
+            'notes' => [
+                'title' => 'Notes',
+                'pars' => [
+                    0 => 'Furthermore, the main requirement for a successful Iboga experience is a willingness to heal by accepting the truth and
+                         letting go. This is a major indicator of when someone is ready; if so, they will experience a powerful healing',
+
+                    1 => 'In the Bwiti tradition, Iboga is for everyone and is used in "initiations" or coming-of-age ceremonies that unite
+                         boys and girls with the tradition and community. Initiations help to root them in themselves and ensure a healthy adult life.
+                         They will also have ceremonies again when people have strayed from the healthy path and need to mend their lives or somehow heal themselves.',
+
+                    2 => 'As true to our tradition, we believe that all people can benefit from the Iboga ceremony. We usually work with people
+                         who need healing from depression, anxiety, ptsd, trauma, addictions, self-hatred, anger, traumatic
+                         brain injury, Parkinson\'s disease, autoimmune diseases and others.'
+                ]
+            ],
             'faq' => [
                 'title' => 'F.A.Q.',
                 'questions' => [
