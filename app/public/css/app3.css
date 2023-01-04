@@ -1,0 +1,54 @@
+#home-zijte-stastne {
+  color: #fff;
+  font-family: "Lato", Sans-serif;
+  background-color: #381401;
+  padding-top: 20px;
+  /*#home-zijte-stastne .container-fluid .stastne-half-col-bg-left {*/
+  /*    background-color: #000;*/
+  /*}*/
+}
+#home-zijte-stastne h2 {
+  font-weight: 900;
+  font-size: 50px;
+  color: #fff;
+}
+#home-zijte-stastne .container-fluid {
+  background-color: #000;
+}
+#home-zijte-stastne .container-fluid div.stastne-half-col-bg-left div.row {
+  position: relative;
+  align-content: end;
+  justify-content: right;
+}
+#home-zijte-stastne .container-fluid .stastne-half-col-bg-right {
+  background-color: #54595F;
+}
+#home-zijte-stastne .container-fluid .container-fluid div div.row .col {
+  max-width: 500px;
+}
+#home-zijte-stastne #home-stastne-left-col {
+  min-height: 475px;
+}
+#home-zijte-stastne #home-stastne-left-col .row-show-more-button {
+  bottom: 30px;
+}
+#home-zijte-stastne .menu-iboga-container {
+  width: 73%;
+  margin-top: 20px;
+}
+#home-zijte-stastne .menu-iboga-container a {
+  text-transform: uppercase;
+  font-family: "Lato", Sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 2em;
+  letter-spacing: 0px;
+  text-decoration: none;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+  display: block;
+}
+#home-zijte-stastne .menu-iboga-container a:hover {
+  background-color: #8C4C18;
+  color: #fff !important;
+}

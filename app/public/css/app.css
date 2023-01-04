@@ -115,6 +115,59 @@ a:hover {
 .site-header {
     background: rgb(242,242,242);
     background: linear-gradient(90deg, rgba(242,242,242,1) 21%, rgba(171,92,15,1) 65%, rgba(62,0,0,1) 100%);
+    /*position:sticky;*/
+    /*top:0;*/
+    /*z-index: 1000;*/
+    /*height: 120px !important;*/
+    /*transition: all 0.4s ease-in-out;*/
+    /*-webkit-transition: all 0.4s ease-in-out;*/
+    /*-moz-transition: all 0.4s ease-in-out;*/
+}
+
+.shrunk {
+    height: 40px;
+    overflow: hidden;
+}
+
+.shrunk #logo  {
+    width: 50%;
+    object-fit: contain;
+    height: auto;
+}
+
+.shrunk .nav__menu li.menu-item a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 14px;
+    color: #fff;
+}
+
+.shrunk #logo {
+    width: 50%;
+    object-fit: contain;
+}
+
+
+/*.header-outer {*/
+/*    !*display: flex;*!*/
+/*    align-items: center;*/
+/*    position: sticky;*/
+/*    top: -50px; !* Equal to the height difference between header-outer and header-inner *!*/
+
+/*    height: 120px;*/
+/*}*/
+
+/*.header-inner {*/
+/*    height: 70px;*/
+/*    position: sticky;*/
+/*    top: 0;*/
+/*}*/
+
+
+
+
+.site-header section.row {
+    background-color:  #39041d;
 }
 
 /* retreats */

@@ -1,4 +1,5 @@
-<header id="masthead" class="site-header ">
+<header id="masthead" class="site-header    header-outer">
+    <div class = "header-inner">
         <section class="row">
             <div>
                         @include('includes.menu')
@@ -67,5 +68,5 @@
 
             </div>
         </section>
-
+    </div>
 </header>

@@ -1,3 +1,18 @@
+// $(document).on("scroll", function(){
+//
+//     if ($(document).scrollTop() >= 80){
+//         if ( !$(".site-header").hasClass('shrunk')) {
+//             $(".site-header").addClass("shrunk");
+//         }
+//     } else {
+//         if ( $(".site-header").hasClass('shrunk')) {
+//             $(".site-header").removeClass("shrunk");
+//         }
+//     }
+//
+// });
+
+
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -8,6 +23,9 @@
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
+
+
+
 
 /***/ }),
 
@@ -19330,10 +19348,10 @@ var __WEBPACK_AMD_DEFINE_RESULT__;/**
 
 /***/ }),
 
-/***/ "./resources/sass/homepage.scss":
-/*!**************************************!*\
-  !*** ./resources/sass/homepage.scss ***!
-  \**************************************/
+/***/ "./resources/sass/iboga/bwiti-tradition.scss":
+/*!***************************************************!*\
+  !*** ./resources/sass/iboga/bwiti-tradition.scss ***!
+  \***************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -19360,6 +19378,71 @@ __webpack_require__.r(__webpack_exports__);
 /*!********************************!*\
   !*** ./resources/css/app2.css ***!
   \********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/sass/homepage.scss":
+/*!**************************************!*\
+  !*** ./resources/sass/homepage.scss ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/sass/generic.scss":
+/*!*************************************!*\
+  !*** ./resources/sass/generic.scss ***!
+  \*************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/sass/carousel.scss":
+/*!**************************************!*\
+  !*** ./resources/sass/carousel.scss ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/sass/menu.scss":
+/*!**********************************!*\
+  !*** ./resources/sass/menu.scss ***!
+  \**********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/sass/iboga/how-iboga-can-help-you.scss":
+/*!**********************************************************!*\
+  !*** ./resources/sass/iboga/how-iboga-can-help-you.scss ***!
+  \**********************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -20463,7 +20546,7 @@ function buildURL(url, params, options) {
   if (!params) {
     return url;
   }
-  
+
   const _encode = options && options.encode || encode;
 
   const serializeFn = options && options.serialize;
@@ -22461,7 +22544,7 @@ module.exports = axios;
 /************************************************************************/
 /******/ 	// The module cache
 /******/ 	var __webpack_module_cache__ = {};
-/******/ 	
+/******/
 /******/ 	// The require function
 /******/ 	function __webpack_require__(moduleId) {
 /******/ 		// Check if module is in cache
@@ -22475,20 +22558,20 @@ module.exports = axios;
 /******/ 			loaded: false,
 /******/ 			exports: {}
 /******/ 		};
-/******/ 	
+/******/
 /******/ 		// Execute the module function
 /******/ 		__webpack_modules__[moduleId].call(module.exports, module, module.exports, __webpack_require__);
-/******/ 	
+/******/
 /******/ 		// Flag the module as loaded
 /******/ 		module.loaded = true;
-/******/ 	
+/******/
 /******/ 		// Return the exports of the module
 /******/ 		return module.exports;
 /******/ 	}
-/******/ 	
+/******/
 /******/ 	// expose the modules object (__webpack_modules__)
 /******/ 	__webpack_require__.m = __webpack_modules__;
-/******/ 	
+/******/
 /************************************************************************/
 /******/ 	/* webpack/runtime/chunk loaded */
 /******/ 	(() => {
@@ -22521,7 +22604,7 @@ module.exports = axios;
 /******/ 			return result;
 /******/ 		};
 /******/ 	})();
-/******/ 	
+/******/
 /******/ 	/* webpack/runtime/global */
 /******/ 	(() => {
 /******/ 		__webpack_require__.g = (function() {
@@ -22533,12 +22616,12 @@ module.exports = axios;
 /******/ 			}
 /******/ 		})();
 /******/ 	})();
-/******/ 	
+/******/
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	(() => {
 /******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
 /******/ 	})();
-/******/ 	
+/******/
 /******/ 	/* webpack/runtime/make namespace object */
 /******/ 	(() => {
 /******/ 		// define __esModule on exports
@@ -22549,7 +22632,7 @@ module.exports = axios;
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
 /******/ 		};
 /******/ 	})();
-/******/ 	
+/******/
 /******/ 	/* webpack/runtime/node module decorator */
 /******/ 	(() => {
 /******/ 		__webpack_require__.nmd = (module) => {
@@ -22558,33 +22641,38 @@ module.exports = axios;
 /******/ 			return module;
 /******/ 		};
 /******/ 	})();
-/******/ 	
+/******/
 /******/ 	/* webpack/runtime/jsonp chunk loading */
 /******/ 	(() => {
 /******/ 		// no baseURI
-/******/ 		
+/******/
 /******/ 		// object to store loaded and loading chunks
 /******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
 /******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
 /******/ 		var installedChunks = {
 /******/ 			"/js/app": 0,
+/******/ 			"css/iboga/how-iboga-can-help-you": 0,
+/******/ 			"css/menu": 0,
+/******/ 			"css/carousel": 0,
+/******/ 			"css/generic": 0,
+/******/ 			"css/homepage": 0,
 /******/ 			"css/app2": 0,
 /******/ 			"css/ceremonies/retreat": 0,
-/******/ 			"css/homepage": 0
+/******/ 			"css/iboga/bwiti-tradition": 0
 /******/ 		};
-/******/ 		
+/******/
 /******/ 		// no chunk on demand loading
-/******/ 		
+/******/
 /******/ 		// no prefetching
-/******/ 		
+/******/
 /******/ 		// no preloaded
-/******/ 		
+/******/
 /******/ 		// no HMR
-/******/ 		
+/******/
 /******/ 		// no HMR manifest
-/******/ 		
+/******/
 /******/ 		__webpack_require__.O.j = (chunkId) => (installedChunks[chunkId] === 0);
-/******/ 		
+/******/
 /******/ 		// install a JSONP callback for chunk loading
 /******/ 		var webpackJsonpCallback = (parentChunkLoadingFunction, data) => {
 /******/ 			var [chunkIds, moreModules, runtime] = data;
@@ -22609,22 +22697,43 @@ module.exports = axios;
 /******/ 			}
 /******/ 			return __webpack_require__.O(result);
 /******/ 		}
-/******/ 		
+/******/
 /******/ 		var chunkLoadingGlobal = self["webpackChunk"] = self["webpackChunk"] || [];
 /******/ 		chunkLoadingGlobal.forEach(webpackJsonpCallback.bind(null, 0));
 /******/ 		chunkLoadingGlobal.push = webpackJsonpCallback.bind(null, chunkLoadingGlobal.push.bind(chunkLoadingGlobal));
 /******/ 	})();
-/******/ 	
+/******/
 /************************************************************************/
-/******/ 	
+/******/
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	__webpack_require__.O(undefined, ["css/app2","css/ceremonies/retreat","css/homepage"], () => (__webpack_require__("./resources/js/app.js")))
-/******/ 	__webpack_require__.O(undefined, ["css/app2","css/ceremonies/retreat","css/homepage"], () => (__webpack_require__("./resources/sass/homepage.scss")))
-/******/ 	__webpack_require__.O(undefined, ["css/app2","css/ceremonies/retreat","css/homepage"], () => (__webpack_require__("./resources/sass/ceremonies/retreat.scss")))
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/app2","css/ceremonies/retreat","css/homepage"], () => (__webpack_require__("./resources/css/app2.css")))
+/******/ 	__webpack_require__.O(undefined, ["css/iboga/how-iboga-can-help-you","css/menu","css/carousel","css/generic","css/homepage","css/app2","css/ceremonies/retreat","css/iboga/bwiti-tradition"], () => (__webpack_require__("./resources/js/app.js")))
+/******/ 	__webpack_require__.O(undefined, ["css/iboga/how-iboga-can-help-you","css/menu","css/carousel","css/generic","css/homepage","css/app2","css/ceremonies/retreat","css/iboga/bwiti-tradition"], () => (__webpack_require__("./resources/sass/homepage.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/iboga/how-iboga-can-help-you","css/menu","css/carousel","css/generic","css/homepage","css/app2","css/ceremonies/retreat","css/iboga/bwiti-tradition"], () => (__webpack_require__("./resources/sass/generic.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/iboga/how-iboga-can-help-you","css/menu","css/carousel","css/generic","css/homepage","css/app2","css/ceremonies/retreat","css/iboga/bwiti-tradition"], () => (__webpack_require__("./resources/sass/carousel.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/iboga/how-iboga-can-help-you","css/menu","css/carousel","css/generic","css/homepage","css/app2","css/ceremonies/retreat","css/iboga/bwiti-tradition"], () => (__webpack_require__("./resources/sass/menu.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/iboga/how-iboga-can-help-you","css/menu","css/carousel","css/generic","css/homepage","css/app2","css/ceremonies/retreat","css/iboga/bwiti-tradition"], () => (__webpack_require__("./resources/sass/iboga/how-iboga-can-help-you.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/iboga/how-iboga-can-help-you","css/menu","css/carousel","css/generic","css/homepage","css/app2","css/ceremonies/retreat","css/iboga/bwiti-tradition"], () => (__webpack_require__("./resources/sass/iboga/bwiti-tradition.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/iboga/how-iboga-can-help-you","css/menu","css/carousel","css/generic","css/homepage","css/app2","css/ceremonies/retreat","css/iboga/bwiti-tradition"], () => (__webpack_require__("./resources/sass/ceremonies/retreat.scss")))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/iboga/how-iboga-can-help-you","css/menu","css/carousel","css/generic","css/homepage","css/app2","css/ceremonies/retreat","css/iboga/bwiti-tradition"], () => (__webpack_require__("./resources/css/app2.css")))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
-/******/ 	
+/******/
 /******/ })()
 ;
+
+//STICKY removed from now
+//
+// window.onscroll = function() {scrollFunction()};
+//
+// function scrollFunction() {
+//     if (document.body.scrollTop >= 300 || document.documentElement.scrollTop >= 300) {
+//         document.getElementById("masthead").classList.add('shrunk');
+//         console.log('adding  class');
+//        // document.getElementById("logo").style.fontSize = "25px";
+//     } else {
+//         document.getElementById("masthead").classList.remove('shrunk')
+//        // document.getElementById("logo").style.fontSize = "35px";
+//         console.log('removing class');
+//     }
+// }

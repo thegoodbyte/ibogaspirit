@@ -1,13 +1,11 @@
 <div class="nav__container">
     <div class="nav__mobile">
         <div class="nav__logo">
-            <div>
-                <div class="">
+
                     <a href="/" title = "Iboga rostlinná medicína léčí deprese, úzkosti, traumata, sebevražedné myšlenky. Alternativní holistické léčení">
-                        <img src="/images/logo.png" class="" id=  logo"" alt="Iboga povodňové dávky ceremonie - Czech Republic" width="305" height="76">
+                        <img src="/images/logo.png" id = "logo" alt="Iboga povodňové dávky ceremonie - Czech Republic" width="305" height="76">
                     </a>
-                </div>
-            </div>
+
         </div>
         <div class="nav__btn">
             <a aria-label="Mobile menu" class="nav-toggle"><span></span>

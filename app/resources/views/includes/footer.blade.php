@@ -8,7 +8,7 @@
 
                 <div class = "col-xl-2">
                     <ul>
-                        <li><?php echo __('menu.menu_ceremonies.ceremonies.title'); ?></li>
+                        <li><?php echo __('menu.menu_ceremonies.iboga.title'); ?></li>
                         <li><hr /></li>
                         <li><a href="{{ route('iboga-what-is_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.iboga.what_is_iboga'); ?></a></li>
                         <li><a href="{{ route('iboga-bwiti-tradition_' . $applocale) }}" title = "iboga terapie léčba deprese, úzkosti, sebevražedných myšlenek"><?php echo __('menu.menu_ceremonies.iboga.bwiti_tradition'); ?></a></li>

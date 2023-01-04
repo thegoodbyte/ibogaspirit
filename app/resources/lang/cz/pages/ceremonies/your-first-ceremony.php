@@ -1,25 +1,25 @@
 <?php
 return [
     'content' => [
-        'title' => 'VÁŠ PRVNÍ IBOGA CEREMONIÁL ',
+        'title' => 'TVOJE PRVNÍ IBOGA CEREMONIE ',
         'sections' => [
             'what_to_expect' => [
                 'title' => 'Co očekávat:',
                 'pars' => [
                     0 => 'Nejlepší je nemít žádná očekávání před příjezdem na můj Iboga retreat.',
                     1 => 'Ne všichni účastníci budou mít vize, nicméně je důležité pochopit, že Iboga je zaměřena na hluboké léčení a ne na „zakopávání“.
-                    Nemít vize ve svém prvním obřadu je velmi běžné, ale vytrvalost, trpělivost a odhodlání často povedou k vizionářským stavům.
-                    Počáteční práce během retreatu Ibogy je zaměřena na očistu a pročištění vašeho fyzického těla a mysli,
-                    abyste byli připraveni na další fáze vaší cesty duchovního léčení.',
+                    Nemít vize ve své první ceremonii je velmi běžné, ale vytrvalost, trpělivost a odhodlání často povedou k vizionářským stavům.
+                    Počáteční práce během retreatu Ibogy je zaměřena na očistu a pročištění tvého fyzického těla a mysli,
+                    abys byli připraveni na další fáze tvojí cesty duchovního léčení.',
                     2 => 'Jedno rozumné očekávání je, že můžeš projít silnou fyzickou a emocionální očistou se zvracením a/nebo
-                    možná průjmem. Někteří lidé mají od svých prvních obřadů nerealisticky velká očekávání. Očekávají,
+                    možná průjmem. Někteří lidé mají od svých prvních ceremonií nerealisticky velká očekávání. Očekávají,
                     že uvidí dechberoucí vize, což je v této rané fázi vzácné, ale může se stát.'
                 ]
             ],
             'first_ceremony' => [
-                'title' => 'Prvni Iboga Ceremoniál',
+                'title' => 'Prvni Iboga Ceremonie',
                 'pars' => [
-                    0 => 'Každý obřad Ibogy začíná kolem ohně, ktery důležitou součástí ctění posvátné tradice Bwiti.',
+                    0 => 'Každá ceremonie Ibogy začíná kolem ohně, který důležitou součástí ctění posvátné tradice Bwiti.',
                     1 => 'Oheň byl prvním portálem, který Bwiti objevil do duchovního světa. Oheň je skvělým ochráncem,
                 osvětluje obřadní prostor a jeho kouř slouží jako přistávací dráha pro duchy, aby vstoupili a pomohli. Oheň spálí to, co nám již neslouží.
             ',
@@ -27,7 +27,7 @@ return [
                     3 => 'Přednášky předávají životně důležitou moudrost, kterou můžeme využít v každodenním životě. Učení  o tom,
                 kdo jsme, že život je dar, spojení s naší duší, milování sebe sama, překonání ega, posílení sebe sama, nalezení
                 vnitřního klidu a učení se, jak odpustit naší minulosti a důvěřovat nasemu životu.To jsou některá ze mocných témat.',
-                    4 => 'Načasování obřadu u ohně je zásadní. Hosté vstoupí do ceremonie s tímto učením v popředí svého vědomí, těsně
+                    4 => 'Načasování ceremonie u ohně je zásadní. Hosté vstoupí do ceremonie s tímto učením v popředí svého vědomí, těsně
                 před užitím medicíny.U ohně diskutujeme o účincích medicíny a podělíme se o naše vlastní léčebné zkušenosti.',
 
                 ]
@@ -40,7 +40,7 @@ return [
                     2 => 'Vizuální halucinace (s otevřenýma nebo zavřenýma očima)',
                     3 => 'Intuitivní zprávy',
                     4 => 'Kolísání tělesné teploty',
-                    5 => 'Zhoršená motorika (po celou dobu vás dovedeme na toaletu a na vaši matraci)',
+                    5 => 'Zhoršená motorika (po celou dobu vás dovedeme na toaletu a na tvoji matraci)',
                     6 => 'Tracery a blikající světla v naší vizi',
                     7 => 'Tepová frekvence se může zvýšit, ale nakonec se zpomalí',
                     8 => 'Rychlé překrývající se myšlenky „nazývané očista mysli“ (vedoucí ke zklidnění mysli)',
@@ -56,8 +56,8 @@ return [
                         necháte jít. Toto je hlavní ukazatel, kdy je někdo připraven; pokud ano, zažijí silné uzdravení',
                     1 => 'V tradici Bwiti je Iboga pro každého a používá se při „zasvěcení“ nebo obřadech dospívání, které spojují
                         chlapce a dívky s tradicí a komunitou. Iniciace pomáhají zakořenit je v sobě a zajišťují zdravý dospělý život.
-                        Také budou mít znovu obřady, když lidé sešli ze zdravé cesty a potřebují svůj život napravit nebo se nějak uzdravit.',
-                    2 => 'Jak je věrné naší tradici, věříme, že z obřadu Iboga mohou mít prospěch všichni lidé. Obvykle pracujeme s lidmi,
+                        Také budou mít znovu ceremonie, když lidé sešli ze zdravé cesty a potřebují svůj život napravit nebo se nějak uzdravit.',
+                    2 => 'Jak je věrné naší tradici, věříme, že z  Iboga ceremonie mohou mít prospěch všichni lidé. Obvykle pracujeme s lidmi,
                         kteří se potřebují vyléčit z deprese, úzkosti, ptsd, traumatu, závislostí, sebenenávisti, hněvu, traumatických
                         poranění mozku, Parkinsonovy choroby, autoimunitních onemocnění a dalších.'
                 ]
@@ -80,63 +80,63 @@ return [
                 'questions' => [
                     0 => [
                             'q' => 'Jak poznám, že je Iboga pro mě to pravé?',
-                            'a' => 'Toto velmi osobní a důležité rozhodnutí musíte udělat sami, ale my jsme tu, abychom vám pomohli.'
+                            'a' => 'Toto velmi osobní a důležité rozhodnutí musíš udělat sám/sama, ale my jsme tu, abychom ti pomohli.'
                         ],
                     1 => [
-                        'q' => 'Jak probiha rezervace?',
-                        'a' => 'Aby byl zajištěn bezpečný zážitek z Ibogy, hosté projdou naším procesem příjmu, abychom zjistili,
-            zda existují nějaké diskriminující zdravotní faktory nebo léky. Jakmile je proces dokončen, zážitek je velmi bezpečný'
+                        'q' => 'Jak probihá rezervace?',
+                        'a' => 'Aby byl zajištěn bezpečný zážitek z Ibogy, hosté projdou naším příjmovým procesem , abychom zjistili,
+            jestli existují některé diskriminující zdravotní faktory nebo léky. Jakmile je proces dokončen, zážitek je velmi bezpečný'
                     ],
                     2 => [
-                        'q' => 'how do I know I am ready?',
-                        'a' => 'Kromě toho je hlavním požadavkem pro úspěšnou zkušenost s Ibogou ochota léčit se tím, že přijmete pravdu a
-            necháte jít. Toto je hlavní ukazatel, kdy je někdo připraven; pokud ano, zažijí silné uzdravení.'
+                        'q' => 'jak poznám, že jsem připraven?',
+                        'a' => 'Hlavním požadavkem pro úspěšnou zkušenost s Ibogou je ochota léčit se tím, že zaakceptiješ pravdu a
+                        odevzdáš se. Toto je hlavní ukazatel toho že je někdo připraven. Ppokud aje to tak , zažiješ silné uzdravení.'
                     ],
 
                     3 => [
-                        'q' =>'What are the difference between Iboga and Ibogaine?',
-                        'a' => 'Iboga & Ibogaine are both used for addictions and have a 90% success rate.',
+                        'q' =>'Jaký je rozdíl mezi Iboga a Ibogaine?',
+                        'a' => 'Iboga a Ibogaine se používají k léčbě závislostí a mají 90% úspěšnost.',
                     ],
                     4 => [
-                        'q' =>'How big are the groups in an Iboga Ceremony?',
-                        'a' => 'Groups generally range from 3-10 participants under the care of one trained
-                        Provider and at least two assistants.',
+                        'q' =>'Jak velké jsou skupiny v Iboga ceremonii?',
+                        'a' => 'Skupiny se obecně pohybují od 3 do 10 účastníků pod mým vedením s pomocí jednoho či dvou asistentů.',
                     ],
                     5 => [
-                        'q' =>'Is Iboga safe?',
-                        'a' => 'Taken the necessary precautions with health assessment,
-                        EKG & medications review, and under the care of a professional
-                        Provider in a safe and appropriate environment, Iboga is 100% safe.',
+                        'q' =>'Je Iboga bezpečná?',
+                        'a' => 'Diky naším  nezbytným opatřením při kterých posuzujeme zdravotni stav každého účastnika,
+                        kontrolujeme EKG a prášky které lidé berou a díky péči odborného
+                        poskytovatele v bezpečném a vhodném prostředí =  Iboga je 100% bezpečná.',
                     ],
                     6 => [
-                        'q' =>'Is Iboga For Me?',
-                         'a' => 'Very few people have heard of Iboga.  If you are thinking of Iboga, or
-                         feel an intuitive pull towards it, then likely the plant has something important to offer you.',
+                        'q' =>'Je Iboga pro mě?',
+                         'a' => 'O Iboze slyšelo jen velmi málo lidí. Pokud myslíš na Ibogu, či například
+                         cítíš že tě něco k ní intuitivně táhne, pak ti tato rostlina pravděpodobně  může nabídnout něco důležitého.',
                     ],
                     7 => [
-                        'q' =>'Is there a special diet before taking Iboga?',
-                            'a' => 'There is no strict diet required to prepare for Iboga.  However we recommend
-                            a clean and healthy diet as much as possible leading up to your retreat.',
+                        'q' =>'Existuje před užitím Ibogy speciální dieta?',
+                            'a' => 'K přípravě na ceremonii Ibogy není nutná žádná přísná dieta. Nicméně doporučuji
+                            co nejvíce čistou a zdravou stravu vedoucí k vašemu pobytu',
                      ],
                     8 => [
-                        'q' =>'Is Iboga scary?',
-                        'a' => 'In our experience this is rarely ever the case.  Although we notice some people are scared before their
-                        first time working with the medicine, once the ceremony begins, usually the fear goes away, and the experience overall tends to be calm and peaceful.',
+                        'q' =>'Je Iboga děsivá?',
+                        'a' => 'Z mé zkušeností tomu tak je jen velmmi zřídka. Všiml jsem si, že někteří lidé se bojí před první prací s
+                        medicínou. Jakmile ale začne ceremonie, strach obvykle zmizí a celková zkušenost bývá klidná a pokojná.',
                     ],
                     9 => [
-                        'q' =>'Will I feel nauseous on iboga?',
-                            'a' => 'Some people do, and some people don’t.  Everyone is different.
-                            We would estimate about 35% of people feel nauseous during ceremony.',
+                        'q' =>'Bude mi na iboze nevolno?',
+                            'a' => 'Někteří lidé ano a někteří lidé ne. Každý je jiný.
+                            Odhadujeme, že asi 35 % lidí pociťuje během obřadu nevolnost.',
                     ],
                     10 => [
-                        'q' =>'How does it feel to be on Iboga?',
-                            'a' => 'Unlike many other entheogens, Iboga is very grounding (it’s a root!), and you tend to feel very self-aware,
-                            and connected to yourself, your body, your life, and the environment around you throughout the process.',
+                        'q' =>'Jaké to je být na Iboze?',
+                            'a' => 'Na rozdíl od mnoha jiných entheogenů, Iboga jevelmi uzemňující (je to kořen!) a během celého procesu máš sklon cítit se velmi sebevědomě,
+                            spojen se sebou samým/samou, svým tělem, svým životem a prostředím kolem tebe',
                     ],
                     11 => [
-                        'q' =>'How much does an Iboga ceremony cost?',
-                            'a' => 'The price range varies based on room type, location, and health assessment. Our prices for a standard
-                            retreat program range from  $3000 USD - $3500 USD for a regular, week-long session with two ceremonies.',
+                        'q' =>'Kolik stojí ceremonie Ibogy?',
+                            'a' => '
+                            Cenové rozpětí se liší v podle typu ubytování, umístění a zdravotním posouzení. Naše ceny za standartní
+                                      program pobytu se pohybují od 3000 USD do 3500 USD za běžný týdenní pbyt se dvěma ceremoniemi.',
                     ],
 
                 ],

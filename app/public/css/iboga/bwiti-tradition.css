@@ -1,0 +1,46 @@
+section#iboga-bwiti-tradition #iboga-bwiti-tradition-top-image {
+  display: block;
+  min-height: 600px;
+  background-image: url("/images/iboga/bwiti/bwiti-scotty-1200.jpg");
+  background-repeat: no-repeat;
+  width: 1200px;
+  margin-left: 0px;
+}
+section#iboga-bwiti-tradition #iboga-bwiti-tradition-top-image h1 {
+  color: #fff;
+  margin-left: 20px;
+}
+section#iboga-bwiti-tradition #iboga-bwiti-tradition-top-image .text-box {
+  color: #fff;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+section#iboga-bwiti-tradition #iboga-bwiti-tradition-top-image .text-box h3 {
+  color: #fff;
+}
+section#iboga-bwiti-tradition s.bwiti-tradice-h3 {
+  font-style: normal;
+  font-size: 40px;
+}
+@media screen and (max-width: 400px) {
+  section#iboga-bwiti-tradition #iboga-bwiti-tradition-top-image {
+    display: block;
+    min-height: 483px;
+    background-image: url("/images/iboga/bwiti/bwiti-scotty-400w.jpg");
+    background-repeat: no-repeat;
+    width: 100vw;
+  }
+  section#iboga-bwiti-tradition #iboga-bwiti-tradition-top-image h1 {
+    color: #fff;
+    margin-left: 10px;
+    font-size: 45px;
+  }
+  section#iboga-bwiti-tradition #iboga-bwiti-tradition-top-image .text-box {
+    color: #fff;
+    margin-left: 20px;
+    margin-top: 200px;
+  }
+  section#iboga-bwiti-tradition #iboga-bwiti-tradition-top-image .text-box h3 {
+    color: #fff;
+  }
+}

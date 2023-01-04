@@ -1,0 +1,39 @@
+#ceremonies-retreat #pobyty-list-overview {
+  list-style: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+#ceremonies-retreat #eight-day-retreat-includes-box div.item {
+  display: block;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+#ceremonies-retreat #eight-day-retreat-includes-box div.item p {
+  text-align: center;
+  align-items: center;
+  margin-top: 35px;
+}
+#ceremonies-retreat #eight-day-retreat-includes-box div.item img {
+  margin: auto;
+  display: flex;
+}
+#ceremonies-retreat #eight-day-retreat-includes-box div.item:hover {
+  background-color: rgb(166, 191, 136);
+}
+#ceremonies-retreat .pobyt-day-box {
+  background: radial-gradient(ellipse 100% 7% at 50% 100%, rgba(55, 55, 55, 0.5) 200px, rgba(55, 55, 55, 0.1) 360px, white 380px);
+}
+#ceremonies-retreat #retreat-day3-row {
+  background-image: url("/images/obrady/forrest.jpg");
+  min-height: 400px;
+  background-attachment: fixed;
+}
+#ceremonies-retreat #retreat-day3-row p {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+#ceremonies-retreat #retreat-day3-row blockquote {
+  background-color: #fff;
+}
+#ceremonies-retreat #retreat-day3-row .font-just-me {
+  color: #fff;
+}
